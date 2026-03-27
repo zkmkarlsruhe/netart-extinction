@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Cross-origin protections tighten (CORB and Private Network Access)"
 date: "2018-05-29"
 dependency: "CORS/CORB browser security"

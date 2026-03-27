@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Flash Player blocked from running"
 date: "2021-01-12"
 end_date: "2021-01-12"

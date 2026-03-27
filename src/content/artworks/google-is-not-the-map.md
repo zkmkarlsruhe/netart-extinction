@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Google is not the Map"
 artist: "Les Liens Invisibles"
 year: 2008

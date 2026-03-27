@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "sign69"
 artist: "philip wood"
 year: 1996

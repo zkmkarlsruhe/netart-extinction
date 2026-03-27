@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Tumblr bans adult content, algorithmic purge deletes art"
 date: "2018-12-17"
 dependency: "Tumblr content hosting / algorithmic moderation"

@@ -3,6 +3,7 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 import SeverityBadge from '@components/ui/SeverityBadge.astro';
 import StatusBadge from '@components/ui/StatusBadge.astro';
 import EventTypeLabel from '@components/ui/EventTypeLabel.astro';
+import AiBadge from '@components/ui/AiBadge.astro';
 import { getCollection, getEntry, render } from 'astro:content';
 import { parseFlexibleDate, formatDate } from '@lib/dates';
 
@@ -51,6 +52,7 @@ const fixLabels: Record<string, string> = {
         </time>
       </div>
       <h1>{event.data.title}</h1>
+      {event.data.ai_generated && <AiBadge />}
       <p class="dependency">Dependency: <code>{event.data.dependency}</code></p>
       <p class="summary">{event.data.summary}</p>
     </header>

@@ -3,6 +3,7 @@ import BaseLayout from '@layouts/BaseLayout.astro';
 import SeverityBadge from '@components/ui/SeverityBadge.astro';
 import StatusBadge from '@components/ui/StatusBadge.astro';
 import EventTypeLabel from '@components/ui/EventTypeLabel.astro';
+import AiBadge from '@components/ui/AiBadge.astro';
 import { getCollection, render } from 'astro:content';
 import { parseFlexibleDate, formatDate } from '@lib/dates';
 
@@ -45,6 +46,7 @@ const relatedEvents = allEvents
   <article class="container prose">
     <header class="artwork-header">
       <h1>{artwork.data.title}</h1>
+      {artwork.data.ai_generated && <AiBadge />}
       <p class="artist">{artwork.data.artist}{artwork.data.year ? `, ${artwork.data.year}` : ''}</p>
       {artwork.data.medium && <p class="medium">{artwork.data.medium}</p>}
       {artwork.data.url && (

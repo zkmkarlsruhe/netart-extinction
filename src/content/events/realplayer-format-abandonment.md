@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "RealAudio/RealVideo format abandoned, last broadcaster drops support"
 date: "2011-03"
 dependency: "RealPlayer / RealAudio / RealVideo streaming"

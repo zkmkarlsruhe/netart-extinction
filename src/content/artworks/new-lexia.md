@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "New Lexia"
 artist: "Sebastian Harms"
 year: 2002

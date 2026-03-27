@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Internet Explorer retired"
 date: "2022-06-15"
 dependency: "Internet Explorer"

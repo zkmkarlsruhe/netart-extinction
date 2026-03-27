@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "äda'web defunded after AOL acquisition chain"
 date: "1998"
 dependency: "äda'web hosting and curatorial platform"

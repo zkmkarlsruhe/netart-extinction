@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Java 7u51 blocks unsigned applets and tightens RIA security"
 date: "2014-01-14"
 dependency: "Java applet security model"

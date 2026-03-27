@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "SoundCloud API access reset and revocation of inactive apps"
 date: "2023-06-02"
 dependency: "SoundCloud API"

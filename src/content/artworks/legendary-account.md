@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Legendary Account"
 artist: "Joel Holmberg"
 year: 2008

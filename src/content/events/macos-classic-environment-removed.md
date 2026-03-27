@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Apple removes Classic environment from Mac OS X Leopard"
 date: "2007-10-26"
 dependency: "Mac OS 9 Classic environment"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Instagram API locked down, Basic Display API deprecated"
 date: "2018-04-04"
 end_date: "2024-12-04"

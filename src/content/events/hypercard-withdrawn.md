@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Apple withdraws HyperCard from sale"
 date: "2004-03"
 dependency: "Apple HyperCard"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Browsers require HTTPS for geolocation, camera, and audio APIs"
 date: "2016-04"
 end_date: "2017-08"

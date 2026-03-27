@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Vine shut down and archive deleted"
 date: "2017-01-17"
 end_date: "2019-04"

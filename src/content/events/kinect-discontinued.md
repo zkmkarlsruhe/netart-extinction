@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Microsoft discontinues Kinect production"
 date: "2017-10"
 dependency: "Microsoft Kinect depth sensor"

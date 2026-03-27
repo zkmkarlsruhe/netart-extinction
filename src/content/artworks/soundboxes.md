@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Soundboxes"
 artist: "michiel Knaven"
 year: 2000

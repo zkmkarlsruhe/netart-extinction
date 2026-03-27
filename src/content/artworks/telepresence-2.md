@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Telepresence 2"
 artist: "Corpos Informaticos"
 year: 2000

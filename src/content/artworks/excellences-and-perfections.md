@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Excellences & Perfections"
 artist: "Amalia Ulman"
 year: 2014

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Beatnik interactive audio plugin abandoned"
 date: "2002"
 end_date: "2011"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Browsers drop TLS 1.0 and 1.1 support"
 date: "2020-03"
 end_date: "2020-09"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "StarryNight"
 artist: "Mark Tribe, Alex Galloway & Martin Wattenberg"
 year: 1999

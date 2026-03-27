@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Storytelling Machine"
 artist: "Liz Franko"
 year: 2000

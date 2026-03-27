@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "VVEBCAM"
 artist: "Petra Cortright"
 year: 2007

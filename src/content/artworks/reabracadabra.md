@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Reabracadabra"
 artist: "Eduardo Kac"
 year: 1985

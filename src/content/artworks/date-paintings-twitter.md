@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Date Paintings (Twitter)"
 artist: "Michael Demers"
 year: 2009

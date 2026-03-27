@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "France Telecom shuts down Minitel network"
 date: "2012-06-30"
 dependency: "Minitel / Videotex telecommunications network"

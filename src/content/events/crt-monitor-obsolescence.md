@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "CRT monitor production ceases, display-dependent art loses its medium"
 date: "2010"
 dependency: "CRT (cathode ray tube) display technology"

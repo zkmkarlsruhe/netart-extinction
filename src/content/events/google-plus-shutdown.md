@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Google+ consumer platform shut down"
 date: "2019-04-02"
 dependency: "Google+ platform and APIs"
