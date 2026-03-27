@@ -56,4 +56,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add events and artworks.
 
 Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code: [MIT](https://opensource.org/licenses/MIT).
 
-A project by [ZKM | Center for Art and Media Karlsruhe](https://zkm.de).
+Maintained by Marc Schütze and [ZKM | Center for Art and Media Karlsruhe](https://zkm.de).
