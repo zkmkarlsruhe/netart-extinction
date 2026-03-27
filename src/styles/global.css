@@ -36,6 +36,7 @@ a:hover {
 
 /* ===== Typography ===== */
 :root {
+  --font-display: 'Space Grotesk', system-ui, sans-serif;
   --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
   --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Code', monospace;
@@ -52,10 +53,27 @@ body {
 }
 
 h1, h2, h3, h4 {
-  font-family: var(--font-serif);
+  font-family: var(--font-display);
   line-height: 1.25;
-  font-weight: 700;
+  font-weight: 600;
+  letter-spacing: -0.02em;
   color: var(--heading);
+}
+
+/* Glitch character effect for headings */
+.glitch-char {
+  display: inline-block;
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.glitch-char--offset {
+  transform: translateY(1.5px);
+  opacity: 0.45;
+}
+
+.glitch-char--drift {
+  transform: translateY(-1px);
+  opacity: 0.6;
 }
 
 h1 { font-size: 2.25rem; }

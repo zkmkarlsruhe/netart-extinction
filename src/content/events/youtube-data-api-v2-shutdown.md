@@ -26,7 +26,7 @@ affected_artworks:
     note: "YouTube-era video contexts and embeds. Embed/API behavior changes can break playback or listing."
   - artwork: "vvebcam"
     severity: major
-    status: degraded
+    status: restored
     note: "Originally published on YouTube. Platform policy removals + embed changes can de-list the work."
 fixes:
   - type: migration

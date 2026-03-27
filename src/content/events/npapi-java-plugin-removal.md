@@ -14,7 +14,7 @@ links:
 affected_artworks:
   - artwork: "instance-city"
     severity: total
-    status: dead
+    status: restored
     note: "Java Applet embedded in HTML. Applet won't load because browsers no longer run Java plugins."
   - artwork: "slow-arrow-of-beauty"
     severity: total
@@ -26,7 +26,7 @@ affected_artworks:
     note: "Java applet realtime 3D terrain visualization. No Java plugin runtime in modern browsers."
   - artwork: "art-from-text"
     severity: total
-    status: dead
+    status: restored
     note: "Java applet generating visuals from user text. Applet blocked/unsupported."
   - artwork: "starrynight"
     severity: total
@@ -37,10 +37,10 @@ affected_artworks:
     status: dead
   - artwork: "60x1-com"
     severity: total
-    status: dead
+    status: restored
   - artwork: "a-javanized-flesh"
     severity: total
-    status: dead
+    status: restored
   - artwork: "addiction"
     severity: total
     status: dead
@@ -49,10 +49,10 @@ affected_artworks:
     status: dead
   - artwork: "alteraction"
     severity: total
-    status: dead
+    status: restored
   - artwork: "anti-capitalist-operating-system"
     severity: total
-    status: dead
+    status: restored
   - artwork: "apartment"
     severity: total
     status: dead
@@ -73,52 +73,52 @@ affected_artworks:
     status: dead
   - artwork: "brandon"
     severity: total
-    status: dead
+    status: restored
   - artwork: "carrier"
     severity: total
-    status: dead
+    status: restored
   - artwork: "chavirement-d"
     severity: total
-    status: dead
+    status: restored
   - artwork: "computational-expressionism"
     severity: total
-    status: dead
+    status: restored
   - artwork: "crash-run"
     severity: total
-    status: dead
+    status: restored
   - artwork: "cyberpoetry-1995-1997"
     severity: total
-    status: dead
+    status: restored
   - artwork: "dialtones-a-telesymphony"
     severity: total
     status: dead
   - artwork: "digital-nature-the-case-collection"
     severity: total
-    status: dead
+    status: restored
   - artwork: "document-9-1-1"
     severity: total
-    status: dead
+    status: restored
   - artwork: "e-sm-electronic-soul-mirroring"
     severity: total
-    status: dead
+    status: restored
   - artwork: "every-icon"
     severity: total
-    status: dead
+    status: restored
   - artwork: "every-time-i-b14-return-from-moscow-i-cry"
     severity: total
     status: dead
   - artwork: "field-guide-to-artificial-life-on-the-web"
     severity: total
-    status: dead
+    status: restored
   - artwork: "floccus"
     severity: total
-    status: dead
+    status: restored
   - artwork: "fractal-consciousness"
     severity: total
     status: dead
   - artwork: "gl-v"
     severity: total
-    status: dead
+    status: restored
   - artwork: "home-transfer"
     severity: total
     status: dead
@@ -130,25 +130,25 @@ affected_artworks:
     status: dead
   - artwork: "in-conversation"
     severity: total
-    status: dead
+    status: restored
   - artwork: "infiltration-dimages-respiratoires-en-milieu-semi-ouvert-sem"
     severity: total
-    status: dead
+    status: restored
   - artwork: "line"
     severity: total
-    status: dead
+    status: restored
   - artwork: "memoirs"
     severity: total
-    status: dead
+    status: restored
   - artwork: "meta4walls"
     severity: total
-    status: dead
+    status: restored
   - artwork: "metamix"
     severity: total
-    status: dead
+    status: restored
   - artwork: "metaphorical-clock"
     severity: total
-    status: dead
+    status: restored
   - artwork: "minitasking"
     severity: total
     status: dead
@@ -157,13 +157,13 @@ affected_artworks:
     status: dead
   - artwork: "netomat"
     severity: total
-    status: dead
+    status: restored
   - artwork: "new-york-city-map"
     severity: total
-    status: dead
+    status: restored
   - artwork: "nice-page"
     severity: total
-    status: dead
+    status: restored
   - artwork: "ouija-2000"
     severity: total
     status: dead
@@ -175,13 +175,13 @@ affected_artworks:
     status: dead
   - artwork: "project-dante"
     severity: total
-    status: dead
+    status: restored
   - artwork: "re-2"
     severity: total
-    status: dead
+    status: restored
   - artwork: "re-positioning-fear-relational-architecture-3"
     severity: total
-    status: dead
+    status: restored
   - artwork: "restate-callaps"
     severity: total
     status: dead
@@ -190,13 +190,13 @@ affected_artworks:
     status: dead
   - artwork: "rosie"
     severity: total
-    status: dead
+    status: restored
   - artwork: "sea-in-motion"
     severity: total
-    status: dead
+    status: restored
   - artwork: "selbst-los-self-less"
     severity: total
-    status: dead
+    status: restored
   - artwork: "seme"
     severity: total
     status: dead
@@ -211,16 +211,16 @@ affected_artworks:
     status: dead
   - artwork: "the-book-after-the-book"
     severity: total
-    status: dead
+    status: restored
   - artwork: "the-demon-devil-girls"
     severity: total
-    status: dead
+    status: restored
   - artwork: "the-secret-lives-of-numbers"
     severity: total
     status: dead
   - artwork: "universal-net-cubism"
     severity: total
-    status: dead
+    status: restored
   - artwork: "vectorial-elevation-relational-architecture-4"
     severity: total
     status: dead
@@ -235,11 +235,14 @@ affected_artworks:
     status: dead
   - artwork: "workly-collection"
     severity: total
-    status: dead
+    status: restored
   - artwork: "wtba-championship-boxing"
     severity: total
-    status: dead
+    status: restored
   - artwork: "z"
+    severity: total
+    status: dead
+  - artwork: "electric-sheep"
     severity: total
     status: dead
 fixes:

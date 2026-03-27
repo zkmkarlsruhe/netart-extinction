@@ -12,7 +12,7 @@ links:
 affected_artworks:
   - artwork: "carrier"
     severity: total
-    status: dead
+    status: restored
     note: "Shockwave-based multimedia + scripting. Plugin unavailable; content cannot play."
   - artwork: "new-lexia"
     severity: total
@@ -28,16 +28,16 @@ affected_artworks:
     note: "Shockwave + iGoogle gadget container. Double extinction: Shockwave EOL plus iGoogle platform shutdown."
   - artwork: "3012"
     severity: total
-    status: dead
+    status: restored
   - artwork: "3boxes"
     severity: total
-    status: dead
+    status: restored
   - artwork: "a-r-m-y"
     severity: total
     status: dead
   - artwork: "alt-delete"
     severity: total
-    status: dead
+    status: restored
   - artwork: "amorphoscapes-i-online-generative-artworks-1997"
     severity: total
     status: dead
@@ -46,7 +46,7 @@ affected_artworks:
     status: dead
   - artwork: "avatar-project"
     severity: total
-    status: dead
+    status: restored
   - artwork: "babel"
     severity: total
     status: dead
@@ -58,13 +58,13 @@ affected_artworks:
     status: dead
   - artwork: "desert-grows"
     severity: total
-    status: dead
+    status: restored
   - artwork: "document-9-1-1"
     severity: total
-    status: dead
+    status: restored
   - artwork: "echo-syst"
     severity: total
-    status: dead
+    status: restored
   - artwork: "elicit"
     severity: total
     status: dead
@@ -73,25 +73,25 @@ affected_artworks:
     status: dead
   - artwork: "experimental-life-project-version-1-0"
     severity: total
-    status: dead
+    status: restored
   - artwork: "field-guide-to-artificial-life-on-the-web"
     severity: total
-    status: dead
+    status: restored
   - artwork: "filmscape"
     severity: total
-    status: dead
+    status: restored
   - artwork: "frustration-machine"
     severity: total
-    status: dead
+    status: restored
   - artwork: "ft2k"
     severity: total
-    status: dead
+    status: restored
   - artwork: "gameover"
     severity: total
-    status: dead
+    status: restored
   - artwork: "great-wall-of-china"
     severity: total
-    status: dead
+    status: restored
   - artwork: "happycentro-sintetik"
     severity: total
     status: dead
@@ -103,97 +103,97 @@ affected_artworks:
     status: dead
   - artwork: "if-we-shadows"
     severity: total
-    status: dead
+    status: restored
   - artwork: "invisible-maps"
     severity: total
     status: dead
   - artwork: "invisible-town"
     severity: total
-    status: dead
+    status: restored
   - artwork: "ip-iii"
     severity: total
     status: dead
   - artwork: "jumeau-bar"
     severity: total
-    status: dead
+    status: restored
   - artwork: "kmuni"
     severity: total
     status: dead
   - artwork: "krematorium"
     severity: total
-    status: dead
+    status: restored
   - artwork: "la-langue-se-charge"
     severity: total
-    status: dead
+    status: restored
   - artwork: "les-dormeurs-the-sleepers"
     severity: total
-    status: dead
+    status: restored
   - artwork: "meta4walls"
     severity: total
-    status: dead
+    status: restored
   - artwork: "metaorigines"
     severity: total
-    status: dead
+    status: restored
   - artwork: "metronome"
     severity: total
-    status: dead
+    status: restored
   - artwork: "mouse-dance"
     severity: total
-    status: dead
+    status: restored
   - artwork: "mu"
     severity: total
-    status: dead
+    status: restored
   - artwork: "netsong"
     severity: total
     status: dead
   - artwork: "networking"
     severity: total
-    status: dead
+    status: restored
   - artwork: "nio"
     severity: total
-    status: dead
+    status: restored
   - artwork: "nomadlingo"
     severity: total
-    status: dead
+    status: restored
   - artwork: "off-area"
     severity: total
-    status: dead
+    status: restored
   - artwork: "panoptico"
     severity: total
-    status: dead
+    status: restored
   - artwork: "pause"
     severity: total
-    status: dead
+    status: restored
   - artwork: "photomontage"
     severity: total
     status: dead
   - artwork: "project-dante"
     severity: total
-    status: dead
+    status: restored
   - artwork: "qrime"
     severity: total
     status: dead
   - artwork: "rhythmengine"
     severity: total
-    status: dead
+    status: restored
   - artwork: "s-exe-interactives-visual-sequencer"
     severity: total
     status: dead
   - artwork: "sea-in-motion"
     severity: total
-    status: dead
+    status: restored
   - artwork: "sexmachines"
     severity: total
     status: dead
   - artwork: "shifting"
     severity: total
-    status: dead
+    status: restored
   - artwork: "sign69"
     severity: total
-    status: dead
+    status: restored
   - artwork: "sit-com"
     severity: total
-    status: dead
+    status: restored
   - artwork: "site-traffic-net"
     severity: total
     status: dead
@@ -202,16 +202,16 @@ affected_artworks:
     status: dead
   - artwork: "socialspeech"
     severity: total
-    status: dead
+    status: restored
   - artwork: "storybeat"
     severity: total
     status: dead
   - artwork: "submeta"
     severity: total
-    status: dead
+    status: restored
   - artwork: "system-shutdown"
     severity: total
-    status: dead
+    status: restored
   - artwork: "telematic-surveillance"
     severity: total
     status: dead
@@ -220,13 +220,13 @@ affected_artworks:
     status: dead
   - artwork: "the-dichotomy-of-living"
     severity: total
-    status: dead
+    status: restored
   - artwork: "the-double-room"
     severity: total
     status: dead
   - artwork: "the-grid"
     severity: total
-    status: dead
+    status: restored
   - artwork: "the-handmirror-scenes-from-behind-the-mirror"
     severity: total
     status: dead
@@ -238,7 +238,7 @@ affected_artworks:
     status: dead
   - artwork: "the-letter-and-the-fly"
     severity: total
-    status: dead
+    status: restored
   - artwork: "the-well"
     severity: total
     status: dead
@@ -247,49 +247,76 @@ affected_artworks:
     status: dead
   - artwork: "trapped"
     severity: total
-    status: dead
+    status: restored
   - artwork: "truth-is-a-moving-target"
     severity: total
-    status: dead
+    status: restored
   - artwork: "ucello"
     severity: total
-    status: dead
+    status: restored
   - artwork: "ulchiro"
     severity: total
-    status: dead
+    status: restored
   - artwork: "untitledcity"
     severity: total
-    status: dead
+    status: restored
   - artwork: "utopia-pkwy"
     severity: total
-    status: dead
+    status: restored
   - artwork: "uzume"
     severity: total
-    status: dead
+    status: restored
   - artwork: "violence"
     severity: total
-    status: dead
+    status: restored
   - artwork: "virtual-singer"
     severity: total
-    status: dead
+    status: restored
   - artwork: "war-game"
     severity: total
-    status: dead
+    status: restored
   - artwork: "weightless-sculpture-project"
     severity: total
-    status: dead
+    status: restored
   - artwork: "wnvirus-com"
     severity: total
     status: dead
   - artwork: "world-it-just-keeps-changing"
     severity: total
-    status: dead
+    status: restored
   - artwork: "you-are-late"
     severity: total
-    status: dead
+    status: restored
   - artwork: "you-me-and"
     severity: total
+    status: restored
+  - artwork: "any-wall"
+    severity: total
     status: dead
+  - artwork: "the-concise-model-of-the-universe"
+    severity: total
+    status: dead
+  - artwork: "agatha-appears"
+    severity: total
+    status: dead
+  - artwork: "3-proposals-for-bottle-imps"
+    severity: total
+    status: restored
+  - artwork: "web-performer"
+    severity: total
+    status: restored
+  - artwork: "transience-an-atonal-composition"
+    severity: total
+    status: dead
+  - artwork: "osiris"
+    severity: total
+    status: restored
+  - artwork: "the-genius-2000-network"
+    severity: total
+    status: dead
+  - artwork: "form-art"
+    severity: total
+    status: restored
 fixes:
   - type: emulation
     description: "Run in a preserved environment (VM + old browser + plugin)."

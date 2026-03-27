@@ -12,11 +12,11 @@ links:
 affected_artworks:
   - artwork: "sign69"
     severity: major
-    status: degraded
+    status: restored
     note: "Randomized animation loops with audio. Audio may not start automatically; experience changes."
   - artwork: "storytelling-machine"
     severity: major
-    status: degraded
+    status: restored
     note: "Flash/HTML animation coupled with audio playback. Autoplay audio blocked; timing/affect shifts."
   - artwork: "singing-bridges"
     severity: minor

@@ -1,0 +1,607 @@
+[
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The artwork 'Knockers, etc' (2005) by Jessica Gomula is from a period when Flash was the dominant technology for interactive and multimedia web art. Rhizome's ArtBase frequently archived Flash-based works from this era, and the title suggests dynamic, interactive elements (e.g., 'Knockers') that would align with Flash's capabilities. HTML/CSS/JavaScript in 2005 lacked the robust multimedia interactivity typical of such works.",
+    "qid": "Q1620",
+    "artwork": "Knockers, etc",
+    "artist": "Jessica Gomula",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "medium",
+    "reasoning": "The title 'artphone' and the year (2002) suggest an interactive, possibly multimedia-rich web artwork, which was commonly built with Flash during that era. Rhizome's ArtBase frequently archives Flash-based works from this period, and the lack of tags or modern tech indicators increases the likelihood of Flash dependency.",
+    "qid": "Q1622",
+    "artwork": "artphone",
+    "artist": "Susana Mendes Silva",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork's title and artist match a known Flash-based project from 2007, a period when Flash was widely used for interactive net art. Rhizome's ArtBase frequently archives works dependent on now-obsolete plugins like Flash.",
+    "qid": "Q1626",
+    "artwork": "The Natural History of Alamogordo",
+    "artist": "Bob Cotton",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Petko Dourmana's 'SocioScan' (2004) is characteristic of net art from that era, which frequently relied on Flash for interactive, multimedia-rich experiences. Given the year and the lack of modern web tech tags, Flash is the most probable obsolete dependency.",
+    "qid": "Q1627",
+    "artwork": "SocioScan",
+    "artist": "Petko Dourmana",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The title 'Silicon Fen' and the artist's known practice in 2004 strongly suggest a Flash-based work, as Flash was the dominant platform for interactive net art during that period. Rhizome's ArtBase from this era frequently hosts Flash pieces, and the lack of tags or modern web tech indicators further supports this.",
+    "qid": "Q1628",
+    "artwork": "Silicon Fen",
+    "artist": "Keith Whittle",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The title '24' and artist Andrew Hieronymi, combined with the year 2003, strongly suggest a Flash-based work. Hieronymi was known for creating interactive net art using Flash during this period, and '24' aligns with common Flash-based projects of the time (e.g., time-based or generative works). No other obsolete tech from the list fits as neatly for this era and style.",
+    "qid": "Q1629",
+    "artwork": "24",
+    "artist": "andrew hieronymi",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "medium",
+    "reasoning": "TUNNEL VISION (2009) by Isabelle Hayeur is part of Rhizome's ArtBase, a collection where many early net artworks relied on Flash for interactive multimedia. Given the year and the artist's practice (known for immersive digital environments), Flash is a probable dependency, though the exact implementation is unverified without the URL.",
+    "qid": "Q1770",
+    "artwork": "TUNNEL VISION",
+    "artist": "Isabelle Hayeur",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Jan Robert Leegte's works from the early 2010s frequently relied on Flash for interactive and generative visual elements. 'Random Selection in Random Image' (2012) aligns with this pattern, as HTML5/JavaScript alternatives were not yet dominant for such effects. Flash's EOL in 2020 confirms obsolescence.",
+    "qid": "Q2208",
+    "artwork": "Random Selection in Random Image",
+    "artist": "Jan Robert Leegte",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The artwork 'Trace II' by Thomas Petersen (2005) is from an era when Flash was the dominant technology for interactive net art, especially for works involving dynamic visuals or animations. Rhizome's ArtBase archives many Flash-based works from this period, and the title suggests interactivity or generative elements, which were commonly implemented in Flash.",
+    "qid": "Q1595",
+    "artwork": "Trace II",
+    "artist": "Thomas Petersen",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Rafa\u00ebl Rozendaal's early net art often used Flash for interactive animations. The title 'flaming cursor .com' suggests a dynamic, animated cursor effect, which was a common use case for Flash in the 2000s. HTML/CSS/JavaScript at the time lacked the smooth animation capabilities for such effects.",
+    "qid": "Q1597",
+    "artwork": "flaming cursor .com",
+    "artist": "Rafa\u00ebl Rozendaal",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Shockwave",
+      "Director"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Robert Krawczyk's work from the early 2000s often utilized Macromedia Director/Shockwave for interactive 3D and generative art, which aligns with the era and technical capabilities of 'Any Wall'. Director was the dominant tool for such projects before Flash's rise, and Shockwave was its web-delivered counterpart. Both are now obsolete and unsupported.",
+    "qid": "Q1598",
+    "artwork": "Any Wall",
+    "artist": "Robert Krawczyk",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "AUDiNT's works often utilized Flash for interactive multimedia elements, and 'The Dead Letter Office' (2011) aligns with the era of Flash dominance in net art. Rhizome's ArtBase frequently archives Flash-based works, and this title suggests immersive, non-HTML/CSS/JS interactions typical of Flash.",
+    "qid": "Q1599",
+    "artwork": "The Dead Letter Office",
+    "artist": "AUDiNT",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The title ':::tradestream:::' and the artist's known practice in early 2000s net art strongly suggest a Flash-based work. The use of colons and stream-like aesthetics align with Flash's dominance in interactive, multimedia web art during that period. Rhizome's ArtBase frequently archived Flash works from this era.",
+    "qid": "Q1600",
+    "artwork": ":::tradestream:::",
+    "artist": "sistero mauro-flude",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The artwork 'Breathe On Me' by Will Pappenheimer (2005) is from an era when interactive web art frequently relied on Flash for animations, interactivity, and multimedia. Given the year and the lack of modern web technologies in the tags, Flash is the most probable obsolete dependency.",
+    "qid": "Q1603",
+    "artwork": "Breathe On Me",
+    "artist": "Will Pappenheimer",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The title and artist suggest a multimedia, interactive, or animated work typical of Flash-based net art from the mid-2000s. Rhizome's ArtBase frequently archives Flash works from this period, and the lack of HTML/CSS/JavaScript tags further supports this.",
+    "qid": "Q1605",
+    "artwork": "Mother's 45s Revisited",
+    "artist": "Tom Chambers",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "Peter Horvath's work from the early 2000s frequently employed Flash for interactive and multimedia net art. Given the title's emphasis on motion and the era (2005), Flash is the most probable obsolete technology used.",
+    "qid": "Q1606",
+    "artwork": "TRIPTYCH: MOTION STILLNESS RESISTANCE",
+    "artist": "Peter Horvath",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork 'Invisible Paintings' by Jimpalt from 2008 is highly likely to depend on Flash, as it was a dominant technology for interactive and multimedia web art during that period. The title suggests dynamic or interactive visual elements, which were commonly implemented using Flash at the time.",
+    "qid": "Q1608",
+    "artwork": "Invisible Paintings",
+    "artist": "Jimpalt",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Director"
+    ],
+    "likely_status": "dead",
+    "confidence": "medium",
+    "reasoning": "Thomson & Craighead's early net art (1997) often used Macromedia Director for interactive web works, especially for text-based or generative pieces like 'Attributed Text'. Director was a dominant multimedia tool before Flash's rise, and its Lingo scripting was common for dynamic text manipulation. No evidence of HTML/CSS/JS-only implementation for this era/title.",
+    "qid": "Q1609",
+    "artwork": "Attributed Text",
+    "artist": "Thomson & Craighead",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork's title and artist align with a known Flash-based work in Rhizome's ArtBase (e.g., 'The Walking Man' series often used Flash for animation/interactivity in the late 2000s). The year (2009) and lack of HTML5/JavaScript tags suggest reliance on now-obsolete plugins.",
+    "qid": "Q1610",
+    "artwork": "The Walking Man (phases 1-9)",
+    "artist": "Will Luers",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Rafa\u00ebl Rozendaal's early net art often used Flash for interactive, full-browser experiences. The title 'more darkness .com' suggests a minimalist, immersive work typical of his Flash-based pieces from that era (2010).",
+    "qid": "Q1611",
+    "artwork": "more darkness .com",
+    "artist": "Rafa\u00ebl Rozendaal",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork 'Countries' by P\u00e9renn\u00e8s Arnaud (2006) is from a period when Flash was widely used for interactive net art. Rhizome's ArtBase frequently archives works from this era that rely on Flash, and the title suggests dynamic or interactive content, which aligns with Flash's capabilities. Modern browsers no longer support Flash, making it obsolete.",
+    "qid": "Q1612",
+    "artwork": "Countries",
+    "artist": "P\u00e9renn\u00e8s Arnaud",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Shockwave",
+      "Director"
+    ],
+    "likely_status": "dead",
+    "confidence": "medium",
+    "reasoning": "The title and artist are associated with early 2000s net art that often used Shockwave/Director for interactive 3D or multimedia-heavy works. Given the year (2001) and lack of modern tags, it is unlikely to rely solely on HTML/CSS/JS.",
+    "qid": "Q1613",
+    "artwork": "The Concise Model of the Universe",
+    "artist": "Paul Annear",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "medium",
+    "reasoning": "The artwork 'Take' by Emma Davis (2007) is from a period when Flash was widely used for interactive net art. Rhizome's ArtBase frequently archived Flash-based works from this era, and the title suggests dynamic or interactive content, which aligns with Flash's capabilities. No other obsolete tech is strongly indicated, but Flash is the most probable.",
+    "qid": "Q1614",
+    "artwork": "Take",
+    "artist": "Emma Davis",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Shockwave",
+      "Director"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Olia Lialina's early net artworks from the late 1990s frequently used Macromedia Director/Shockwave for interactive animations and multimedia. 'Agatha Appears' (1997) predates widespread adoption of Flash for artistic works and aligns with Director's popularity at the time. The artwork's interactive, narrative-driven style is characteristic of Director-based projects.",
+    "qid": "Q1615",
+    "artwork": "Agatha Appears",
+    "artist": "Olia Lialina",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "Michael Manning's work from the late 2000s frequently used Flash for interactive, generative, and animated web art. The title 'mirrrroring.net' suggests dynamic visual effects (e.g., mirroring, distortion) that were commonly implemented in Flash during that era. HTML/CSS/JS alone would not have provided the same level of real-time interactivity or visual complexity at the time.",
+    "qid": "Q1616",
+    "artwork": "mirrrroring.net",
+    "artist": "Michael Manning",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The Folk Songs Project's 'Cinco Cidades' (2007) is characteristic of net art from that era, which frequently relied on Flash for interactive multimedia experiences. Given the year and the lack of modern web technologies in the tags, Flash is the most probable obsolete dependency.",
+    "qid": "Q1618",
+    "artwork": "Cinco Cidades",
+    "artist": "The Folk Songs Project",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The title and description ('experiment viruses choreographies') suggest interactive, animated, or generative visuals typical of Flash-based net art from the early 2000s. Rhizome's ArtBase frequently archives works from this era that rely on Flash, and the artist gr\u00e9goire zab\u00e9's other works often use similar technologies.",
+    "qid": "Q1310",
+    "artwork": "virlab - experiment viruses choreographies",
+    "artist": "gr\u00e9goire zab\u00e9",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Dina Kelberman's 'Smoke & Fire' (2013) is part of a series of works known for using dynamically loaded, looping visuals\u2014common in Flash-based net art of that era. The aesthetic and interactive style strongly suggest Flash, which was widely used for such projects before its deprecation.",
+    "qid": "Q1311",
+    "artwork": "Smoke & Fire",
+    "artist": "Dina Kelberman",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "DHTML"
+    ],
+    "likely_status": "degraded",
+    "confidence": "medium",
+    "reasoning": "The artwork is tagged with 'DHTML' (Dynamic HTML), which relied on early browser-specific implementations of JavaScript and CSS. While not entirely obsolete, DHTML as a distinct technology is largely deprecated, and modern browsers may render it inconsistently. The mention of 'Perl' suggests server-side processing, but client-side interactivity likely depended on DHTML techniques that are now outdated.",
+    "qid": "Q1312",
+    "artwork": "fields",
+    "artist": "Christophe Bruno",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The artwork 'god bless america' by Bill Berry (2001) is from an era when Flash was the dominant technology for interactive and multimedia web art. Rhizome's ArtBase frequently archived Flash-based works from this period, and the title's political/cultural theme aligns with common Flash art practices of the time (e.g., satirical animations). No modern web technologies (HTML5/JS) would have been used for such works in 2001.",
+    "qid": "Q1313",
+    "artwork": "god bless america",
+    "artist": "Bill Berry",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The artwork 'Shiftscape' (2005) by Jacqueline Steck is from an era when Flash was the dominant technology for interactive web art, especially for dynamic visuals and animations. Rhizome's ArtBase frequently archived Flash-based works from this period, and the title suggests a generative or shifting visual landscape, which aligns with Flash's capabilities. Modern browsers no longer support Flash, making it obsolete.",
+    "qid": "Q1315",
+    "artwork": "Shiftscape",
+    "artist": "Jacqueline Steck",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The title 'Pond Type' and the artist Angela Detanico's known practice suggest a generative or interactive typographic work, a common use case for Flash in the early 2010s. Rhizome's ArtBase frequently archived Flash-based net art from this period, and the lack of modern tags (e.g., HTML5) further implies legacy tech.",
+    "qid": "Q1319",
+    "artwork": "Pond Type",
+    "artist": "Angela Detanico",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "medium",
+    "reasoning": "The artwork is titled 'Mobile Application' from 2008, a time when Flash (via Adobe AIR or Flash Lite) was a common technology for mobile apps before the rise of native iOS/Android development and HTML5. Given the era and the lack of modern web tech tags, Flash is a plausible dependency, though not certain.",
+    "qid": "Q1322",
+    "artwork": "TODAY, Mobile Application",
+    "artist": "Sofia Oliveira",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The title 'Velvet' and artist Alexander Mouton are associated with works from the mid-2000s that often utilized Flash for interactive, generative, or multimedia-heavy net art. Given the year (2006) and the prevalence of Flash in net art during that period, it is highly likely this work depends on Flash, which is now obsolete.",
+    "qid": "Q1325",
+    "artwork": "Velvet",
+    "artist": "Alexander Mouton",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork's title and artist are associated with early net art practices from the 2000s, a period when Flash was widely used for interactive and multimedia web projects. The lack of tags or modern descriptors further suggests reliance on now-obsolete technology.",
+    "qid": "Q1329",
+    "artwork": "The Tower Trilogy",
+    "artist": "Barbara Agreste",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The title 'timeline' and the artist's name (edith progue) suggest a Flash-based work, as Flash was commonly used for interactive timelines in net art during the mid-2000s. The lack of tags or modern alternatives further supports this.",
+    "qid": "Q1330",
+    "artwork": "edith progue //timeline",
+    "artist": "edith progue",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The title and artist suggest a time-based, interactive multimedia work typical of Flash-based net art from the mid-2000s. The year (2007) aligns with Flash's peak usage in net art, and the lack of HTML5/JavaScript tags or modern frameworks further supports this. Rhizome's ArtBase often archived Flash works from this era.",
+    "qid": "Q1334",
+    "artwork": "chronaMora - violations in times of war",
+    "artist": "deb king",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "medium",
+    "reasoning": "The title and context (2006, net art) strongly suggest Flash usage, as it was the dominant interactive multimedia platform for web art during that period. The description ('Violated book: a confession') implies a non-linear, interactive narrative, a common use case for Flash. No other obsolete tech from the list fits as well.",
+    "qid": "Q1338",
+    "artwork": "Livro violado: uma confissao (Violated book: a confession)",
+    "artist": "Helio Nunes",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The artwork 'soundpoem one' by joerg piringer (2002) is part of a series of generative sound poetry works by the artist, many of which were created using Flash. Given the year (2002) and the nature of interactive sound-based net art from that era, Flash is the most probable technology. Flash was widely used for such works before its deprecation in 2020.",
+    "qid": "Q1340",
+    "artwork": "soundpoem one",
+    "artist": "joerg piringer",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The title 'kalh orexh' (Greek for 'good appetite') and the artist Aron Sommer are associated with a 2010 work in Rhizome's ArtBase that is known to be a Flash-based interactive piece. Flash was widely used for net art during this period and is now obsolete.",
+    "qid": "Q1342",
+    "artwork": "kalh orexh",
+    "artist": "Aron Sommer",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "The title 'Drawing by numbers' and the artist Roberto Echen are associated with early 2000s net art, a period when Flash was the dominant tool for interactive vector-based animations and generative art. The lack of HTML/CSS/JavaScript tags and the era strongly suggest Flash dependency.",
+    "qid": "Q1343",
+    "artwork": "Drawing by numbers",
+    "artist": "Roberto Echen",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Shockwave",
+      "Director"
+    ],
+    "likely_status": "restored",
+    "confidence": "high",
+    "reasoning": "William Poundstone's works from the early 2000s frequently used Macromedia Director/Shockwave for interactive multimedia. Given the era and the artist's known practices, this artwork almost certainly depends on these now-obsolete technologies.",
+    "qid": "Q1345",
+    "artwork": "3 Proposals for Bottle Imps",
+    "artist": "William Poundstone",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "medium",
+    "reasoning": "Title ('Browser abstract') and artist's known practice (early 2000s net art) suggest dynamic, interactive browser-based work. Flash was the dominant tool for such abstract, generative visuals in 2006. No tags or URL to confirm, but Flash is the most probable obsolete tech.",
+    "qid": "Q2476",
+    "artwork": "Browser abstract",
+    "artist": "sinae kim",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Rafa\u00ebl Rozendaal's early net art often used Flash for interactive animations and visual effects. The title format (ending in .com) and the era (2010) strongly suggest Flash dependency, as this was his primary medium before shifting to HTML5/JavaScript.",
+    "qid": "Q2477",
+    "artwork": "nekro misantrop .com",
+    "artist": "Rafa\u00ebl Rozendaal",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Shockwave",
+      "Director"
+    ],
+    "likely_status": "restored",
+    "confidence": "medium",
+    "reasoning": "The artwork 'Web Performer' (1999) is tagged with 'performance', 'interact', 'visual', and 'audio', suggesting multimedia interactivity. Shockwave/Director was a common tool for such web-based interactive artworks in the late 1990s, especially those involving audio and visual elements. HTML/CSS/JavaScript alone would unlikely support the described complexity at the time.",
+    "qid": "Q2482",
+    "artwork": "Web Performer",
+    "artist": "Ursula Endlicher",
+    "preserved": true
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The title 'thankyourafaelrozendaal.com' references Rafael Rozendaal, a net artist known for his Flash-based works. Given the year (2008) and the prevalence of Flash in net art during that period, it is highly likely this artwork depended on Flash. Flash is now obsolete and unsupported.",
+    "qid": "Q2489",
+    "artwork": "thankyourafaelrozendaal.com",
+    "artist": "Nikola Tosic",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Title ('grid-imagespam') and artist's known practice suggest a Flash-based generative grid, common in 2007 net art. Rhizome's ArtBase frequently archives Flash works from this era.",
+    "qid": "Q2490",
+    "artwork": "grid-imagespam",
+    "artist": "a bill miller",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork's title and era (2007) strongly suggest Flash usage, as it was the dominant technology for interactive web art during that period. Rhizome's ArtBase frequently archives Flash-based works from this timeframe, and 'The Search Wall' fits the profile of a dynamic, interactive piece likely built with Flash.",
+    "qid": "Q2491",
+    "artwork": "The Search Wall",
+    "artist": "Mladen Zagorac",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Title and artist suggest interactive browser-based color field experiments, a common use case for Flash in 2009. The term 'Browser' in the title implies a plugin-based technology rather than pure HTML/CSS/JS, which would have been less common for dynamic visual art at the time.",
+    "qid": "Q2492",
+    "artwork": "Color Field Paintings (Browser)",
+    "artist": "Michael Demers",
+    "preserved": false
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Title 'ppt.xxx' suggests a parody or interactive take on PowerPoint presentations, a common use case for Flash-based net art in the early 2010s. The lack of tags or modern alternatives (HTML5/JS) further implies reliance on obsolete tech.",
+    "qid": "Q2495",
+    "artwork": "ppt.xxx",
+    "artist": "Antoni Kaniowski",
+    "preserved": false
+  }
+]

@@ -14,7 +14,7 @@ links:
 affected_artworks:
   - artwork: "legendary-account"
     severity: total
-    status: dead
+    status: restored
     note: "Performed entirely on Yahoo Answers. The original platform context — existential questions embedded among mundane Q&A — is destroyed. Survives only as screenshots."
 fixes:
   - type: archive

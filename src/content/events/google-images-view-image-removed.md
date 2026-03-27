@@ -26,7 +26,7 @@ affected_artworks:
     note: "Builds films from image search results. The live image pipeline was already degraded; removal of direct image links compounds the problem."
   - artwork: "adding-to-the-internet"
     severity: minor
-    status: degraded
+    status: restored
     note: "Responds to 'no results' Google image searches. Changes to search UI and behavior affect whether the triggering condition occurs."
 fixes:
   - type: none

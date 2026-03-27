@@ -26,7 +26,7 @@ affected_artworks:
     note: "Depends on Google Image Search result ecology. Shifts in search access/ranking change the work's material."
   - artwork: "adding-to-the-internet"
     severity: major
-    status: unknown
+    status: restored
     note: "Responds to 'no results' Google image searches. If search behavior/UI/API changes, the condition changes."
 fixes:
   - type: migration
