@@ -10,15 +10,15 @@ links:
   - url: "https://developers.googleblog.com/introducing-google-maps-platform/"
     label: "Google Developers Blog: Introducing Google Maps Platform"
 affected_artworks:
-  - artwork: google-is-not-the-map
+  - artwork: "google-is-not-the-map"
     severity: total
     status: degraded
     note: "Uses Google's publicly released API code for map-based poetry. Without keys/billing, maps fail or watermark."
-  - artwork: liquid-prairie
+  - artwork: "liquid-prairie"
     severity: total
     status: unknown
     note: "Google Maps API used in narrative documentation. Key requirements can break embedded maps."
-  - artwork: in-absentia
+  - artwork: "in-absentia"
     severity: total
     status: unknown
     note: "HTML/JS + Google Maps API for non-linear narrative. Maps API access changes affect navigation and meaning."

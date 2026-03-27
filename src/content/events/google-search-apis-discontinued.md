@@ -12,19 +12,19 @@ links:
   - url: "https://developers.googleblog.com/image-results-now-available-from-the-custom-search-api/"
     label: "Custom Search API: image results announcement"
 affected_artworks:
-  - artwork: photo-noise
+  - artwork: "photo-noise"
     severity: total
     status: dead
     note: "Uses the Google API to search in real time for camera-typed photos. Search calls fail or require migration."
-  - artwork: onewordmovie
+  - artwork: "onewordmovie"
     severity: total
     status: degraded
     note: "Builds films from image-search results. Live image pipeline breaks under API restrictions/quotas."
-  - artwork: im-google
+  - artwork: "im-google"
     severity: major
     status: degraded
     note: "Depends on Google Image Search result ecology. Shifts in search access/ranking change the work's material."
-  - artwork: adding-to-the-internet
+  - artwork: "adding-to-the-internet"
     severity: major
     status: unknown
     note: "Responds to 'no results' Google image searches. If search behavior/UI/API changes, the condition changes."

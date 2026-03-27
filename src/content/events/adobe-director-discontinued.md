@@ -12,15 +12,15 @@ links:
   - url: "https://en.wikipedia.org/wiki/Adobe_Director"
     label: "Wikipedia: Adobe Director"
 affected_artworks:
-  - artwork: carrier
+  - artwork: "carrier"
     severity: total
     status: dead
     note: "Director/Shockwave project. Even if the Shockwave Player somehow ran, the source .dir files can no longer be edited to fix or update the work."
-  - artwork: new-lexia
+  - artwork: "new-lexia"
     severity: total
     status: dead
     note: "Director/Shockwave interactive. Source files unopenable without legacy Director installation."
-  - artwork: soundboxes
+  - artwork: "soundboxes"
     severity: total
     status: dead
     note: "Director/Shockwave audio piece. Authoring tool death means no path to updating the work."

@@ -12,7 +12,7 @@ links:
   - url: "https://rhizome.org/art/artbase/artwork/legendary-account/"
     label: "Rhizome ArtBase: Legendary Account"
 affected_artworks:
-  - artwork: legendary-account
+  - artwork: "legendary-account"
     severity: total
     status: dead
     note: "Performed entirely on Yahoo Answers. The original platform context — existential questions embedded among mundane Q&A — is destroyed. Survives only as screenshots."

@@ -12,7 +12,7 @@ links:
   - url: "https://searchenginejournal.com/youtube-to-remove-all-annotations-in-january-2019/280249/"
     label: "Search Engine Journal: YouTube to Remove All Annotations"
 affected_artworks:
-  - artwork: seven-video-responses
+  - artwork: "seven-video-responses"
     severity: major
     status: degraded
     note: "If the work relied on annotation overlays for interactivity or commentary, those layers are gone."

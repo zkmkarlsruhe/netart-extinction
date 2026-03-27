@@ -10,7 +10,7 @@ links:
   - url: "https://developers.soundcloud.com/blog/an-empty-blogpost/"
     label: "SoundCloud developer blog: changes for inactive apps"
 affected_artworks:
-  - artwork: singing-bridges
+  - artwork: "singing-bridges"
     severity: major
     status: degraded
     note: "Publishes audio via SoundCloud links/streams. If playback depends on app/API permissions, audio access can degrade."

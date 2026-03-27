@@ -12,7 +12,7 @@ links:
   - url: "https://developers.facebook.com/docs/graph-api/changelog/"
     label: "Graph API changelog"
 affected_artworks:
-  - artwork: face-to-facebook
+  - artwork: "face-to-facebook"
     severity: major
     status: degraded
     note: "Relies on Facebook as data-source. Increased controls reduce feasibility and increase takedown risk."

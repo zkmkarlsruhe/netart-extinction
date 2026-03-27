@@ -12,15 +12,15 @@ links:
   - url: "https://about.mouchette.org/wp-content/uploads/2021/09/LIMA_Can-Mouchette-be-preserved-as-an-identity.pdf"
     label: "LIMA case study: Can Mouchette be preserved as an identity?"
 affected_artworks:
-  - artwork: mouchette
+  - artwork: "mouchette"
     severity: total
     status: restored
     note: "Requires ongoing domain registration, email, moderation tools, and hosting maintenance. Actively maintained by artist; still at structural risk."
-  - artwork: agatha-appears
+  - artwork: "agatha-appears"
     severity: total
     status: degraded
     note: "Distributed web files/locations across the network. Partial destruction through code obsolescence and liquidation of some locations."
-  - artwork: onewordmovie
+  - artwork: "onewordmovie"
     severity: major
     status: degraded
     note: "Depends on a maintained project domain plus server-side code and upstream services."

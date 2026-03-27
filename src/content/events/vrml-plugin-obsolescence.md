@@ -12,10 +12,52 @@ links:
   - url: "https://en.wikipedia.org/wiki/VRML"
     label: "Wikipedia: VRML"
 affected_artworks:
-  - artwork: bodies-incorporated
+  - artwork: "bodies-incorporated"
     severity: total
     status: dead
     note: "VRML-based participatory 3D world. Interactive 3D navigation no longer functions in any modern browser."
+  - artwork: "apartment"
+    severity: total
+    status: dead
+  - artwork: "brooklyn01"
+    severity: total
+    status: dead
+  - artwork: "carrier"
+    severity: total
+    status: dead
+  - artwork: "cyberpoetry-1995-1997"
+    severity: total
+    status: dead
+  - artwork: "helix"
+    severity: total
+    status: dead
+  - artwork: "plural-maps-lost-in-s"
+    severity: total
+    status: dead
+  - artwork: "position"
+    severity: total
+    status: dead
+  - artwork: "prototype-for-static-vehicle"
+    severity: total
+    status: dead
+  - artwork: "revenances"
+    severity: total
+    status: dead
+  - artwork: "the-great-game"
+    severity: total
+    status: dead
+  - artwork: "trails"
+    severity: total
+    status: dead
+  - artwork: "vectorial-elevation-relational-architecture-4"
+    severity: total
+    status: dead
+  - artwork: "voxels"
+    severity: total
+    status: dead
+  - artwork: "weightless-sculpture-project"
+    severity: total
+    status: dead
 fixes:
   - type: emulation
     description: "Some VRML content can be converted to X3D or viewed with standalone VRML viewers, but browser-integrated interactive experience is lost."

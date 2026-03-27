@@ -12,19 +12,19 @@ links:
   - url: "https://developers.google.com/youtube/v3/docs"
     label: "YouTube Data API v3 docs"
 affected_artworks:
-  - artwork: those-that-will-die
+  - artwork: "those-that-will-die"
     severity: total
     status: degraded
     note: "Sniffs/aggregates YouTube media to generate an 'infinite intimacy movie'. APIs for retrieval stop returning data."
-  - artwork: hello-world
+  - artwork: "hello-world"
     severity: major
     status: unknown
     note: "Uses large pools of online video. If the work depends on API-based retrieval, v2 shutdown breaks ingestion."
-  - artwork: seven-video-responses
+  - artwork: "seven-video-responses"
     severity: major
     status: unknown
     note: "YouTube-era video contexts and embeds. Embed/API behavior changes can break playback or listing."
-  - artwork: vvebcam
+  - artwork: "vvebcam"
     severity: major
     status: degraded
     note: "Originally published on YouTube. Platform policy removals + embed changes can de-list the work."
