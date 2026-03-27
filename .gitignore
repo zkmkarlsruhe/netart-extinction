@@ -4,3 +4,4 @@ dist/
 .boxctl/
 .DS_Store
 *.log
+.env
