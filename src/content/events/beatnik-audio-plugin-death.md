@@ -1,8 +1,7 @@
 ---
 ai_generated: true
 title: "Beatnik interactive audio plugin abandoned"
-date: "2002"
-end_date: "2011"
+date: "2011"
 dependency: "Beatnik audio plugin (Rich Music Format)"
 event_type: "plugin-eol"
 severity: "total"

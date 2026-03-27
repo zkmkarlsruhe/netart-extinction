@@ -1,8 +1,7 @@
 ---
 ai_generated: true
 title: "Oculus Go effectively bricked by server-side entitlement failures"
-date: "2020-06"
-end_date: "2024"
+date: "2024"
 dependency: "Oculus Go headset / entitlement servers"
 event_type: "hardware-obsolescence"
 severity: "total"

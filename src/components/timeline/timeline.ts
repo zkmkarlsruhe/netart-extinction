@@ -48,18 +48,34 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
     return;
   }
 
-  const parsed: ParsedEvent[] = data.map((d) => ({
+  const allParsed: ParsedEvent[] = data.map((d) => ({
     ...d,
     startDate: parseDate(d.date),
     endDate: d.end_date ? parseDate(d.end_date) : null,
     isRange: !!d.end_date,
   }));
 
+  let activeFilter = 'all';
+
+  document.addEventListener('timeline:filter', ((e: CustomEvent) => {
+    activeFilter = e.detail.filter;
+    render();
+  }) as EventListener);
+
   const margin = { top: 20, right: 30, bottom: 40, left: 30 };
   const height = 220;
 
   function render() {
     container.innerHTML = '';
+
+    const parsed = activeFilter === 'all'
+      ? allParsed
+      : allParsed.filter(d => d.event_type === activeFilter);
+
+    if (parsed.length === 0) {
+      container.innerHTML = '<p style="color: var(--text-muted); text-align: center; padding: 2rem;">No events match this filter.</p>';
+      return;
+    }
 
     const containerWidth = container.clientWidth;
     if (containerWidth === 0) return;
