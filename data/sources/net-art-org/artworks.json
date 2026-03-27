@@ -1,0 +1,86 @@
+[
+  {
+    "source": "net-art-org",
+    "source_url": "https://net-art.org/sitemap.xml",
+    "title": "home",
+    "artist": "",
+    "year": null,
+    "url": "https://net-art.org/",
+    "medium": "Net art / reference site",
+    "record_type": "site-page",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "net-art-org",
+    "source_url": "https://net-art.org/sitemap.xml",
+    "title": "node",
+    "artist": "",
+    "year": null,
+    "url": "https://net-art.org/node",
+    "medium": "Net art / reference site",
+    "record_type": "site-page",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "net-art-org",
+    "source_url": "https://net-art.org/sitemap.xml",
+    "title": "net activism",
+    "artist": "",
+    "year": null,
+    "url": "https://net-art.org/net-activism",
+    "medium": "Net art / reference site",
+    "record_type": "site-page",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "net-art-org",
+    "source_url": "https://net-art.org/sitemap.xml",
+    "title": "news",
+    "artist": "",
+    "year": null,
+    "url": "https://net-art.org/news",
+    "medium": "Net art / reference site",
+    "record_type": "site-page",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "net-art-org",
+    "source_url": "https://net-art.org/sitemap.xml",
+    "title": "orgz",
+    "artist": "",
+    "year": null,
+    "url": "https://net-art.org/orgz",
+    "medium": "Net art / reference site",
+    "record_type": "site-page",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "net-art-org",
+    "source_url": "https://net-art.org/sitemap.xml",
+    "title": "publications",
+    "artist": "",
+    "year": null,
+    "url": "https://net-art.org/publications",
+    "medium": "Net art / reference site",
+    "record_type": "site-page",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  }
+]

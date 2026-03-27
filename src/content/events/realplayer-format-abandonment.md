@@ -122,6 +122,9 @@ affected_artworks:
   - artwork: "wnvirus-com"
     severity: total
     status: dead
+  - artwork: "windows-real"
+    severity: total
+    status: dead
 ---
 
 RealAudio (launched April 1995) was the first widely adopted streaming audio format on the web. RealVideo followed in 1997. By the early 2000s, RealPlayer was installed on hundreds of millions of computers. But the company's aggressive installation practices and bloated software drove users away, and the format was progressively displaced — first by Flash video, then by HTML5 audio/video.

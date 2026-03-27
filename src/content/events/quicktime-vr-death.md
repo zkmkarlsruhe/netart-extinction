@@ -254,6 +254,33 @@ affected_artworks:
   - artwork: "x-818"
     severity: total
     status: dead
+  - artwork: "odys-for-your-ipod"
+    severity: total
+    status: dead
+  - artwork: "louisiana-walk-14"
+    severity: total
+    status: dead
+  - artwork: "latitudes"
+    severity: total
+    status: degraded
+  - artwork: "untitled-landscapes-for-portable-media-players"
+    severity: total
+    status: dead
+  - artwork: "fantastic-prayers"
+    severity: total
+    status: restored
+  - artwork: "data-diaries"
+    severity: total
+    status: dead
+  - artwork: "si-jamais"
+    severity: total
+    status: restored
+  - artwork: "fenlandia"
+    severity: total
+    status: restored
+  - artwork: "prometheus-bound"
+    severity: total
+    status: restored
 ---
 
 Apple's QuickTime VR (QTVR) died in stages. QuickTime X (2009, Mac OS X Snow Leopard) dropped QTVR support entirely. Apple removed the QuickTime browser plugin via a security update in August 2015. In April 2016, Apple ended all QuickTime for Windows support, and US-CERT issued advisory TA16-105A urging immediate uninstall due to unpatched zero-day vulnerabilities.

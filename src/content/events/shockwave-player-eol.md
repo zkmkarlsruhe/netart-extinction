@@ -317,6 +317,225 @@ affected_artworks:
   - artwork: "form-art"
     severity: total
     status: restored
+  - artwork: "t-error"
+    severity: total
+    status: restored
+  - artwork: "netzbikini"
+    severity: total
+    status: restored
+  - artwork: "dataprojections"
+    severity: total
+    status: dead
+  - artwork: "short-story"
+    severity: total
+    status: restored
+  - artwork: "crusade"
+    severity: total
+    status: restored
+  - artwork: "adam-killer"
+    severity: total
+    status: restored
+  - artwork: "swr-tmc-revisited"
+    severity: total
+    status: dead
+  - artwork: "the-slow-arrow-of-beauty"
+    severity: total
+    status: restored
+  - artwork: "sheik-attack"
+    severity: total
+    status: restored
+  - artwork: "crossroads"
+    severity: total
+    status: dead
+  - artwork: "mythic-hybrid"
+    severity: total
+    status: restored
+  - artwork: "storyland"
+    severity: total
+    status: restored
+  - artwork: "summerbranch"
+    severity: total
+    status: dead
+  - artwork: "cyber-babes"
+    severity: total
+    status: restored
+  - artwork: "dexterity-meter"
+    severity: total
+    status: restored
+  - artwork: "book-of-books"
+    severity: total
+    status: restored
+  - artwork: "simple-mouse-position-predictor-with-centipede-parts"
+    severity: total
+    status: restored
+  - artwork: "inhabited-text"
+    severity: total
+    status: restored
+  - artwork: "history-of-chilean-mining-mural"
+    severity: total
+    status: dead
+  - artwork: "open-house"
+    severity: total
+    status: restored
+  - artwork: "mile-long-page"
+    severity: total
+    status: dead
+  - artwork: "inside-the-bomb"
+    severity: total
+    status: dead
+  - artwork: "digital-marionette"
+    severity: total
+    status: dead
+  - artwork: "project-tumbleweed"
+    severity: total
+    status: restored
+  - artwork: "simple-net-art-diagram"
+    severity: total
+    status: dead
+  - artwork: "dotdotdot"
+    severity: total
+    status: dead
+  - artwork: "scroll-bar"
+    severity: total
+    status: restored
+  - artwork: "chimera-obscura"
+    severity: total
+    status: dead
+  - artwork: "experimental-party"
+    severity: total
+    status: dead
+  - artwork: "love-letters-from-a-world-of-awe-1995"
+    severity: total
+    status: restored
+  - artwork: "ilovebees"
+    severity: total
+    status: dead
+  - artwork: "my-body-a-wunderkammer"
+    severity: total
+    status: dead
+  - artwork: "largest-unused-block"
+    severity: total
+    status: dead
+  - artwork: "aquarelle-2000-web-version"
+    severity: total
+    status: dead
+  - artwork: "runners-wolfenstein"
+    severity: total
+    status: restored
+  - artwork: "untitled-splash-page"
+    severity: total
+    status: dead
+  - artwork: "concentric-cubes-4"
+    severity: total
+    status: restored
+  - artwork: "alphabet-soup"
+    severity: total
+    status: restored
+  - artwork: "tw-i-ns-riuines-swind-riverres"
+    severity: total
+    status: dead
+  - artwork: "live-tarot"
+    severity: total
+    status: restored
+  - artwork: "altitude"
+    severity: total
+    status: dead
+  - artwork: "an-anchor-for-witnessing"
+    severity: total
+    status: restored
+  - artwork: "communication-creates-conflict"
+    severity: total
+    status: restored
+  - artwork: "cockfight-arena"
+    severity: total
+    status: restored
+  - artwork: "insect-sex"
+    severity: total
+    status: restored
+  - artwork: "webmutant-1-0"
+    severity: total
+    status: dead
+  - artwork: "stereo"
+    severity: total
+    status: restored
+  - artwork: "a-soapopera-for-laptops-imacs"
+    severity: total
+    status: restored
+  - artwork: "point-of-departure"
+    severity: total
+    status: restored
+  - artwork: "absurd-org"
+    severity: total
+    status: dead
+  - artwork: "s-p-i-n-y"
+    severity: total
+    status: dead
+  - artwork: "machine"
+    severity: total
+    status: dead
+  - artwork: "the-intruder"
+    severity: total
+    status: restored
+  - artwork: "nine-metre-web-object"
+    severity: total
+    status: restored
+  - artwork: "the-cathedral-project"
+    severity: total
+    status: dead
+  - artwork: "naughty-physics"
+    severity: total
+    status: restored
+  - artwork: "periodic-table-of-experience"
+    severity: total
+    status: dead
+  - artwork: "collective-geology-of-the-erased-space"
+    severity: total
+    status: dead
+  - artwork: "bios-bidirectional-input-output-system"
+    severity: total
+    status: restored
+  - artwork: "webpaintings"
+    severity: total
+    status: dead
+  - artwork: "siberian-deal"
+    severity: total
+    status: restored
+  - artwork: "novelsquat-and-related-work"
+    severity: total
+    status: dead
+  - artwork: "fish-histories"
+    severity: total
+    status: restored
+  - artwork: "misplaced-reliquary"
+    severity: total
+    status: dead
+  - artwork: "ascii-chewy"
+    severity: total
+    status: restored
+  - artwork: "amorphoscapes-ii-1997-2004-touch-screen-editions"
+    severity: total
+    status: dead
+  - artwork: "enregistrer1"
+    severity: total
+    status: restored
+  - artwork: "idades-multi-local-multi-user-realtime-interactive-installat"
+    severity: total
+    status: restored
+  - artwork: "1999"
+    severity: total
+    status: restored
+  - artwork: "cricket-activated-defense-system"
+    severity: total
+    status: restored
+  - artwork: "re-u-man"
+    severity: total
+    status: restored
+  - artwork: "hackitectura"
+    severity: total
+    status: dead
+  - artwork: "minus-esse"
+    severity: total
+    status: restored
 fixes:
   - type: emulation
     description: "Run in a preserved environment (VM + old browser + plugin)."

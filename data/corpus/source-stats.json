@@ -1,0 +1,235 @@
+{
+  "ada": {
+    "records": 0
+  },
+  "ars-electronica": {
+    "records": 188
+  },
+  "artbase": {
+    "records": 2329
+  },
+  "goldsen": {
+    "records": 13
+  },
+  "media-art-net": {
+    "records": 0
+  },
+  "net-art-org": {
+    "records": 6
+  },
+  "netart-latino": {
+    "records": 337
+  },
+  "siggraph": {
+    "records": 11
+  },
+  "whitney": {
+    "records": 110
+  },
+  "_summary": {
+    "merged_corpus_records": 2980,
+    "high_priority_queue_records": 2980,
+    "top_hosts": [
+      [
+        "whitney.org",
+        110
+      ],
+      [
+        "subculture.com",
+        12
+      ],
+      [
+        "history.siggraph.org",
+        11
+      ],
+      [
+        "geocities.com",
+        8
+      ],
+      [
+        "lucialeao.pro.br",
+        6
+      ],
+      [
+        "net-art.org",
+        6
+      ],
+      [
+        "mayhem.net",
+        5
+      ],
+      [
+        "comum.com",
+        4
+      ],
+      [
+        "hostalia01.hostalia.com",
+        4
+      ],
+      [
+        "aleph-arts.org",
+        3
+      ],
+      [
+        "artmedia.uchile.cl",
+        3
+      ],
+      [
+        "desvirtual.com",
+        3
+      ],
+      [
+        "dialdata.com.br",
+        3
+      ],
+      [
+        "findelmundo.com.ar",
+        3
+      ],
+      [
+        "hypermedia.ucla.edu",
+        3
+      ],
+      [
+        "influenza.etc.br",
+        3
+      ],
+      [
+        "internet.com.uy",
+        3
+      ],
+      [
+        "khm.de",
+        3
+      ],
+      [
+        "no-content.net",
+        3
+      ],
+      [
+        "solecita.tripod.cl",
+        3
+      ],
+      [
+        "unosunosyunosceros.com",
+        3
+      ],
+      [
+        "x-no-01.net",
+        3
+      ],
+      [
+        "alcayata.com",
+        2
+      ],
+      [
+        "ar.groups.yahoo.com",
+        2
+      ],
+      [
+        "artecno.ucs.br",
+        2
+      ],
+      [
+        "arteuna.com",
+        2
+      ],
+      [
+        "db-db.com",
+        2
+      ],
+      [
+        "distopia.com",
+        2
+      ],
+      [
+        "dunadigital.com",
+        2
+      ],
+      [
+        "enter-net.com.br",
+        2
+      ],
+      [
+        "error404.cl",
+        2
+      ],
+      [
+        "escaner.cl",
+        2
+      ],
+      [
+        "exonemo.com",
+        2
+      ],
+      [
+        "hipercubo.uniandes.edu.co",
+        2
+      ],
+      [
+        "laferrer.tabira.org",
+        2
+      ],
+      [
+        "liminar.com.ar",
+        2
+      ],
+      [
+        "low-fi.org.uk",
+        2
+      ],
+      [
+        "manipulatto.com",
+        2
+      ],
+      [
+        "marumushi.com",
+        2
+      ],
+      [
+        "mecad.org",
+        2
+      ],
+      [
+        "mediatiqa.com.ar",
+        2
+      ],
+      [
+        "moebio.com",
+        2
+      ],
+      [
+        "mundo.mentesx.cl",
+        2
+      ],
+      [
+        "navasse.net",
+        2
+      ],
+      [
+        "oculasm.org",
+        2
+      ],
+      [
+        "palaciodurazno.com",
+        2
+      ],
+      [
+        "paulacordova.com",
+        2
+      ],
+      [
+        "perso.enst.fr",
+        2
+      ],
+      [
+        "pucsp.br",
+        2
+      ],
+      [
+        "reconnoitre.net",
+        2
+      ]
+    ]
+  }
+}
