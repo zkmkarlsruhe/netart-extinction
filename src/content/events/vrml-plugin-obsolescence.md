@@ -58,6 +58,27 @@ affected_artworks:
   - artwork: "weightless-sculpture-project"
     severity: total
     status: restored
+  - artwork: "world"
+    severity: total
+    status: dead
+  - artwork: "google-3d-warehouse"
+    severity: total
+    status: dead
+  - artwork: "vr-arcade-project"
+    severity: total
+    status: dead
+  - artwork: "reconnoitre"
+    severity: total
+    status: dead
+  - artwork: "virtual-urban"
+    severity: total
+    status: restored
+  - artwork: "translate-expression"
+    severity: total
+    status: restored
+  - artwork: "lincoln-3d-scans"
+    severity: total
+    status: dead
 fixes:
   - type: emulation
     description: "Some VRML content can be converted to X3D or viewed with standalone VRML viewers, but browser-integrated interactive experience is lost."

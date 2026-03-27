@@ -245,6 +245,60 @@ affected_artworks:
   - artwork: "electric-sheep"
     severity: total
     status: dead
+  - artwork: "balkan-layers-macedonian-diary"
+    severity: total
+    status: restored
+  - artwork: "green-streamlines"
+    severity: total
+    status: dead
+  - artwork: "gif-market"
+    severity: total
+    status: restored
+  - artwork: "rechnender-raum"
+    severity: total
+    status: dead
+  - artwork: "net-art-generator"
+    severity: total
+    status: restored
+  - artwork: "telegarden"
+    severity: total
+    status: dead
+  - artwork: "volatile-public-static"
+    severity: total
+    status: dead
+  - artwork: "brick-drawings"
+    severity: total
+    status: restored
+  - artwork: "jip-javamuseum-interview-project"
+    severity: total
+    status: dead
+  - artwork: "swarm"
+    severity: total
+    status: dead
+  - artwork: "runme-org"
+    severity: total
+    status: dead
+  - artwork: "kriegspiel"
+    severity: total
+    status: dead
+  - artwork: "a-javanized-illusion"
+    severity: total
+    status: restored
+  - artwork: "documenta-done"
+    severity: total
+    status: dead
+  - artwork: "processing"
+    severity: total
+    status: dead
+  - artwork: "the-12hr-isbn-jpeg-project"
+    severity: total
+    status: dead
+  - artwork: "visiting-hell"
+    severity: total
+    status: restored
+  - artwork: "introduction-to-net-art"
+    severity: total
+    status: restored
 fixes:
   - type: emulation
     description: "Preserve a 'known-good' browser+plugin stack via virtualization (e.g., Windows XP/7 + old Firefox/IE + JRE plugin) with network quarantining."

@@ -1,0 +1,156 @@
+[
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Entries",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "SIGGRAPH Overviews",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-overviews-siggraph/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "SIGGRAPH Asia Overviews",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-overviews-siggraph-asia/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "DAC Overviews",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/experiences-art-show/art-show-overviews-digital-arts-community-online-exhibitions/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Art Show Collections",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-view-by-type-collections/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Entry Types",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-view-by-type/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Art Show Publications",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-publication-view-all/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Art Show Catalogs",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-publication-art-show-catalogs/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Electronic Art & Animation",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-publication-electronic-art-animation/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Leonardo Art Papers & Art Catalogs",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-publication-leonardo-art-papers-art-catalogs/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "siggraph",
+    "source_url": "https://history.siggraph.org/art-show-view-all-artworks/",
+    "title": "Visual Proceedings",
+    "artist": "",
+    "year": null,
+    "url": "https://history.siggraph.org/art-show-publication-visual-proceedings/",
+    "medium": "Digital art archive reference",
+    "record_type": "archive-link",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  }
+]

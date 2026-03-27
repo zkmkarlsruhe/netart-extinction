@@ -23,6 +23,10 @@ fixes:
     description: "Full SMIL presentations (timed multimedia with layout, transitions, and synchronized audio/video) have no modern playback path in browsers. SVG SMIL animation attributes remain supported but represent only a fraction of the specification."
   - type: archive
     description: "SMIL files are XML-based and can be preserved as text, but the multimedia assets they reference and the synchronized playback experience cannot be faithfully reproduced without a SMIL-capable player."
+affected_artworks:
+  - artwork: "latitudes"
+    severity: total
+    status: degraded
 ---
 
 SMIL (Synchronized Multimedia Integration Language), a W3C standard first published in 1998, was designed to be the HTML of multimedia — a declarative XML language for authoring timed, synchronized presentations combining text, images, audio, video, and animations with spatial layout and transitions.

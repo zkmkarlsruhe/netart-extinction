@@ -22,6 +22,27 @@ affected_artworks:
   - artwork: "musicbox"
     severity: total
     status: dead
+  - artwork: "last-midi-background"
+    severity: total
+    status: degraded
+  - artwork: "nes-glitch-compilation"
+    severity: total
+    status: degraded
+  - artwork: "taboo-ascii-module-netart-project"
+    severity: total
+    status: degraded
+  - artwork: "pacific-pulse-electroacoustic-composition-for-8-channels"
+    severity: total
+    status: degraded
+  - artwork: "the-midigun"
+    severity: total
+    status: degraded
+  - artwork: "hlemmur-in-c"
+    severity: total
+    status: degraded
+  - artwork: "performances-with-electroacoustic-clothes"
+    severity: total
+    status: degraded
 ---
 
 ## What changed
