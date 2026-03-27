@@ -1,0 +1,11 @@
+---
+ai_generated: true
+title: "rassur"
+artist: "Annie Abrahams"
+year: 1999
+medium: "Net art"
+---
+
+Sourced from [Rhizome ArtBase](https://artbase.rhizome.org/wiki/Q3996).
+
+Technology dependencies: Flash.
