@@ -1,0 +1,513 @@
+[
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2002, 'Conceptual Objects' aligns with the era of Macromedia/Adobe Flash dominance in net art. Flash was widely deprecated by 2020, and most browsers no longer support it, rendering such works inaccessible without emulation.",
+    "artwork": "Conceptual Objects",
+    "artist": "Tinlun Chan",
+    "qid": "Q1488"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2005, 'Airstream' aligns with the era of Adobe Flash dominance in net art. Flash was widely deprecated by 2020, rendering most Flash-based works non-functional without emulation.",
+    "artwork": "Airstream",
+    "artist": "Abinadi Meza",
+    "qid": "Q1490"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork was created in 2006, a period when Adobe Flash was widely used for interactive and multimedia web content. Flash was deprecated in 2020 and is no longer supported by modern browsers, making such works largely inaccessible without emulation or archival tools.",
+    "artwork": "Spatial Pathologies",
+    "artist": "Dr. Margot Krasojevic",
+    "qid": "Q1491"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "MyNovel.org (2006) aligns with the era of interactive web art heavily reliant on Adobe Flash. Flash was deprecated in 2020, rendering most Flash-based works non-functional without emulation or preservation efforts.",
+    "artwork": "MyNovel.org",
+    "artist": "Alan Bigelow",
+    "qid": "Q1492"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2007, 'IN3DIA' aligns with the era of Adobe Flash dominance in net art. Flash was widely used for interactive and multimedia web works but was deprecated in 2020, rendering most Flash-based artworks non-functional without emulation or preservation efforts.",
+    "artwork": "IN3DIA",
+    "artist": "Jesse Malmed",
+    "qid": "Q1493"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2006, 'Distant Air' aligns with the era of Flash-based net art, which dominated interactive web experiences before its deprecation in 2020. Most Flash works are now inaccessible without emulation.",
+    "artwork": "Distant Air",
+    "artist": "myron campbell",
+    "qid": "Q1496"
+  },
+  {
+    "likely_tech": [
+      "DHTML"
+    ],
+    "likely_status": "degraded",
+    "confidence": "high",
+    "reasoning": "DHTML (Dynamic HTML) relied on early browser-specific JavaScript, CSS, and DOM manipulations, which are often incompatible with modern browsers. Given the artwork's creation in 2000, it likely used deprecated APIs or non-standard behaviors, making it broken or partially functional today.",
+    "artwork": "I-Section",
+    "artist": "Friederike Paetzold",
+    "qid": "Q1497"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Virta-Flaneurazine (2008) aligns with the era of net art heavily reliant on Adobe Flash for interactive, multimedia experiences. Flash was deprecated in 2020 and is no longer supported by modern browsers, making such works largely inaccessible without emulation or archival tools.",
+    "artwork": "Virta-Flaneurazine",
+    "artist": "John Craig Freeman",
+    "qid": "Q1499"
+  },
+  {
+    "likely_tech": [
+      "Google Image Search API"
+    ],
+    "likely_status": "degraded",
+    "confidence": "high",
+    "reasoning": "The artwork relies on dynamically fetching images from Google Image Search, which likely depended on an older, now-deprecated or restricted API. Google has since tightened access to its search APIs, making the original functionality unreliable or broken without updates.",
+    "artwork": "I'm Google",
+    "artist": "Dina Kelberman",
+    "qid": "Q1501"
+  },
+  {
+    "likely_tech": [
+      "Processing (Java-based)"
+    ],
+    "likely_status": "degraded",
+    "confidence": "high",
+    "reasoning": "Casey Reas co-created Processing, a Java-based environment for generative art. Works from 2004 often relied on Java applets, which are now deprecated in modern browsers, leading to degraded functionality without emulation or reimplementation.",
+    "artwork": "{ Software Structures }",
+    "artist": "Casey Reas",
+    "qid": "Q1504"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Artworks from 2010 tagged with 'net art' often relied on Adobe Flash, which was widely deprecated by 2020 and is no longer supported by modern browsers.",
+    "artwork": "Crystal Gallery",
+    "artist": "Harm Van Den Dorpel",
+    "qid": "Q1505"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2006, the artwork likely relied on Adobe Flash, which was widely used for interactive web art at the time. Flash was officially discontinued in 2020, rendering most Flash-based works non-functional today without emulation or preservation efforts.",
+    "artwork": "Mirror series no. 3: I See (the) You",
+    "artist": "Ramie Blatt",
+    "qid": "Q1507"
+  },
+  {
+    "likely_tech": [
+      "DHTML",
+      "HTML",
+      "email"
+    ],
+    "likely_status": "degraded",
+    "confidence": "medium",
+    "reasoning": "DHTML (Dynamic HTML) relied on early browser-specific JavaScript and CSS implementations, which are often incompatible with modern browsers. Email-based interaction may still function, but the visual/text components likely suffer from broken scripts, missing plugins, or deprecated APIs. The work's participatory and database-driven elements suggest reliance on server-side tech (e.g., CGI, PHP) that may no longer be maintained.",
+    "artwork": "the zero",
+    "artist": "Christina Ray",
+    "qid": "Q1511"
+  },
+  {
+    "likely_tech": [
+      "Macromedia Shockwave"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 1995, 'Short Story' by Thomson & Craighead likely relied on early web multimedia technologies like Macromedia Shockwave (or Director), which was dominant for interactive net art at the time. Shockwave is now largely obsolete, unsupported by modern browsers, and requires deprecated plugins, making the work almost certainly broken today.",
+    "artwork": "Short Story",
+    "artist": "Thomson & Craighead",
+    "qid": "Q1513"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2005, 'IntroSpection' aligns with the era of Flash-based net art, which dominated interactive web works before its deprecation in 2020. Most Flash-dependent artworks are now non-functional without emulation.",
+    "artwork": "IntroSpection",
+    "artist": "Stephen Wilson",
+    "qid": "Q1515"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2005, the artwork's title and era strongly suggest reliance on Adobe Flash, which was widely used for interactive net art at the time. Flash was officially discontinued in 2020, rendering most Flash-based works inaccessible without emulation.",
+    "artwork": "Neue Kathedrale des Erotisches Elends",
+    "artist": "Dirk Vekemans",
+    "qid": "Q1517"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2003, 'heritage' by Nicolas Clauss aligns with the era of Flash-based net art, which dominated interactive web works before its deprecation in 2020. Modern browsers no longer support Flash, making such works inaccessible without emulation.",
+    "artwork": "heritage",
+    "artist": "nicolas clauss",
+    "qid": "Q1520"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Artwork from 2002 with 'Crowds and Power' theme (common in interactive Flash pieces) aligns with the era of Flash dominance in net art. Flash was discontinued in 2020, rendering most works unplayable without emulation.",
+    "artwork": "Crowds and Power",
+    "artist": "Jody Zellen",
+    "qid": "Q1522"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2008, the work likely relied on Adobe Flash, which was widely used for interactive net art at the time. Flash was officially discontinued in 2020, rendering most Flash-based works non-functional today.",
+    "artwork": "Voyage Into The Unknown",
+    "artist": "Roderick Coover",
+    "qid": "Q1523"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2012, many net artworks from this era relied on Adobe Flash, which was deprecated in 2020 and is no longer supported by modern browsers.",
+    "artwork": "open this window .com",
+    "artist": "Rafa\u00ebl Rozendaal",
+    "qid": "Q1525"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Artwork from 2005 with no modern tags or URL suggests reliance on deprecated web technologies like Adobe Flash, which is no longer supported by browsers.",
+    "artwork": "Untitledocument",
+    "artist": "Ciro M\u00faseres",
+    "qid": "Q1526"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2008, 'July' aligns with the peak era of Adobe Flash for interactive net art. Flash was officially discontinued in 2020, rendering most Flash-based works inaccessible without emulation.",
+    "artwork": "July",
+    "artist": "Tomasz Konart",
+    "qid": "Q1527"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2002, 'Crusade' by Eddo Stern aligns with the era of Flash-based net art, which dominated interactive web works before its deprecation in 2020. Modern browsers no longer support Flash, rendering such works inaccessible without emulation.",
+    "artwork": "Crusade",
+    "artist": "Eddo Stern",
+    "qid": "Q1530"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork was created in 2005, a period when Adobe Flash was the dominant technology for interactive web art. Flash was officially discontinued in 2020, rendering most Flash-based works inaccessible without emulation or preservation efforts.",
+    "artwork": "MOMUS- Around The World In 80 Days",
+    "artist": "Nicolas Jenkins",
+    "qid": "Q1532"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Net artworks from 2010 with interactive or multimedia elements often relied on Adobe Flash, which was deprecated in 2020 and is no longer supported by modern browsers.",
+    "artwork": "Proclaiming My Love",
+    "artist": "justin kemp",
+    "qid": "Q1536"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2000, 'Adam Killer' aligns with the era of Flash-based net art, especially given its game-like, interactive, and formalist qualities. Flash was discontinued in 2020, rendering most works dependent on it non-functional without emulation or preservation efforts.",
+    "artwork": "Adam Killer",
+    "artist": "brody condon",
+    "qid": "Q1538"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Artwork from 2008 with 'dot depth' in title suggests interactive vector/graphics work, commonly built in Adobe Flash. Flash was discontinued in 2020 and is no longer supported by browsers.",
+    "artwork": "About dot depth",
+    "artist": "Fred Murie",
+    "qid": "Q1540"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2001, 'big' by Simon Fildes aligns with the era of Flash-based net art, which dominated interactive web works before its deprecation in 2020. Flash content is no longer supported by modern browsers, making it highly probable the work is non-functional today.",
+    "artwork": "big",
+    "artist": "Simon Fildes",
+    "qid": "Q1541"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2011, the artwork likely relied on Adobe Flash, which was widely used for interactive net art at the time. Flash was officially discontinued in 2020, rendering most Flash-based works non-functional today.",
+    "artwork": "I'm Here and There",
+    "artist": "Jonas Lund",
+    "qid": "Q1546"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Artwork from 2009 tagged with 'net art' and no modern alternatives often relied on Adobe Flash, which was deprecated in 2020 and is no longer supported by browsers.",
+    "artwork": "Cyber Zombies",
+    "artist": "Jst Chillin",
+    "qid": "Q1548"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Artworks from 2011 tagged with net art often relied on Adobe Flash, which was deprecated in 2020 and is no longer supported by modern browsers.",
+    "artwork": "Collection Enlargement",
+    "artist": "Jonas Lund",
+    "qid": "Q1549"
+  },
+  {
+    "likely_tech": [
+      "HTML",
+      "JavaScript",
+      "CGI/Perl",
+      "Server-side scripting"
+    ],
+    "likely_status": "degraded",
+    "confidence": "medium",
+    "reasoning": "The artwork (2001) likely used static/dynamic HTML, client-side JavaScript, and server-side scripts (e.g., CGI/Perl) for generative/participatory elements. Dependencies on outdated server tech, browser incompatibilities, or broken links may cause degradation, though core HTML/text might still partially function.",
+    "artwork": "charlie's ants",
+    "artist": "abram stern",
+    "qid": "Q1551"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2003, 'Touch screens' by Stanza aligns with the era of Macromedia/Adobe Flash dominance in net art. Flash was widely deprecated by 2020, rendering most Flash-based works non-functional without emulation.",
+    "artwork": "Touch screens",
+    "artist": "Stanza",
+    "qid": "Q1552"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2006, the artwork likely relied on Adobe Flash, which was widely used for interactive web art at the time. Flash was officially discontinued in 2020, rendering most Flash-based works non-functional today.",
+    "artwork": "SWR:TMC Revisited",
+    "artist": "Tom Chambers",
+    "qid": "Q1553"
+  },
+  {
+    "likely_tech": [
+      "Shockwave Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 1998, 'The Slow Arrow of Beauty' likely relied on Shockwave Flash, a dominant web animation technology at the time. Flash was officially discontinued in 2020, rendering most Flash-based artworks non-functional without emulation or preservation efforts.",
+    "artwork": "The Slow Arrow of Beauty",
+    "artist": "Victor Liu",
+    "qid": "Q1556"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2005, 'welkom 2 r'dam' aligns with the peak era of Flash-based net art. Flash was widely used for interactive web artworks but was deprecated in 2020, rendering most Flash-based works non-functional without emulation or preservation efforts.",
+    "artwork": "welkom 2 r'dam",
+    "artist": "laurie halsey brown",
+    "qid": "Q1558"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork was created in 2007, a period when Adobe Flash was widely used for interactive net art. Flash was officially discontinued in 2020, making most Flash-based works inaccessible without emulation or preservation efforts.",
+    "artwork": "Islanders (Flu\u00dfgeist 3)",
+    "artist": "Gr\u00e9gory Chatonsky",
+    "qid": "Q1559"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2006, the artwork likely relied on Adobe Flash, which was widely used for interactive web art at the time. Flash was officially discontinued in 2020, rendering most Flash-based works non-functional today.",
+    "artwork": "Axis of Evil Weather",
+    "artist": "Matt Dunnerstick",
+    "qid": "Q1560"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2005, 'Adscape' aligns with the era of Flash-based net art, which dominated interactive web experiences before its deprecation in 2020. Most Flash works are now non-functional without emulation.",
+    "artwork": "Adscape",
+    "artist": "Alexis Lloyd",
+    "qid": "Q1561"
+  },
+  {
+    "likely_tech": [
+      "Java Applet"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2007, 'Green Streamlines' likely used Java Applets for interactive visualizations, a common technology at the time. Java Applets are now deprecated and unsupported in modern browsers, making the work non-functional today.",
+    "artwork": "Green Streamlines",
+    "artist": "Mark Stock",
+    "qid": "Q1564"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2005, interactive net art of this era commonly relied on Adobe Flash for animations and user interaction. Flash was deprecated in 2020 and is no longer supported by modern browsers.",
+    "artwork": "Interactive Switchboard",
+    "artist": "thomas charveriat",
+    "qid": "Q1565"
+  },
+  {
+    "likely_tech": [
+      "BBS (Bulletin Board System)"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork documents 'The Thing BBS,' a dial-up bulletin board system active in the early 1990s. BBS technology relied on phone lines and modems, which are largely obsolete today, making the original system inaccessible without emulation or archival efforts.",
+    "artwork": "Photographs of The Thing BBS and headquarters",
+    "artist": "Wolfgang Staehle",
+    "qid": "Q1566"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2004, the work aligns with the era of Adobe Flash dominance in net art. Flash was discontinued in 2020, rendering most Flash-based works inaccessible without emulation.",
+    "artwork": "Art if I want",
+    "artist": "nicolas clauss",
+    "qid": "Q1567"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2008, 'Eavesdropping' was likely built using Adobe Flash, a dominant web technology for interactive art at the time. Flash was officially discontinued in 2020, rendering most Flash-based works non-functional without emulation or preservation efforts.",
+    "artwork": "Eavesdropping",
+    "artist": "Jack Stockholm",
+    "qid": "Q1570"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "The artwork's creation date (2004) aligns with the peak of Adobe Flash usage for interactive net art. Flash was widely deprecated by 2020, and most browsers no longer support it, rendering such works non-functional without emulation.",
+    "artwork": "718/303-9553",
+    "artist": "Sonic Supper",
+    "qid": "Q1571"
+  },
+  {
+    "likely_tech": [
+      "Flash"
+    ],
+    "likely_status": "dead",
+    "confidence": "high",
+    "reasoning": "Created in 2005, 'conflict' by Martin Allman aligns with the era of Flash-based net art, which dominated interactive web works before its deprecation in 2020. Flash is no longer supported by modern browsers, making such artworks inaccessible without emulation.",
+    "artwork": "conflict",
+    "artist": "Martin Allman",
+    "qid": "Q1572"
+  }
+]
