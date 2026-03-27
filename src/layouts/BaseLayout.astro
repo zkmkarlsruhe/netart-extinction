@@ -48,50 +48,83 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <slot />
   </main>
   <Footer />
-  <script>
-    function glitchHeadings() {
-      const headings = document.querySelectorAll('main h1, main h2');
+  <script is:inline>
+    function wrapHeadingChars() {
+      const headings = document.querySelectorAll('main h1, main h2, .page-header h1');
       headings.forEach(h => {
-        if (h.querySelector('.glitch-char')) return;
+        if (h.closest('.logo') || h.querySelector('.g-ch')) return;
         const walker = document.createTreeWalker(h, NodeFilter.SHOW_TEXT);
-        const textNodes: { node: Text; text: string }[] = [];
-        let node;
+        var textNodes = [];
+        var node;
         while (node = walker.nextNode()) {
-          textNodes.push({ node: node as Text, text: (node as Text).textContent || '' });
+          textNodes.push({ node: node, text: node.textContent || '' });
         }
         textNodes.forEach(({ node, text }) => {
           const frag = document.createDocumentFragment();
-          // Pick 1-2 characters to glitch per text node (seeded by length)
-          const glitchPositions = new Set<number>();
-          if (text.length > 3) {
-            // Deterministic "random" based on char codes
-            const seed = Array.from(text).reduce((a, c) => a + c.charCodeAt(0), 0);
-            glitchPositions.add(seed % Math.max(1, text.replace(/\s/g, '').length));
-            if (text.length > 8) {
-              glitchPositions.add((seed * 7) % Math.max(1, text.replace(/\s/g, '').length));
-            }
-          }
-          let nonSpaceIdx = 0;
           for (let i = 0; i < text.length; i++) {
             const ch = text[i];
-            const isSpace = /\s/.test(ch);
-            if (glitchPositions.has(nonSpaceIdx) && !isSpace) {
+            if (/\s/.test(ch)) {
+              frag.appendChild(document.createTextNode(ch));
+            } else {
               const span = document.createElement('span');
               span.textContent = ch;
-              span.className = 'glitch-char ' +
-                (nonSpaceIdx % 2 === 0 ? 'glitch-char--offset' : 'glitch-char--drift');
+              span.className = 'g-ch';
               frag.appendChild(span);
-            } else {
-              frag.appendChild(document.createTextNode(ch));
             }
-            if (!isSpace) nonSpaceIdx++;
           }
           node.parentNode?.replaceChild(frag, node);
         });
       });
     }
-    glitchHeadings();
-    document.addEventListener('astro:page-load', glitchHeadings);
+
+    const glitchClasses = ['glitch-1', 'glitch-2', 'glitch-3', 'glitch-4'];
+
+    function cycleGlitch() {
+      // Clear all
+      document.querySelectorAll('.g-ch').forEach(function(el) {
+        glitchClasses.forEach(c => el.classList.remove(c));
+      });
+
+      // Pick chars proportional to heading length
+      const headings = document.querySelectorAll('main h1, main h2, .page-header h1');
+      headings.forEach(h => {
+        if (h.closest('.logo')) return;
+        var chars = h.querySelectorAll('.g-ch');
+        if (chars.length < 4) return;
+
+        // ~1 per 5 chars, min 2, max 6
+        var count = Math.min(6, Math.max(2, Math.floor(chars.length / 5)));
+        var used = new Set();
+
+        for (var i = 0; i < count; i++) {
+          var idx;
+          do { idx = Math.floor(Math.random() * chars.length); } while (used.has(idx));
+          used.add(idx);
+          var cls = glitchClasses[Math.floor(Math.random() * glitchClasses.length)];
+          chars[idx].classList.add(cls);
+        }
+      });
+    }
+
+    function scheduleGlitch() {
+      var delay = 8000 + Math.random() * 7000;
+      setTimeout(function() {
+        cycleGlitch();
+        scheduleGlitch();
+      }, delay);
+    }
+
+    function initGlitch() {
+      wrapHeadingChars();
+      cycleGlitch();
+      scheduleGlitch();
+    }
+
+    if (document.readyState === 'loading') {
+      document.addEventListener('DOMContentLoaded', initGlitch);
+    } else {
+      initGlitch();
+    }
   </script>
 </body>
 </html>
