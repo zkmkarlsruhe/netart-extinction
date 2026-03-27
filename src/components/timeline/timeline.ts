@@ -1,7 +1,7 @@
 import { scaleTime, scaleLinear } from 'd3-scale';
 import { axisBottom } from 'd3-axis';
 import { select } from 'd3-selection';
-import { timeYear } from 'd3-time';
+import { timeYear, timeMonth } from 'd3-time';
 import { timeFormat } from 'd3-time-format';
 import { extent, groups } from 'd3-array';
 
@@ -59,11 +59,56 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
 
   document.addEventListener('timeline:filter', ((e: CustomEvent) => {
     activeFilter = e.detail.filter;
+    resetZoom();
     render();
   }) as EventListener);
 
   const margin = { top: 20, right: 30, bottom: 40, left: 30 };
   const height = 220;
+
+  // Zoom/pan state
+  let fullDomain: [Date, Date] = [new Date(), new Date()];
+  let viewDomain: [Date, Date] = [new Date(), new Date()];
+  let isPanning = false;
+  let panStartX = 0;
+  let panStartDomain: [Date, Date] = [new Date(), new Date()];
+  let pinchStartDist = 0;
+  let pinchMidX = 0;
+  let pinchStartDomain: [Date, Date] = [new Date(), new Date()];
+  const isMobile = 'ontouchstart' in window;
+
+  function resetZoom() {
+    viewDomain = [...fullDomain] as [Date, Date];
+  }
+
+  function clampDomain(domain: [Date, Date]): [Date, Date] {
+    const fullSpan = fullDomain[1].getTime() - fullDomain[0].getTime();
+    const minSpan = fullSpan * 0.02; // max zoom: ~2% of full range
+    let [start, end] = domain;
+    let span = end.getTime() - start.getTime();
+
+    if (span < minSpan) {
+      const mid = start.getTime() + span / 2;
+      start = new Date(mid - minSpan / 2);
+      end = new Date(mid + minSpan / 2);
+      span = minSpan;
+    }
+
+    if (span > fullSpan) {
+      return [...fullDomain] as [Date, Date];
+    }
+
+    if (start.getTime() < fullDomain[0].getTime()) {
+      start = fullDomain[0];
+      end = new Date(start.getTime() + span);
+    }
+    if (end.getTime() > fullDomain[1].getTime()) {
+      end = fullDomain[1];
+      start = new Date(end.getTime() - span);
+    }
+
+    return [start, end];
+  }
 
   function render() {
     container.innerHTML = '';
@@ -87,8 +132,15 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
     const [minDate, maxDate] = extent(allDates) as [Date, Date];
 
     const padMs = (maxDate.getTime() - minDate.getTime()) * 0.05;
+    fullDomain = [new Date(minDate.getTime() - padMs), new Date(maxDate.getTime() + padMs)];
+
+    // Only reset view if it's the initial render or filter changed
+    if (viewDomain[0].getTime() === viewDomain[1].getTime()) {
+      viewDomain = [...fullDomain] as [Date, Date];
+    }
+
     const x = scaleTime()
-      .domain([new Date(minDate.getTime() - padMs), new Date(maxDate.getTime() + padMs)])
+      .domain(viewDomain)
       .range([0, innerWidth]);
 
     const svg = select(container)
@@ -97,18 +149,34 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
       .attr('height', height)
       .attr('viewBox', `0 0 ${width} ${height}`)
       .attr('role', 'img')
-      .attr('aria-label', 'Timeline of net art extinction events');
+      .attr('aria-label', 'Timeline of net art extinction events')
+      .style('touch-action', 'none');
 
     const g = svg.append('g')
       .attr('transform', `translate(${margin.left},${margin.top})`);
 
+    // Determine tick interval based on visible span
+    const visibleSpanYears = (viewDomain[1].getTime() - viewDomain[0].getTime()) / (365.25 * 24 * 60 * 60 * 1000);
+    let tickInterval;
+    let tickFormatStr = '%Y';
+    if (visibleSpanYears <= 2) {
+      tickInterval = timeMonth.every(3)!;
+      tickFormatStr = '%b %Y';
+    } else if (visibleSpanYears <= 5) {
+      tickInterval = timeYear.every(1)!;
+    } else if (visibleSpanYears <= 15) {
+      tickInterval = timeYear.every(2)!;
+    } else {
+      tickInterval = timeYear.every(5)!;
+    }
+
     // Gridlines
     const trackColor = getCSSVar('--timeline-track');
     const borderColor = getCSSVar('--border');
-    const yearTicks = x.ticks(timeYear.every(1)!);
+    const gridTicks = x.ticks(tickInterval);
 
     g.selectAll('.gridline')
-      .data(yearTicks)
+      .data(gridTicks)
       .join('line')
       .attr('class', 'gridline')
       .attr('x1', (d: Date) => x(d))
@@ -122,8 +190,8 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
     // Axis
     const textColor = getCSSVar('--text-muted');
     const xAxis = axisBottom(x)
-      .ticks(timeYear.every(1)!)
-      .tickFormat((d) => timeFormat('%Y')(d as Date))
+      .ticks(tickInterval)
+      .tickFormat((d) => timeFormat(tickFormatStr)(d as Date))
       .tickSizeOuter(0);
 
     const axisG = g.append('g')
@@ -143,8 +211,14 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
       .attr('stroke', trackColor)
       .attr('stroke-width', 1.5);
 
+    // Filter to visible events only
+    const visibleParsed = parsed.filter((d) => {
+      const endDate = d.endDate ?? d.startDate;
+      return endDate >= viewDomain[0] && d.startDate <= viewDomain[1];
+    });
+
     // Layout: avoid overlap by assigning vertical lanes
-    const sortedEvents = [...parsed].sort((a, b) => a.startDate.getTime() - b.startDate.getTime());
+    const sortedEvents = [...visibleParsed].sort((a, b) => a.startDate.getTime() - b.startDate.getTime());
     const lanes: { endX: number }[] = [];
 
     const laneAssignment = sortedEvents.map((evt) => {
@@ -163,7 +237,7 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
     const laneHeight = Math.min(30, (innerHeight - 20) / laneCount);
     const baseY = innerHeight / 2 - (laneCount * laneHeight) / 2;
 
-    // Tooltip — append to parent .timeline-container to avoid overflow:hidden clipping
+    // Tooltip
     const tooltipParent = container.parentElement ?? container;
     const tooltip = select(tooltipParent)
       .append('div')
@@ -188,7 +262,7 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
         select(this).attr('opacity', 0.6);
         showTooltip(event, _e);
       })
-      .on('mousemove', function (_e: MouseEvent, { event }: { event: ParsedEvent }) {
+      .on('mousemove', function (_e: MouseEvent) {
         moveTooltip(_e);
       })
       .on('mouseleave', function () {
@@ -230,6 +304,117 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
         window.location.href = `/events/${event.id}`;
       });
 
+    // Touch: tap on dot/bar shows tooltip, tap elsewhere hides
+    if (isMobile) {
+      let activeTouch: ParsedEvent | null = null;
+
+      const handleTap = (event: ParsedEvent, el: SVGElement, e: TouchEvent) => {
+        e.preventDefault();
+        e.stopPropagation();
+        if (activeTouch === event) {
+          // Second tap navigates
+          window.location.href = `/events/${event.id}`;
+          return;
+        }
+        activeTouch = event;
+        const touch = e.changedTouches[0];
+        const fakeMouseEvent = { clientX: touch.clientX, clientY: touch.clientY } as MouseEvent;
+        showTooltip(event, fakeMouseEvent);
+      };
+
+      g.selectAll<SVGCircleElement, { event: ParsedEvent }>('.point-dot')
+        .on('touchend', function (e: TouchEvent, { event }: { event: ParsedEvent }) {
+          handleTap(event, this, e);
+        });
+
+      g.selectAll<SVGRectElement, { event: ParsedEvent }>('.range-bar')
+        .on('touchend', function (e: TouchEvent, { event }: { event: ParsedEvent }) {
+          handleTap(event, this, e);
+        });
+
+      svg.on('touchend', (e: TouchEvent) => {
+        if (e.target === svg.node() || (e.target as Element).tagName === 'line') {
+          activeTouch = null;
+          hideTooltip();
+        }
+      });
+    }
+
+    // Zoom/pan interaction on SVG
+    const svgNode = svg.node()!;
+
+    // Mouse wheel zoom (desktop)
+    svgNode.addEventListener('wheel', (e: WheelEvent) => {
+      e.preventDefault();
+      const rect = svgNode.getBoundingClientRect();
+      const mouseX = e.clientX - rect.left - margin.left;
+      const fraction = mouseX / innerWidth;
+
+      const span = viewDomain[1].getTime() - viewDomain[0].getTime();
+      const zoomFactor = e.deltaY > 0 ? 1.15 : 0.85;
+      const newSpan = span * zoomFactor;
+
+      const mouseTime = viewDomain[0].getTime() + span * fraction;
+      const newStart = mouseTime - newSpan * fraction;
+      const newEnd = newStart + newSpan;
+
+      viewDomain = clampDomain([new Date(newStart), new Date(newEnd)]);
+      render();
+    }, { passive: false });
+
+    // Touch pan & pinch zoom
+    svgNode.addEventListener('touchstart', (e: TouchEvent) => {
+      if (e.touches.length === 1) {
+        isPanning = true;
+        panStartX = e.touches[0].clientX;
+        panStartDomain = [...viewDomain] as [Date, Date];
+      } else if (e.touches.length === 2) {
+        isPanning = false;
+        const dx = e.touches[1].clientX - e.touches[0].clientX;
+        const dy = e.touches[1].clientY - e.touches[0].clientY;
+        pinchStartDist = Math.sqrt(dx * dx + dy * dy);
+        pinchMidX = (e.touches[0].clientX + e.touches[1].clientX) / 2;
+        pinchStartDomain = [...viewDomain] as [Date, Date];
+        hideTooltip();
+      }
+    }, { passive: true });
+
+    svgNode.addEventListener('touchmove', (e: TouchEvent) => {
+      if (e.touches.length === 1 && isPanning) {
+        e.preventDefault();
+        const dx = e.touches[0].clientX - panStartX;
+        const pxPerMs = innerWidth / (panStartDomain[1].getTime() - panStartDomain[0].getTime());
+        const shiftMs = -dx / pxPerMs;
+        const newStart = new Date(panStartDomain[0].getTime() + shiftMs);
+        const newEnd = new Date(panStartDomain[1].getTime() + shiftMs);
+        viewDomain = clampDomain([newStart, newEnd]);
+        render();
+      } else if (e.touches.length === 2) {
+        e.preventDefault();
+        const dx = e.touches[1].clientX - e.touches[0].clientX;
+        const dy = e.touches[1].clientY - e.touches[0].clientY;
+        const dist = Math.sqrt(dx * dx + dy * dy);
+        const scale = pinchStartDist / dist;
+
+        const rect = svgNode.getBoundingClientRect();
+        const midX = pinchMidX - rect.left - margin.left;
+        const fraction = midX / innerWidth;
+
+        const oldSpan = pinchStartDomain[1].getTime() - pinchStartDomain[0].getTime();
+        const newSpan = oldSpan * scale;
+        const midTime = pinchStartDomain[0].getTime() + oldSpan * fraction;
+        const newStart = midTime - newSpan * fraction;
+        const newEnd = newStart + newSpan;
+
+        viewDomain = clampDomain([new Date(newStart), new Date(newEnd)]);
+        render();
+      }
+    }, { passive: false });
+
+    svgNode.addEventListener('touchend', () => {
+      isPanning = false;
+    }, { passive: true });
+
     function showTooltip(event: ParsedEvent, e: MouseEvent) {
       tooltip
         .html(`
@@ -246,8 +431,10 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
       const rect = tooltipParent.getBoundingClientRect();
       let left = e.clientX - rect.left + 12;
       let top = e.clientY - rect.top - 10;
-      const tw = 280;
+      const tw = Math.min(280, rect.width - 24);
+      tooltip.style('max-width', tw + 'px');
       if (left + tw > rect.width) left = left - tw - 24;
+      if (left < 0) left = 8;
       tooltip.style('left', left + 'px').style('top', top + 'px');
     }
 
@@ -257,6 +444,39 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
   }
 
   render();
+
+  // Add zoom controls for mobile
+  if (isMobile) {
+    const controls = document.createElement('div');
+    controls.className = 'timeline-controls';
+    controls.innerHTML = `
+      <button class="timeline-ctrl" id="tl-zoom-in" aria-label="Zoom in">+</button>
+      <button class="timeline-ctrl" id="tl-zoom-out" aria-label="Zoom out">&minus;</button>
+      <button class="timeline-ctrl" id="tl-reset" aria-label="Reset zoom">Reset</button>
+    `;
+    (container.parentElement ?? container).appendChild(controls);
+
+    document.getElementById('tl-zoom-in')!.addEventListener('click', () => {
+      const span = viewDomain[1].getTime() - viewDomain[0].getTime();
+      const mid = viewDomain[0].getTime() + span / 2;
+      const newSpan = span * 0.6;
+      viewDomain = clampDomain([new Date(mid - newSpan / 2), new Date(mid + newSpan / 2)]);
+      render();
+    });
+
+    document.getElementById('tl-zoom-out')!.addEventListener('click', () => {
+      const span = viewDomain[1].getTime() - viewDomain[0].getTime();
+      const mid = viewDomain[0].getTime() + span / 2;
+      const newSpan = span * 1.6;
+      viewDomain = clampDomain([new Date(mid - newSpan / 2), new Date(mid + newSpan / 2)]);
+      render();
+    });
+
+    document.getElementById('tl-reset')!.addEventListener('click', () => {
+      resetZoom();
+      render();
+    });
+  }
 
   const ro = new ResizeObserver(() => render());
   ro.observe(container);

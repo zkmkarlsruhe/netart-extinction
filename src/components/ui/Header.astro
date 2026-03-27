@@ -7,7 +7,12 @@
       <span class="logo-icon" aria-hidden="true">&#x25A0;</span>
       Extinction Timeline
     </a>
-    <nav>
+    <button id="menu-toggle" type="button" class="menu-toggle" aria-label="Toggle menu" aria-expanded="false">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <nav id="main-nav">
       <a href="/">Timeline</a>
       <a href="/about">About</a>
       <a href="/ai-transparency">AI Transparency</a>
@@ -20,12 +25,29 @@
 </header>
 
 <script>
-  const btn = document.getElementById('theme-toggle')!;
-  btn.addEventListener('click', () => {
+  document.getElementById('theme-toggle')!.addEventListener('click', () => {
     const current = document.documentElement.getAttribute('data-theme');
     const next = current === 'dark' ? 'light' : 'dark';
     document.documentElement.setAttribute('data-theme', next);
     localStorage.setItem('theme', next);
+  });
+
+  const menuBtn = document.getElementById('menu-toggle')!;
+  const nav = document.getElementById('main-nav')!;
+
+  menuBtn.addEventListener('click', () => {
+    const isOpen = nav.classList.toggle('open');
+    menuBtn.classList.toggle('open', isOpen);
+    menuBtn.setAttribute('aria-expanded', String(isOpen));
+  });
+
+  // Close menu when a link is clicked
+  nav.querySelectorAll('a').forEach(link => {
+    link.addEventListener('click', () => {
+      nav.classList.remove('open');
+      menuBtn.classList.remove('open');
+      menuBtn.setAttribute('aria-expanded', 'false');
+    });
   });
 </script>
 
@@ -87,10 +109,85 @@
     font-size: 1rem;
     color: var(--text);
     line-height: 1;
+    flex-shrink: 0;
   }
 
   [data-theme="light"] .icon-dark,
   [data-theme="dark"] .icon-light {
     display: none;
+  }
+
+  .menu-toggle {
+    display: none;
+  }
+
+  @media (max-width: 640px) {
+    .header-inner {
+      flex-wrap: wrap;
+      height: auto;
+      padding-top: var(--space-sm);
+      padding-bottom: var(--space-sm);
+    }
+
+    .menu-toggle {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      gap: 4px;
+      background: none;
+      border: 1px solid var(--border);
+      border-radius: 6px;
+      padding: 0.5rem;
+      cursor: pointer;
+      margin-left: auto;
+      width: 2.25rem;
+      height: 2.25rem;
+    }
+
+    .menu-toggle span {
+      display: block;
+      width: 14px;
+      height: 2px;
+      background: var(--text);
+      border-radius: 1px;
+      transition: transform 0.2s, opacity 0.2s;
+    }
+
+    .menu-toggle.open span:nth-child(1) {
+      transform: translateY(6px) rotate(45deg);
+    }
+
+    .menu-toggle.open span:nth-child(2) {
+      opacity: 0;
+    }
+
+    .menu-toggle.open span:nth-child(3) {
+      transform: translateY(-6px) rotate(-45deg);
+    }
+
+    nav {
+      display: none;
+      width: 100%;
+      flex-direction: column;
+      gap: 0;
+      margin-left: 0;
+      order: 10;
+    }
+
+    nav.open {
+      display: flex;
+    }
+
+    nav a {
+      display: block;
+      padding: var(--space-sm) 0;
+      font-size: 1rem;
+      border-top: 1px solid var(--border);
+    }
+
+    #theme-toggle {
+      order: 5;
+    }
   }
 </style>
