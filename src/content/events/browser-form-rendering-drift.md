@@ -14,7 +14,7 @@ links:
 affected_artworks:
   - artwork: "form-art"
     severity: total
-    status: degraded
+    status: restored
     note: "Designed for Netscape 3 form elements. Nearly unrecognizable in modern browsers — the 'material' of the work has changed."
 fixes:
   - type: emulation

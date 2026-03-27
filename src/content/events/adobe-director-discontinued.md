@@ -14,7 +14,7 @@ links:
 affected_artworks:
   - artwork: "carrier"
     severity: total
-    status: dead
+    status: restored
     note: "Director/Shockwave project. Even if the Shockwave Player somehow ran, the source .dir files can no longer be edited to fix or update the work."
   - artwork: "new-lexia"
     severity: total
@@ -24,6 +24,36 @@ affected_artworks:
     severity: total
     status: dead
     note: "Director/Shockwave audio piece. Authoring tool death means no path to updating the work."
+  - artwork: "any-wall"
+    severity: total
+    status: dead
+  - artwork: "attributed-text"
+    severity: total
+    status: dead
+  - artwork: "the-concise-model-of-the-universe"
+    severity: total
+    status: dead
+  - artwork: "agatha-appears"
+    severity: total
+    status: dead
+  - artwork: "3-proposals-for-bottle-imps"
+    severity: total
+    status: restored
+  - artwork: "web-performer"
+    severity: total
+    status: restored
+  - artwork: "transience-an-atonal-composition"
+    severity: total
+    status: dead
+  - artwork: "osiris"
+    severity: total
+    status: restored
+  - artwork: "form-art"
+    severity: total
+    status: restored
+  - artwork: "animatrix"
+    severity: total
+    status: dead
 fixes:
   - type: archive
     description: "The Flashpoint Archive has preserved 25,000+ Shockwave titles. The open-source ProjectorRays decompiler can reconstruct Lingo code from compiled files."

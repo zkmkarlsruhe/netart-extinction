@@ -18,6 +18,10 @@ fixes:
     description: "JavaScript libraries like MIDI.js and Tone.js can parse .mid files and synthesize audio in the browser via WebAudio, but the sound depends entirely on the chosen soundfont — the original GM/GS/XG synthesizer timbres are not preserved."
   - type: migration
     description: "MIDI files can be rendered to audio offline using period-appropriate synthesizers (e.g., a Roland SC-55 or Sound Canvas VA), but this destroys the interactive and generative qualities of MIDI-based artworks."
+affected_artworks:
+  - artwork: "musicbox"
+    severity: total
+    status: dead
 ---
 
 ## What changed

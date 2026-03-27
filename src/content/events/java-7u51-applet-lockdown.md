@@ -14,7 +14,7 @@ links:
 affected_artworks:
   - artwork: "instance-city"
     severity: total
-    status: dead
+    status: restored
     note: "Java applet embedded in web page. Unsigned/legacy packaging may be blocked under tightened Java security."
   - artwork: "the-great-game"
     severity: total
@@ -26,7 +26,7 @@ affected_artworks:
     note: "Java applet UI. Security prompts/blocks prevent normal access."
   - artwork: "art-from-text"
     severity: total
-    status: dead
+    status: restored
     note: "Java applet. Requires compliant signing/manifest to run under 7u51-era security."
   - artwork: "starrynight"
     severity: total

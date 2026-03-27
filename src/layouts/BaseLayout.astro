@@ -1,4 +1,7 @@
 ---
+import '@fontsource/space-grotesk/500.css';
+import '@fontsource/space-grotesk/600.css';
+import '@fontsource/space-grotesk/700.css';
 import '@fontsource/source-serif-4/400.css';
 import '@fontsource/source-serif-4/700.css';
 import '@fontsource/inter/400.css';
@@ -45,6 +48,51 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site);
     <slot />
   </main>
   <Footer />
+  <script>
+    function glitchHeadings() {
+      const headings = document.querySelectorAll('main h1, main h2');
+      headings.forEach(h => {
+        if (h.querySelector('.glitch-char')) return;
+        const walker = document.createTreeWalker(h, NodeFilter.SHOW_TEXT);
+        const textNodes: { node: Text; text: string }[] = [];
+        let node;
+        while (node = walker.nextNode()) {
+          textNodes.push({ node: node as Text, text: (node as Text).textContent || '' });
+        }
+        textNodes.forEach(({ node, text }) => {
+          const frag = document.createDocumentFragment();
+          // Pick 1-2 characters to glitch per text node (seeded by length)
+          const glitchPositions = new Set<number>();
+          if (text.length > 3) {
+            // Deterministic "random" based on char codes
+            const seed = Array.from(text).reduce((a, c) => a + c.charCodeAt(0), 0);
+            glitchPositions.add(seed % Math.max(1, text.replace(/\s/g, '').length));
+            if (text.length > 8) {
+              glitchPositions.add((seed * 7) % Math.max(1, text.replace(/\s/g, '').length));
+            }
+          }
+          let nonSpaceIdx = 0;
+          for (let i = 0; i < text.length; i++) {
+            const ch = text[i];
+            const isSpace = /\s/.test(ch);
+            if (glitchPositions.has(nonSpaceIdx) && !isSpace) {
+              const span = document.createElement('span');
+              span.textContent = ch;
+              span.className = 'glitch-char ' +
+                (nonSpaceIdx % 2 === 0 ? 'glitch-char--offset' : 'glitch-char--drift');
+              frag.appendChild(span);
+            } else {
+              frag.appendChild(document.createTextNode(ch));
+            }
+            if (!isSpace) nonSpaceIdx++;
+          }
+          node.parentNode?.replaceChild(frag, node);
+        });
+      });
+    }
+    glitchHeadings();
+    document.addEventListener('astro:page-load', glitchHeadings);
+  </script>
 </body>
 </html>
 

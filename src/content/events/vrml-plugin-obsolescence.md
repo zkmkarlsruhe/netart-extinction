@@ -24,10 +24,10 @@ affected_artworks:
     status: dead
   - artwork: "carrier"
     severity: total
-    status: dead
+    status: restored
   - artwork: "cyberpoetry-1995-1997"
     severity: total
-    status: dead
+    status: restored
   - artwork: "helix"
     severity: total
     status: dead
@@ -39,7 +39,7 @@ affected_artworks:
     status: dead
   - artwork: "prototype-for-static-vehicle"
     severity: total
-    status: dead
+    status: restored
   - artwork: "revenances"
     severity: total
     status: dead
@@ -54,10 +54,10 @@ affected_artworks:
     status: dead
   - artwork: "voxels"
     severity: total
-    status: dead
+    status: restored
   - artwork: "weightless-sculpture-project"
     severity: total
-    status: dead
+    status: restored
 fixes:
   - type: emulation
     description: "Some VRML content can be converted to X3D or viewed with standalone VRML viewers, but browser-integrated interactive experience is lost."

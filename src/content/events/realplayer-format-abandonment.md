@@ -22,25 +22,25 @@ affected_artworks:
     status: dead
   - artwork: "anti-capitalist-operating-system"
     severity: total
-    status: dead
+    status: restored
   - artwork: "being-human"
     severity: total
     status: dead
   - artwork: "bindigirl"
     severity: total
-    status: dead
+    status: restored
   - artwork: "bodies-incorporated"
     severity: total
     status: dead
   - artwork: "document-9-1-1"
     severity: total
-    status: dead
+    status: restored
   - artwork: "frustration-machine"
     severity: total
-    status: dead
+    status: restored
   - artwork: "gl-v"
     severity: total
-    status: dead
+    status: restored
   - artwork: "home-transfer"
     severity: total
     status: dead
@@ -49,31 +49,31 @@ affected_artworks:
     status: dead
   - artwork: "in-conversation"
     severity: total
-    status: dead
+    status: restored
   - artwork: "jessambola"
     severity: total
-    status: dead
+    status: restored
   - artwork: "la-fabrica"
     severity: total
-    status: dead
+    status: restored
   - artwork: "learning-to-love-you-more"
     severity: total
     status: dead
   - artwork: "metronome"
     severity: total
-    status: dead
+    status: restored
   - artwork: "multiple-dwelling"
     severity: total
-    status: dead
+    status: restored
   - artwork: "n3xt"
     severity: total
     status: dead
   - artwork: "nonsense"
     severity: total
-    status: dead
+    status: restored
   - artwork: "one-night-in-greenwich-village"
     severity: total
-    status: dead
+    status: restored
   - artwork: "oppera-teorettikka-internettikka"
     severity: total
     status: dead
@@ -85,10 +85,10 @@ affected_artworks:
     status: dead
   - artwork: "pliages-et-d"
     severity: total
-    status: dead
+    status: restored
   - artwork: "plotfracture"
     severity: total
-    status: dead
+    status: restored
   - artwork: "polar-inertia"
     severity: total
     status: dead
@@ -97,7 +97,7 @@ affected_artworks:
     status: dead
   - artwork: "the-act"
     severity: total
-    status: dead
+    status: restored
   - artwork: "the-sour-thunder"
     severity: total
     status: dead
@@ -112,7 +112,7 @@ affected_artworks:
     status: dead
   - artwork: "violence"
     severity: total
-    status: dead
+    status: restored
   - artwork: "what-was-he-thinking-about-berlin-praha-ljubljana-skopje"
     severity: total
     status: dead
