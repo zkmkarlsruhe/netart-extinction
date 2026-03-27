@@ -1,8 +1,14 @@
 {
-  "name": "extinction-timeline",
+  "name": "netart-extinction",
+  "description": "Documenting how dependency changes break digital artworks",
   "type": "module",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://extinction.zkm.de",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zkmkarlsruhe/netart-extinction.git"
+  },
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
