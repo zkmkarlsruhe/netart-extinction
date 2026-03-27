@@ -41,6 +41,7 @@ body:
         - protocol-change
         - corporate-acquisition
         - terms-of-service
+        - hardware-obsolescence
         - other
     validations:
       required: true
