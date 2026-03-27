@@ -51,8 +51,7 @@ const fixLabels: Record<string, string> = {
           {displayDate}{hasEndDate ? ` — ${endDisplay}` : ''}
         </time>
       </div>
-      <h1>{event.data.title}</h1>
-      {event.data.ai_generated && <AiBadge />}
+      <h1>{event.data.title} {event.data.ai_generated && <AiBadge />}</h1>
       <p class="dependency">Dependency: <code>{event.data.dependency}</code></p>
       <p class="summary">{event.data.summary}</p>
     </header>
