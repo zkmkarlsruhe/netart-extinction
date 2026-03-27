@@ -14,7 +14,7 @@ links:
   - url: "https://rhizome.org/editorial/2016/dec/05/tropical-minitel/"
     label: "Rhizome: Brazil's Telematic Revolution"
 affected_artworks:
-  - artwork: reabracadabra
+  - artwork: "reabracadabra"
     severity: total
     status: restored
     note: "Painstakingly reconstructed over 15 years by Kac with the PAMAL research unit using legacy Minitel hardware and simulated dial-up speeds."

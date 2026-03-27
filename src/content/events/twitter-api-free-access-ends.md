@@ -12,23 +12,23 @@ links:
   - url: "https://docs.x.com/x-api/getting-started/about-x-api"
     label: "X API access tiers / pricing"
 affected_artworks:
-  - artwork: schwitters-on-twitter
+  - artwork: "schwitters-on-twitter"
     severity: total
     status: degraded
     note: "Automated tweeting via Twitter4J. Bot posting/retrieval fails without valid paid API access."
-  - artwork: tweeting-colors
+  - artwork: "tweeting-colors"
     severity: total
     status: unknown
     note: "Reads public tweets to generate visual bars. Live ingestion breaks if endpoint access removed."
-  - artwork: ellsworth-kelly-hacked-my-twitter
+  - artwork: "ellsworth-kelly-hacked-my-twitter"
     severity: total
     status: unknown
     note: "Real-time chart from the artist's feed. Feed retrieval breaks without API access."
-  - artwork: date-paintings-twitter
+  - artwork: "date-paintings-twitter"
     severity: major
     status: unknown
     note: "Relies on tweet timestamps and platform time display. If posting/retrieval constrained, the work's core rule-set collapses."
-  - artwork: pentametron
+  - artwork: "pentametron"
     severity: total
     status: unknown
     note: "Bot reads tweets and posts/retweets on a schedule. Bots often require paid access or dramatically reduced cadence."

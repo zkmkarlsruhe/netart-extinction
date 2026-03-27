@@ -10,15 +10,15 @@ links:
   - url: "https://developer.chrome.com/blog/autoplay"
     label: "Chrome autoplay policy overview"
 affected_artworks:
-  - artwork: sign69
+  - artwork: "sign69"
     severity: major
     status: degraded
     note: "Randomized animation loops with audio. Audio may not start automatically; experience changes."
-  - artwork: storytelling-machine
+  - artwork: "storytelling-machine"
     severity: major
     status: degraded
     note: "Flash/HTML animation coupled with audio playback. Autoplay audio blocked; timing/affect shifts."
-  - artwork: singing-bridges
+  - artwork: "singing-bridges"
     severity: minor
     status: degraded
     note: "Embedded audio players (SoundCloud or similar). Autoplay may be disabled; user must press play."

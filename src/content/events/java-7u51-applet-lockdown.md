@@ -12,23 +12,23 @@ links:
   - url: "https://www.java.com/en/download/help/signed_code.html"
     label: "java.com: signed code / manifest changes"
 affected_artworks:
-  - artwork: instance-city
+  - artwork: "instance-city"
     severity: total
     status: dead
     note: "Java applet embedded in web page. Unsigned/legacy packaging may be blocked under tightened Java security."
-  - artwork: the-great-game
+  - artwork: "the-great-game"
     severity: total
     status: dead
     note: "Java applet realtime visualization. Blocked or warning-gated under 7u51+ security changes."
-  - artwork: slow-arrow-of-beauty
+  - artwork: "slow-arrow-of-beauty"
     severity: total
     status: dead
     note: "Java applet UI. Security prompts/blocks prevent normal access."
-  - artwork: art-from-text
+  - artwork: "art-from-text"
     severity: total
     status: dead
     note: "Java applet. Requires compliant signing/manifest to run under 7u51-era security."
-  - artwork: starrynight
+  - artwork: "starrynight"
     severity: total
     status: dead
     note: "Java applet for constellation generation. Security gating and later plugin removal."

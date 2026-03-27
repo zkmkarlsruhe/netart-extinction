@@ -13,11 +13,11 @@ links:
   - url: "https://developer.mozilla.org/en-US/docs/Web/Security/Defenses/Secure_Contexts/features_restricted_to_secure_contexts"
     label: "MDN: Features restricted to secure contexts"
 affected_artworks:
-  - artwork: singing-bridges
+  - artwork: "singing-bridges"
     severity: major
     status: degraded
     note: "If hosted on HTTP, audio playback via Web Audio API would be blocked in modern browsers."
-  - artwork: soundboxes
+  - artwork: "soundboxes"
     severity: major
     status: degraded
     note: "Audio-interactive work. Web Audio API restrictions on HTTP would prevent functionality."

@@ -12,7 +12,7 @@ links:
   - url: "https://anthology.rhizome.org/form-art"
     label: "Net Art Anthology: Form Art"
 affected_artworks:
-  - artwork: form-art
+  - artwork: "form-art"
     severity: total
     status: degraded
     note: "Designed for Netscape 3 form elements. Nearly unrecognizable in modern browsers — the 'material' of the work has changed."

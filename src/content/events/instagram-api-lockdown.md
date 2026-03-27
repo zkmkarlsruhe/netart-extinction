@@ -12,7 +12,7 @@ links:
   - url: "https://developers.facebook.com/blog/post/2024/09/04/update-on-instagram-basic-display-api/"
     label: "Meta: Update on Instagram Basic Display API"
 affected_artworks:
-  - artwork: excellences-and-perfections
+  - artwork: "excellences-and-perfections"
     severity: minor
     status: degraded
     note: "The performance itself survives as documentation, but any re-presentation pulling live Instagram data would be broken."

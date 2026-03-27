@@ -10,11 +10,11 @@ links:
   - url: "https://letsencrypt.org/docs/dst-root-ca-x3-expiration-september-2021/"
     label: "Let's Encrypt DST Root CA X3 expiration"
 affected_artworks:
-  - artwork: mouchette
+  - artwork: "mouchette"
     severity: major
     status: degraded
     note: "Long-lived net artwork often accessed/preserved via legacy setups. Legacy clients may fail HTTPS validation."
-  - artwork: onewordmovie
+  - artwork: "onewordmovie"
     severity: major
     status: degraded
     note: "Loads many third-party resources over HTTPS. Legacy clients may reject certificate chains."

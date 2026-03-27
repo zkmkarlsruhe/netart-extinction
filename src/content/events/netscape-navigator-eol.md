@@ -12,7 +12,7 @@ links:
   - url: "https://en.wikipedia.org/wiki/Netscape"
     label: "Wikipedia: Netscape"
 affected_artworks:
-  - artwork: mouchette
+  - artwork: "mouchette"
     severity: minor
     status: degraded
     note: "Originally authored for Netscape-era browsers. Some interactive behaviors relied on Netscape-specific DOM and rendering."

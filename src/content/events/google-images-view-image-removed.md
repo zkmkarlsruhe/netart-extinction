@@ -12,19 +12,19 @@ links:
   - url: "https://petapixel.com/2018/02/16/google-removes-view-image-button-image-search-protect-photos/"
     label: "PetaPixel: Google removes View Image button"
 affected_artworks:
-  - artwork: im-google
+  - artwork: "im-google"
     severity: major
     status: degraded
     note: "Depends on Google Image Search result ecology. Changes to how results are displayed and linked alter the material basis of the curation process."
-  - artwork: photo-noise
+  - artwork: "photo-noise"
     severity: major
     status: degraded
     note: "Uses Google API for real-time image search. Already broken by the 2014 API shutdown; the 2018 changes made workaround scraping approaches harder."
-  - artwork: onewordmovie
+  - artwork: "onewordmovie"
     severity: major
     status: degraded
     note: "Builds films from image search results. The live image pipeline was already degraded; removal of direct image links compounds the problem."
-  - artwork: adding-to-the-internet
+  - artwork: "adding-to-the-internet"
     severity: minor
     status: degraded
     note: "Responds to 'no results' Google image searches. Changes to search UI and behavior affect whether the triggering condition occurs."

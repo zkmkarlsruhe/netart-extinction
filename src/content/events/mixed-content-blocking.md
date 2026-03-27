@@ -10,15 +10,15 @@ links:
   - url: "https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html"
     label: "Chromium Blog: No More Mixed Messages About HTTPS"
 affected_artworks:
-  - artwork: photo-noise
+  - artwork: "photo-noise"
     severity: major
     status: degraded
     note: "Loads remote images discovered via search. If embedded assets resolve to HTTP-only hosts, they may be blocked."
-  - artwork: those-that-will-die
+  - artwork: "those-that-will-die"
     severity: major
     status: degraded
     note: "Aggregates third-party media across origins. HTTP-only endpoints or legacy embeds can be blocked in HTTPS context."
-  - artwork: onewordmovie
+  - artwork: "onewordmovie"
     severity: major
     status: degraded
     note: "Pulls large sets of image URLs from the wider web. Mixed-content blocking can silently drop images, altering the film."

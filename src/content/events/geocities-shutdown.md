@@ -14,7 +14,7 @@ links:
   - url: "https://wiki.archiveteam.org/index.php/GeoCities"
     label: "Archive Team: GeoCities project"
 affected_artworks:
-  - artwork: one-terabyte-of-kilobyte-age
+  - artwork: "one-terabyte-of-kilobyte-age"
     severity: major
     status: restored
     note: "The rescued GeoCities corpus became the cultural substrate for this project. Without the rescue, the raw material would be lost."

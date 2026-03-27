@@ -12,15 +12,15 @@ links:
   - url: "https://developer.chrome.com/blog/private-network-access-update"
     label: "Private Network Access update"
 affected_artworks:
-  - artwork: those-that-will-die
+  - artwork: "those-that-will-die"
     severity: total
     status: degraded
     note: "Cross-origin 'sniffing' of YouTube/Flickr-like sources. Browser blocks reads/requests."
-  - artwork: onewordmovie
+  - artwork: "onewordmovie"
     severity: major
     status: degraded
     note: "Aggregates many remote images in rapid sequence. Cross-origin barriers increase."
-  - artwork: ellsworth-kelly-hacked-my-twitter
+  - artwork: "ellsworth-kelly-hacked-my-twitter"
     severity: major
     status: unknown
     note: "Reads platform data and media across origins. Cross-origin API constraints compound platform lock-ins."
