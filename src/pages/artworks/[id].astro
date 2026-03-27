@@ -45,8 +45,7 @@ const relatedEvents = allEvents
 <BaseLayout title={artwork.data.title} description={artwork.data.description}>
   <article class="container prose">
     <header class="artwork-header">
-      <h1>{artwork.data.title}</h1>
-      {artwork.data.ai_generated && <AiBadge />}
+      <h1>{artwork.data.title} {artwork.data.ai_generated && <AiBadge />}</h1>
       <p class="artist">{artwork.data.artist}{artwork.data.year ? `, ${artwork.data.year}` : ''}</p>
       {artwork.data.medium && <p class="medium">{artwork.data.medium}</p>}
       {artwork.data.url && (
