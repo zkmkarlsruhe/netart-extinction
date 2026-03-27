@@ -3,7 +3,7 @@
 [![ZKM](https://img.shields.io/badge/ZKM-Karlsruhe-blue)](https://zkm.de)
 [![ZKM Open Source](https://img.shields.io/badge/ZKM-Open%20Source-blue)](https://github.com/zkmkarlsruhe)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-<!-- [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXXX-blue)](https://doi.org/10.5281/zenodo.XXXXXXX) -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19254683.svg)](https://doi.org/10.5281/zenodo.19254683)
 
 Documenting how dependency changes — API shutdowns, plugin end-of-lifes, browser removals — break digital artworks.
 
