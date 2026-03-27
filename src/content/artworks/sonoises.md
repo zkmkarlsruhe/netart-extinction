@@ -1,0 +1,11 @@
+---
+ai_generated: true
+title: "sonoises"
+artist: "permeable"
+year: 2004
+medium: "Net art"
+---
+
+Sourced from [Rhizome ArtBase](https://artbase.rhizome.org/wiki/Q3875).
+
+Technology dependencies: Flash.
