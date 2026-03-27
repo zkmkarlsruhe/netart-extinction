@@ -1,0 +1,61 @@
+.timeline-container {
+  position: relative;
+  width: 100%;
+  min-height: 220px;
+}
+
+.timeline-full-page {
+  min-height: 60vh;
+}
+
+#timeline {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+}
+
+#timeline svg {
+  display: block;
+}
+
+.timeline-tooltip {
+  position: absolute;
+  max-width: 280px;
+  padding: 0.625rem 0.75rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.8125rem;
+  line-height: 1.45;
+  color: var(--text);
+  pointer-events: none;
+  z-index: 50;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.12);
+  transition: opacity 0.12s;
+}
+
+.timeline-tooltip strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.tooltip-dep {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--accent);
+}
+
+.tooltip-date {
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.tooltip-summary {
+  display: block;
+  margin-top: 0.25rem;
+  color: var(--text-muted);
+  font-size: 0.75rem;
+}
+
+/* Mobile: fewer ticks handled by d3, no scroll needed */

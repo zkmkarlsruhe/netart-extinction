@@ -1,0 +1,84 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import EventCard from '@components/ui/EventCard.astro';
+import TimelineEmbed from '@components/timeline/TimelineEmbed.astro';
+import { getCollection } from 'astro:content';
+import { parseFlexibleDate } from '@lib/dates';
+
+const events = await getCollection('events');
+const sorted = events.sort((a, b) => {
+  const da = parseFlexibleDate(a.data.date).date.getTime();
+  const db = parseFlexibleDate(b.data.date).date.getTime();
+  return db - da;
+});
+
+function worstSeverity(event: typeof events[number]): 'total' | 'major' | 'minor' | undefined {
+  const artworks = event.data.affected_artworks;
+  if (!artworks || artworks.length === 0) return event.data.severity;
+  const order = ['total', 'major', 'minor'] as const;
+  for (const s of order) {
+    if (artworks.some(a => a.severity === s)) return s;
+  }
+  return event.data.severity;
+}
+---
+
+<BaseLayout title="Home">
+  <section class="hero container">
+    <h1>Net Art Extinction Timeline</h1>
+    <p class="tagline">Documenting how dependency changes — API shutdowns, plugin end-of-lifes, browser removals — break digital artworks.</p>
+  </section>
+
+  <section class="timeline-section container">
+    <TimelineEmbed />
+  </section>
+
+  <section class="events-section container">
+    <h2>All Events</h2>
+    <div class="event-list">
+      {sorted.map((event) => (
+        <EventCard
+          id={event.id}
+          title={event.data.title}
+          date={event.data.date}
+          dependency={event.data.dependency}
+          event_type={event.data.event_type}
+          severity={worstSeverity(event)}
+          summary={event.data.summary}
+          artworkCount={event.data.affected_artworks?.length}
+        />
+      ))}
+    </div>
+  </section>
+</BaseLayout>
+
+<style>
+  .hero {
+    text-align: center;
+    padding: var(--space-3xl) 0 var(--space-xl);
+  }
+
+  .tagline {
+    font-size: 1.125rem;
+    color: var(--text-muted);
+    max-width: 40rem;
+    margin: var(--space-md) auto 0;
+  }
+
+  .timeline-section {
+    padding: var(--space-xl) 0;
+  }
+
+  .events-section {
+    padding: var(--space-xl) 0 var(--space-3xl);
+  }
+
+  .events-section h2 {
+    margin-bottom: var(--space-lg);
+  }
+
+  .event-list {
+    display: grid;
+    gap: var(--space-md);
+  }
+</style>

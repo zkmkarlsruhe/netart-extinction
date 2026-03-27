@@ -1,0 +1,167 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import SeverityBadge from '@components/ui/SeverityBadge.astro';
+import StatusBadge from '@components/ui/StatusBadge.astro';
+import EventTypeLabel from '@components/ui/EventTypeLabel.astro';
+import { getCollection, render } from 'astro:content';
+import { parseFlexibleDate, formatDate } from '@lib/dates';
+
+export async function getStaticPaths() {
+  const artworks = await getCollection('artworks');
+  return artworks.map((artwork) => ({
+    params: { id: artwork.id },
+    props: { artwork },
+  }));
+}
+
+const { artwork } = Astro.props;
+const { Content } = await render(artwork);
+
+const allEvents = await getCollection('events');
+const relatedEvents = allEvents
+  .filter((e) =>
+    e.data.affected_artworks?.some((a) => {
+      const ref = a.artwork;
+      const id = typeof ref === 'string' ? ref : ref.id;
+      return id === artwork.id;
+    })
+  )
+  .map((e) => {
+    const artworkRef = e.data.affected_artworks!.find((a) => {
+      const ref = a.artwork;
+      const id = typeof ref === 'string' ? ref : ref.id;
+      return id === artwork.id;
+    })!;
+    return { event: e, severity: artworkRef.severity, status: artworkRef.status, note: artworkRef.note };
+  })
+  .sort((a, b) => {
+    const da = parseFlexibleDate(a.event.data.date).date.getTime();
+    const db = parseFlexibleDate(b.event.data.date).date.getTime();
+    return db - da;
+  });
+---
+
+<BaseLayout title={artwork.data.title} description={artwork.data.description}>
+  <article class="container prose">
+    <header class="artwork-header">
+      <h1>{artwork.data.title}</h1>
+      <p class="artist">{artwork.data.artist}{artwork.data.year ? `, ${artwork.data.year}` : ''}</p>
+      {artwork.data.medium && <p class="medium">{artwork.data.medium}</p>}
+      {artwork.data.url && (
+        <p class="url">
+          <a href={artwork.data.url} target="_blank" rel="noopener">{artwork.data.url}</a>
+        </p>
+      )}
+      {artwork.data.description && <p class="description">{artwork.data.description}</p>}
+    </header>
+
+    <section class="body-content">
+      <Content />
+    </section>
+
+    {relatedEvents.length > 0 && (
+      <section class="related-events">
+        <h2>Extinction Events</h2>
+        <div class="event-list">
+          {relatedEvents.map(({ event, severity, status, note }) => {
+            const parsed = parseFlexibleDate(event.data.date);
+            return (
+              <div class="event-item">
+                <div class="event-head">
+                  <time datetime={parsed.raw}>{formatDate(parsed)}</time>
+                  <EventTypeLabel type={event.data.event_type} />
+                  <SeverityBadge severity={severity} />
+                  <StatusBadge status={status} />
+                </div>
+                <a href={`/events/${event.id}`}>{event.data.title}</a>
+                <p class="event-dep">{event.data.dependency}</p>
+                {note && <p class="event-note">{note}</p>}
+              </div>
+            );
+          })}
+        </div>
+      </section>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .artwork-header {
+    margin-bottom: var(--space-xl);
+  }
+
+  .artist {
+    font-size: 1.0625rem;
+    color: var(--text-muted);
+    margin-top: var(--space-xs);
+  }
+
+  .medium {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .url {
+    font-size: 0.875rem;
+    font-family: var(--font-mono);
+    margin-top: var(--space-xs);
+  }
+
+  .description {
+    margin-top: var(--space-md);
+    line-height: 1.6;
+  }
+
+  .body-content {
+    margin-top: var(--space-xl);
+  }
+
+  .related-events {
+    margin-top: var(--space-xl);
+  }
+
+  .event-list {
+    display: grid;
+    gap: var(--space-md);
+  }
+
+  .event-item {
+    padding: var(--space-md);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--surface);
+  }
+
+  .event-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-xs);
+  }
+
+  time {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+  }
+
+  .event-item a {
+    font-weight: 600;
+  }
+
+  .event-dep {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--accent);
+    margin-top: var(--space-xs);
+  }
+
+  .event-note {
+    font-size: 0.875rem;
+    margin-top: var(--space-sm);
+    color: var(--text-muted);
+    font-style: italic;
+  }
+</style>
