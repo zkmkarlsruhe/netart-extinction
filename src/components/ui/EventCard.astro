@@ -1,0 +1,90 @@
+---
+import EventTypeLabel from './EventTypeLabel.astro';
+import SeverityBadge from './SeverityBadge.astro';
+import { parseFlexibleDate, formatDate } from '@lib/dates';
+
+interface Props {
+  id: string;
+  title: string;
+  date: string;
+  dependency: string;
+  event_type: string;
+  severity?: 'total' | 'major' | 'minor';
+  summary: string;
+  artworkCount?: number;
+}
+
+const { id, title, date, dependency, event_type, severity, summary, artworkCount } = Astro.props;
+const parsed = parseFlexibleDate(date);
+const displayDate = formatDate(parsed);
+---
+
+<a href={`/events/${id}`} class="event-card">
+  <div class="card-header">
+    <time datetime={parsed.raw}>{displayDate}</time>
+    <EventTypeLabel type={event_type} />
+    {severity && <SeverityBadge severity={severity} />}
+  </div>
+  <h3>{title}</h3>
+  <p class="dependency">{dependency}</p>
+  <p class="summary">{summary}</p>
+  {artworkCount != null && artworkCount > 0 && (
+    <p class="artwork-count">{artworkCount} artwork{artworkCount !== 1 ? 's' : ''} affected</p>
+  )}
+</a>
+
+<style>
+  .event-card {
+    display: block;
+    padding: var(--space-lg);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--surface);
+    text-decoration: none;
+    color: var(--text);
+    transition: border-color 0.15s, box-shadow 0.15s;
+  }
+
+  .event-card:hover {
+    border-color: var(--accent);
+    box-shadow: 0 2px 8px color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+
+  .card-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-sm);
+  }
+
+  time {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+  }
+
+  h3 {
+    font-size: 1.125rem;
+    margin-bottom: var(--space-xs);
+  }
+
+  .dependency {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--accent);
+    margin-bottom: var(--space-sm);
+  }
+
+  .summary {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+    line-height: 1.5;
+  }
+
+  .artwork-count {
+    margin-top: var(--space-sm);
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+  }
+</style>

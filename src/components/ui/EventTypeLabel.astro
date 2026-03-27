@@ -1,0 +1,33 @@
+---
+interface Props {
+  type: string;
+}
+
+const { type } = Astro.props;
+const labels: Record<string, string> = {
+  'api-shutdown': 'API Shutdown',
+  'plugin-eol': 'Plugin End-of-Life',
+  'browser-change': 'Browser Change',
+  'platform-shutdown': 'Platform Shutdown',
+  'protocol-change': 'Protocol Change',
+  'corporate-acquisition': 'Corporate Acquisition',
+  'terms-of-service': 'Terms of Service Change',
+  'other': 'Other',
+};
+---
+
+<span class="event-type">{labels[type] ?? type}</span>
+
+<style>
+  .event-type {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 0.125rem 0.5rem;
+    border-radius: 4px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    white-space: nowrap;
+  }
+</style>

@@ -1,0 +1,9 @@
+node_modules
+dist
+.astro
+.git
+.boxctl
+.github
+*.md
+!README.md
+!CONTRIBUTING.md

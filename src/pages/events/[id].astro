@@ -1,0 +1,192 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import SeverityBadge from '@components/ui/SeverityBadge.astro';
+import StatusBadge from '@components/ui/StatusBadge.astro';
+import EventTypeLabel from '@components/ui/EventTypeLabel.astro';
+import { getCollection, getEntry, render } from 'astro:content';
+import { parseFlexibleDate, formatDate } from '@lib/dates';
+
+export async function getStaticPaths() {
+  const events = await getCollection('events');
+  return events.map((event) => ({
+    params: { id: event.id },
+    props: { event },
+  }));
+}
+
+const { event } = Astro.props;
+const { Content } = await render(event);
+const parsed = parseFlexibleDate(event.data.date);
+const displayDate = formatDate(parsed);
+const hasEndDate = !!event.data.end_date;
+const endDisplay = hasEndDate ? formatDate(parseFlexibleDate(event.data.end_date!)) : null;
+
+const resolvedArtworks = [];
+if (event.data.affected_artworks) {
+  for (const ref of event.data.affected_artworks) {
+    const artwork = await getEntry(ref.artwork);
+    if (artwork) {
+      resolvedArtworks.push({ ...ref, resolved: artwork });
+    }
+  }
+}
+
+const fixLabels: Record<string, string> = {
+  migration: 'Migration',
+  emulation: 'Emulation',
+  archive: 'Archive',
+  workaround: 'Workaround',
+  rebuild: 'Rebuild',
+  none: 'No fix available',
+};
+---
+
+<BaseLayout title={event.data.title} description={event.data.summary}>
+  <article class="container prose">
+    <header class="event-header">
+      <div class="meta">
+        <EventTypeLabel type={event.data.event_type} />
+        <time datetime={parsed.raw}>
+          {displayDate}{hasEndDate ? ` — ${endDisplay}` : ''}
+        </time>
+      </div>
+      <h1>{event.data.title}</h1>
+      <p class="dependency">Dependency: <code>{event.data.dependency}</code></p>
+      <p class="summary">{event.data.summary}</p>
+    </header>
+
+    {resolvedArtworks.length > 0 && (
+      <section class="affected-artworks">
+        <h2>Affected Artworks</h2>
+        <div class="artwork-list">
+          {resolvedArtworks.map(({ resolved, severity, status, note }) => (
+            <div class="artwork-item">
+              <div class="artwork-head">
+                <a href={`/artworks/${resolved.id}`}>{resolved.data.title}</a>
+                <span class="badges">
+                  <SeverityBadge severity={severity} />
+                  <StatusBadge status={status} />
+                </span>
+              </div>
+              <p class="artwork-artist">{resolved.data.artist}</p>
+              {note && <p class="artwork-note">{note}</p>}
+            </div>
+          ))}
+        </div>
+      </section>
+    )}
+
+    {event.data.fixes && event.data.fixes.length > 0 && (
+      <section class="fixes">
+        <h2>Fixes &amp; Mitigations</h2>
+        <ul>
+          {event.data.fixes.map((fix: any) => (
+            <li>
+              <strong>{fixLabels[fix.type] ?? fix.type}:</strong> {fix.description}
+              {fix.url && <a href={fix.url} target="_blank" rel="noopener">(link)</a>}
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <section class="body-content">
+      <Content />
+    </section>
+
+    {event.data.links && event.data.links.length > 0 && (
+      <section class="links">
+        <h2>Links</h2>
+        <ul>
+          {event.data.links.map((link: any) => (
+            <li><a href={link.url} target="_blank" rel="noopener">{link.label}</a></li>
+          ))}
+        </ul>
+      </section>
+    )}
+  </article>
+</BaseLayout>
+
+<style>
+  .event-header {
+    margin-bottom: var(--space-xl);
+  }
+
+  .meta {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+    margin-bottom: var(--space-sm);
+  }
+
+  time {
+    font-family: var(--font-mono);
+    font-size: 0.875rem;
+    color: var(--text-muted);
+  }
+
+  .dependency {
+    font-size: 0.875rem;
+    color: var(--text-muted);
+  }
+
+  .dependency code {
+    color: var(--accent);
+  }
+
+  .summary {
+    font-size: 1.0625rem;
+    line-height: 1.6;
+    color: var(--text);
+  }
+
+  .affected-artworks, .fixes, .links {
+    margin-top: var(--space-xl);
+  }
+
+  .artwork-list {
+    display: grid;
+    gap: var(--space-md);
+  }
+
+  .artwork-item {
+    padding: var(--space-md);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--surface);
+  }
+
+  .artwork-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-sm);
+  }
+
+  .artwork-head a {
+    font-weight: 600;
+  }
+
+  .badges {
+    display: flex;
+    gap: var(--space-xs);
+  }
+
+  .artwork-artist {
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+    margin-top: var(--space-xs);
+  }
+
+  .artwork-note {
+    font-size: 0.875rem;
+    margin-top: var(--space-sm);
+    color: var(--text-muted);
+    font-style: italic;
+  }
+
+  .body-content {
+    margin-top: var(--space-xl);
+  }
+</style>

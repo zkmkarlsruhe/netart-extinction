@@ -1,0 +1,46 @@
+---
+interface Props {
+  status: 'dead' | 'degraded' | 'restored' | 'unknown';
+}
+
+const { status } = Astro.props;
+const labels: Record<string, string> = {
+  dead: 'Dead',
+  degraded: 'Degraded',
+  restored: 'Restored',
+  unknown: 'Unknown',
+};
+---
+
+<span class:list={['badge', `status-${status}`]}>{labels[status]}</span>
+
+<style>
+  .badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.125rem 0.5rem;
+    border-radius: 9999px;
+    white-space: nowrap;
+  }
+
+  .status-dead {
+    background: color-mix(in srgb, var(--status-dead) 15%, transparent);
+    color: var(--status-dead);
+  }
+
+  .status-degraded {
+    background: color-mix(in srgb, var(--status-degraded) 15%, transparent);
+    color: var(--status-degraded);
+  }
+
+  .status-restored {
+    background: color-mix(in srgb, var(--status-restored) 15%, transparent);
+    color: var(--status-restored);
+  }
+
+  .status-unknown {
+    background: color-mix(in srgb, var(--status-unknown) 15%, transparent);
+    color: var(--status-unknown);
+  }
+</style>

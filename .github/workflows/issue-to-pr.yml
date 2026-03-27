@@ -1,0 +1,125 @@
+name: Issue to PR
+
+on:
+  issues:
+    types: [labeled]
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  create-pr:
+    if: contains(github.event.label.name, '-submission')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Parse issue and create PR
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const issue = context.payload.issue;
+            const label = context.payload.label.name;
+            const body = issue.body || '';
+
+            // Determine collection type
+            const isEvent = label === 'event-submission';
+            const isArtwork = label === 'artwork-submission';
+            if (!isEvent && !isArtwork) return;
+
+            const collection = isEvent ? 'events' : 'artworks';
+
+            // Parse issue form fields (## header followed by content)
+            function parseField(name) {
+              const re = new RegExp(`### ${name}\\s*\\n+([\\s\\S]*?)(?=\\n### |$)`, 'i');
+              const match = body.match(re);
+              return match ? match[1].trim() : '';
+            }
+
+            // Generate slug from title
+            const title = parseField('Title') || issue.title;
+            const slug = title
+              .toLowerCase()
+              .replace(/[^a-z0-9]+/g, '-')
+              .replace(/^-|-$/g, '')
+              .slice(0, 60);
+
+            let frontmatter, content;
+
+            if (isEvent) {
+              const date = parseField('Date');
+              const dependency = parseField('Dependency');
+              const eventType = parseField('Event type');
+              const description = parseField('Description');
+              const artworks = parseField('Affected artworks');
+              const links = parseField('Links');
+              const fixes = parseField('Fixes');
+
+              frontmatter = `---
+            title: "${title.replace(/"/g, '\\"')}"
+            date: "${date}"
+            dependency: "${dependency.replace(/"/g, '\\"')}"
+            event_type: "${eventType}"
+            summary: "${description.split('\n')[0].replace(/"/g, '\\"')}"
+            ---`;
+
+              content = description;
+              if (artworks) content += `\n\n## Affected artworks\n\n${artworks}`;
+              if (links) content += `\n\n## Links\n\n${links}`;
+              if (fixes) content += `\n\n## Fixes\n\n${fixes}`;
+            } else {
+              const artist = parseField('Artist');
+              const year = parseField('Year');
+              const url = parseField('URL');
+              const medium = parseField('Medium');
+              const description = parseField('Description');
+
+              frontmatter = `---
+            title: "${title.replace(/"/g, '\\"')}"
+            artist: "${artist.replace(/"/g, '\\"')}"${year ? `\nyear: ${year}` : ''}${url ? `\nurl: "${url}"` : ''}${medium ? `\nmedium: "${medium.replace(/"/g, '\\"')}"` : ''}${description ? `\ndescription: "${description.split('\n')[0].replace(/"/g, '\\"')}"` : ''}
+            ---`;
+
+              content = description || '';
+            }
+
+            // Clean up frontmatter indentation
+            const fileContent = frontmatter.replace(/^            /gm, '') + '\n\n' + content.trim() + '\n';
+            const filePath = `src/content/${collection}/${slug}.md`;
+            const branchName = `submission/${collection}/${slug}`;
+
+            // Create branch and file
+            const main = await github.rest.git.getRef({
+              ...context.repo,
+              ref: 'heads/main',
+            });
+
+            await github.rest.git.createRef({
+              ...context.repo,
+              ref: `refs/heads/${branchName}`,
+              sha: main.data.object.sha,
+            });
+
+            await github.rest.repos.createOrUpdateFileContents({
+              ...context.repo,
+              path: filePath,
+              message: `Add ${collection.slice(0, -1)}: ${title}`,
+              content: Buffer.from(fileContent).toString('base64'),
+              branch: branchName,
+            });
+
+            // Create PR
+            const pr = await github.rest.pulls.create({
+              ...context.repo,
+              title: `Add ${collection.slice(0, -1)}: ${title}`,
+              body: `Auto-generated from #${issue.number}.\n\nPlease review the generated file at \`${filePath}\` and adjust frontmatter as needed.`,
+              head: branchName,
+              base: 'main',
+            });
+
+            // Comment on issue
+            await github.rest.issues.createComment({
+              ...context.repo,
+              issue_number: issue.number,
+              body: `PR created: ${pr.data.html_url}\n\nA maintainer will review and merge. Thank you for contributing!`,
+            });

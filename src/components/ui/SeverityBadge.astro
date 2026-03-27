@@ -1,0 +1,40 @@
+---
+interface Props {
+  severity: 'total' | 'major' | 'minor';
+}
+
+const { severity } = Astro.props;
+const labels: Record<string, string> = {
+  total: 'Total loss',
+  major: 'Major impact',
+  minor: 'Minor impact',
+};
+---
+
+<span class:list={['badge', `severity-${severity}`]}>{labels[severity]}</span>
+
+<style>
+  .badge {
+    display: inline-block;
+    font-size: 0.75rem;
+    font-weight: 600;
+    padding: 0.125rem 0.5rem;
+    border-radius: 9999px;
+    white-space: nowrap;
+  }
+
+  .severity-total {
+    background: color-mix(in srgb, var(--severity-total) 15%, transparent);
+    color: var(--severity-total);
+  }
+
+  .severity-major {
+    background: color-mix(in srgb, var(--severity-major) 15%, transparent);
+    color: var(--severity-major);
+  }
+
+  .severity-minor {
+    background: color-mix(in srgb, var(--severity-minor) 15%, transparent);
+    color: var(--severity-minor);
+  }
+</style>

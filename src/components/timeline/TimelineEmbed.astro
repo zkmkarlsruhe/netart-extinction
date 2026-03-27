@@ -1,0 +1,48 @@
+---
+import { getCollection } from 'astro:content';
+import '@styles/timeline.css';
+
+interface Props {
+  fullPage?: boolean;
+}
+
+const { fullPage = false } = Astro.props;
+
+const events = await getCollection('events');
+
+function worstSeverity(event: typeof events[number]): string {
+  const artworks = event.data.affected_artworks;
+  if (!artworks || artworks.length === 0) return event.data.severity ?? 'minor';
+  const order = ['total', 'major', 'minor'] as const;
+  for (const s of order) {
+    if (artworks.some(a => a.severity === s)) return s;
+  }
+  return event.data.severity ?? 'minor';
+}
+
+const timelineData = events.map((e) => ({
+  id: e.id,
+  title: e.data.title,
+  date: e.data.date,
+  end_date: e.data.end_date ?? null,
+  dependency: e.data.dependency,
+  event_type: e.data.event_type,
+  severity: worstSeverity(e),
+  summary: e.data.summary,
+  artworkCount: e.data.affected_artworks?.length ?? 0,
+}));
+---
+
+<div class:list={['timeline-container', { 'timeline-full-page': fullPage }]}>
+  <div id="timeline"></div>
+  <script type="application/json" id="timeline-data" set:html={JSON.stringify(timelineData)} />
+  <script>
+    import { initTimeline } from './timeline';
+    const dataEl = document.getElementById('timeline-data');
+    const containerEl = document.getElementById('timeline');
+    if (dataEl && containerEl) {
+      const data = JSON.parse(dataEl.textContent || '[]');
+      initTimeline(containerEl, data);
+    }
+  </script>
+</div>

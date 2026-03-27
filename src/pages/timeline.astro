@@ -1,0 +1,29 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import TimelineEmbed from '@components/timeline/TimelineEmbed.astro';
+---
+
+<BaseLayout title="Timeline" description="Full timeline view of net art extinction events.">
+  <div class="container">
+    <h1>Timeline</h1>
+    <p class="subtitle">All documented extinction events, chronologically.</p>
+    <div class="timeline-full">
+      <TimelineEmbed fullPage />
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  h1 {
+    margin-bottom: var(--space-xs);
+  }
+
+  .subtitle {
+    color: var(--text-muted);
+    margin-bottom: var(--space-xl);
+  }
+
+  .timeline-full {
+    min-height: 60vh;
+  }
+</style>
