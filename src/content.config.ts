@@ -16,6 +16,7 @@ const artworks = defineCollection({
     url: z.string().url().optional(),
     medium: z.string().optional(),
     description: z.string().optional(),
+    ai_generated: z.boolean().optional(),
   }),
 });
 
@@ -47,6 +48,7 @@ const events = defineCollection({
     event_type: eventType,
     severity: severity.optional(),
     summary: z.string(),
+    ai_generated: z.boolean().optional(),
     links: z.array(z.object({
       url: z.string().url(),
       label: z.string(),

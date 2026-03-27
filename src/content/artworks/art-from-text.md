@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "art from text"
 artist: "Roberto Echen"
 year: 2001

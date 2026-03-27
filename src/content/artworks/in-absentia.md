@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "in absentia"
 artist: "Caitlin Fisher"
 year: 2010

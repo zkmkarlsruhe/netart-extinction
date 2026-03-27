@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "onewordmovie"
 artist: "Beat Brogle & Philippe Zimmermann"
 year: 2003

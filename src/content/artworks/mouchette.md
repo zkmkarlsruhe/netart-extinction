@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "mouchette.org"
 artist: "Martine Neddam"
 year: 1996

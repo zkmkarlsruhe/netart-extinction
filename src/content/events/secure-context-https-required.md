@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Browsers restrict powerful APIs to HTTPS-only secure contexts"
 date: "2016-04"
 end_date: "2017-08"

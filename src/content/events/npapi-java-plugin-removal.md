@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "NPAPI and Java plugin support removed from major browsers"
 date: "2015-09-01"
 dependency: "NPAPI / Java browser plugins"

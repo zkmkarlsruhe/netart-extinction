@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Domain expiration and hosting lapses"
 date: "2010"
 dependency: "Domain renewals and web hosting"

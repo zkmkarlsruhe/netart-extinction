@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Pulse 3D web plugin goes defunct"
 date: "2001"
 dependency: "Pulse 3D browser plugin"

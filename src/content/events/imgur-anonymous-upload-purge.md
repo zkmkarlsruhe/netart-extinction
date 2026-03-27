@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Imgur purges anonymous uploads and explicit content"
 date: "2023-05-15"
 dependency: "Imgur anonymous image hosting"

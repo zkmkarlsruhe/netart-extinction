@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "WebVR API deprecated in favor of WebXR"
 date: "2019"
 end_date: "2020"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Pentametron"
 artist: "Ranjit Bhatnagar"
 year: 2012

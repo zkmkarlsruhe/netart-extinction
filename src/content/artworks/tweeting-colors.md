@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Tweeting Colors"
 artist: "Brian Piana"
 year: 2009

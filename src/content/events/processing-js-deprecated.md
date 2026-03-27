@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Processing.js deprecated, 100,000+ browser sketches affected"
 date: "2018-12-05"
 dependency: "Processing.js (Java-to-JavaScript transpiler)"

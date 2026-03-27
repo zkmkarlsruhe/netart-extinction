@@ -1,0 +1,113 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+import AiBadge from '@components/ui/AiBadge.astro';
+import { getCollection } from 'astro:content';
+
+const events = await getCollection('events');
+const artworks = await getCollection('artworks');
+const aiEvents = events.filter((e) => e.data.ai_generated);
+const aiArtworks = artworks.filter((a) => a.data.ai_generated);
+const validatedEvents = events.filter((e) => !e.data.ai_generated);
+const validatedArtworks = artworks.filter((a) => !a.data.ai_generated);
+---
+
+<BaseLayout title="AI Transparency" description="How AI was used to build this project, and what that means for data accuracy.">
+  <div class="container prose">
+    <h1>AI Transparency</h1>
+
+    <p>
+      This project uses AI honestly, and we want to be equally honest about that with you.
+    </p>
+
+    <h2>What was AI-generated?</h2>
+    <p>
+      The initial dataset of extinction events and artwork entries was researched and written with the help of large language models (LLMs). This includes the event descriptions, dates, affected artwork associations, severity assessments, and fix descriptions.
+    </p>
+    <p>
+      Every entry that was AI-generated is marked with an <AiBadge /> label. This label means:
+    </p>
+    <ul>
+      <li>The content was drafted by an AI based on publicly available information</li>
+      <li>It has <strong>not yet been verified</strong> by a human domain expert</li>
+      <li>Dates, URLs, attributions, and technical details may contain inaccuracies</li>
+    </ul>
+
+    <h2>Why use AI at all?</h2>
+    <p>
+      Documenting the full scope of net art extinction events is an enormous task. Decades of dependency changes have broken countless artworks, and much of this history is scattered across blog posts, archived web pages, and institutional memory. AI helped us build a comprehensive starting point — a draft dataset that would have taken months to compile manually.
+    </p>
+    <p>
+      But a starting point is all it is. The goal is for every entry to eventually be validated, corrected, and enriched by the community — the researchers, artists, curators, and archivists who witnessed these events firsthand.
+    </p>
+
+    <h2>Current status</h2>
+    <div class="stats">
+      <div class="stat">
+        <span class="stat-number">{aiEvents.length}</span>
+        <span class="stat-label">AI-researched events</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number">{validatedEvents.length}</span>
+        <span class="stat-label">validated events</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number">{aiArtworks.length}</span>
+        <span class="stat-label">AI-researched artworks</span>
+      </div>
+      <div class="stat">
+        <span class="stat-number">{validatedArtworks.length}</span>
+        <span class="stat-label">validated artworks</span>
+      </div>
+    </div>
+
+    <h2>How validation works</h2>
+    <p>
+      When a community member verifies an entry — confirming dates, checking links, validating artwork attributions — the <code>ai_generated</code> flag is removed and the <AiBadge /> label disappears. The entry becomes part of the trusted, human-verified dataset.
+    </p>
+    <p>
+      You can help validate entries by <a href="https://github.com/zkmkarlsruhe/netart-extinction/issues/new/choose">opening an issue</a> with corrections, or by submitting a pull request that removes the <code>ai_generated: true</code> line from a file's frontmatter after verification.
+    </p>
+
+    <h2>What AI cannot replace</h2>
+    <p>
+      AI can compile facts from existing sources, but it cannot replace the lived experience of someone who watched their artwork break overnight, or the institutional knowledge of an archivist who spent years preserving a collection. Those stories and that expertise are what make this archive meaningful. The AI-generated entries are placeholders for that human knowledge — not a substitute for it.
+    </p>
+
+    <h2>Tools used</h2>
+    <p>
+      This project was built with the assistance of <a href="https://claude.ai" target="_blank" rel="noopener">Claude</a> by Anthropic, used for initial research, content drafting, and code development. The project source code, infrastructure, and editorial decisions are maintained by <a href="https://marc-schuetze.de" target="_blank" rel="noopener">Marc Schütze</a> at <a href="https://zkm.de" target="_blank" rel="noopener">ZKM | Center for Art and Media Karlsruhe</a>.
+    </p>
+  </div>
+</BaseLayout>
+
+<style>
+  .stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: var(--space-md);
+    margin: var(--space-lg) 0;
+  }
+
+  .stat {
+    padding: var(--space-md);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--surface);
+    text-align: center;
+  }
+
+  .stat-number {
+    display: block;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: var(--font-mono);
+    color: var(--heading);
+  }
+
+  .stat-label {
+    display: block;
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+    margin-top: var(--space-xs);
+  }
+</style>

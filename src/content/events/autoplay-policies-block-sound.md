@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Browser autoplay policies block sound-on-load"
 date: "2018-04-17"
 dependency: "Browser autoplay policy"

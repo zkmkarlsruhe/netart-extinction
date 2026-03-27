@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Liquid Prairie"
 artist: "Erika Lincoln"
 year: 2008

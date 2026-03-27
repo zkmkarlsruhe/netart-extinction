@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Popup blocking becomes default in major browsers"
 date: "2004-08"
 dependency: "window.open() / popup windows"

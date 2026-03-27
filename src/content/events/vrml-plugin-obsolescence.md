@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "VRML browser plugins become inaccessible"
 date: "1998"
 end_date: "2003"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Form Art"
 artist: "Alexei Shulgin"
 year: 1997

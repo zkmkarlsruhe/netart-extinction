@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Ellsworth Kelly Hacked My Twitter"
 artist: "Brian Piana"
 year: 2009

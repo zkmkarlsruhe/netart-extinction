@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Bodies INCorporated"
 artist: "Victoria Vesna"
 year: 1996

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Google adds X-Frame-Options, blocking iframe embedding of google.com"
 date: "2011"
 dependency: "Iframe embedding of Google homepage"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Facebook Graph API restrictions and platform lockdown"
 date: "2018-04-04"
 dependency: "Facebook Graph API"

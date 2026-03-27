@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Photo Noise"
 artist: "Steven Read"
 year: 2004

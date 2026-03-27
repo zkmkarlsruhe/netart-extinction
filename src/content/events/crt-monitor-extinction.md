@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "CRT monitor production effectively ceases"
 date: "2010"
 dependency: "CRT display technology"

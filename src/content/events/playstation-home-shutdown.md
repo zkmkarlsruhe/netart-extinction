@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "PlayStation Home servers shut down"
 date: "2015-03-31"
 dependency: "PlayStation Home virtual world"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Google AJAX/Search APIs discontinued"
 date: "2014-05-01"
 dependency: "Google Search APIs"

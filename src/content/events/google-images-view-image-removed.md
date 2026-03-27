@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Google Images removes View Image button and direct image URLs"
 date: "2018-02-15"
 dependency: "Google Image Search direct image links"

@@ -1,6 +1,7 @@
 ---
 import EventTypeLabel from './EventTypeLabel.astro';
 import SeverityBadge from './SeverityBadge.astro';
+import AiBadge from './AiBadge.astro';
 import { parseFlexibleDate, formatDate } from '@lib/dates';
 
 interface Props {
@@ -12,9 +13,10 @@ interface Props {
   severity?: 'total' | 'major' | 'minor';
   summary: string;
   artworkCount?: number;
+  ai_generated?: boolean;
 }
 
-const { id, title, date, dependency, event_type, severity, summary, artworkCount } = Astro.props;
+const { id, title, date, dependency, event_type, severity, summary, artworkCount, ai_generated } = Astro.props;
 const parsed = parseFlexibleDate(date);
 const displayDate = formatDate(parsed);
 ---
@@ -24,6 +26,7 @@ const displayDate = formatDate(parsed);
     <time datetime={parsed.raw}>{displayDate}</time>
     <EventTypeLabel type={event_type} />
     {severity && <SeverityBadge severity={severity} />}
+    {ai_generated && <AiBadge />}
   </div>
   <h3>{title}</h3>
   <p class="dependency">{dependency}</p>

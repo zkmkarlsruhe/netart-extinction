@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Yahoo Answers permanently shut down"
 date: "2021-05-04"
 dependency: "Yahoo Answers platform"

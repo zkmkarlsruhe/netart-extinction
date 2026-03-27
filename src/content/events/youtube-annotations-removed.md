@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "YouTube removes all video annotations"
 date: "2019-01-15"
 dependency: "YouTube Annotations system"

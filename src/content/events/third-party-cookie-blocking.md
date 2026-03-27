@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Browsers block third-party cookies by default"
 date: "2020-03"
 dependency: "Third-party cookies for cross-site state"

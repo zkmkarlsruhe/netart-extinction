@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Schwitters on Twitter"
 artist: "david sullivan"
 year: 2009

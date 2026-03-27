@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Singing Bridges"
 artist: "Jodi Rose"
 year: 2002

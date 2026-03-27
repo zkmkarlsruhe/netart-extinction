@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Microsoft Silverlight reaches end of support"
 date: "2021-10-12"
 dependency: "Microsoft Silverlight plugin"

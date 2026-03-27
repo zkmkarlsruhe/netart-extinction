@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Microsoft removes Windows Mixed Reality from Windows 11"
 date: "2024-10"
 dependency: "Windows Mixed Reality platform"

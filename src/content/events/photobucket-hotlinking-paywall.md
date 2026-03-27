@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Photobucket paywalls third-party image embedding"
 date: "2017-07"
 dependency: "Photobucket free image hosting / hotlinking"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Agatha Appears"
 artist: "Olia Lialina"
 year: 1997

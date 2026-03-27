@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "photomontage"
 artist: "shirin Kouladjie"
 year: 1998

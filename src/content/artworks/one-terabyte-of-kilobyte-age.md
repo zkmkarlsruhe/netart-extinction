@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "One Terabyte of Kilobyte Age"
 artist: "Olia Lialina & Dragan Espenschied"
 year: 2010

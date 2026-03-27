@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Adobe discontinues Director authoring tool"
 date: "2017-02-01"
 dependency: "Adobe Director / Lingo scripting"

@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Adobe Shockwave Player end-of-life"
 date: "2019-04-09"
 dependency: "Adobe Shockwave Player"

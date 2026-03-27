@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "YouTube Data API v2 shutdown"
 date: "2015-04-20"
 dependency: "YouTube Data API v2"

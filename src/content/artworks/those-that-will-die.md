@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Those that will die"
 artist: "Gregory Chatonsky"
 year: 2006

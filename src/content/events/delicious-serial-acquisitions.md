@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "del.icio.us degraded through serial acquisitions"
 date: "2011-09"
 end_date: "2017-06"

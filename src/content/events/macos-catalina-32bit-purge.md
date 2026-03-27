@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "macOS Catalina drops all 32-bit application support"
 date: "2019-10-07"
 dependency: "32-bit macOS applications and plugins"

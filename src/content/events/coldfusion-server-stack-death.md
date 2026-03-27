@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Windows Server 2003 and ColdFusion stacks become unsupportable"
 date: "2015-07-14"
 dependency: "Windows Server 2003 / Adobe ColdFusion legacy versions"

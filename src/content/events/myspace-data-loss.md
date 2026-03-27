@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "MySpace loses 50 million songs in server migration"
 date: "2019-03-18"
 dependency: "MySpace hosting platform"

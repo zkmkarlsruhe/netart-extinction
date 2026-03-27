@@ -1,4 +1,5 @@
 ---
+ai_generated: true
 title: "Yahoo GeoCities shut down"
 date: "2009-10-26"
 dependency: "GeoCities hosting platform"
