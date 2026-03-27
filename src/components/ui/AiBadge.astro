@@ -1,7 +1,15 @@
 ---
+interface Props {
+  linked?: boolean;
+}
+const { linked = true } = Astro.props;
 ---
 
-<a href="/ai-transparency" class="badge ai-generated" title="AI-researched content — needs validation">AI-researched</a>
+{linked ? (
+  <a href="/ai-transparency" class="badge ai-generated" title="AI-researched content — needs validation">AI-researched</a>
+) : (
+  <span class="badge ai-generated" title="AI-researched content — needs validation">AI-researched</span>
+)}
 
 <style>
   .badge {
@@ -15,6 +23,8 @@
   }
 
   .ai-generated {
+    position: relative;
+    z-index: 1;
     background: color-mix(in srgb, #8B5CF6 15%, transparent);
     color: #8B5CF6;
     text-decoration: none;
