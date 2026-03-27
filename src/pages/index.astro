@@ -35,23 +35,67 @@ function worstSeverity(event: typeof events[number]): 'total' | 'major' | 'minor
 
   <section class="events-section container">
     <h2>All Events</h2>
-    <div class="event-list">
+    <div class="filters" id="filters">
+      <button class="filter-btn active" data-filter="all">All</button>
+      <button class="filter-btn" data-filter="api-shutdown">API Shutdown</button>
+      <button class="filter-btn" data-filter="plugin-eol">Plugin End-of-Life</button>
+      <button class="filter-btn" data-filter="browser-change">Browser Change</button>
+      <button class="filter-btn" data-filter="platform-shutdown">Platform Shutdown</button>
+      <button class="filter-btn" data-filter="protocol-change">Protocol Change</button>
+      <button class="filter-btn" data-filter="corporate-acquisition">Corporate Acquisition</button>
+      <button class="filter-btn" data-filter="terms-of-service">Terms of Service</button>
+      <button class="filter-btn" data-filter="hardware-obsolescence">Hardware Obsolescence</button>
+      <button class="filter-btn" data-filter="sdk-deprecation">SDK Deprecation</button>
+      <button class="filter-btn" data-filter="os-deprecation">OS Deprecation</button>
+      <button class="filter-btn" data-filter="certificate-expiry">Certificate Expiry</button>
+      <button class="filter-btn" data-filter="data-loss">Data Loss</button>
+      <button class="filter-btn" data-filter="format-obsolescence">Format Obsolescence</button>
+      <button class="filter-btn" data-filter="network-shutdown">Network Shutdown</button>
+      <button class="filter-btn" data-filter="other">Other</button>
+    </div>
+    <div class="event-list" id="event-list">
       {sorted.map((event) => (
-        <EventCard
-          id={event.id}
-          title={event.data.title}
-          date={event.data.date}
-          dependency={event.data.dependency}
-          event_type={event.data.event_type}
-          severity={worstSeverity(event)}
-          summary={event.data.summary}
-          artworkCount={event.data.affected_artworks?.length}
-          ai_generated={event.data.ai_generated}
-        />
+        <div class="event-item" data-event-type={event.data.event_type}>
+          <EventCard
+            id={event.id}
+            title={event.data.title}
+            date={event.data.date}
+            dependency={event.data.dependency}
+            event_type={event.data.event_type}
+            severity={worstSeverity(event)}
+            summary={event.data.summary}
+            artworkCount={event.data.affected_artworks?.length}
+            ai_generated={event.data.ai_generated}
+          />
+        </div>
       ))}
     </div>
   </section>
 </BaseLayout>
+
+<script>
+  const filters = document.getElementById('filters')!;
+  const items = document.querySelectorAll<HTMLElement>('.event-item');
+
+  filters.addEventListener('click', (e) => {
+    const btn = (e.target as HTMLElement).closest('.filter-btn') as HTMLElement;
+    if (!btn) return;
+
+    filters.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+
+    const filter = btn.dataset.filter!;
+    items.forEach(item => {
+      if (filter === 'all' || item.dataset.eventType === filter) {
+        item.style.display = '';
+      } else {
+        item.style.display = 'none';
+      }
+    });
+
+    document.dispatchEvent(new CustomEvent('timeline:filter', { detail: { filter } }));
+  });
+</script>
 
 <style>
   .hero {
@@ -76,6 +120,37 @@ function worstSeverity(event: typeof events[number]): 'total' | 'major' | 'minor
 
   .events-section h2 {
     margin-bottom: var(--space-lg);
+  }
+
+  .filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-xs);
+    margin-bottom: var(--space-lg);
+  }
+
+  .filter-btn {
+    font-size: 0.75rem;
+    font-weight: 500;
+    padding: 0.25rem 0.75rem;
+    border-radius: 9999px;
+    border: 1px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    cursor: pointer;
+    transition: all 0.15s;
+    white-space: nowrap;
+  }
+
+  .filter-btn:hover {
+    border-color: var(--accent);
+    color: var(--accent);
+  }
+
+  .filter-btn.active {
+    background: var(--accent);
+    border-color: var(--accent);
+    color: var(--bg);
   }
 
   .event-list {

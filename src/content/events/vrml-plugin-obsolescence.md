@@ -1,8 +1,7 @@
 ---
 ai_generated: true
 title: "VRML browser plugins become inaccessible"
-date: "1998"
-end_date: "2003"
+date: "2003"
 dependency: "VRML browser plugins (Cosmo Player, Cortona)"
 event_type: "plugin-eol"
 severity: "total"

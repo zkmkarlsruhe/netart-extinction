@@ -1,8 +1,7 @@
 ---
 ai_generated: true
 title: "QuickTime VR and QuickTime web plugin killed"
-date: "2009"
-end_date: "2016-04"
+date: "2016-04"
 dependency: "Apple QuickTime VR / QuickTime browser plugin"
 event_type: "plugin-eol"
 severity: "total"

@@ -1,8 +1,7 @@
 ---
 ai_generated: true
 title: "Google discontinues Daydream VR, kills servers"
-date: "2019-10"
-end_date: "2021-02"
+date: "2021-02"
 dependency: "Google Daydream VR platform"
 event_type: "platform-shutdown"
 severity: "total"

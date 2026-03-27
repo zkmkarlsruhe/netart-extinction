@@ -29,6 +29,12 @@ const eventType = z.enum([
   'corporate-acquisition',
   'terms-of-service',
   'hardware-obsolescence',
+  'sdk-deprecation',
+  'os-deprecation',
+  'certificate-expiry',
+  'data-loss',
+  'format-obsolescence',
+  'network-shutdown',
   'other',
 ]);
 

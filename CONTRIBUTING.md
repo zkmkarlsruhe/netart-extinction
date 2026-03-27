@@ -68,7 +68,7 @@ Additional context.
 
 **`date`**: Flexible format — `YYYY`, `YYYY-MM`, or `YYYY-MM-DD`.
 
-**`event_type`**: One of: `api-shutdown`, `plugin-eol`, `browser-change`, `platform-shutdown`, `protocol-change`, `corporate-acquisition`, `terms-of-service`, `other`.
+**`event_type`**: One of: `api-shutdown`, `plugin-eol`, `browser-change`, `platform-shutdown`, `protocol-change`, `corporate-acquisition`, `terms-of-service`, `hardware-obsolescence`, `sdk-deprecation`, `os-deprecation`, `certificate-expiry`, `data-loss`, `format-obsolescence`, `network-shutdown`, `other`.
 
 **`severity`** (per artwork): `total` (work is non-functional), `major` (significant degradation), `minor` (partial impact).
 
