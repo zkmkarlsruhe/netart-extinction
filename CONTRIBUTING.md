@@ -1,13 +1,12 @@
 # Contributing
 
-We welcome contributions documenting extinction events and affected artworks. There are three ways to contribute.
+We welcome contributions documenting extinction events and affected artworks. There are two ways to contribute.
 
 ## 1. GitHub Issue Form (easiest)
 
 Use our structured forms — no technical knowledge required:
 
-- [Report an extinction event](https://github.com/zkm-grg/extinction-timeline/issues/new?template=report_event.yml)
-- [Report an affected artwork](https://github.com/zkm-grg/extinction-timeline/issues/new?template=report_artwork.yml)
+- [Report an extinction event or affected artwork](https://github.com/zkmkarlsruhe/netart-extinction/issues/new/choose)
 
 A maintainer will review your submission, and a PR will be auto-generated.
 
@@ -85,6 +84,3 @@ Use kebab-case slugs: `twitter-api-v1-shutdown.md`, `abstract-browsing.md`.
 
 Run `npm run build` before submitting. Astro will validate all frontmatter against the schema — if your file has errors, the build will fail with a descriptive message.
 
-## 3. Email
-
-Send your report to [submit@extinction.zkm.de](mailto:submit@extinction.zkm.de) and we will add it for you.
