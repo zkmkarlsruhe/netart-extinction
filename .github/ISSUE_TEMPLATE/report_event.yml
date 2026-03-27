@@ -1,0 +1,79 @@
+name: Report an extinction event
+description: Document a dependency change that broke digital artworks
+labels: ["event-submission"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Short descriptive title for this event
+      placeholder: "e.g., Twitter API v1.1 Free Tier Shutdown"
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: "When did this happen? (YYYY, YYYY-MM, or YYYY-MM-DD)"
+      placeholder: "2023-02-09"
+    validations:
+      required: true
+
+  - type: input
+    id: dependency
+    attributes:
+      label: Dependency
+      description: What technology or service changed?
+      placeholder: "Twitter API v1.1"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: event_type
+    attributes:
+      label: Event type
+      options:
+        - api-shutdown
+        - plugin-eol
+        - browser-change
+        - platform-shutdown
+        - protocol-change
+        - corporate-acquisition
+        - terms-of-service
+        - other
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What changed and why does it matter?
+      placeholder: Describe what happened, what broke, and the impact on digital artworks.
+    validations:
+      required: true
+
+  - type: textarea
+    id: artworks
+    attributes:
+      label: Affected artworks
+      description: "List artworks affected by this event (title, artist, URL if known)"
+      placeholder: |
+        - Twistori by Amy Hoy & Thomas Fuchs (http://twistori.com)
+        - ...
+
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: URLs to announcements, articles, or documentation
+      placeholder: |
+        - https://example.com/announcement
+
+  - type: textarea
+    id: fixes
+    attributes:
+      label: Fixes
+      description: Known workarounds, migrations, or preservation efforts
+      placeholder: Describe any known fixes or mitigations.

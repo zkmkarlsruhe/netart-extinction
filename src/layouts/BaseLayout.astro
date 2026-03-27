@@ -1,0 +1,56 @@
+---
+import '@fontsource/source-serif-4/400.css';
+import '@fontsource/source-serif-4/700.css';
+import '@fontsource/inter/400.css';
+import '@fontsource/inter/500.css';
+import '@fontsource/inter/600.css';
+import '@fontsource/jetbrains-mono/400.css';
+import '@styles/global.css';
+import Header from '@components/ui/Header.astro';
+import Footer from '@components/ui/Footer.astro';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = 'Documenting how dependency changes break digital artworks.' } = Astro.props;
+const canonicalURL = new URL(Astro.url.pathname, Astro.site);
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>{title} — Net Art Extinction Timeline</title>
+  <meta name="description" content={description} />
+  <link rel="canonical" href={canonicalURL} />
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+  <meta property="og:title" content={`${title} — Net Art Extinction Timeline`} />
+  <meta property="og:description" content={description} />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content={canonicalURL} />
+  <script is:inline>
+    (function() {
+      const stored = localStorage.getItem('theme');
+      const pref = stored || (matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+      document.documentElement.setAttribute('data-theme', pref);
+    })();
+  </script>
+</head>
+<body>
+  <Header />
+  <main>
+    <slot />
+  </main>
+  <Footer />
+</body>
+</html>
+
+<style>
+  main {
+    min-height: calc(100vh - 8rem);
+    padding: var(--space-xl) 0;
+  }
+</style>

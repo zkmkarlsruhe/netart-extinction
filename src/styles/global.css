@@ -1,0 +1,165 @@
+/* ===== Reset ===== */
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+img,
+svg {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: var(--accent);
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.15em;
+}
+
+a:hover {
+  color: var(--accent2);
+}
+
+/* ===== Typography ===== */
+:root {
+  --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Code', monospace;
+}
+
+body {
+  font-family: var(--font-sans);
+  font-size: 1rem;
+  line-height: 1.6;
+  color: var(--text);
+  background-color: var(--bg);
+  transition: background-color 0.2s, color 0.2s;
+}
+
+h1, h2, h3, h4 {
+  font-family: var(--font-serif);
+  line-height: 1.25;
+  font-weight: 700;
+  color: var(--heading);
+}
+
+h1 { font-size: 2.25rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+
+code, pre {
+  font-family: var(--font-mono);
+  font-size: 0.875em;
+}
+
+pre {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 1rem;
+  overflow-x: auto;
+}
+
+/* ===== Spacing ===== */
+:root {
+  --space-xs: 0.25rem;
+  --space-sm: 0.5rem;
+  --space-md: 1rem;
+  --space-lg: 1.5rem;
+  --space-xl: 2rem;
+  --space-2xl: 3rem;
+  --space-3xl: 4rem;
+  --max-width: 72rem;
+  --content-width: 48rem;
+}
+
+/* ===== Light Mode (default) ===== */
+:root,
+[data-theme="light"] {
+  --bg: #FFFBF5;
+  --surface: #FFF8EE;
+  --text: #1C1917;
+  --heading: #0C0A09;
+  --text-muted: #57534E;
+  --accent: #B45309;
+  --accent2: #1E40AF;
+  --border: #D6D3D1;
+  --timeline-track: #A8A29E;
+
+  /* Severity */
+  --severity-total: #C4301C;
+  --severity-major: #B45309;
+  --severity-minor: #0072B2;
+
+  /* Status */
+  --status-dead: #C4301C;
+  --status-degraded: #B45309;
+  --status-restored: #0A7B5A;
+  --status-unknown: #6B7280;
+}
+
+/* ===== Dark Mode ===== */
+[data-theme="dark"] {
+  --bg: #1C1917;
+  --surface: #292524;
+  --text: #E7E5E4;
+  --heading: #FAFAF9;
+  --text-muted: #A8A29E;
+  --accent: #F59E0B;
+  --accent2: #60A5FA;
+  --border: #44403C;
+  --timeline-track: #57534E;
+
+  --severity-total: #EF4444;
+  --severity-major: #F59E0B;
+  --severity-minor: #38BDF8;
+
+  --status-dead: #EF4444;
+  --status-degraded: #F59E0B;
+  --status-restored: #34D399;
+  --status-unknown: #9CA3AF;
+}
+
+/* ===== Utility classes ===== */
+.container {
+  max-width: var(--max-width);
+  margin: 0 auto;
+  padding: 0 var(--space-lg);
+}
+
+.prose {
+  max-width: var(--content-width);
+}
+
+.prose > * + * {
+  margin-top: var(--space-md);
+}
+
+.prose h2 {
+  margin-top: var(--space-xl);
+}
+
+.prose ul, .prose ol {
+  padding-left: var(--space-lg);
+}
+
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border-width: 0;
+}

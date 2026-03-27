@@ -1,0 +1,51 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="About" description="About the Net Art Extinction Timeline project and how to contribute.">
+  <div class="container prose">
+    <h1>About</h1>
+
+    <p>
+      The <strong>Net Art Extinction Timeline</strong> documents how dependency changes — API shutdowns, plugin end-of-lifes, browser removals, platform closures — break digital artworks. It is a living archive of technological extinction events and their impact on creative works.
+    </p>
+
+    <p>
+      Many digital artworks depend on external services, browser plugins, or platform features that their creators do not control. When these dependencies disappear, the artworks break — sometimes overnight. This project tracks those moments of breakage, preserving the record of what was lost and how.
+    </p>
+
+    <h2>Who maintains this?</h2>
+    <p>
+      This project is maintained by <a href="https://zkm.de" target="_blank" rel="noopener">ZKM | Center for Art and Media Karlsruhe</a>, one of the world's leading institutions for media art and digital culture.
+    </p>
+
+    <h2>Submit an event or artwork</h2>
+    <p>
+      We welcome contributions from researchers, artists, curators, and anyone who has witnessed a digital artwork break due to a dependency change. There are three ways to submit:
+    </p>
+
+    <h3>1. GitHub Issue Form (easiest)</h3>
+    <p>
+      Use our structured forms to report events or artworks. A maintainer will review your submission and merge it.
+    </p>
+    <ul>
+      <li><a href="https://github.com/zkm-grg/extinction-timeline/issues/new?template=report_event.yml">Report an extinction event</a></li>
+      <li><a href="https://github.com/zkm-grg/extinction-timeline/issues/new?template=report_artwork.yml">Report an affected artwork</a></li>
+    </ul>
+
+    <h3>2. Pull Request</h3>
+    <p>
+      Fork the repository, add a Markdown file to <code>src/content/events/</code> or <code>src/content/artworks/</code>, and open a PR. See <a href="https://github.com/zkm-grg/extinction-timeline/blob/main/CONTRIBUTING.md">CONTRIBUTING.md</a> for templates and guidelines.
+    </p>
+
+    <h3>3. Email</h3>
+    <p>
+      Send your report to <a href="mailto:submit@extinction.zkm.de">submit@extinction.zkm.de</a> and we will add it for you.
+    </p>
+
+    <h2>License</h2>
+    <p>
+      Content is licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC BY 4.0</a>. Code is <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT</a>.
+    </p>
+  </div>
+</BaseLayout>

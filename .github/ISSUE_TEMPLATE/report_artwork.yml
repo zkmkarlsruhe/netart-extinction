@@ -1,0 +1,51 @@
+name: Report an affected artwork
+description: Document a digital artwork affected by a dependency change
+labels: ["artwork-submission"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Title
+      description: Name of the artwork
+      placeholder: "Twistori"
+    validations:
+      required: true
+
+  - type: input
+    id: artist
+    attributes:
+      label: Artist
+      description: Creator(s) of the artwork
+      placeholder: "Amy Hoy & Thomas Fuchs"
+    validations:
+      required: true
+
+  - type: input
+    id: year
+    attributes:
+      label: Year
+      description: Year the artwork was created
+      placeholder: "2008"
+
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      description: Original or current URL of the artwork
+      placeholder: "http://twistori.com"
+
+  - type: input
+    id: medium
+    attributes:
+      label: Medium
+      description: "Type of artwork (e.g., Web application, Browser extension)"
+      placeholder: "Web application"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Describe the artwork and what technologies it depends on
+      placeholder: A brief description of what this artwork is and how it works.
+    validations:
+      required: true

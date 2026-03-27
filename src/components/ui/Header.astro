@@ -1,0 +1,95 @@
+---
+---
+
+<header>
+  <div class="container header-inner">
+    <a href="/" class="logo">
+      <span class="logo-icon" aria-hidden="true">&#x25A0;</span>
+      Extinction Timeline
+    </a>
+    <nav>
+      <a href="/">Timeline</a>
+      <a href="/about">About</a>
+    </nav>
+    <button id="theme-toggle" type="button" aria-label="Toggle dark mode">
+      <span class="icon-light" aria-hidden="true">&#x263C;</span>
+      <span class="icon-dark" aria-hidden="true">&#x263E;</span>
+    </button>
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('theme-toggle')!;
+  btn.addEventListener('click', () => {
+    const current = document.documentElement.getAttribute('data-theme');
+    const next = current === 'dark' ? 'light' : 'dark';
+    document.documentElement.setAttribute('data-theme', next);
+    localStorage.setItem('theme', next);
+  });
+</script>
+
+<style>
+  header {
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    background: var(--bg);
+    border-bottom: 1px solid var(--border);
+    backdrop-filter: blur(8px);
+  }
+
+  .header-inner {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+    height: 3.5rem;
+  }
+
+  .logo {
+    font-family: var(--font-serif);
+    font-weight: 700;
+    font-size: 1.125rem;
+    color: var(--heading);
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
+  }
+
+  .logo-icon {
+    color: var(--accent);
+  }
+
+  nav {
+    display: flex;
+    gap: var(--space-md);
+    margin-left: auto;
+  }
+
+  nav a {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--text-muted);
+    text-decoration: none;
+  }
+
+  nav a:hover {
+    color: var(--accent);
+  }
+
+  #theme-toggle {
+    background: none;
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    padding: var(--space-xs) var(--space-sm);
+    cursor: pointer;
+    font-size: 1rem;
+    color: var(--text);
+    line-height: 1;
+  }
+
+  [data-theme="light"] .icon-dark,
+  [data-theme="dark"] .icon-light {
+    display: none;
+  }
+</style>
