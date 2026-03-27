@@ -58,21 +58,32 @@ h1, h2, h3, h4 {
   font-weight: 600;
   letter-spacing: -0.02em;
   color: var(--heading);
+  perspective: 200px;
 }
 
 /* Glitch character effect for headings */
-.glitch-char {
+.g-ch {
   display: inline-block;
-  transition: transform 0.3s, opacity 0.3s;
+  transition: transform 2s ease, opacity 2s ease;
 }
 
-.glitch-char--offset {
-  transform: translateY(1.5px);
-  opacity: 0.45;
+.g-ch.glitch-1 {
+  transform: translateY(1.5px) rotateX(3deg);
+  opacity: 0.4;
 }
 
-.glitch-char--drift {
-  transform: translateY(-1px);
+.g-ch.glitch-2 {
+  transform: translateY(-1px) rotateX(-2deg);
+  opacity: 0.55;
+}
+
+.g-ch.glitch-3 {
+  transform: translateY(1px) rotateX(4deg);
+  opacity: 0.3;
+}
+
+.g-ch.glitch-4 {
+  transform: translateY(-1.5px) rotateX(-2deg);
   opacity: 0.6;
 }
 
