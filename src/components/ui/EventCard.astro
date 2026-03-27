@@ -21,29 +21,29 @@ const parsed = parseFlexibleDate(date);
 const displayDate = formatDate(parsed);
 ---
 
-<a href={`/events/${id}`} class="event-card">
+<div class="event-card">
   <div class="card-header">
     <time datetime={parsed.raw}>{displayDate}</time>
     <EventTypeLabel type={event_type} />
     {severity && <SeverityBadge severity={severity} />}
     {ai_generated && <AiBadge />}
   </div>
-  <h3>{title}</h3>
+  <h3><a href={`/events/${id}`} class="card-link">{title}</a></h3>
   <p class="dependency">{dependency}</p>
   <p class="summary">{summary}</p>
   {artworkCount != null && artworkCount > 0 && (
     <p class="artwork-count">{artworkCount} artwork{artworkCount !== 1 ? 's' : ''} affected</p>
   )}
-</a>
+</div>
 
 <style>
   .event-card {
+    position: relative;
     display: block;
     padding: var(--space-lg);
     border: 1px solid var(--border);
     border-radius: 8px;
     background: var(--surface);
-    text-decoration: none;
     color: var(--text);
     transition: border-color 0.15s, box-shadow 0.15s;
   }
@@ -51,6 +51,18 @@ const displayDate = formatDate(parsed);
   .event-card:hover {
     border-color: var(--accent);
     box-shadow: 0 2px 8px color-mix(in srgb, var(--accent) 10%, transparent);
+  }
+
+  .card-link {
+    text-decoration: none;
+    color: inherit;
+  }
+
+  .card-link::after {
+    content: '';
+    position: absolute;
+    inset: 0;
+    border-radius: 8px;
   }
 
   .card-header {
