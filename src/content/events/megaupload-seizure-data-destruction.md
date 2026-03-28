@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Megaupload"
 title: "Megaupload seizure and server data destruction"
 date: "2012-01-19"
 dependency: "Megaupload file hosting"

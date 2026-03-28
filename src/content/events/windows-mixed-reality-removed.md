@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Windows_Mixed_Reality"
 title: "Microsoft removes Windows Mixed Reality from Windows 11"
 date: "2024-10"
 dependency: "Windows Mixed Reality platform"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Photobucket"
 title: "Photobucket deletes free-tier images, destroying billions of embedded photos"
 date: "2023-06"
 dependency: "Photobucket free image hosting"

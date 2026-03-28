@@ -14,9 +14,10 @@ interface Props {
   summary: string;
   artworkCount?: number;
   ai_generated?: boolean;
+  wikipedia?: string;
 }
 
-const { id, title, date, dependency, event_type, severity, summary, artworkCount, ai_generated } = Astro.props;
+const { id, title, date, dependency, event_type, severity, summary, artworkCount, ai_generated, wikipedia } = Astro.props;
 const parsed = parseFlexibleDate(date);
 const displayDate = formatDate(parsed);
 ---
@@ -27,6 +28,7 @@ const displayDate = formatDate(parsed);
     <EventTypeLabel type={event_type} />
     {severity && <SeverityBadge severity={severity} />}
     {ai_generated && <AiBadge />}
+    {wikipedia && <a href={wikipedia} target="_blank" rel="noopener" class="wiki-badge" title="Wikipedia">W</a>}
   </div>
   <h3><a href={`/events/${id}`} class="card-link">{title}</a></h3>
   <p class="dependency">{dependency}</p>
@@ -103,5 +105,29 @@ const displayDate = formatDate(parsed);
     font-size: 0.8125rem;
     font-weight: 600;
     color: var(--severity-total);
+  }
+
+  .wiki-badge {
+    position: relative;
+    z-index: 1;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 1.25rem;
+    height: 1.25rem;
+    border-radius: 50%;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    color: var(--text-muted);
+    font-size: 0.625rem;
+    font-weight: 700;
+    font-family: var(--font-serif);
+    text-decoration: none;
+    line-height: 1;
+  }
+
+  .wiki-badge:hover {
+    border-color: var(--accent);
+    color: var(--accent);
   }
 </style>

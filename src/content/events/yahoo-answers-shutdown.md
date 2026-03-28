@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Yahoo!_Answers"
 title: "Yahoo Answers permanently shut down"
 date: "2021-05-04"
 dependency: "Yahoo Answers platform"

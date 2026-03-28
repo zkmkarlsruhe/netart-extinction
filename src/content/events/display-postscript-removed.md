@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Display_PostScript"
 title: "Display PostScript removed from Mac OS X, orphaning NeXT-era applications"
 date: "2001-03-24"
 dependency: "Display PostScript (DPS)"

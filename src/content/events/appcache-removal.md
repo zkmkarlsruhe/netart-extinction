@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Cache_manifest_in_HTML5"
 title: "Application Cache (AppCache) removed from browsers"
 date: "2021-09-14"
 dependency: "HTML5 Application Cache (AppCache) API"

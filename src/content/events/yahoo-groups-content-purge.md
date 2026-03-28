@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Yahoo!_Groups"
 title: "Yahoo Groups deletes 20 years of content from millions of groups"
 date: "2019-12-14"
 dependency: "Yahoo Groups hosting platform"

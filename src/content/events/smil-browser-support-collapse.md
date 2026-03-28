@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Synchronized_Multimedia_Integration_Language"
 title: "SMIL multimedia presentations lose browser and player support"
 date: "2015-08"
 end_date: "2016"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/YouTube"
 title: "YouTube Data API v2 shutdown"
 date: "2015-04-20"
 dependency: "YouTube Data API v2"

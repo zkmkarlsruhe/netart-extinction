@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Posterous"
 title: "Posterous shuts down after Twitter acquisition"
 date: "2013-04-30"
 dependency: "Posterous blogging platform"

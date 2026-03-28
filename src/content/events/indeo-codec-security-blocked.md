@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Indeo"
 title: "Microsoft security-blocks Indeo codec, breaking legacy video playback"
 date: "2009-12"
 dependency: "Intel Indeo video codec"

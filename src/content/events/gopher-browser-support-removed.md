@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Gopher_(protocol)"
 title: "Gopher protocol support removed from major browsers"
 date: "2010-01"
 end_date: "2011-03"

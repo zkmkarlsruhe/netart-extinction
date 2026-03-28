@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Rosetta_(software)"
 title: "macOS Lion removes Rosetta, killing all PowerPC applications"
 date: "2011-07-20"
 dependency: "Apple Rosetta (PowerPC translation layer)"

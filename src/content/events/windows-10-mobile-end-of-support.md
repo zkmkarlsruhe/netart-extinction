@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Windows_10_Mobile"
 title: "Windows 10 Mobile end of support kills platform-exclusive creative apps"
 date: "2020-01-14"
 dependency: "Windows 10 Mobile"

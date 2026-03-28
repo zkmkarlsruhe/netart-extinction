@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/What.CD"
 title: "What.CD seized by French authorities"
 date: "2016-11-17"
 dependency: "What.CD BitTorrent tracker and music archive"

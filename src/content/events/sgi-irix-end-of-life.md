@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/IRIX"
 title: "SGI IRIX end of life strands CAVE virtual reality artworks"
 date: "2006-12-29"
 dependency: "SGI IRIX"

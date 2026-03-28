@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/File_Transfer_Protocol"
 title: "FTP removed from modern browsers"
 date: "2021-01-19"
 end_date: "2021-07-13"

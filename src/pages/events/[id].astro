@@ -52,7 +52,9 @@ const fixLabels: Record<string, string> = {
         </time>
       </div>
       <h1>{event.data.title} {event.data.ai_generated && <AiBadge />}</h1>
-      <p class="dependency">Dependency: <code>{event.data.dependency}</code></p>
+      <p class="dependency">Dependency: <code>{event.data.dependency}</code>
+        {event.data.wikipedia && <a href={event.data.wikipedia} target="_blank" rel="noopener" class="wiki-link">Wikipedia</a>}
+      </p>
       <p class="summary">{event.data.summary}</p>
     </header>
 
@@ -132,6 +134,22 @@ const fixLabels: Record<string, string> = {
   }
 
   .dependency code {
+    color: var(--accent);
+  }
+
+  .wiki-link {
+    font-size: 0.75rem;
+    margin-left: var(--space-sm);
+    padding: 0.125rem 0.5rem;
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    color: var(--text-muted);
+    text-decoration: none;
+    vertical-align: middle;
+  }
+
+  .wiki-link:hover {
+    border-color: var(--accent);
     color: var(--accent);
   }
 

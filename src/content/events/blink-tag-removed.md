@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Blink_element"
 title: "Firefox removes <blink> tag — last browser support ends"
 date: "2013-08-06"
 dependency: "HTML <blink> element"

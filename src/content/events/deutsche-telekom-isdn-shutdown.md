@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Integrated_Services_Digital_Network"
 title: "Deutsche Telekom completes ISDN/PSTN switch-off in Germany"
 date: "2020-01"
 dependency: "ISDN telecommunications network (Germany)"

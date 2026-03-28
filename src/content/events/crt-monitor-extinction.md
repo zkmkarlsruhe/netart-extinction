@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Cathode-ray_tube"
 title: "CRT monitor production effectively ceases"
 date: "2010"
 dependency: "CRT display technology"

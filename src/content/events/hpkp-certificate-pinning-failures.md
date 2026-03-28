@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/HTTP_Public_Key_Pinning"
 title: "HTTP Public Key Pinning locks sites out of their own domains"
 date: "2017"
 end_date: "2018-05"

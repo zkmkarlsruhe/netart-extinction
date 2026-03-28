@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/GeoCities"
 title: "Yahoo Japan shuts down GeoCities Japan"
 date: "2019-03-31"
 dependency: "GeoCities Japan hosting platform"

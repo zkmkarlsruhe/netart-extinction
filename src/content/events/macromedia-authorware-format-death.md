@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Adobe_Authorware"
 title: "Macromedia Authorware format becomes permanently unplayable"
 date: "2017"
 dependency: "Macromedia Authorware (.aam/.a7r) web player and format"

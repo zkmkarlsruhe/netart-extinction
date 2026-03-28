@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/China_Internet_Network_Information_Center"
 title: "Google and Mozilla distrust CNNIC root certificate"
 date: "2015-04-01"
 dependency: "CNNIC root certificate authority"

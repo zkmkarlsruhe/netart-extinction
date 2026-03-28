@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Let's_Encrypt"
 title: "DST Root CA X3 expires, breaking legacy TLS trust"
 date: "2021-09-30"
 dependency: "TLS trust chain / root certificates"

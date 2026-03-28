@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Code_signing"
 title: "Expired code signing certificates break installed applications"
 date: "2019-10-24"
 dependency: "Code signing certificate timestamps"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Presto_(browser_engine)"
 title: "Opera abandons Presto engine for Chromium/Blink"
 date: "2013-07-02"
 dependency: "Opera Presto rendering engine"

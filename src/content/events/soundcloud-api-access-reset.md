@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/SoundCloud"
 title: "SoundCloud API access reset and revocation of inactive apps"
 date: "2023-06-02"
 dependency: "SoundCloud API"

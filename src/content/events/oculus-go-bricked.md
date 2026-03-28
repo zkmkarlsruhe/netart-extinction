@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Oculus_Go"
 title: "Oculus Go effectively bricked by server-side entitlement failures"
 date: "2024"
 dependency: "Oculus Go headset / entitlement servers"

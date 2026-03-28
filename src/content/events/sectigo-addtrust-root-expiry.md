@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Sectigo"
 title: "Sectigo AddTrust External CA Root expires, breaking certificate chains"
 date: "2020-05-30"
 dependency: "AddTrust External CA Root cross-sign"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Web_Components"
 title: "Web Components v0 and HTML Imports removed from Chrome"
 date: "2019-02-05"
 dependency: "Web Components v0 APIs (HTML Imports, Custom Elements v0, Shadow DOM v0)"

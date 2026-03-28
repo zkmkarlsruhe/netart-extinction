@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Maps"
 title: "Google Maps JavaScript API v2 retired"
 date: "2021-05-26"
 dependency: "Google Maps JavaScript API v2"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Cross-origin_resource_sharing"
 title: "Cross-origin protections tighten (CORB and Private Network Access)"
 date: "2018-05-29"
 dependency: "CORS/CORB browser security"

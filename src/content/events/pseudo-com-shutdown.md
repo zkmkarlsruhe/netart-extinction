@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Pseudo.com"
 title: "Pseudo.com bankruptcy and shutdown"
 date: "2000-09-18"
 dependency: "Pseudo.com internet television platform"

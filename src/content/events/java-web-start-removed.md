@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Java_Web_Start"
 title: "Java Web Start (.jnlp) removed from Java SE"
 date: "2018-09"
 dependency: "Java Web Start / JNLP (.jnlp)"

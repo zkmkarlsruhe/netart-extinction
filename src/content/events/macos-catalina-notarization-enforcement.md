@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/MacOS_Catalina"
 title: "Apple enforces mandatory notarization for macOS software"
 date: "2020-02-03"
 dependency: "macOS Catalina notarization requirement"

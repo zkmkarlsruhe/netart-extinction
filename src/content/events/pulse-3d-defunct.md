@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Pulse_Entertainment"
 title: "Pulse 3D web plugin goes defunct"
 date: "2001"
 dependency: "Pulse 3D browser plugin"

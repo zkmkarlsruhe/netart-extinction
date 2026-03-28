@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Mixed_content"
 title: "Mixed-content autoupgrade and blocking"
 date: "2019-12-10"
 dependency: "Browser mixed-content policy"

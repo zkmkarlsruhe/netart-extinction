@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Heroku"
 title: "Heroku eliminates free tier, hobby projects go offline"
 date: "2022-11-28"
 dependency: "Heroku free dynos / free Postgres"

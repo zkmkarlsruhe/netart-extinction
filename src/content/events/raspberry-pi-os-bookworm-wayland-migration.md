@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Raspberry_Pi_OS"
 title: "Raspberry Pi OS Bookworm switches to Wayland, breaking museum and art display software"
 date: "2023-10-11"
 dependency: "Raspberry Pi OS (X11 display server)"

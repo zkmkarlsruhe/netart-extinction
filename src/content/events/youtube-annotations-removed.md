@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/YouTube"
 title: "YouTube removes all video annotations"
 date: "2019-01-15"
 dependency: "YouTube Annotations system"

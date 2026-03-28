@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Vine_(service)"
 title: "Vine shut down and archive deleted"
 date: "2019-04"
 dependency: "Vine video platform"

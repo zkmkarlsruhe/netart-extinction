@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Imeem"
 title: "Imeem acquired by MySpace and shut down overnight"
 date: "2009-12-08"
 dependency: "Imeem music and media platform"

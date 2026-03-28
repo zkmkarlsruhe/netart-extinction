@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Flickr"
 title: "Flickr limits free accounts to 1,000 photos, mass deletion begins"
 date: "2019-02-05"
 end_date: "2019-03-12"

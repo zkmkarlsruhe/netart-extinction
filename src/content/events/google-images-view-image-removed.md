@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Images"
 title: "Google Images removes View Image button and direct image URLs"
 date: "2018-02-15"
 dependency: "Google Image Search direct image links"

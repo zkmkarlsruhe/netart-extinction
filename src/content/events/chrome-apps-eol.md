@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Chrome_App"
 title: "Chrome Apps end of life"
 date: "2025-01"
 dependency: "Chrome Apps platform"

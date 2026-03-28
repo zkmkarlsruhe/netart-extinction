@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Reader"
 title: "Google Reader shut down"
 date: "2013-07-01"
 dependency: "Google Reader RSS aggregation platform"

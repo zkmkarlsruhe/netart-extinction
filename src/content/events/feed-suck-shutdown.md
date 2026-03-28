@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Suck.com"
 title: "Feed Magazine and Suck.com closure"
 date: "2001-06-08"
 dependency: "Feed Magazine and Suck.com web publications"

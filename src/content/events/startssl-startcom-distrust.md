@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/StartCom"
 title: "Browsers distrust StartSSL/StartCom certificates"
 date: "2016-10-21"
 end_date: "2017-11-14"

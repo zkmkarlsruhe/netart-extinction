@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Heartbleed"
 title: "Heartbleed forces mass certificate revocation and reissue"
 date: "2014-04-07"
 dependency: "OpenSSL TLS library / existing TLS certificates"

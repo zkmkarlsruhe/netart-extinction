@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Unity_(game_engine)"
 title: "Unity Web Player plugin discontinued, web-based Unity content stranded"
 date: "2016-07-28"
 dependency: "Unity Web Player (NPAPI plugin)"

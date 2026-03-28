@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Pop-up_ad"
 title: "Popup blocking becomes default in major browsers"
 date: "2004-08"
 dependency: "window.open() / popup windows"

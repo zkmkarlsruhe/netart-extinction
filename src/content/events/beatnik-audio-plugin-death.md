@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Beatnik_(browser_plugin)"
 title: "Beatnik interactive audio plugin abandoned"
 date: "2011"
 dependency: "Beatnik audio plugin (Rich Music Format)"

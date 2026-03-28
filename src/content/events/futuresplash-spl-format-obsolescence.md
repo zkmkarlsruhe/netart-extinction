@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/FutureSplash_Animator"
 title: "FutureSplash (.spl) format becomes unplayable"
 date: "2021-01"
 dependency: "FutureSplash Animator (.spl) format"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Python_(programming_language)"
 title: "Python 2 reaches end of life, breaking creative toolchains across VFX, games, and generative art"
 date: "2020-01-01"
 dependency: "Python 2"

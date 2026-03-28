@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/RealPlayer"
 title: "RealAudio/RealVideo format abandoned, last broadcaster drops support"
 date: "2011-03"
 dependency: "RealPlayer / RealAudio / RealVideo streaming"

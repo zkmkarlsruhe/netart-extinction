@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Photobucket"
 title: "Photobucket paywalls third-party image embedding"
 date: "2017-07"
 dependency: "Photobucket free image hosting / hotlinking"

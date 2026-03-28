@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google%2B"
 title: "Google+ consumer platform shut down"
 date: "2019-04-02"
 dependency: "Google+ platform and APIs"
