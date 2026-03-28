@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/GeoCities"
 title: "Yahoo GeoCities shut down"
 date: "2009-10-26"
 dependency: "GeoCities hosting platform"

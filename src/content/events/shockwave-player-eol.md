@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Adobe_Shockwave"
 title: "Adobe Shockwave Player end-of-life"
 date: "2019-04-09"
 dependency: "Adobe Shockwave Player"

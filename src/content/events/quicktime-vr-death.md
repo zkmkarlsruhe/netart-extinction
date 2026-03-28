@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/QuickTime"
 title: "QuickTime VR and QuickTime web plugin killed"
 date: "2016-04"
 dependency: "Apple QuickTime VR / QuickTime browser plugin"

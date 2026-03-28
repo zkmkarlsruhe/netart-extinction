@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/PlaysForSure"
 title: "Microsoft PlaysForSure DRM servers shut down, stranding purchased music"
 date: "2011"
 dependency: "Microsoft PlaysForSure / Windows Media DRM"

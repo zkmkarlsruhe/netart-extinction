@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Adobe_Director"
 title: "Adobe discontinues Director authoring tool"
 date: "2017-02-01"
 dependency: "Adobe Director / Lingo scripting"

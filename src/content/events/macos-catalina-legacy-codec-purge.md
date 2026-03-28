@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/MacOS_Catalina"
 title: "macOS Catalina drops legacy QuickTime codecs, breaking old video playback"
 date: "2019-10-07"
 dependency: "Legacy QuickTime codecs (Sorenson Video 3, Cinepak, MPEG-1, etc.)"

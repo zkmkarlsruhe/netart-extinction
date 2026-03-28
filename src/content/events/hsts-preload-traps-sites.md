@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security"
 title: "HSTS preload list traps sites that lose HTTPS capability"
 date: "2017"
 dependency: "HTTP Strict Transport Security preload lists"

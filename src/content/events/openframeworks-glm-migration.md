@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/OpenFrameworks"
 title: "openFrameworks 0.10 replaces vector math library, breaking addon ecosystem"
 date: "2018-05-07"
 dependency: "openFrameworks (C++ creative coding toolkit)"

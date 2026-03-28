@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/SHA-1"
 title: "Browsers reject SHA-1 signed certificates"
 date: "2016-01-01"
 end_date: "2017-02-23"

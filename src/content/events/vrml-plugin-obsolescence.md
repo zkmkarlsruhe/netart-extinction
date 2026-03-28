@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/VRML"
 title: "VRML browser plugins become inaccessible"
 date: "2003"
 dependency: "VRML browser plugins (Cosmo Player, Cortona)"

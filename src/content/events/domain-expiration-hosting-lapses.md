@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Domain_name"
 title: "Domain expiration and hosting lapses"
 date: "2010"
 dependency: "Domain renewals and web hosting"

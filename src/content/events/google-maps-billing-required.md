@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Maps"
 title: "Google Maps Platform requires billing account and API key"
 date: "2018-06-11"
 dependency: "Google Maps Platform"

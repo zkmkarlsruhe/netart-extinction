@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Xoom_(web_hosting)"
 title: "Free web hosting mass purges (NBCi/Xoom, Tripod, FortuneCity)"
 date: "2001-06-15"
 dependency: "Free web hosting platforms (Xoom/NBCi, Tripod, FortuneCity)"

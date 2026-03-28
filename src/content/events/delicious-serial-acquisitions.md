@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Delicious_(website)"
 title: "del.icio.us degraded through serial acquisitions"
 date: "2017-06"
 dependency: "del.icio.us social bookmarking platform"

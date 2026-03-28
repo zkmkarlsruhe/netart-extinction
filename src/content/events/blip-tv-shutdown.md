@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Blip_(website)"
 title: "Blip.tv shut down by Maker Studios"
 date: "2015-08-20"
 dependency: "Blip.tv video hosting"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Windows_XP"
 title: "Microsoft ends Windows XP support, stranding embedded art systems"
 date: "2014-04-08"
 dependency: "Microsoft Windows XP"

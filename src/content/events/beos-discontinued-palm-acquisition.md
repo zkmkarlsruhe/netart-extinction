@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/BeOS"
 title: "BeOS discontinued after Palm acquisition, orphaning multimedia art tools"
 date: "2001-11-13"
 dependency: "BeOS"

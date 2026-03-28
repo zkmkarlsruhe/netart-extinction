@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Native_Client"
 title: "Chrome Native Client and PNaCl removed"
 date: "2020-06-23"
 dependency: "Google Native Client (NaCl) and Portable Native Client (PNaCl)"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Three.js"
 title: "Three.js removes Geometry class, breaking thousands of WebGL art sketches"
 date: "2021-01-28"
 dependency: "Three.js (WebGL library)"

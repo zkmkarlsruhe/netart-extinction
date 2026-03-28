@@ -55,6 +55,7 @@ const events = defineCollection({
     severity: severity.optional(),
     summary: z.string(),
     ai_generated: z.boolean().optional(),
+    wikipedia: z.string().url().optional(),
     links: z.array(z.object({
       url: z.string().url(),
       label: z.string(),

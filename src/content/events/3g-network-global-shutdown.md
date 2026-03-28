@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/3G"
 title: "Global 3G network shutdowns disconnect IoT and connected artworks"
 date: "2022-02-22"
 dependency: "2G/3G cellular network infrastructure"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/DeviantArt"
 title: "DeviantArt Eclipse redesign destroys custom profiles, journal skins, and group data"
 date: "2020-05-20"
 dependency: "DeviantArt platform (classic layout)"

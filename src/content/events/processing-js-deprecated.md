@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Processing_(programming_language)"
 title: "Processing.js deprecated, 100,000+ browser sketches affected"
 date: "2018-12-05"
 dependency: "Processing.js (Java-to-JavaScript transpiler)"

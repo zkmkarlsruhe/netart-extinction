@@ -66,6 +66,7 @@ function worstSeverity(event: typeof events[number]): 'total' | 'major' | 'minor
             summary={event.data.summary}
             artworkCount={event.data.affected_artworks?.length}
             ai_generated={event.data.ai_generated}
+            wikipedia={event.data.wikipedia}
           />
         </div>
       ))}

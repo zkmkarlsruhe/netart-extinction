@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Polymer_(library)"
 title: "Google deprecates Polymer in favor of Lit, orphaning Web Components-based creative projects"
 date: "2018-08"
 dependency: "Polymer (Google Web Components library)"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Max_(software)"
 title: "Max 8 drops 32-bit support, breaking legacy art installations"
 date: "2018-09-25"
 dependency: "Max/MSP/Jitter (Cycling '74)"

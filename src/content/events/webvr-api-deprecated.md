@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/WebVR"
 title: "WebVR API deprecated in favor of WebXR"
 date: "2019"
 end_date: "2020"

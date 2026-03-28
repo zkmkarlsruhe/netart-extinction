@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Shortwave_radio"
 title: "Global shortwave broadcast infrastructure dismantled"
 date: "2014"
 dependency: "International shortwave radio broadcast infrastructure"

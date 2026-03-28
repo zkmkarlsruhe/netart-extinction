@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Symantec"
 title: "Browsers distrust Symantec-issued TLS certificates"
 date: "2018-04-17"
 end_date: "2018-10-23"

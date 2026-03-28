@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Imgur"
 title: "Imgur purges anonymous uploads and explicit content"
 date: "2023-05-15"
 dependency: "Imgur anonymous image hosting"

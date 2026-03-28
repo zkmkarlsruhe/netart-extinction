@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Adobe_Flash_Player"
 title: "Flash Player blocked from running"
 date: "2021-01-12"
 end_date: "2021-01-12"

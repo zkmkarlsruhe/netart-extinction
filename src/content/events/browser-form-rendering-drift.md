@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Browser_wars"
 title: "Browser native UI rendering drifts from original form element aesthetics"
 date: "2012"
 dependency: "OS-native HTML form element rendering"

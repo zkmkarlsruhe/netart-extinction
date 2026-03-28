@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Daydream"
 title: "Google discontinues Daydream VR, kills servers"
 date: "2021-02"
 dependency: "Google Daydream VR platform"

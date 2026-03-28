@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Groups"
 title: "Google Groups ends Usenet support, severing the largest public NNTP gateway"
 date: "2024-02-22"
 dependency: "Google Groups Usenet/NNTP gateway"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Friendster"
 title: "Friendster deletes all user content in gaming pivot"
 date: "2011-05-31"
 dependency: "Friendster social network"

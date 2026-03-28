@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/IOS_11"
 title: "iOS 11 drops 32-bit apps, purges ~50,000 from App Store"
 date: "2017-09-19"
 dependency: "32-bit iOS applications"

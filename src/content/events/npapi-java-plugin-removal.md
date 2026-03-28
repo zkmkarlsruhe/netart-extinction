@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/NPAPI"
 title: "NPAPI and Java plugin support removed from major browsers"
 date: "2015-09-01"
 dependency: "NPAPI / Java browser plugins"

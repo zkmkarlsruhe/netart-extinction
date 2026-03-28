@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/United_States_DTV_transition"
 title: "United States analog television broadcast shutdown"
 date: "2009-06-12"
 dependency: "NTSC analog television broadcast signals"

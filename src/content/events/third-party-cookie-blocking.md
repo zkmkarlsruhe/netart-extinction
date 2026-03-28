@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/HTTP_cookie"
 title: "Browsers block third-party cookies by default"
 date: "2020-03"
 dependency: "Third-party cookies for cross-site state"

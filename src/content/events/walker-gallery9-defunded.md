@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Walker_Art_Center"
 title: "Walker Art Center Gallery 9 program eliminated"
 date: "2003-05"
 dependency: "Walker Art Center Gallery 9 net art program"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Word_Magazine"
 title: "Word.com closed"
 date: "2000-08"
 dependency: "Word.com web magazine and interactive art platform"

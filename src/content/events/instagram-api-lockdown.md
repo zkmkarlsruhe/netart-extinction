@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Instagram"
 title: "Instagram API locked down, Basic Display API deprecated"
 date: "2024-12-04"
 dependency: "Instagram Legacy API / Basic Display API"

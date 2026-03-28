@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Fusion_Tables"
 title: "Google Fusion Tables shut down"
 date: "2019-12-03"
 dependency: "Google Fusion Tables data visualization service"

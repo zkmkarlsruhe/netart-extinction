@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Play"
 title: "Google Play stops serving 32-bit-only apps on 64-bit Android devices"
 date: "2021-08-01"
 dependency: "Google Play 32-bit app support on 64-bit devices"

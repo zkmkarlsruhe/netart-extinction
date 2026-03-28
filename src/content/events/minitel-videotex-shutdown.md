@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Minitel"
 title: "France Telecom shuts down Minitel network"
 date: "2012-06-30"
 dependency: "Minitel / Videotex telecommunications network"

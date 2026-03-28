@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Freenode"
 title: "Freenode IRC network collapses after hostile takeover and database wipe"
 date: "2021-06-14"
 dependency: "Freenode IRC network"

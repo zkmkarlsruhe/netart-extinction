@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Kinect"
 title: "Microsoft discontinues Kinect production"
 date: "2017-10"
 dependency: "Microsoft Kinect depth sensor"

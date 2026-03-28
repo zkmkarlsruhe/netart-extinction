@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/MIDI"
 title: "MIDI file playback removed from major browsers"
 date: "2020"
 dependency: "MIDI (.mid/.midi) browser-native playback"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Internet_Explorer"
 title: "Internet Explorer retired"
 date: "2022-06-15"
 dependency: "Internet Explorer"

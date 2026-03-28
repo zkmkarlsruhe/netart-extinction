@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Net_neutrality_in_the_United_States"
 title: "FCC repeals net neutrality rules"
 date: "2017-12-14"
 dependency: "Net neutrality protections (Open Internet Order 2015)"

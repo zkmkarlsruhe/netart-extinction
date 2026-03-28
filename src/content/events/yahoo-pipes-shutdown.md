@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Yahoo!_Pipes"
 title: "Yahoo Pipes shut down"
 date: "2015-09-30"
 dependency: "Yahoo Pipes feed aggregation and mashup platform"

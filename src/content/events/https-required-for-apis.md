@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/HTTPS"
 title: "Browsers require HTTPS for geolocation, camera, and audio APIs"
 date: "2016-04"
 end_date: "2017-08"

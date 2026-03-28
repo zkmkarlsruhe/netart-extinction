@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Transport_Layer_Security"
 title: "Browsers drop TLS 1.0 and 1.1 support"
 date: "2020-03"
 end_date: "2020-09"

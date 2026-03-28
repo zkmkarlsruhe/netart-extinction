@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Netscape_Navigator"
 title: "Netscape Navigator reaches end of life"
 date: "2008-03-01"
 dependency: "Netscape Navigator browser"

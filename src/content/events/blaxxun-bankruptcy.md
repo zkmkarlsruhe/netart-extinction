@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Blaxxun"
 title: "Blaxxun Interactive goes bankrupt, multi-user VRML worlds collapse"
 date: "2002"
 dependency: "Blaxxun Contact plugin / multi-user VRML servers"

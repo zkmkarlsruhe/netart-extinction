@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Twitter"
 title: "Free X/Twitter API access ends"
 date: "2023-02-09"
 dependency: "X/Twitter API"

@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Google_Search"
 title: "Google AJAX/Search APIs discontinued"
 date: "2014-05-01"
 dependency: "Google Search APIs"

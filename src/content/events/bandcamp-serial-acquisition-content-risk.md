@@ -1,5 +1,6 @@
 ---
 ai_generated: true
+wikipedia: "https://en.wikipedia.org/wiki/Bandcamp"
 title: "Bandcamp sold twice in 18 months, mass layoffs threaten music archive"
 date: "2023-09-28"
 dependency: "Bandcamp music hosting platform"
