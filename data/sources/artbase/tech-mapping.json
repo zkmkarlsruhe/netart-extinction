@@ -1,0 +1,5376 @@
+{
+  "matched": [
+    {
+      "slug": "daedaleum-12-isles",
+      "title": "daedaleum --- 12 isles",
+      "artist": "Julien Demeuzois",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1348"
+    },
+    {
+      "slug": "restate-detonators",
+      "title": "restate/detonators",
+      "artist": "restate",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1624"
+    },
+    {
+      "slug": "r-o-o-m",
+      "title": "r|o|o|m|",
+      "artist": "matt Jones",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1631"
+    },
+    {
+      "slug": "revenances",
+      "title": "Revenances",
+      "artist": "Gr\u00e9gory Chatonsky",
+      "techs": [
+        "java",
+        "flash",
+        "quicktime",
+        "vrml"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked",
+        "vrml-plugin-obsolescence",
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1309"
+    },
+    {
+      "slug": "the-double-room",
+      "title": "the double room",
+      "artist": "nathaniel stern",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1321"
+    },
+    {
+      "slug": "dream7",
+      "title": "dream7",
+      "artist": "Margaret Penney",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1323"
+    },
+    {
+      "slug": "dreamechanics",
+      "title": "Dreamechanics",
+      "artist": "shane davenport",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1326"
+    },
+    {
+      "slug": "desert-grows",
+      "title": "Desert grows",
+      "artist": "Raul Berrueco",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1327"
+    },
+    {
+      "slug": "either-side-of-an-empty-room",
+      "title": "Either Side of an Empty Room",
+      "artist": "Peter Horvath",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1332"
+    },
+    {
+      "slug": "soundboxes",
+      "title": "Soundboxes",
+      "artist": "michiel Knaven",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1619"
+    },
+    {
+      "slug": "tuesday-afternoon",
+      "title": "Tuesday Afternoon",
+      "artist": "Trebor Scholz",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1202"
+    },
+    {
+      "slug": "bodydrome",
+      "title": "Bodydrome",
+      "artist": "Marcello Mazzella",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1214"
+    },
+    {
+      "slug": "123456789px",
+      "title": "123456789px",
+      "artist": "arcangel constantini",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1216"
+    },
+    {
+      "slug": "position",
+      "title": "Position",
+      "artist": "Gr\u00e9gory Chatonsky",
+      "techs": [
+        "flash",
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1218"
+    },
+    {
+      "slug": "the-shine-of-your-japan",
+      "title": "the shine of your japan",
+      "artist": "curt cloninger",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1220"
+    },
+    {
+      "slug": "krematorium",
+      "title": "Krematorium",
+      "artist": "Miklos Legrady",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1223"
+    },
+    {
+      "slug": "ghost-city",
+      "title": "Ghost City",
+      "artist": "Jody Zellen",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1227"
+    },
+    {
+      "slug": "the-central-city-net-art-edition",
+      "title": "The Central City (Net Art ) edition",
+      "artist": "Stanza",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1241"
+    },
+    {
+      "slug": "audiovisual-environment-suite",
+      "title": "Audiovisual Environment Suite",
+      "artist": "Golan Levin",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1242"
+    },
+    {
+      "slug": "seapoint",
+      "title": "SeaPoint",
+      "artist": "Dennis McNulty",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1250"
+    },
+    {
+      "slug": "wormholes-to-oli-und-ten",
+      "title": "wormholes to oli und ten",
+      "artist": "Oliver Kauselmann",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1258"
+    },
+    {
+      "slug": "love-letters-from-the-world-of-awe",
+      "title": "Love Letters from the World of Awe",
+      "artist": "Yael Kanarek",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1285"
+    },
+    {
+      "slug": "autom-tedvisualmusic",
+      "title": "autom@tedVisualMusiC",
+      "artist": "Sergio Maltagliati",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1289"
+    },
+    {
+      "slug": "kasimir",
+      "title": "kasimir",
+      "artist": "e rational",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1296"
+    },
+    {
+      "slug": "superstitious-appliances",
+      "title": "Superstitious Appliances",
+      "artist": "Jason Nelson",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1298"
+    },
+    {
+      "slug": "virtual-singer",
+      "title": "virtual singer",
+      "artist": "marcin ramocki",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1304"
+    },
+    {
+      "slug": "american-views-stories-of-the-landscape",
+      "title": "American Views: Stories of the Landscape",
+      "artist": "Russet Lederman",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1640"
+    },
+    {
+      "slug": "60x1-com",
+      "title": "60X1.COM",
+      "artist": "Kenneth Hung",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1654"
+    },
+    {
+      "slug": "plural-maps-lost-in-s",
+      "title": "Plural maps: lost in S",
+      "artist": "Lucia Leao",
+      "techs": [
+        "flash",
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1666"
+    },
+    {
+      "slug": "bioevents",
+      "title": "BIOevents",
+      "artist": "monica jacobo",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1685"
+    },
+    {
+      "slug": "enter",
+      "title": "enter",
+      "artist": "nathaniel stern",
+      "techs": [
+        "shockwave",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1689"
+    },
+    {
+      "slug": "artificial-art",
+      "title": "ARTificial ART",
+      "artist": "Kurt Baumann",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1697"
+    },
+    {
+      "slug": "metaphorical-clock",
+      "title": "metaphorical clock",
+      "artist": "Tania Rodr",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1709"
+    },
+    {
+      "slug": "tu-eje",
+      "title": "tu eje",
+      "artist": "Sebastian Cudicio",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1713"
+    },
+    {
+      "slug": "nomadlingo",
+      "title": "NomadLingo",
+      "artist": "d johnston",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1715"
+    },
+    {
+      "slug": "flash-poetry-generator-3-0",
+      "title": "Flash Poetry Generator 3.0",
+      "artist": "Lewis LaCook",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1721"
+    },
+    {
+      "slug": "being-human",
+      "title": "being human",
+      "artist": "Annie Abrahams",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1724"
+    },
+    {
+      "slug": "refresh-window",
+      "title": "Refresh Window",
+      "artist": "Reynald Drouhin",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1736"
+    },
+    {
+      "slug": "unlink",
+      "title": "unlink",
+      "artist": "Emilie Pitoiset",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1743"
+    },
+    {
+      "slug": "virtuellesmuseum-info",
+      "title": "virtuellesmuseum.info",
+      "artist": "micha one",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1602"
+    },
+    {
+      "slug": "parole",
+      "title": "parole",
+      "artist": "gruppo A12",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1460"
+    },
+    {
+      "slug": "3boxes",
+      "title": "3boxes",
+      "artist": "Maria Lavman",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1467"
+    },
+    {
+      "slug": "every-time-i-b14-return-from-moscow-i-cry",
+      "title": "every time i B14 return from moscow - i cry",
+      "artist": "Igor \u0160tromajer",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1469"
+    },
+    {
+      "slug": "exapes",
+      "title": "exapes",
+      "artist": "florin tudor",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1470"
+    },
+    {
+      "slug": "hello-world",
+      "title": "hello world",
+      "artist": "vicky isley",
+      "techs": [
+        "shockwave",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1480"
+    },
+    {
+      "slug": "aisforapple-net",
+      "title": "aisforapple.net",
+      "artist": "David Clark",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1747"
+    },
+    {
+      "slug": "i-want-to-share-you-what-are-you-doing-to-me",
+      "title": "[ i want to share you - what are you doing to me? ]",
+      "artist": "Igor \u0160tromajer",
+      "techs": [
+        "java",
+        "realplayer"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1751"
+    },
+    {
+      "slug": "codecity-incrementing-true",
+      "title": "CodeCity: incrementing=true;",
+      "artist": "Amir Soltani",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1762"
+    },
+    {
+      "slug": "ucello",
+      "title": "Ucello",
+      "artist": "Al Jarnow",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2206"
+    },
+    {
+      "slug": "anatomy-of-hope",
+      "title": "Anatomy of Hope",
+      "artist": "Eryk Salvaggio",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1494"
+    },
+    {
+      "slug": "what-was-he-thinking-about-berlin-praha-ljubljana-skopje",
+      "title": "what was he thinking about? berlin? praha? ljubljana? skopje?",
+      "artist": "Igor \u0160tromajer",
+      "techs": [
+        "java",
+        "realplayer"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1503"
+    },
+    {
+      "slug": "metronome",
+      "title": "METRONOME",
+      "artist": "Sebastian Seifert",
+      "techs": [
+        "shockwave",
+        "realplayer",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1509"
+    },
+    {
+      "slug": "keep-walking",
+      "title": "Keep Walking",
+      "artist": "Marcello Mazzella",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1518"
+    },
+    {
+      "slug": "oppera-teorettikka-internettikka",
+      "title": "Oppera Teorettikka Internettikka",
+      "artist": "Igor \u0160tromajer",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1524"
+    },
+    {
+      "slug": "the-dreamlife-of-letters",
+      "title": "the dreamlife of letters",
+      "artist": "Brian Kim Stefans",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1528"
+    },
+    {
+      "slug": "urban-fragments",
+      "title": "Urban Fragments",
+      "artist": "Juliana Sato Yamashita",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1534"
+    },
+    {
+      "slug": "deface",
+      "title": "deface!",
+      "artist": "Maurizio Mercuri",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1544"
+    },
+    {
+      "slug": "telematic-surveillance",
+      "title": "Telematic Surveillance",
+      "artist": "nungu",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1554"
+    },
+    {
+      "slug": "wheel-of-life",
+      "title": "wheel of life",
+      "artist": "mark burban",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1562"
+    },
+    {
+      "slug": "carrier",
+      "title": "carrier",
+      "artist": "Melinda Rackham",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "vrml",
+        "java"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence",
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1568"
+    },
+    {
+      "slug": "vagamundo-a-migrants-tale",
+      "title": "Vagamundo: A Migrant's Tale",
+      "artist": "Ricardo Miranda Z\u00fa\u00f1iga",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1585"
+    },
+    {
+      "slug": "perpetual-panshot",
+      "title": "perpetual panshot",
+      "artist": "stephenaustin",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1591"
+    },
+    {
+      "slug": "multiple-dwelling",
+      "title": "multiple_dwelling",
+      "artist": "Jeff Gompertz",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1593"
+    },
+    {
+      "slug": "sciencefictiongenerator",
+      "title": "ScienceFictionGenerator",
+      "artist": "micha one",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1354"
+    },
+    {
+      "slug": "rubsalt",
+      "title": "rubsalt",
+      "artist": "Jonny Norridge",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1355"
+    },
+    {
+      "slug": "chavirement-d",
+      "title": "Chavirement d'\u00e2me pr\u00e9cipit\u00e9 par le passage d'un vertige (\u00e0 \u00e9cho m\u00e9canique)",
+      "artist": "armand behar",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1361"
+    },
+    {
+      "slug": "om",
+      "title": "Om",
+      "artist": "Reynald Drouhin",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1375"
+    },
+    {
+      "slug": "urban-early-sunday-morning-raw",
+      "title": "Urban.early sunday morning_raw",
+      "artist": "Wilfried Agricola de Cologne",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1377"
+    },
+    {
+      "slug": "reypollo",
+      "title": "Reypollo",
+      "artist": "Tlaolli Arguello",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1386"
+    },
+    {
+      "slug": "buyorbeware-com-v-1-07",
+      "title": "BuyOrBeware.com v. 1.07",
+      "artist": "Andrew Venell",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1391"
+    },
+    {
+      "slug": "one-night-in-greenwich-village",
+      "title": "One Night in Greenwich Village",
+      "artist": "Jeannette Lambert",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1395"
+    },
+    {
+      "slug": "almost-home",
+      "title": "Almost Home",
+      "artist": "Arturo Herrera",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1400"
+    },
+    {
+      "slug": "patinage",
+      "title": "Patinage",
+      "artist": "Chris Joseph",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1406"
+    },
+    {
+      "slug": "not-so-frequently-asked-answered-questions",
+      "title": "Not so frequently asked/answered questions",
+      "artist": "sandra antunes",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1413"
+    },
+    {
+      "slug": "manhattan-timeformations",
+      "title": "Manhattan Timeformations",
+      "artist": "Brian McGrath",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1418"
+    },
+    {
+      "slug": "is-watching",
+      "title": "Is watching",
+      "artist": "xavier cahen",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1424"
+    },
+    {
+      "slug": "off-area",
+      "title": "off<area>",
+      "artist": "Kerstin Weiberg",
+      "techs": [
+        "shockwave",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1425"
+    },
+    {
+      "slug": "lover-texts",
+      "title": "Lover Texts",
+      "artist": "Bret Nicely",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1438"
+    },
+    {
+      "slug": "set-variable-random-art",
+      "title": "Set Variable=Random(ART)",
+      "artist": "Brian Mackern",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1441"
+    },
+    {
+      "slug": "the-secret-lives-of-numbers",
+      "title": "The Secret Lives of Numbers",
+      "artist": "Golan Levin",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1444"
+    },
+    {
+      "slug": "photographic-diary",
+      "title": "Photographic Diary",
+      "artist": "Jimmy Owenns",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1447"
+    },
+    {
+      "slug": "happycentro-sintetik",
+      "title": "Happycentro+Sintetik",
+      "artist": "Happycentro+Sintetik",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1451"
+    },
+    {
+      "slug": "topology-of-a-translation",
+      "title": "Topology of a translation",
+      "artist": "Gr\u00e9gory Chatonsky",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1452"
+    },
+    {
+      "slug": "rtmark",
+      "title": "\u00ae\u2122ark",
+      "artist": "RTMark",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2028"
+    },
+    {
+      "slug": "airworld",
+      "title": "Airworld",
+      "artist": "Jennifer and Kevin McCoy",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2030"
+    },
+    {
+      "slug": "critter-sketch",
+      "title": "critter sketch",
+      "artist": "K. Frost",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2035"
+    },
+    {
+      "slug": "levels9",
+      "title": "levels9",
+      "artist": "xavier cahen",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2046"
+    },
+    {
+      "slug": "minitasking",
+      "title": "minitasking",
+      "artist": "Schoenerwissen",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2047"
+    },
+    {
+      "slug": "richapplefool",
+      "title": "richapplefool",
+      "artist": "termy",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2050"
+    },
+    {
+      "slug": "same-old-dreams",
+      "title": "same old dreams",
+      "artist": "lisa cianci",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2539"
+    },
+    {
+      "slug": "new-york-city-map",
+      "title": "New York City Map",
+      "artist": "Marketa Bankova",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2545"
+    },
+    {
+      "slug": "selbst-los-self-less",
+      "title": "Selbst-los / Self-less",
+      "artist": "Wolf Kahlen",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2553"
+    },
+    {
+      "slug": "panomrama",
+      "title": "PanOmrama",
+      "artist": "Reynald Drouhin",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2565"
+    },
+    {
+      "slug": "mu",
+      "title": "mu",
+      "artist": "Tomoko kawai",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2578"
+    },
+    {
+      "slug": "z",
+      "title": "Z",
+      "artist": "Antoni Abad",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2580"
+    },
+    {
+      "slug": "anti-capitalist-operating-system",
+      "title": "Anti-Capitalist Operating System",
+      "artist": "Andy Cox",
+      "techs": [
+        "java",
+        "realplayer"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2584"
+    },
+    {
+      "slug": "abstract",
+      "title": "Abstract",
+      "artist": "xavier cahen",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2603"
+    },
+    {
+      "slug": "my-voice",
+      "title": "My Voice (for personal computer and microphone)",
+      "artist": "Gr\u00e9gory Chatonsky",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2605"
+    },
+    {
+      "slug": "e-sm-electronic-soul-mirroring",
+      "title": "e-sm: electronic soul mirroring",
+      "artist": "Carlo Zanni",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2614"
+    },
+    {
+      "slug": "the-dazzle-as-question",
+      "title": "The Dazzle as Question",
+      "artist": "Claire Dinsmore",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2616"
+    },
+    {
+      "slug": "the-lair-of-the-marrow-monkey",
+      "title": "The Lair of the Marrow Monkey",
+      "artist": "Erik Loyer",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2625"
+    },
+    {
+      "slug": "60x1-cam-tm-ultimate-interactive-webcam-surveillance-system-",
+      "title": "60X1.CAM(tm) Ultimate Interactive Webcam Surveillance System For Homeland Security",
+      "artist": "Kenneth Hung",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2635"
+    },
+    {
+      "slug": "you-are-late",
+      "title": "You Are Late",
+      "artist": "Barbara Lattanzi",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2636"
+    },
+    {
+      "slug": "flytrap",
+      "title": "Flytrap",
+      "artist": "Karen Ingram",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2640"
+    },
+    {
+      "slug": "the-photographic-diary-project",
+      "title": "( the photographic-diary project )",
+      "artist": "Jimmy Owenns",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2648"
+    },
+    {
+      "slug": "netsleeping",
+      "title": "Netsleeping",
+      "artist": "Gr\u00e9gory Chatonsky",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1919"
+    },
+    {
+      "slug": "the-mirror-that-changes",
+      "title": "The Mirror That Changes",
+      "artist": "Annette Weintraub",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1940"
+    },
+    {
+      "slug": "experimental-life-project-version-1-0",
+      "title": "Experimental Life Project version 1.0",
+      "artist": "domiziana giordano",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1950"
+    },
+    {
+      "slug": "world-of-awe-1-0",
+      "title": "World of Awe 1.0",
+      "artist": "Yael Kanarek",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1959"
+    },
+    {
+      "slug": "kenjikojima-com",
+      "title": "kenjikojima.com / Interactive Web Art",
+      "artist": "Kenji Kojima",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1964"
+    },
+    {
+      "slug": "polystyrene-dream",
+      "title": "Polystyrene Dream",
+      "artist": "Juliet Davis",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1966"
+    },
+    {
+      "slug": "barnyard-algorithm",
+      "title": "barnyard algorithm",
+      "artist": "Rick Mullarky",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1968"
+    },
+    {
+      "slug": "the-struggle-continues",
+      "title": "THE STRUGGLE CONTINUES",
+      "artist": "Young-Hae Chang Heavy Industries",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1972"
+    },
+    {
+      "slug": "brooklyn01",
+      "title": "brooklyn01",
+      "artist": "martin meyer",
+      "techs": [
+        "flash",
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1974"
+    },
+    {
+      "slug": "if-we-shadows",
+      "title": "if we shadows...",
+      "artist": "Michael Szpakowski",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1975"
+    },
+    {
+      "slug": "frustration-machine",
+      "title": "Frustration Machine",
+      "artist": "Rodrigo Volpe",
+      "techs": [
+        "shockwave",
+        "realplayer",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1985"
+    },
+    {
+      "slug": "the-experiment",
+      "title": "The Experiment",
+      "artist": "Michael Kaufmann",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1997"
+    },
+    {
+      "slug": "danish-soundscapes",
+      "title": "Danish Soundscapes",
+      "artist": "Thorbjoern Koenig",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2019"
+    },
+    {
+      "slug": "when-going-from-to",
+      "title": "When going from ___ to ___",
+      "artist": "Luis Cantillo",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2020"
+    },
+    {
+      "slug": "the-dichotomy-of-living",
+      "title": "The Dichotomy of Living",
+      "artist": "Melanie Rodgers",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2025"
+    },
+    {
+      "slug": "daedaleum-4-camera-zootropica",
+      "title": "daedaleum 4 --- camera zootropica",
+      "artist": "Julien Demeuzois",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2657"
+    },
+    {
+      "slug": "n3xt",
+      "title": "n3xt",
+      "artist": "shirin Kouladjie",
+      "techs": [
+        "realplayer",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2675"
+    },
+    {
+      "slug": "pause",
+      "title": "Pause",
+      "artist": "Alexey Sokolin",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2681"
+    },
+    {
+      "slug": "kill-the-messenger",
+      "title": "Kill the Messenger",
+      "artist": "Karen Ingram",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2990"
+    },
+    {
+      "slug": "how-do-you-feel",
+      "title": "How do you feel?",
+      "artist": "Christiane Dellbr\u00fcgge",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3005"
+    },
+    {
+      "slug": "us-department-of-art-technology",
+      "title": "US Department of Art & Technology",
+      "artist": "Randall Packer",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3006"
+    },
+    {
+      "slug": "sixgun-tales-from-an-unfolded-earth",
+      "title": "Sixgun: Tales From An Unfolded Earth",
+      "artist": "Daniel Merlin Goodbrey",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3008"
+    },
+    {
+      "slug": "invisible-town",
+      "title": "invisible town",
+      "artist": "Suki Beg",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3012"
+    },
+    {
+      "slug": "thebigear-an-imaginary-soundscape",
+      "title": "THEBIGEAR - An Imaginary Soundscape",
+      "artist": "francesco michi",
+      "techs": [
+        "realplayer",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3020"
+    },
+    {
+      "slug": "echo-syst",
+      "title": "Echo syst",
+      "artist": "julie Morel",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3031"
+    },
+    {
+      "slug": "d-raw",
+      "title": "d_raw",
+      "artist": "Mario Hergueta",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3035"
+    },
+    {
+      "slug": "mobile-communication",
+      "title": "Mobile Communication",
+      "artist": "Angie Waller",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3050"
+    },
+    {
+      "slug": "sexmachines",
+      "title": "Sexmachines",
+      "artist": "Mendi+Keith Obadike",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3058"
+    },
+    {
+      "slug": "the-jetty",
+      "title": "The Jetty",
+      "artist": "Hidekazu Minami",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3062"
+    },
+    {
+      "slug": "mentalmaps",
+      "title": "mentalmaps",
+      "artist": "Aureliano P\u00e9rez Garz\u00f3n",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3073"
+    },
+    {
+      "slug": "hearingloss",
+      "title": "HearingLoss",
+      "artist": "Brad Todd",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3076"
+    },
+    {
+      "slug": "transphormetic",
+      "title": "transphormetic",
+      "artist": "paul prudenci",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3101"
+    },
+    {
+      "slug": "the-long-bomb",
+      "title": "The Long Bomb",
+      "artist": "Haik Hoisington",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3109"
+    },
+    {
+      "slug": "inflat-o-scape",
+      "title": "Inflat-o-scape",
+      "artist": "Jessica Irish",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3111"
+    },
+    {
+      "slug": "wirescapes-1-0",
+      "title": "Wirescapes 1.0",
+      "artist": "John Vega",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3114"
+    },
+    {
+      "slug": "7sky",
+      "title": "7sky",
+      "artist": "Doron Golan",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3118"
+    },
+    {
+      "slug": "family-portrait",
+      "title": "Family Portrait",
+      "artist": "Wilfried Agricola de Cologne",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3121"
+    },
+    {
+      "slug": "mediated-spaces",
+      "title": "Mediated Spaces",
+      "artist": "\u00c1d\u00e1m Somlai-Fischer",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3124"
+    },
+    {
+      "slug": "intercontinental-spontaneous-jam-session",
+      "title": "Intercontinental Spontaneous Jam Session",
+      "artist": "Pall Thayer",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2327"
+    },
+    {
+      "slug": "trapped",
+      "title": "Trapped",
+      "artist": "sachiko hayashi",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2334"
+    },
+    {
+      "slug": "1kik-us",
+      "title": "1kik us",
+      "artist": "Doron Golan",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2339"
+    },
+    {
+      "slug": "simcity",
+      "title": "simcity",
+      "artist": "antonio mendoza",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1882"
+    },
+    {
+      "slug": "great-wall-of-china",
+      "title": "Great Wall of China",
+      "artist": "Simon Biggs",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1885"
+    },
+    {
+      "slug": "meta4walls",
+      "title": "meta4walls",
+      "artist": "Lucas Bambozzi",
+      "techs": [
+        "shockwave",
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1891"
+    },
+    {
+      "slug": "line",
+      "title": "Line",
+      "artist": "Melinda Rackham",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1893"
+    },
+    {
+      "slug": "3012",
+      "title": "3012",
+      "artist": "Peter Luining",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1895"
+    },
+    {
+      "slug": "war-against-terror-it-s-easy-like-a-pin-ball-game",
+      "title": "WAR AGAINST TERROR it`s EASY LIKE A PIN BALL GAME",
+      "artist": "Per Pegelow | Interactive Arts",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1906"
+    },
+    {
+      "slug": "metaorigines",
+      "title": "M\u00e9taorigines",
+      "artist": "Reynald Drouhin",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1771"
+    },
+    {
+      "slug": "hypoem",
+      "title": "hyPoem",
+      "artist": "joerg piringer",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1775"
+    },
+    {
+      "slug": "wallcloud",
+      "title": "wallcloud",
+      "artist": "nicholas economos",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1792"
+    },
+    {
+      "slug": "138-seconds-of-peace",
+      "title": "138 seconds of peace?",
+      "artist": "Wilfried Agricola de Cologne",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1797"
+    },
+    {
+      "slug": "ethereal-city",
+      "title": "ethereal city",
+      "artist": "Emily Chang",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1805"
+    },
+    {
+      "slug": "storybeat",
+      "title": "storybeat",
+      "artist": "geoffrey thomas",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1809"
+    },
+    {
+      "slug": "alphabet-synthesis-machine",
+      "title": "Alphabet Synthesis Machine",
+      "artist": "Golan Levin",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1811"
+    },
+    {
+      "slug": "wnvirus-com",
+      "title": "WNVIRUS.COM",
+      "artist": "[dNASAb]",
+      "techs": [
+        "shockwave",
+        "java",
+        "flash",
+        "realplayer",
+        "quicktime"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1815"
+    },
+    {
+      "slug": "fly-me-to-the-moon",
+      "title": "Fly Me to the Moon",
+      "artist": "alun ward",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1830"
+    },
+    {
+      "slug": "the-handmirror-scenes-from-behind-the-mirror",
+      "title": "The Handmirror, scenes from behind the mirror",
+      "artist": "michiel Knaven",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1835"
+    },
+    {
+      "slug": "timessquare",
+      "title": "TimesSquare",
+      "artist": "Reynald Drouhin",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1838"
+    },
+    {
+      "slug": "panoptico",
+      "title": "panoptico",
+      "artist": "Ivan Abreu",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1839"
+    },
+    {
+      "slug": "violence",
+      "title": "Violence",
+      "artist": "Wilfried Agricola de Cologne",
+      "techs": [
+        "shockwave",
+        "realplayer",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1843"
+    },
+    {
+      "slug": "i-love-you-i-miss-you",
+      "title": "I love You_ I Miss You",
+      "artist": "Lara Bank",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1854"
+    },
+    {
+      "slug": "mp3-abode",
+      "title": "mp3(abode)",
+      "artist": "paul loftus murnaghan",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1863"
+    },
+    {
+      "slug": "my-family",
+      "title": "my family",
+      "artist": "Tomasz Konart",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1866"
+    },
+    {
+      "slug": "rhythmengine",
+      "title": "RhythmEngine",
+      "artist": "Hidenori Watanave",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1875"
+    },
+    {
+      "slug": "and-scape",
+      "title": "]and_scape[",
+      "artist": "Wilfried Agricola de Cologne",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q1877"
+    },
+    {
+      "slug": "netsong",
+      "title": "NetSong",
+      "artist": "Peter Traub",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2185"
+    },
+    {
+      "slug": "breathe-crack-peel",
+      "title": "breathe, crack & peel",
+      "artist": "trip Dixon",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2195"
+    },
+    {
+      "slug": "daedaleum-3-phenakistiscope",
+      "title": "daedaleum 3 --- phenakistiscope",
+      "artist": "Julien Demeuzois",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2202"
+    },
+    {
+      "slug": "www-hotel-president-de",
+      "title": "www.hotel-president.de",
+      "artist": "Hannes Gamper",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2204"
+    },
+    {
+      "slug": "ouija-2000",
+      "title": "Ouija 2000",
+      "artist": "Ken Goldberg",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2214"
+    },
+    {
+      "slug": "ada1852",
+      "title": "ada1852",
+      "artist": "Christopher Fahey",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2233"
+    },
+    {
+      "slug": "alteraction",
+      "title": "Alteraction",
+      "artist": "Reynald Drouhin",
+      "techs": [
+        "java",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2234"
+    },
+    {
+      "slug": "rosie",
+      "title": "Rosie",
+      "artist": "Marketa Bankova",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2252"
+    },
+    {
+      "slug": "option-shift-home",
+      "title": "option-shift-home",
+      "artist": "Philip Foeckler",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2275"
+    },
+    {
+      "slug": "babel",
+      "title": "Babel",
+      "artist": "Simon Biggs",
+      "techs": [
+        "shockwave",
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2280"
+    },
+    {
+      "slug": "1953",
+      "title": "1953",
+      "artist": "Skye Thorstenson",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2283"
+    },
+    {
+      "slug": "four-flashes-of-life",
+      "title": "Four Flashes of Life",
+      "artist": "Lars Wikstr",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2284"
+    },
+    {
+      "slug": "world-it-just-keeps-changing",
+      "title": "WORLD:it just keeps changing",
+      "artist": "Kate Southworth",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2285"
+    },
+    {
+      "slug": "nio",
+      "title": "Nio",
+      "artist": "Jim Andrews",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2288"
+    },
+    {
+      "slug": "in-between",
+      "title": "In Between",
+      "artist": "Soo Yeun Ahn",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2301"
+    },
+    {
+      "slug": "47reds",
+      "title": "47reds",
+      "artist": "Christina McPhee",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2303"
+    },
+    {
+      "slug": "you-me-and",
+      "title": "you me and",
+      "artist": "Erwin Redl",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2306"
+    },
+    {
+      "slug": "online-art-critic",
+      "title": "Online Art Critic",
+      "artist": "Terry Towery",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2308"
+    },
+    {
+      "slug": "get-real",
+      "title": "get.real",
+      "artist": "Tiia Johannson",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2314"
+    },
+    {
+      "slug": "pan-o-matic-website-number-0001",
+      "title": "PAN-O-MATIC: website number .0001",
+      "artist": "stephanie rothenberg",
+      "techs": [
+        "realplayer",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2320"
+    },
+    {
+      "slug": "e3",
+      "title": "E3",
+      "artist": "Robert Seidel",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2061"
+    },
+    {
+      "slug": "deconstruction-reconstruction",
+      "title": "DECONSTRUCTION - RECONSTRUCTION",
+      "artist": "Paul Brand",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2079"
+    },
+    {
+      "slug": "genesis",
+      "title": "Genesis",
+      "artist": "sinae kim",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2082"
+    },
+    {
+      "slug": "fractal-consciousness",
+      "title": "Fractal Consciousness",
+      "artist": "zarinmedia",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2086"
+    },
+    {
+      "slug": "inoise",
+      "title": "iNoise",
+      "artist": "Ralf Baecker",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2095"
+    },
+    {
+      "slug": "uzume",
+      "title": "Uzume",
+      "artist": "Petra Gemeinboeck",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2102"
+    },
+    {
+      "slug": "dreamjot-2001-05",
+      "title": "dreamjot 2001 05",
+      "artist": "Neil Sorenson",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2109"
+    },
+    {
+      "slug": "poetry-generator",
+      "title": "Poetry Generator",
+      "artist": "Lewis LaCook",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2145"
+    },
+    {
+      "slug": "computational-expressionism",
+      "title": "Computational Expressionism",
+      "artist": "Joanna Berzowska",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2153"
+    },
+    {
+      "slug": "cyberpoetry-1995-1997",
+      "title": "cyberpoetry 1995-1997",
+      "artist": "komninos zervos",
+      "techs": [
+        "java",
+        "flash",
+        "quicktime",
+        "vrml"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked",
+        "vrml-plugin-obsolescence",
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2175"
+    },
+    {
+      "slug": "socialspeech",
+      "title": "socialspeech",
+      "artist": "Carlos J. Gomez de Llarena",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2842"
+    },
+    {
+      "slug": "storytelling-machine",
+      "title": "Storytelling Machine",
+      "artist": "Liz Franko",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2851"
+    },
+    {
+      "slug": "wake",
+      "title": "Wake",
+      "artist": "Gary Simmons",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2875"
+    },
+    {
+      "slug": "la-fabrica",
+      "title": "La Fabrica",
+      "artist": "Marisa Gonzalez",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2885"
+    },
+    {
+      "slug": "nextoper-1-01-for-cell-phones",
+      "title": ">neXtOper@1.01 for cell.phones",
+      "artist": "Sergio Maltagliati",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2887"
+    },
+    {
+      "slug": "metamix",
+      "title": "MetaMix",
+      "artist": "Jason Freeman",
+      "techs": [
+        "java",
+        "quicktime"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2901"
+    },
+    {
+      "slug": "helix",
+      "title": "helix",
+      "artist": "Shane Carroll",
+      "techs": [
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2906"
+    },
+    {
+      "slug": "a-javanized-flesh",
+      "title": "a javanized flesh",
+      "artist": "chih-min chen",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2907"
+    },
+    {
+      "slug": "thebot-one-infesting-the-horse",
+      "title": "theBot (one infesting the horse)",
+      "artist": "Amy Alexander",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2910"
+    },
+    {
+      "slug": "the-moneychanger-or-the-new-economy",
+      "title": "The moneychanger or the new economy",
+      "artist": "tete alvarez",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2911"
+    },
+    {
+      "slug": "vote-auction",
+      "title": "[V]ote-auction",
+      "artist": "UBERMORGEN",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2916"
+    },
+    {
+      "slug": "mutual-assured-deconstruction",
+      "title": "Mutual Assured Deconstruction",
+      "artist": "Michael Arnold Mages",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2925"
+    },
+    {
+      "slug": "seme",
+      "title": "seme",
+      "artist": "Rasmus Olli",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2928"
+    },
+    {
+      "slug": "dialtones-a-telesymphony",
+      "title": "Dialtones (A Telesymphony)",
+      "artist": "Golan Levin",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2934"
+    },
+    {
+      "slug": "workly-collection",
+      "title": "workly collection",
+      "artist": "Neal McDonald",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2949"
+    },
+    {
+      "slug": "home-like-no-place",
+      "title": "Home Like No Place",
+      "artist": "Jillian Mcdonald",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2952"
+    },
+    {
+      "slug": "haircut",
+      "title": "haircut",
+      "artist": "Justin Simoni",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2956"
+    },
+    {
+      "slug": "postcard-from-eutopia",
+      "title": "postcard from Eutopia",
+      "artist": "ryan griffis",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2962"
+    },
+    {
+      "slug": "mirage",
+      "title": "Mirage",
+      "artist": "Annette Weintraub",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2968"
+    },
+    {
+      "slug": "13-hours-of-the-discovery-channel",
+      "title": "13 hours of the discovery channel",
+      "artist": "joshua goldberg",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2970"
+    },
+    {
+      "slug": "weightless-sculpture-project",
+      "title": "Weightless Sculpture Project",
+      "artist": "Martin Sjardijn",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence",
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2981"
+    },
+    {
+      "slug": "plunge",
+      "title": "Plunge!",
+      "artist": "Saraswati Gramich",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2983"
+    },
+    {
+      "slug": "vectorial-elevation-relational-architecture-4",
+      "title": "Vectorial Elevation, Relational Architecture 4",
+      "artist": "Rafael Lozano-Hemmer",
+      "techs": [
+        "java",
+        "quicktime",
+        "vrml"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death",
+        "vrml-plugin-obsolescence"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3143"
+    },
+    {
+      "slug": "slipstreamandromeda",
+      "title": "slipstreamandromeda",
+      "artist": "Christina McPhee",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3148"
+    },
+    {
+      "slug": "raising-the-dead",
+      "title": "Raising the Dead",
+      "artist": "Paul Levine",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3150"
+    },
+    {
+      "slug": "mechanisms-of-exposure-gestures-of-pleasure",
+      "title": "Mechanisms of Exposure~Gestures of Pleasure",
+      "artist": "TJADER-KNIGHT inc. KNIGHT",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3162"
+    },
+    {
+      "slug": "waiting",
+      "title": "waiting",
+      "artist": "domiziana giordano",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3171"
+    },
+    {
+      "slug": "exodus",
+      "title": "exodus",
+      "artist": "michael bielicky",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3184"
+    },
+    {
+      "slug": "networking",
+      "title": "Networking",
+      "artist": "Kate Southworth",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3212"
+    },
+    {
+      "slug": "home-transfer",
+      "title": "Home Transfer",
+      "artist": "Pat Badani",
+      "techs": [
+        "java",
+        "realplayer",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3218"
+    },
+    {
+      "slug": "borrowed-bodies",
+      "title": "Borrowed bodies",
+      "artist": "Gemma San Cornelio",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3227"
+    },
+    {
+      "slug": "the-great-game",
+      "title": "The Great Game",
+      "artist": "John Klima",
+      "techs": [
+        "java",
+        "vrml"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "vrml-plugin-obsolescence"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3233"
+    },
+    {
+      "slug": "capella",
+      "title": "Capella",
+      "artist": "Isabelle Hayeur",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3235"
+    },
+    {
+      "slug": "europa-on-the-fly",
+      "title": "EUROPA - ON THE FLY",
+      "artist": "Wolf Kahlen",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3242"
+    },
+    {
+      "slug": "bodies-incorporated",
+      "title": "Bodies INCorporated",
+      "artist": "Victoria Vesna",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3253"
+    },
+    {
+      "slug": "conversations-with-fransesca",
+      "title": "Conversations with Fransesca",
+      "artist": "michiel Knaven",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3257"
+    },
+    {
+      "slug": "wild-exhibition",
+      "title": "Wild Exhibition",
+      "artist": "xavier cahen",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3265"
+    },
+    {
+      "slug": "system-shutdown",
+      "title": "system shutdown",
+      "artist": "yoke zoom",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2802"
+    },
+    {
+      "slug": "my-compu",
+      "title": "My Compu",
+      "artist": "Juan Manuel Pati\u00f1o",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2806"
+    },
+    {
+      "slug": "joseph-rossi-graphic-first-aid",
+      "title": "Joseph Rossi Graphic First Aid",
+      "artist": "francesco contin",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2823"
+    },
+    {
+      "slug": "lyric-underground",
+      "title": "Lyric Underground",
+      "artist": "Katherine Green",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2831"
+    },
+    {
+      "slug": "learning-to-love-you-more",
+      "title": "Learning to Love You More",
+      "artist": "Miranda July",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2690"
+    },
+    {
+      "slug": "music-box",
+      "title": "Music Box",
+      "artist": "Jin-Yo Mok",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2704"
+    },
+    {
+      "slug": "sonic-city",
+      "title": "Sonic City",
+      "artist": "Lewis LaCook",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2722"
+    },
+    {
+      "slug": "justfornow",
+      "title": "justfornow",
+      "artist": "Monica Ross",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2728"
+    },
+    {
+      "slug": "infiltration-dimages-respiratoires-en-milieu-semi-ouvert-sem",
+      "title": "Infiltration d'images respiratoires en milieu semi-ouvert/semi-ferm\u00e9",
+      "artist": "armand behar",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2742"
+    },
+    {
+      "slug": "sea-in-motion",
+      "title": "Sea In Motion",
+      "artist": "Ole B Nielsen",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "flash",
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2744"
+    },
+    {
+      "slug": "the-hypermacbeth",
+      "title": "the HyperMacbeth",
+      "artist": "dlsan",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2749"
+    },
+    {
+      "slug": "submeta",
+      "title": "submeta",
+      "artist": "submeta pehuet xavier",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2754"
+    },
+    {
+      "slug": "truth-is-a-moving-target",
+      "title": "Truth is a Moving Target",
+      "artist": "Erwin Redl",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2772"
+    },
+    {
+      "slug": "the-grid",
+      "title": "The Grid",
+      "artist": "Brian Judy",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2774"
+    },
+    {
+      "slug": "monitor",
+      "title": "monitor",
+      "artist": "Kevin Hamilton",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2777"
+    },
+    {
+      "slug": "adam001",
+      "title": "Adam001",
+      "artist": "Yuli Ziv",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2780"
+    },
+    {
+      "slug": "mobile-trilogy",
+      "title": "mobile trilogy",
+      "artist": "Igor \u0160tromajer",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2786"
+    },
+    {
+      "slug": "outside",
+      "title": "outside",
+      "artist": "6",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2362"
+    },
+    {
+      "slug": "kafka",
+      "title": "kafka",
+      "artist": "andrea flamini",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2369"
+    },
+    {
+      "slug": "halbeath",
+      "title": "HALBEATH",
+      "artist": "Young-Hae Chang Heavy Industries",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2380"
+    },
+    {
+      "slug": "la-langue-se-charge",
+      "title": "La langue se charge",
+      "artist": "Michael Sellam",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2386"
+    },
+    {
+      "slug": "caution",
+      "title": "CAUTION",
+      "artist": "Emilie Pitoiset",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2391"
+    },
+    {
+      "slug": "kmuni",
+      "title": "k'muni",
+      "artist": "chia-hsiao sinz shih",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2395"
+    },
+    {
+      "slug": "looking-for-the-new-universal-harmony",
+      "title": "Looking for the new universal harmony",
+      "artist": "Pall Thayer",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2397"
+    },
+    {
+      "slug": "irish-eyes",
+      "title": "Irish_Eyes",
+      "artist": "Ryan McGuinness",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2405"
+    },
+    {
+      "slug": "dis-house-jointed",
+      "title": "dis-house-jointed",
+      "artist": "Marcy Palmer",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2417"
+    },
+    {
+      "slug": "conner-times-ten",
+      "title": "Conner Times Ten",
+      "artist": "Matt Roberts",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2424"
+    },
+    {
+      "slug": "blessed",
+      "title": "Blessed",
+      "artist": "Lalo Hernandez Diez",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2426"
+    },
+    {
+      "slug": "every-icon",
+      "title": "Every Icon",
+      "artist": "John F. Simon, Jr.",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2428"
+    },
+    {
+      "slug": "instance-city",
+      "title": "Instance City",
+      "artist": "Riccardo Zanardelli",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2443"
+    },
+    {
+      "slug": "whenever-i-see-a-plane-i-remember-the-smell",
+      "title": "\"Whenever I see a plane, I remember the smell...\"",
+      "artist": "Genco Gulan",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2458"
+    },
+    {
+      "slug": "pliages-et-d",
+      "title": "Pliages et d\u00e9pilages d'une pens\u00e9e \u00e0 \u00e9tages",
+      "artist": "armand behar",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2461"
+    },
+    {
+      "slug": "p-a-r-a-a-database-of-wonders",
+      "title": "p a r a : / / a database of wonders",
+      "artist": "Jane Marsching",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2464"
+    },
+    {
+      "slug": "chained-displacements",
+      "title": "chained displacements",
+      "artist": "horit herman peled",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2474"
+    },
+    {
+      "slug": "jumeau-bar",
+      "title": "Jumeau Bar",
+      "artist": "nicolas clauss",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2478"
+    },
+    {
+      "slug": "daily-headline-deaths",
+      "title": "Daily Headline Deaths",
+      "artist": "Ricardo Miranda Z\u00fa\u00f1iga",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2480"
+    },
+    {
+      "slug": "domestic-idols",
+      "title": "domestic idols",
+      "artist": "ruth catlow",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2486"
+    },
+    {
+      "slug": "hans-a-true-story",
+      "title": "Hans - a true story",
+      "artist": "Wilfried Agricola de Cologne",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2488"
+    },
+    {
+      "slug": "mouse-dance",
+      "title": "Mouse.Dance",
+      "artist": "Neil Zusman",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2493"
+    },
+    {
+      "slug": "ft2k",
+      "title": "FT2K",
+      "artist": "Diane Bertolo",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3416"
+    },
+    {
+      "slug": "netoper",
+      "title": "netOper@",
+      "artist": "Sergio Maltagliati",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3428"
+    },
+    {
+      "slug": "between-a-rock-and-a-hard-drive",
+      "title": "Between a Rock and a Hard Drive",
+      "artist": "Kristin Lucas",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3430"
+    },
+    {
+      "slug": "the-i-plan",
+      "title": "The I Plan",
+      "artist": "Bret Nicely",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3440"
+    },
+    {
+      "slug": "the-book-after-the-book",
+      "title": "The Book after the Book",
+      "artist": "giselle beiguelman",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4376"
+    },
+    {
+      "slug": "my-little-store",
+      "title": "My little store",
+      "artist": "xavier cahen",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2987"
+    },
+    {
+      "slug": "www-biencommun-com",
+      "title": "www.biencommun.com",
+      "artist": "David Z\u00e9rah",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3445"
+    },
+    {
+      "slug": "goodworld",
+      "title": "GOODWORLD",
+      "artist": "Lew Baldwin",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3463"
+    },
+    {
+      "slug": "soliloquy",
+      "title": "soliloquy",
+      "artist": "max hofmann",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3465"
+    },
+    {
+      "slug": "frgmnt-four",
+      "title": "frgmnt foUr",
+      "artist": "Reiner Strasser",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3468"
+    },
+    {
+      "slug": "thor",
+      "title": "THOR",
+      "artist": "Alexandre Plennevaux",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3489"
+    },
+    {
+      "slug": "new-lexia",
+      "title": "New Lexia",
+      "artist": "Sebastian Harms",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3491"
+    },
+    {
+      "slug": "bit-101",
+      "title": "BIT-101",
+      "artist": "Keith Peters",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3493"
+    },
+    {
+      "slug": "netomat",
+      "title": "Netomat",
+      "artist": "Maciej Wisniewski",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3494"
+    },
+    {
+      "slug": "throwing-stones",
+      "title": "Throwing Stones",
+      "artist": "Kenji Kojima",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3496"
+    },
+    {
+      "slug": "when-johnny-comes-marching-home",
+      "title": "When Johnny comes marching home",
+      "artist": "Nathalie Lawhead",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3498"
+    },
+    {
+      "slug": "solo-quedara",
+      "title": "solo quedara",
+      "artist": "Sebastian Cudicio",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3501"
+    },
+    {
+      "slug": "a-tracing",
+      "title": "A Tracing",
+      "artist": "Jason Nelson",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3503"
+    },
+    {
+      "slug": "the-dream",
+      "title": "the dream",
+      "artist": "Jess Loseby",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3509"
+    },
+    {
+      "slug": "ateliers-d",
+      "title": "Ateliers d'",
+      "artist": "catherine ramus",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3512"
+    },
+    {
+      "slug": "t-u-r-n-s",
+      "title": "T U R N S",
+      "artist": "Margot Lovejoy",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3514"
+    },
+    {
+      "slug": "postcards",
+      "title": "POSTCARDS",
+      "artist": "Lucas Bambozzi",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3520"
+    },
+    {
+      "slug": "average",
+      "title": "Average",
+      "artist": "Schoenerwissen",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3537"
+    },
+    {
+      "slug": "wtba-championship-boxing",
+      "title": "WTBA Championship Boxing",
+      "artist": "C. J. Yeh",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3542"
+    },
+    {
+      "slug": "silence",
+      "title": "SILENCE",
+      "artist": "Olga Kisseleva",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3544"
+    },
+    {
+      "slug": "faux-conceptual-art",
+      "title": "Faux Conceptual Art",
+      "artist": "G.H. Hovagimyan",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3548"
+    },
+    {
+      "slug": "orbital",
+      "title": "Orbital",
+      "artist": "neil jenkins",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3550"
+    },
+    {
+      "slug": "south-beach-disco",
+      "title": "south beach disco",
+      "artist": "antonio mendoza",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3590"
+    },
+    {
+      "slug": "invisible-maps",
+      "title": "invisible maps",
+      "artist": "paul catanese",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4239"
+    },
+    {
+      "slug": "android-mantra",
+      "title": "<android mantra>",
+      "artist": "Brian Mackern",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4274"
+    },
+    {
+      "slug": "polar-inertia",
+      "title": "polar inertia",
+      "artist": "ted kane",
+      "techs": [
+        "realplayer",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4279"
+    },
+    {
+      "slug": "sit-com",
+      "title": "Sit.com",
+      "artist": "Takuji Kogo",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4285"
+    },
+    {
+      "slug": "2translation",
+      "title": "2translation",
+      "artist": "Gr\u00e9gory Chatonsky",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4292"
+    },
+    {
+      "slug": "bindigirl",
+      "title": "Bindigirl",
+      "artist": "Prema Murthy",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4304"
+    },
+    {
+      "slug": "humanos",
+      "title": "Humanos",
+      "artist": "Lilia Perez Romero",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4310"
+    },
+    {
+      "slug": "little-movies",
+      "title": "Little Movies",
+      "artist": "Lev Manovich",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4332"
+    },
+    {
+      "slug": "qrime",
+      "title": "Qrime",
+      "artist": "Motomichi Nakamura",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4334"
+    },
+    {
+      "slug": "x-818",
+      "title": "X(818)",
+      "artist": "peter nidzgorski",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4344"
+    },
+    {
+      "slug": "the-sour-thunder",
+      "title": "The Sour Thunder",
+      "artist": "Mendi+Keith Obadike",
+      "techs": [
+        "realplayer"
+      ],
+      "events": [
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4345"
+    },
+    {
+      "slug": "hybrid-architecture-research",
+      "title": "Hybrid Architecture Research",
+      "artist": "Saskia Vandersee",
+      "techs": [
+        "shockwave",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4348"
+    },
+    {
+      "slug": "p-r-o-x-i-m-a-t-e-o-r-g",
+      "title": "p r o x i m a t e . o r g",
+      "artist": "Patrick Herron",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4350"
+    },
+    {
+      "slug": "home-maker",
+      "title": "Home-Maker",
+      "artist": "Jeanie Finlay",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4364"
+    },
+    {
+      "slug": "i-am-here",
+      "title": "I am here",
+      "artist": "Jess Loseby",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3554"
+    },
+    {
+      "slug": "re-made",
+      "title": "re-made",
+      "artist": "Philippe Lejeune",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3556"
+    },
+    {
+      "slug": "les-dormeurs-the-sleepers",
+      "title": "Les dormeurs, the sleepers",
+      "artist": "nicolas clauss",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3559"
+    },
+    {
+      "slug": "re-code-com",
+      "title": "re-code.com",
+      "artist": "Tyler Jacobsen",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3574"
+    },
+    {
+      "slug": "gl-v",
+      "title": "Gl=v",
+      "artist": "David Golumbia",
+      "techs": [
+        "java",
+        "realplayer"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3578"
+    },
+    {
+      "slug": "nice-page",
+      "title": "nice page",
+      "artist": "Teo Spiller",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3583"
+    },
+    {
+      "slug": "s-exe-interactives-visual-sequencer",
+      "title": "s.EXE interactives -- visual sequencer",
+      "artist": "Christina Goestl / c++",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3295"
+    },
+    {
+      "slug": "symbiosis",
+      "title": "symbiosis",
+      "artist": "Eric Deis",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3298"
+    },
+    {
+      "slug": "statdt-kunst-web-sound-installation",
+      "title": "staTdT_kunst_web_sound_installation",
+      "artist": "hannes raffaseder",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3320"
+    },
+    {
+      "slug": "bakteria",
+      "title": "bakteria",
+      "artist": "arcangel constantini",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3321"
+    },
+    {
+      "slug": "document-9-1-1",
+      "title": "Document 9-1-1",
+      "artist": "tobias c. van Veen",
+      "techs": [
+        "shockwave",
+        "realplayer",
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "shockwave-player-eol",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3337"
+    },
+    {
+      "slug": "s-hut-ters-of-d-funct-meat-shutters-of-defunct-meat",
+      "title": "_][s][hut][ters][ of d.funct meat_//",
+      "artist": "mez breeze",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3351"
+    },
+    {
+      "slug": "art-from-text",
+      "title": "art from text",
+      "artist": "Roberto Echen",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3360"
+    },
+    {
+      "slug": "cult-of-the-cor-porat-e-per-form-ance-art-ist-shoot-the-bird",
+      "title": "Cult of the Cor[porat]e [Per]form[ance] Art[ist] - Shoot the Bird",
+      "artist": "joseph mcelroy",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3368"
+    },
+    {
+      "slug": "site-traffic-net",
+      "title": "Site-Traffic.net",
+      "artist": "Jonah Brucker-Cohen",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3370"
+    },
+    {
+      "slug": "voxels",
+      "title": "Voxels",
+      "artist": "mike salmond",
+      "techs": [
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3409"
+    },
+    {
+      "slug": "never-wake-up",
+      "title": "Never wake up",
+      "artist": "Wilfried Agricola de Cologne",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4179"
+    },
+    {
+      "slug": "flangerlounge",
+      "title": "flangerlounge",
+      "artist": "Axel Antoine",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4181"
+    },
+    {
+      "slug": "a-book-with-explanatory-notes-l",
+      "title": "a book with explanatory notes : L",
+      "artist": "sung-yoon jung",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4184"
+    },
+    {
+      "slug": "respect-the-cube",
+      "title": "Respect the Cube",
+      "artist": "Justin Simoni",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4186"
+    },
+    {
+      "slug": "the-demon-devil-girls",
+      "title": "The Demon Devil Girls",
+      "artist": "Bret Nicely",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4065"
+    },
+    {
+      "slug": "re-positioning-fear-relational-architecture-3",
+      "title": "Re:Positioning Fear, Relational Architecture 3",
+      "artist": "Rafael Lozano-Hemmer",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4069"
+    },
+    {
+      "slug": "memoirs",
+      "title": "Memoirs",
+      "artist": "Cynthia Beth Rubin",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4073"
+    },
+    {
+      "slug": "re-2",
+      "title": "re_2",
+      "artist": "Paul Steenberghe",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4083"
+    },
+    {
+      "slug": "crash-run",
+      "title": "CRASH RUN",
+      "artist": "Kiran Subbaiah",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4109"
+    },
+    {
+      "slug": "the-letter-and-the-fly",
+      "title": "The Letter and the Fly",
+      "artist": "Barbara Lattanzi",
+      "techs": [
+        "shockwave",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4111"
+    },
+    {
+      "slug": "amorphoscapes-i-online-generative-artworks-1997",
+      "title": "amorphoscapes I. Online Generative artworks 1997",
+      "artist": "Stanza",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4115"
+    },
+    {
+      "slug": "murmuring-insects",
+      "title": "Murmuring Insects",
+      "artist": "Ingrid Ankerson",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4147"
+    },
+    {
+      "slug": "snowcrash",
+      "title": "snowcrash",
+      "artist": "antonio mendoza",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4155"
+    },
+    {
+      "slug": "utopia-pkwy",
+      "title": "Utopia PKWY",
+      "artist": "Brad Todd",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4156"
+    },
+    {
+      "slug": "atari-noise",
+      "title": "atari-noise",
+      "artist": "arcangel constantini",
+      "techs": [
+        "shockwave",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4160"
+    },
+    {
+      "slug": "elicit",
+      "title": "elicit",
+      "artist": "nathaniel stern",
+      "techs": [
+        "shockwave",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4162"
+    },
+    {
+      "slug": "always-suspect",
+      "title": "Always Suspect",
+      "artist": "Haik Hoisington",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4166"
+    },
+    {
+      "slug": "jessambola",
+      "title": "Jessambola",
+      "artist": "Carrie Mandel",
+      "techs": [
+        "realplayer",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4175"
+    },
+    {
+      "slug": "the-grace-engine",
+      "title": "THE_GRACE_ENGINE",
+      "artist": "curt cloninger",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3765"
+    },
+    {
+      "slug": "tired-landscapes",
+      "title": "Tired Landscapes",
+      "artist": "Michele Turre",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3770"
+    },
+    {
+      "slug": "hektor-net",
+      "title": "hektor.net",
+      "artist": "nathaniel stern",
+      "techs": [
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3774"
+    },
+    {
+      "slug": "brandon",
+      "title": "Brandon",
+      "artist": "Shu Lea Cheang",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3778"
+    },
+    {
+      "slug": "floccus",
+      "title": "Floccus",
+      "artist": "Golan Levin",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3783"
+    },
+    {
+      "slug": "transmission",
+      "title": "[ transmission ]",
+      "artist": "Michael Takeo Magruder",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3793"
+    },
+    {
+      "slug": "in-conversation",
+      "title": "In Conversation",
+      "artist": "Susan Collins",
+      "techs": [
+        "java",
+        "realplayer"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3795"
+    },
+    {
+      "slug": "grids",
+      "title": "Grids",
+      "artist": "Eduardo Navas",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3799"
+    },
+    {
+      "slug": "filmscape",
+      "title": "filmscape",
+      "artist": "nicolas clauss",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3803"
+    },
+    {
+      "slug": "sign69",
+      "title": "sign69",
+      "artist": "philip wood",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3805"
+    },
+    {
+      "slug": "eurostar-fast-easy-secure",
+      "title": "Eurostar: Fast Easy Secure",
+      "artist": "Vikram Alexei Kansara",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3807"
+    },
+    {
+      "slug": "panhandle",
+      "title": "Panhandle",
+      "artist": "Jason Nelson",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3813"
+    },
+    {
+      "slug": "the-land-project",
+      "title": "the land project",
+      "artist": "dlsan",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3838"
+    },
+    {
+      "slug": "something",
+      "title": "something",
+      "artist": "Ken Marchionno",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3841"
+    },
+    {
+      "slug": "nonsense",
+      "title": "nonsense",
+      "artist": "ON AIR",
+      "techs": [
+        "realplayer",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3863"
+    },
+    {
+      "slug": "secret",
+      "title": "secret.",
+      "artist": "Scott Brewster",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3873"
+    },
+    {
+      "slug": "aural-masturbation",
+      "title": "Aural Masturbation",
+      "artist": "Marientina Gotsis",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3881"
+    },
+    {
+      "slug": "carnivore",
+      "title": "Carnivore",
+      "artist": "Alexander Galloway",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3886"
+    },
+    {
+      "slug": "the-act",
+      "title": "The Act",
+      "artist": "Chris Helson",
+      "techs": [
+        "realplayer",
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3898"
+    },
+    {
+      "slug": "smallnomad",
+      "title": "smallnomad",
+      "artist": "moises ma\u00f1as",
+      "techs": [
+        "shockwave",
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3900"
+    },
+    {
+      "slug": "alt-delete",
+      "title": "alt+delete",
+      "artist": "Brad Todd",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3907"
+    },
+    {
+      "slug": "restate-callaps",
+      "title": "restate/callaps",
+      "artist": "restate",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3322"
+    },
+    {
+      "slug": "singing-bridges",
+      "title": "Singing Bridges",
+      "artist": "Jodi Rose",
+      "techs": [
+        "realplayer",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4382"
+    },
+    {
+      "slug": "playdamage",
+      "title": "playdamage",
+      "artist": "curt cloninger",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4383"
+    },
+    {
+      "slug": "trails",
+      "title": "trails",
+      "artist": "Shane Carroll",
+      "techs": [
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4390"
+    },
+    {
+      "slug": "nobody-here",
+      "title": "Nobody Here",
+      "artist": "Nobody Here",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4396"
+    },
+    {
+      "slug": "project-dante",
+      "title": "project|dante",
+      "artist": "Dariusz Nowak-Nova",
+      "techs": [
+        "shockwave",
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4398"
+    },
+    {
+      "slug": "deadbicycle",
+      "title": "deadbicycle",
+      "artist": "gerald",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2150"
+    },
+    {
+      "slug": "human-intoface-net",
+      "title": "human-intoface.net",
+      "artist": "Troy Bennett",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2254"
+    },
+    {
+      "slug": "alpha-beta-disco-godard-remix",
+      "title": "Alpha Beta Disco: Godard Remix",
+      "artist": "DropBox",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2537"
+    },
+    {
+      "slug": "ip-iii",
+      "title": "IP-III",
+      "artist": "Annja Krautgasser",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2672"
+    },
+    {
+      "slug": "the-well",
+      "title": "the well",
+      "artist": "toxi",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2684"
+    },
+    {
+      "slug": "game-z",
+      "title": "Game(Z)",
+      "artist": "Philippe Boisnard",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2689"
+    },
+    {
+      "slug": "a-r-m-y",
+      "title": "a.r.m.y.",
+      "artist": "reform communications",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q2863"
+    },
+    {
+      "slug": "plastiq-memory",
+      "title": "plastiQ Memory",
+      "artist": "Philippe Boisnard",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3087"
+    },
+    {
+      "slug": "jacquard-loom-panels",
+      "title": "Jacquard Loom Panels 1, 2, 4, 5 & 7",
+      "artist": "Luke Duncalfe",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3187"
+    },
+    {
+      "slug": "prototype-for-static-vehicle",
+      "title": "Prototype for Static Vehicle",
+      "artist": "Scott Paterson",
+      "techs": [
+        "vrml"
+      ],
+      "events": [
+        "vrml-plugin-obsolescence"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3914"
+    },
+    {
+      "slug": "sleeping-pillows-wanted",
+      "title": "Sleeping pillows! Wanted!",
+      "artist": "xavier cahen",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3917"
+    },
+    {
+      "slug": "sistergemini-com",
+      "title": "sistergemini.com",
+      "artist": "carla gannis",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3918"
+    },
+    {
+      "slug": "photomontage",
+      "title": "photomontage",
+      "artist": "shirin Kouladjie",
+      "techs": [
+        "shockwave",
+        "java",
+        "flash",
+        "realplayer",
+        "quicktime"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death",
+        "shockwave-player-eol",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3922"
+    },
+    {
+      "slug": "ocular",
+      "title": "ocular",
+      "artist": "Doron Golan",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3924"
+    },
+    {
+      "slug": "ballettikka-internettikka",
+      "title": "Ballettikka Internettikka",
+      "artist": "Igor \u0160tromajer",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3936"
+    },
+    {
+      "slug": "gameover",
+      "title": "gameover",
+      "artist": "francesco contin",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3952"
+    },
+    {
+      "slug": "war-game",
+      "title": "war game",
+      "artist": "joeser alvarez",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3954"
+    },
+    {
+      "slug": "my-blue-notes",
+      "title": "My Blue Notes",
+      "artist": "David Lee Kollberg",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3966"
+    },
+    {
+      "slug": "m6-map",
+      "title": "m6 map",
+      "artist": "Doron Golan",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3977"
+    },
+    {
+      "slug": "untitledcity",
+      "title": "untitledcity",
+      "artist": "moises ma\u00f1as",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3985"
+    },
+    {
+      "slug": "unfortunate-and-reflecting",
+      "title": "unfortunate and reflecting",
+      "artist": "Jason Nelson",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4020"
+    },
+    {
+      "slug": "daedaleum-2-fantasmagoria",
+      "title": "daedaleum 2 --- fantasmagoria",
+      "artist": "Julien Demeuzois",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4022"
+    },
+    {
+      "slug": "who-wants-to-be-president",
+      "title": "Who wants to be president?",
+      "artist": "Joshua Strebel",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4041"
+    },
+    {
+      "slug": "digital-nature-the-case-collection",
+      "title": "Digital Nature: The Case Collection",
+      "artist": "Tal Halpern",
+      "techs": [
+        "java",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3598"
+    },
+    {
+      "slug": "chromosome-22",
+      "title": "Chromosome 22",
+      "artist": "Tal Halpern",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3637"
+    },
+    {
+      "slug": "him",
+      "title": "him",
+      "artist": "Dane",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3790"
+    },
+    {
+      "slug": "universal-net-cubism",
+      "title": "Universal Net Cubism",
+      "artist": "Gruppe Or-Om",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4057"
+    },
+    {
+      "slug": "avatar-project",
+      "title": "Avatar Project",
+      "artist": "MAROTTA & RUSSO",
+      "techs": [
+        "shockwave",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q4107"
+    },
+    {
+      "slug": "import-export",
+      "title": "import/export",
+      "artist": "hannah kops",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3594"
+    },
+    {
+      "slug": "addiction",
+      "title": "addiction",
+      "artist": "maja kalogera",
+      "techs": [
+        "java",
+        "flash"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3605"
+    },
+    {
+      "slug": "bardcode",
+      "title": "Bardcode",
+      "artist": "Andy Deck",
+      "techs": [
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3614"
+    },
+    {
+      "slug": "the-westbank",
+      "title": "the WESTbank",
+      "artist": "david sansone",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3617"
+    },
+    {
+      "slug": "timeform-4-trees-hands",
+      "title": "TimeForm #4 {Trees/Hands}",
+      "artist": "Jason Bader",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3641"
+    },
+    {
+      "slug": "ulchiro",
+      "title": "ulchiro",
+      "artist": "nicolas clauss",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3652"
+    },
+    {
+      "slug": "subculture",
+      "title": "subculture",
+      "artist": "antonio mendoza",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3658"
+    },
+    {
+      "slug": "colors-combinator-freeware-tool",
+      "title": "Colors Combinator Freeware Tool",
+      "artist": "dlsan",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3666"
+    },
+    {
+      "slug": "bailalo",
+      "title": "Bailalo",
+      "artist": "Juan Manuel Pati\u00f1o",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3674"
+    },
+    {
+      "slug": "the-quixote",
+      "title": "The Quixote",
+      "artist": "Eduardo Navas",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3686"
+    },
+    {
+      "slug": "apartment",
+      "title": "Apartment",
+      "artist": "Marek Walczak",
+      "techs": [
+        "java",
+        "vrml"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "vrml-plugin-obsolescence"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3688"
+    },
+    {
+      "slug": "shifting",
+      "title": "Shifting",
+      "artist": "Tina La Porta",
+      "techs": [
+        "shockwave"
+      ],
+      "events": [
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3695"
+    },
+    {
+      "slug": "grandfather-gets-a-house",
+      "title": "Grandfather Gets a House",
+      "artist": "elizabeth fischer",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3704"
+    },
+    {
+      "slug": "turnbaby",
+      "title": "turnbaby",
+      "artist": "Chris Joseph",
+      "techs": [
+        "realplayer",
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3708"
+    },
+    {
+      "slug": "eidetic-memory",
+      "title": "Eidetic Memory",
+      "artist": "Rick Mullarky",
+      "techs": [
+        "flash"
+      ],
+      "events": [
+        "flash-player-blocked"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3724"
+    },
+    {
+      "slug": "plotfracture",
+      "title": "PlotFracture",
+      "artist": "curt cloninger",
+      "techs": [
+        "realplayer",
+        "quicktime",
+        "flash"
+      ],
+      "events": [
+        "quicktime-vr-death",
+        "flash-player-blocked",
+        "realplayer-format-abandonment"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3732"
+    },
+    {
+      "slug": "vog",
+      "title": "vog",
+      "artist": "Adrian Miles",
+      "techs": [
+        "quicktime"
+      ],
+      "events": [
+        "quicktime-vr-death"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3734"
+    },
+    {
+      "slug": "field-guide-to-artificial-life-on-the-web",
+      "title": "Field Guide to Artificial Life on the Web",
+      "artist": "Cheryl Sourkes",
+      "techs": [
+        "shockwave",
+        "quicktime",
+        "java"
+      ],
+      "events": [
+        "npapi-java-plugin-removal",
+        "quicktime-vr-death",
+        "shockwave-player-eol"
+      ],
+      "artbase_url": "https://artbase.rhizome.org/wiki/Q3745"
+    }
+  ],
+  "ambiguous": [],
+  "stats": {
+    "total_artworks": 2329,
+    "matched": 425,
+    "ambiguous": 0,
+    "no_tech": 1904,
+    "new_files": 0
+  }
+}
