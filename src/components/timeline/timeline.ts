@@ -237,12 +237,17 @@ export function initTimeline(container: HTMLElement, data: TimelineEvent[]): voi
     const laneHeight = Math.min(30, (innerHeight - 20) / laneCount);
     const baseY = innerHeight / 2 - (laneCount * laneHeight) / 2;
 
-    // Tooltip
+    // Tooltip — reuse existing or create
     const tooltipParent = container.parentElement ?? container;
-    const tooltip = select(tooltipParent)
-      .append('div')
-      .attr('class', 'timeline-tooltip')
-      .style('opacity', 0);
+    let tooltipNode = tooltipParent.querySelector('.timeline-tooltip') as HTMLElement | null;
+    if (!tooltipNode) {
+      tooltipNode = document.createElement('div');
+      tooltipNode.className = 'timeline-tooltip';
+      tooltipNode.style.opacity = '0';
+      tooltipParent.appendChild(tooltipNode);
+    }
+    tooltipNode.style.opacity = '0';
+    const tooltip = select(tooltipNode);
 
     // Range events (bars)
     const rangeEvents = laneAssignment.filter(({ event }) => event.isRange);
