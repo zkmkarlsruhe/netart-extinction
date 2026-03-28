@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "chaos about vesta's coat"
 artist: "Roberto Echen"

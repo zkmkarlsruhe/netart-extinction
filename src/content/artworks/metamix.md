@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "QuickTime"
 ai_generated: true
 title: "MetaMix"
 artist: "Jason Freeman"

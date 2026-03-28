@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Ideengaenge (together with Nick Grindell)"
 artist: "Thomas Goldstrasz"

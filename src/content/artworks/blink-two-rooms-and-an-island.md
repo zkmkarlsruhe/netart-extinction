@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Blink - Two Rooms and an Island"
 artist: "Lance Shields"

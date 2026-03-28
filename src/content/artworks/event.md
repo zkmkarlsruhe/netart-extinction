@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "<event>"
 artist: "Michael Takeo Magruder"

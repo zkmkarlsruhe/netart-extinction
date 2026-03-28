@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Do not help me"
 artist: "Júlia Vécsei"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Urban Drawing Version 1"
 artist: "Robert Watson"

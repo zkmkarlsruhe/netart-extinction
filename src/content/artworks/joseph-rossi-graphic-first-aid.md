@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Joseph Rossi Graphic First Aid"
 artist: "francesco contin"

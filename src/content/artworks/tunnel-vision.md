@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "TUNNEL VISION"
 artist: "Isabelle Hayeur"

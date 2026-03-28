@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "Métaorigines"
 artist: "Reynald Drouhin"

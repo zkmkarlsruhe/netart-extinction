@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Cacophony of the spirits"
 artist: "Andres Manniste"

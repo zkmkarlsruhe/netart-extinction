@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Carnivore's Cathedral: Whose Child is this?"
 artist: "Eddo Stern"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Eidetic Memory"
 artist: "Rick Mullarky"

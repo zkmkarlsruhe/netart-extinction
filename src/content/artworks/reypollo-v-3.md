@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "REYPOLLO V.3"
 artist: "redlizard redlizard"

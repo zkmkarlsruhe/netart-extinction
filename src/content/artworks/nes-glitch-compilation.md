@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MIDI"
 ai_generated: true
 title: "NES Glitch Compilation"
 artist: "Johnny Rogers"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Sevenfold Touch"
 artist: "Balázs Beöthy"

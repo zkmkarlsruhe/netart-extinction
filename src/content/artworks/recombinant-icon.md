@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Recombinant Icon"
 artist: "Simon Biggs"

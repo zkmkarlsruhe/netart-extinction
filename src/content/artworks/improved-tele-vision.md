@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Improved Tele-vision"
 artist: "Cornelia Sollfrank"

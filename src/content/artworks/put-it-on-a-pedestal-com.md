@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "put it on a pedestal .com"
 artist: "Anthony Antonellis"

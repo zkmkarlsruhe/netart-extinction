@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "<Content=No Cache>"
 artist: "giselle beiguelman"

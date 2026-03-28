@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Interactive Performances: #1-3"
 artist: "Thomas Knauer"

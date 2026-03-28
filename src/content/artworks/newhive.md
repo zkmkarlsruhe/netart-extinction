@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Python, MongoDB, JavaScript, AWS"
 ai_generated: true
 title: "NewHive"
 artist: "Artist Platform"

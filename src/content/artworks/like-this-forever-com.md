@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "like this forever .com"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Hipercontrol^3"
 artist: "santiago ortiz"

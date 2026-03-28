@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Hans - a true story"
 artist: "Wilfried Agricola de Cologne"

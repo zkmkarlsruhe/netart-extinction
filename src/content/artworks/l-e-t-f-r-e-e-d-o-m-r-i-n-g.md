@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "l e t f r e e d o m r i n g"
 artist: "Valerie Pawlowski"

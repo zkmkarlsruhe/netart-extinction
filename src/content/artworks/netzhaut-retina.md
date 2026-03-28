@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "netzhaut [retina]"
 artist: "programm 5(Lilian Juechtern + Nicole Martin)"

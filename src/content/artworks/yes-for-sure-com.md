@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "yes for sure .com"
 artist: "Rafaël Rozendaal"

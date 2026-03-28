@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "flaming cursor .com"
 artist: "Rafaël Rozendaal"

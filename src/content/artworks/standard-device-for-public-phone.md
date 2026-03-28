@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Standard, device for public phone"
 artist: "Grégory Chatonsky"

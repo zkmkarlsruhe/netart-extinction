@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "NetEscape"
 artist: "Michael G. Wagner, Shane Carroll"

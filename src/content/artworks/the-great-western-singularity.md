@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Great Western Singularity"
 artist: "Eric Schockmel"

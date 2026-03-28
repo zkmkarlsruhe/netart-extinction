@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "13 hours of the discovery channel"
 artist: "joshua goldberg"

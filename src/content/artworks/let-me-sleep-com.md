@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "let me sleep .com"
 artist: "Rafaël Rozendaal"

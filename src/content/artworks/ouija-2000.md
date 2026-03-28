@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Ouija 2000"
 artist: "Ken Goldberg"

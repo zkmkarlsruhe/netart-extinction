@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "When Johnny comes marching home"
 artist: "Nathalie Lawhead"

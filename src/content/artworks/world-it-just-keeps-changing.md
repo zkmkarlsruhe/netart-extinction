@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "WORLD:it just keeps changing"
 artist: "Kate Southworth"

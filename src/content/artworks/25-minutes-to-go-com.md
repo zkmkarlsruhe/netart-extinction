@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "25 minutes to go .com"
 artist: "Rafaël Rozendaal"

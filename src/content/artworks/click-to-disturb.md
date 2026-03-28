@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Click to Disturb"
 artist: "Lalo Hernandez Diez"

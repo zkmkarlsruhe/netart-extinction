@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Gurus, Dictators and Saints"
 artist: "Lalo Hernandez Diez"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "My Voice (for personal computer and microphone)"
 artist: "Grégory Chatonsky"

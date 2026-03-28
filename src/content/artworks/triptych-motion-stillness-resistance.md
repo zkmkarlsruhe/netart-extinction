@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "TRIPTYCH: MOTION STILLNESS RESISTANCE"
 artist: "Peter Horvath"

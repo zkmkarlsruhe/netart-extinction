@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "opus magnum"
 artist: "carlos katastrofsky"

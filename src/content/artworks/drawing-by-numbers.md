@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Drawing by numbers"
 artist: "Roberto Echen"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "A Classical Study of Photography Using the Closest Subject Matter at Hand"
 artist: "Roma Czernysz"

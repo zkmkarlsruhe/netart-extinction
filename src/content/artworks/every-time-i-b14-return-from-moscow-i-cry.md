@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "every time i B14 return from moscow - i cry"
 artist: "Igor Štromajer"

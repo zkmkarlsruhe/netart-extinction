@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "museomultimedial [mmm]"
 artist: "arturo cariceo"

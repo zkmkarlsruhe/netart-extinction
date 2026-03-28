@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "ThankyouAndyWarhol.com"
 artist: "Miltos Manetas"

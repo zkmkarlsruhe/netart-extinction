@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Vagamundo: A Migrant's Tale"
 artist: "Ricardo Miranda Zúñiga"

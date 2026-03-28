@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "\"Whenever I see a plane, I remember the smell...\""
 artist: "Genco Gulan"

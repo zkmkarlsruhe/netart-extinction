@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "untitled landscape #5"
 artist: "leila christine nadir"

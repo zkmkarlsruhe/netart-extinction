@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "the double room"
 artist: "nathaniel stern"

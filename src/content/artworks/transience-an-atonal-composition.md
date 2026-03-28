@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Transience - an atonal composition"
 artist: "Wilfried Agricola de Cologne"

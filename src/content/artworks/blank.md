@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Subterranean House (Oonce Oonce)"
 artist: "Michael Bell-Smith"

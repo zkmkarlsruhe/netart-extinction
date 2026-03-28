@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "w-e-e-k-e-n-d-s.com"
 artist: "Synne Bull"

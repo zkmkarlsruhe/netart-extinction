@@ -1,7 +1,6 @@
 ---
 ai_generated: true
-title: "Here 
-and Now"
+title: "Here  and Now"
 artist: "Unknown"
 year: 1999
 medium: "Net art"

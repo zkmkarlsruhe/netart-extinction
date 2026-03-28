@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Random Selection in Random Image"
 artist: "Jan Robert Leegte"

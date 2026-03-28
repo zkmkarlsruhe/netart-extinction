@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "REAL_DANCING_GIRL"
 artist: "Chiara Moioli"

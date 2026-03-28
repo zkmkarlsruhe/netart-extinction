@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "F2T (Free to Talk?)"
 artist: "Frank Plant"

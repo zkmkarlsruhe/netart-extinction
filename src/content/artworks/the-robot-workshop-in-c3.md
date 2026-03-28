@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "The Robot Workshop in C3"
 artist: "Nicolas A. Baginsky"

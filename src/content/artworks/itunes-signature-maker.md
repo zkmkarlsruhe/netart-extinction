@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "iTunes Signature Maker"
 artist: "Jason Freeman"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Dead or Alive 2 / DOA2"
 artist: "Petra Vargova"

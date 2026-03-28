@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "OneSmallStep: a MySpace luvStory"
 artist: "mark cooley"

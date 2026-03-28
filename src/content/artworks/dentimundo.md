@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Dentimundo"
 artist: "Ricardo Miranda Zúñiga"

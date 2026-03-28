@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Macintosh Lab"
 artist: "Emilio Gomariz"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MP4"
 ai_generated: true
 title: "Autotrace 5 (Warhol's Soup Can)"
 artist: "MTAA"

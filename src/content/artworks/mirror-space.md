@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Mirror_SPACE"
 artist: "Brigitta Zics"

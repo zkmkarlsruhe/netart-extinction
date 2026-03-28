@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Daily Headline Deaths"
 artist: "Ricardo Miranda Zúñiga"

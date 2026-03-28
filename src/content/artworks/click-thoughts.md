@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "CLICK THOUGHTS"
 artist: "Art Crap"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Java Applet"
 ai_generated: true
 title: "Instance City"
 artist: "Riccardo Zanardelli"

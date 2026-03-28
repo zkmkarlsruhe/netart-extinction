@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "De Geuzen Paper Dolls"
 artist: "De Geuzen: a foundation for multi-visual research"

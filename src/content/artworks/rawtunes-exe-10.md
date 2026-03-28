@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "RAWTunes.exe 10"
 artist: "Daniel Rourke"

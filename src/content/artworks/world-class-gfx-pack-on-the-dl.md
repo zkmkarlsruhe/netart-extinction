@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "World Class GFX Pack (On the DL)"
 artist: "Kai Altmann"

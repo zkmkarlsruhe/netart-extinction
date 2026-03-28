@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Surveillance Photography: Identifying Problematic Behavior"
 artist: "Henry Guild"

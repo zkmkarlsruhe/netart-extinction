@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "RealPlayer"
 ai_generated: true
 title: "what was he thinking about? berlin? praha? ljubljana? skopje?"
 artist: "Igor Štromajer"

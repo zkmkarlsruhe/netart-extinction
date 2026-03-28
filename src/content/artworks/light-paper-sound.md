@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Light Paper Sound"
 artist: "Joseph Gray"

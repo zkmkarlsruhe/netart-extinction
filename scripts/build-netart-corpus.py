@@ -82,7 +82,15 @@ def url_host(value: str) -> str:
 
 
 def source_paths() -> list[Path]:
-    return sorted(SOURCES_DIR.glob("*/artworks.json"))
+    paths = sorted(SOURCES_DIR.glob("*/artworks.json"))
+    # Include the full Ars Electronica dataset if it exists
+    aec_all = SOURCES_DIR / "ars-electronica" / "artworks-all.json"
+    if aec_all.exists():
+        # Replace the smaller file with the full one
+        paths = [p for p in paths if p.parent.name != "ars-electronica"]
+        paths.append(aec_all)
+        paths.sort()
+    return paths
 
 
 def merge_key(row: dict[str, Any]) -> str:

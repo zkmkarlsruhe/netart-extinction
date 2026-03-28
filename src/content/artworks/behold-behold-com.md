@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "behold behold .com"
 artist: "Anthony Antonellis"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Tributaries & Text-Fed Streams: A Feed-Reading of The Capilano Review"
 artist: "J. R. Carpenter"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "sharing the uncertainty"
 artist: "Sylvain Barra"

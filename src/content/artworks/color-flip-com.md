@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "color flip .com"
 artist: "Rafaël Rozendaal"

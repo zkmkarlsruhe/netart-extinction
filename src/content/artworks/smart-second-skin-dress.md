@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Macromedia Director"
 ai_generated: true
 title: "Smart Second Skin Dress"
 artist: "Jenny Tillotson"

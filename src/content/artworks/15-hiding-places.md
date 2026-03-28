@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "15 Hiding Places"
 artist: "Adrian Van Allen"

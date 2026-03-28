@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Reversing the Conditions"
 artist: "ali miharbi"

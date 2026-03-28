@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "kristus yoshiyuki - second art"
 artist: "Markus Kleine-Vehn"

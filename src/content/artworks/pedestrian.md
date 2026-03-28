@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
 ai_generated: true
 title: "Pedestrian: Walking as Meditation and the Lure of Everyday Objects"
 artist: "Annette Weintraub"

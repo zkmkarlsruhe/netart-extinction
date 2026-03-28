@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Changing Places"
 artist: "Zsolt Keserue"

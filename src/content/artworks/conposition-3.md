@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Conposition 3"
 artist: "Grégory Chatonsky"

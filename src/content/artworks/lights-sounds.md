@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Lights & Sounds"
 artist: "Tilman Küntzel"

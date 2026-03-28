@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Solo show in Sim City"
 artist: "Kim Asendorf"

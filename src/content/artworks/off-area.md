@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "off<area>"
 artist: "Kerstin Weiberg"

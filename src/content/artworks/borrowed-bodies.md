@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Borrowed bodies"
 artist: "Gemma San Cornelio"

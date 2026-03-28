@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "NanoDramas :: Identity Pills"
 artist: "Rodrigo De Toledo"

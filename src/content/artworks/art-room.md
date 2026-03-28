@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "art_room"
 artist: "Susana Mendes Silva"

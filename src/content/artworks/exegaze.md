@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "exegaze"
 artist: "Shusha Niederberger, Niki Passath, Michael Wlodkowski"

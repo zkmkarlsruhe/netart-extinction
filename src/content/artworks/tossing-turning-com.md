@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "tossing turning .com"
 artist: "Rafaël Rozendaal"

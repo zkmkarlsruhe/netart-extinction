@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Shockwave"
 ai_generated: true
 title: "idades // multi-local, multi-user, realtime interactive installation"
 artist: "Daniel Desiderio Paez Castillo"

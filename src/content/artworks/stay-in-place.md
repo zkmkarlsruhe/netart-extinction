@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "STAY IN PLACE"
 artist: "Sara Malinarich"

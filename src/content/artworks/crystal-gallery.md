@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Crystal Gallery"
 artist: "Harm Van Den Dorpel"

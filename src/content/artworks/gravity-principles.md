@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Gravity Principles"
 artist: "Sebastien Cliche"

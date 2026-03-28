@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Burro sem Rabo"
 artist: "Ricardo Cutz"

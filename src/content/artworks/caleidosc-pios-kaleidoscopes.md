@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Caleidosc√≥pios - Kaleidoscopes"
 artist: "Regina Pinto"

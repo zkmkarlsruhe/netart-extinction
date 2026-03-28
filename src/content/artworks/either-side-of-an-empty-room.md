@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Either Side of an Empty Room"
 artist: "Peter Horvath"

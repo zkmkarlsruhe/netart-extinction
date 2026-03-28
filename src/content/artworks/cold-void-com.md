@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "cold void .com"
 artist: "Rafaël Rozendaal"

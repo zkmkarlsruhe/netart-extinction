@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Senbazuru"
 artist: "Ann-Marie James"

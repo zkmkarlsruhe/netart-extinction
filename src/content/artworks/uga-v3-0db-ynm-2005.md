@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "uga v3.0db: ynm (2005)"
 artist: "jerome saint-clair"

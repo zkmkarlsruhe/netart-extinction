@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Interpreted, Obscured and Sought"
 artist: "Bill Hendricks"

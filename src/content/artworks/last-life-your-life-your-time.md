@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Last life (Your life. Your time)"
 artist: "Grégory Chatonsky"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Z_G [zeitgeist gestalten]"
 artist: "Tiago Borges"

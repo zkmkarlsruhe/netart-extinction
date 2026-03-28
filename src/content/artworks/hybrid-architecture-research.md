@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "Hybrid Architecture Research"
 artist: "Saskia Vandersee"

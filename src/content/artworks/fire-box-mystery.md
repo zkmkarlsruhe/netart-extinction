@@ -1,7 +1,6 @@
 ---
 ai_generated: true
-title: "Fire 
-Box Mystery"
+title: "Fire  Box Mystery"
 artist: "Unknown"
 year: 2000
 medium: "Net art"

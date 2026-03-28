@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Edison Mobile Remake"
 artist: "catherine ramus"

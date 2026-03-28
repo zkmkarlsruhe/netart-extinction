@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Perl"
 ai_generated: true
 title: "Global City"
 artist: "Sawad Brooks"

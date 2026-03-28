@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "RealPlayer"
+  - "VRML"
 ai_generated: true
 title: "Bodies INCorporated"
 artist: "Victoria Vesna"

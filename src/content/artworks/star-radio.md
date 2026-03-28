@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "STAR Radio"
 artist: "Jennie Savage"

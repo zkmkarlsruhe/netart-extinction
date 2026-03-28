@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Covalent Bonds"
 artist: "Christine Goldbeck"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "ColorsDotCom (rainbow)"
 artist: "Vincent Makowski"

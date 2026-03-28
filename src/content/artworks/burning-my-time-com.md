@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "burning my time .com"
 artist: "Rafaël Rozendaal"

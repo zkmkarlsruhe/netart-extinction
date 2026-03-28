@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Rant/ Rant Back/ Back Rant"
 artist: "G.H. Hovagimyan"

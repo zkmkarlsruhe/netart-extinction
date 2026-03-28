@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "RealPlayer"
 ai_generated: true
 title: "PlotFracture"
 artist: "curt cloninger"

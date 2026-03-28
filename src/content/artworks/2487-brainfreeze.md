@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "2487 Brainfreeze"
 artist: "Nathan Shafer"

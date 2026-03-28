@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Samuel Gray Society"
 artist: "Darryl Lauster"

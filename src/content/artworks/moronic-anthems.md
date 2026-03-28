@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Moronic Anthems"
 artist: "Ivan Peledov"

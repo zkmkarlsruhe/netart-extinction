@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Why Look at Animals?"
 artist: "Amy Youngs"

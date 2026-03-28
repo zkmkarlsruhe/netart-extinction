@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "\"...and because we are not dead\""
 artist: "pirusanta"

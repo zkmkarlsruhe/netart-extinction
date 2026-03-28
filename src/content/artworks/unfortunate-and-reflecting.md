@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "unfortunate and reflecting"
 artist: "Jason Nelson"

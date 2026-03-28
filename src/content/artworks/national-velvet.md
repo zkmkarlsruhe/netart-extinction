@@ -1,7 +1,6 @@
 ---
 ai_generated: true
-title: "National 
-Velvet"
+title: "National  Velvet"
 artist: "Unknown"
 year: 2000
 medium: "Net art"

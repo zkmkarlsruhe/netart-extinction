@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "You Are Not Here"
 artist: "Mushon Zer-Aviv"

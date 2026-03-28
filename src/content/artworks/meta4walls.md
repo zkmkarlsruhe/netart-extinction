@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "Shockwave"
 ai_generated: true
 title: "meta4walls"
 artist: "Lucas Bambozzi"

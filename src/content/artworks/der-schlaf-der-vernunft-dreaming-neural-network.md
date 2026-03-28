@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Neural Network"
 ai_generated: true
 title: "Der Schlaf der Vernunft / Dreaming Neural Network"
 artist: "Dorothea Johne/Alex Zahn"

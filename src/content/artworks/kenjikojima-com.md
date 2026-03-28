@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "kenjikojima.com / Interactive Web Art"
 artist: "Kenji Kojima"

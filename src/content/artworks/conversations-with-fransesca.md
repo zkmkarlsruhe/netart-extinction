@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Conversations with Fransesca"
 artist: "michiel Knaven"

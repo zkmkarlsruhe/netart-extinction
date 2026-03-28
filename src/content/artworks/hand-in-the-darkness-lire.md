@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Hand in the Darkness / Lire?"
 artist: "Xavier Malbreil"

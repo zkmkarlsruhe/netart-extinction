@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "internet & autofiction"
 artist: "stephanie boisset"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Inverse Mask"
 artist: "Gábor Gyõrfi"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Horizon"
 artist: "Szabolcs KissPál"

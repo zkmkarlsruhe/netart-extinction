@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Fugue State: Coplanar"
 artist: "christine sciulli"

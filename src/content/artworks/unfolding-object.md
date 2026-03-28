@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Unfolding Object"
 artist: "John F. Simon Jr."

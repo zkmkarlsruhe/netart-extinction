@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "The Pyramid"
 artist: "Eric Andersen"

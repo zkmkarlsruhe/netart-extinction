@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Who wants to be president?"
 artist: "Joshua Strebel"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "sonic fabric, upsidedown LIFE, and other work"
 artist: "Alyce Santoro"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Sonic Map of Battersea Park"
 artist: "Gaya Gajewska"

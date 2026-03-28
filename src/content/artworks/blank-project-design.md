@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Blank Project Design"
 artist: "Sophia Arsinoi Papadimitriou"

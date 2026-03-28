@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Passages process : 2. young ordinary woman"
 artist: "Joelle Bitton"

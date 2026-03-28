@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "[ transmission ]"
 artist: "Michael Takeo Magruder"

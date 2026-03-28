@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "sm.N - Sprinkling Menstrual Navigator"
 artist: "Igor Štromajer"

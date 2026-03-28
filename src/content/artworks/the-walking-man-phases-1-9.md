@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Walking Man (phases 1-9)"
 artist: "Will Luers"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Second Life"
 ai_generated: true
 title: "CO2nscience  - Second Life"
 artist: "Vera Bighetti"

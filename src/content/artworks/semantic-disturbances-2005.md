@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "semantic disturbances-2005"
 artist: "A. Andreas"

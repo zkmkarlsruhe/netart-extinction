@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Google AdWords Happening"
 artist: "Christophe Bruno"

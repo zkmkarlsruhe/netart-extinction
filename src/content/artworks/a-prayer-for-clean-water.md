@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A Prayer For Clean Water"
 artist: "Paul McLean"

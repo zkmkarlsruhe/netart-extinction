@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "PHP"
 ai_generated: true
 title: "area research"
 artist: "carlos katastrofsky"

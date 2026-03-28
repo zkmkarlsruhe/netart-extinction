@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "memsweeper"
 artist: "Nik Hanselmann"

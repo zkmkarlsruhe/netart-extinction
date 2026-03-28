@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "INSIDE OUT // THREE IN ONE [2]"
 artist: "Jesse Malmed"

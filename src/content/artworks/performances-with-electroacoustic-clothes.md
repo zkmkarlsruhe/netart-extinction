@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MIDI"
 ai_generated: true
 title: "Performances with electroacoustic Clothes"
 artist: "Benoît Maubrey"

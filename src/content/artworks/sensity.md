@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Sensity. Artworks using data from the real time environment.  By Stanza"
 artist: "Stanza"

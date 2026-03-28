@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "QuickTime"
 ai_generated: true
 title: "Prometheus Bound"
 artist: "Tim Rollins"

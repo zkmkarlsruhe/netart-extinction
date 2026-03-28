@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "28 YEARS IN THE IMPLICATE ORDER"
 artist: "Pascual Sisto"

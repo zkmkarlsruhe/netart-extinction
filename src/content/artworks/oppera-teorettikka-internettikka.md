@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "Oppera Teorettikka Internettikka"
 artist: "Igor Štromajer"

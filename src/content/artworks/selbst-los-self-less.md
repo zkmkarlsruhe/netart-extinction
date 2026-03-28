@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Selbst-los / Self-less"
 artist: "Wolf Kahlen"

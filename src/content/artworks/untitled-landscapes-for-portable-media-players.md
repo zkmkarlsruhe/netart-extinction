@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Untitled Landscapes for Portable Media Players"
 artist: "Cary Peppermint"

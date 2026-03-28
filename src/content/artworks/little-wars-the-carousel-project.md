@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Macromedia Director"
 ai_generated: true
 title: "Little Wars; the Carousel Project"
 artist: "DEBRA SWACK"

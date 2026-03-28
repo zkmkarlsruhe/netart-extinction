@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Game(Z)"
 artist: "Philippe Boisnard"

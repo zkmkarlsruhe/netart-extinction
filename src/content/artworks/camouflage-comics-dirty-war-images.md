@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Camouflage Comics: Dirty War Images"
 artist: "aarnoud rommens"

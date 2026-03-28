@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "electric boogie woogie .com"
 artist: "Rafaël Rozendaal"

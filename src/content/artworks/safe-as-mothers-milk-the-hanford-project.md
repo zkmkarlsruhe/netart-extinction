@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Safe As Mother's Milk: The Hanford Project"
 artist: "Kim Stringfellow"

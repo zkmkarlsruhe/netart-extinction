@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Passages process : 4. miss tek"
 artist: "Joelle Bitton"

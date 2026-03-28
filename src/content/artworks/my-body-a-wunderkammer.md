@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "my body — a Wunderkammer"
 artist: "Shelley Jackson"

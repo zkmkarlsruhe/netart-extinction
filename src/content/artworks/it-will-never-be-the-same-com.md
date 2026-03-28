@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "it will never be the same .com"
 artist: "Rafaël Rozendaal"

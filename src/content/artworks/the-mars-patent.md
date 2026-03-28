@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The MARS PATENT"
 artist: "MARS PATENT"

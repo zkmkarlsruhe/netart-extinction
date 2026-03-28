@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Continuing Education for Dead Adults"
 artist: "Ben Coonley"

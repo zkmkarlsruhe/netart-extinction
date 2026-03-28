@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "1. Scatter, 2. Power"
 artist: "christine sciulli"

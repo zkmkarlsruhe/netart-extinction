@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Cinco Cidades"
 artist: "The Folk Songs Project"

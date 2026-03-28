@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "everything seems to be ok.."
 artist: "michael greathouse"

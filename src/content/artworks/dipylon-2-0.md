@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Dipylon 2.0"
 artist: "Jimpalt"

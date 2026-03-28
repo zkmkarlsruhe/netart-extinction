@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Soul 2004 -06. By Stanza"
 artist: "Stanza"

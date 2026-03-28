@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "fifteen minutes"
 artist: "Rebecca Nagle"

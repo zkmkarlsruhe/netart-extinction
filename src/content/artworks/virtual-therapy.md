@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "WMV"
 ai_generated: true
 title: "Virtual Therapy"
 artist: "Myriam Thyes"

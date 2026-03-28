@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "applet"
 ai_generated: true
 title: "Tripolar"
 artist: "Scott Sona Snibbe"

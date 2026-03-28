@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Family Portrait"
 artist: "Wilfried Agricola de Cologne"

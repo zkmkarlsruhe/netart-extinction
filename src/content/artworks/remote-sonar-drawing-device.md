@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "remote sonar drawing device"
 artist: "david bowen"

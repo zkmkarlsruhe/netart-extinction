@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Neue Kathedrale des Erotisches Elends"
 artist: "Dirk Vekemans"

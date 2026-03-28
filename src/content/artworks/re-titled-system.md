@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "re-titled system"
 artist: "boris kopeinig"

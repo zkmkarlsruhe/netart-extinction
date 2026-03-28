@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Children's Lesson in the History of Salvation"
 artist: "Tamás St.Auby"

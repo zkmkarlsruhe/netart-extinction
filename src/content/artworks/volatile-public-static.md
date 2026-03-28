@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "volatile public static"
 artist: "Milos Rankovic"

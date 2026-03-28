@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Abstractions for piano and rectangles"
 artist: "Stefano Coluccini"

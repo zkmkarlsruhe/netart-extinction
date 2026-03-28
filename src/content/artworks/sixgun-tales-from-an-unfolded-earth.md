@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Sixgun: Tales From An Unfolded Earth"
 artist: "Daniel Merlin Goodbrey"

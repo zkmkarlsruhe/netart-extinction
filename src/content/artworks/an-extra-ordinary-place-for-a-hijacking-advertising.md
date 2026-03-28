@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "An (extra)ordinary place for a hijacking advertising"
 artist: "Les Liens Invisibles"

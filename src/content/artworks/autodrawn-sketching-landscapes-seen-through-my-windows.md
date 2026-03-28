@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Autodrawn: Sketching landscapes seen through my windows"
 artist: "Pall Thayer"

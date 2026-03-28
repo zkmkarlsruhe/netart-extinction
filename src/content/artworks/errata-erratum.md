@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Errata Erratum"
 artist: "Paul D. Miller"

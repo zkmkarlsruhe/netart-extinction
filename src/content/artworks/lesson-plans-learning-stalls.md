@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Macromedia Director"
 ai_generated: true
 title: "Lesson plans: learning stalls"
 artist: "Torsten Zenas Burns"

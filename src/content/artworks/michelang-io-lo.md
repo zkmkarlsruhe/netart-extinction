@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Michelang_IO_lo"
 artist: "Salvatore Iaconesi"

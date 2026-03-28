@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "SVEN (Surveillance Video Entertainment Network)"
 artist: "Amy Alexander"

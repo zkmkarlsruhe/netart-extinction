@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "fatal to the flesh .com"
 artist: "Rafaël Rozendaal"

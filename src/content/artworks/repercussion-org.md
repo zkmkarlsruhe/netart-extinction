@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "repercussion.org"
 artist: "Carla Diana"

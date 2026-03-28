@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Golden Calf"
 artist: "Orsolya Nyitrai"

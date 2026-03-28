@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "text(e)space"
 artist: "Fernando Igansi"

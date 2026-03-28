@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "PacMan 0.4"
 artist: "Andrei Thomaz"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Wallright  - live public painting community platform"
 artist: "Luis Confraria"

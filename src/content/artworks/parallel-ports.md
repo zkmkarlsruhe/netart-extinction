@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
 ai_generated: true
 title: "Parallel Ports"
 artist: "Klaas van Gorkum"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Artist’s Training Programme™"
 artist: "Ellie Harrison"

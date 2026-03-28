@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "ascii chewy"
 artist: "Jason Van Anden"

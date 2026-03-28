@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MIDI"
 ai_generated: true
 title: "Taboo, ASCii Module (NetArt Project)"
 artist: "Carmen Olmo"

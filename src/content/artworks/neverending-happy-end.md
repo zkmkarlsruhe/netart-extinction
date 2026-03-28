@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Neverending Happy End -"
 artist: "Les Liens Invisibles"

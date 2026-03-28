@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "a javanized illusion"
 artist: "chih-min chen"

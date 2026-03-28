@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "the persistence of sadness .com"
 artist: "Rafaël Rozendaal"

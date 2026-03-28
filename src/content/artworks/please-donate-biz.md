@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "please donate .biz"
 artist: "Rafaël Rozendaal"

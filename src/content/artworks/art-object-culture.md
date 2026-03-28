@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Art Object Culture"
 artist: "Emilie Gervais"

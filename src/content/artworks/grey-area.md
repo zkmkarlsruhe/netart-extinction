@@ -1,7 +1,6 @@
 ---
 ai_generated: true
-title: "Grey 
-Area"
+title: "Grey  Area"
 artist: "Unknown"
 year: 2002
 medium: "Net art"

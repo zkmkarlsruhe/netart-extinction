@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "the end of reason .com"
 artist: "Rafaël Rozendaal"

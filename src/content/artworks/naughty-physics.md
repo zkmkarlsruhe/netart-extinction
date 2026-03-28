@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "naughty physics (a.k.a. The LUFE Matrix)"
 artist: "Reginald Brooks"

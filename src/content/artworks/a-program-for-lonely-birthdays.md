@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A program for lonely birthdays"
 artist: "Jimpalt"

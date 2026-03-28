@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Natural History of Alamogordo"
 artist: "Bob Cotton"

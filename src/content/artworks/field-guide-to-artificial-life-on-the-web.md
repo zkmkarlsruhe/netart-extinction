@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Java Applet"
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "Field Guide to Artificial Life on the Web"
 artist: "Cheryl Sourkes"

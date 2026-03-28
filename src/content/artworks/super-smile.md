@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "SUPER SMILE"
 artist: "Young-Hae Chang Heavy Industries"

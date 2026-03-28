@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "please touch me .com"
 artist: "Rafaël Rozendaal"

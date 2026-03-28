@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
+  - "PHP"
 ai_generated: true
 title: "Hotel Vue des Alpes"
 artist: "Monica Studer, Christoph van den Berg"

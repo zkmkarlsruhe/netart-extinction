@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Self Organising Artist"
 artist: "Anna Dumitriu"

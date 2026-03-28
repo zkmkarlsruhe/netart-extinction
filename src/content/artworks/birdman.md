@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "BirdMan"
 artist: "Jeong Han Kim"

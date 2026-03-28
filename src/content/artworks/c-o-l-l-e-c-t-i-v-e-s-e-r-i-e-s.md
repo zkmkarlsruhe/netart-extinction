@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "c o l l e c t  i v e    s e r i e s"
 artist: "alessandra marfisa marfisa"

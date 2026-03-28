@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "lin[ear]  + t e x t |message"
 artist: "jj higgins"

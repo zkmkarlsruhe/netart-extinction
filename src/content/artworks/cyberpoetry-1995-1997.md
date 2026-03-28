@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "QuickTime"
+  - "VRML"
 ai_generated: true
 title: "cyberpoetry 1995-1997"
 artist: "komninos zervos"

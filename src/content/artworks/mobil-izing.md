@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "mobil_izing"
 artist: "Marcus Vinicius Fainer Bastos"

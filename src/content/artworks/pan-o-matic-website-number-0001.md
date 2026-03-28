@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "RealPlayer"
 ai_generated: true
 title: "PAN-O-MATIC: website number .0001"
 artist: "stephanie rothenberg"

@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "QuickTime"
 ai_generated: true
 title: "Alteraction"
 artist: "Reynald Drouhin"

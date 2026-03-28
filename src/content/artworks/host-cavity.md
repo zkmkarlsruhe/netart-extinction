@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: ">>>HOST_CAVITY<<<"
 artist: "Ian Page"

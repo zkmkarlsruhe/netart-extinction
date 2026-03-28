@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "hot doom .com"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Twice-told Tales"
 artist: "nicholas economos"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "]...[world]...["
 artist: "Michael Takeo Magruder"

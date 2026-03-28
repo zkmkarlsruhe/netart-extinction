@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A Seance with Guy"
 artist: "De Geuzen: a foundation for multi-visual research"

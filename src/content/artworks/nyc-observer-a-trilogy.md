@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "NYC Observer, a Trilogy"
 artist: "koki tanaka"

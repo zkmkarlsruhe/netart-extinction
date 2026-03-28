@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "100+ Hanks"
 artist: "Paul McLean"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "1 year performance video (aka samHsiehUpdate)"
 artist: "MTAA"

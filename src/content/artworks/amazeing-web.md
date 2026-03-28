@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "CGI"
 ai_generated: true
 title: "aMAZEing web"
 artist: "Klaus Johannes Rusch"

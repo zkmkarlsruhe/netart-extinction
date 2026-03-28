@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Worldebt - You can count on it !"
 artist: "Alexandre Plennevaux"

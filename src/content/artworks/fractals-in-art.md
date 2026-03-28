@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Fractals in Art"
 artist: "Lajos Nyikos"

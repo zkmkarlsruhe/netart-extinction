@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Return of Silent Radio"
 artist: "Peter Stanick"

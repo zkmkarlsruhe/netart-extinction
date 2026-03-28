@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "CSS"
+  - "HTML"
+  - "JavaScript"
+  - "Python"
 ai_generated: true
 title: "Neo Geo City"
 artist: "Rafaël Rozendaal"

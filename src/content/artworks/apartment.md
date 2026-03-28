@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "VRML"
 ai_generated: true
 title: "Apartment"
 artist: "Marek Walczak"

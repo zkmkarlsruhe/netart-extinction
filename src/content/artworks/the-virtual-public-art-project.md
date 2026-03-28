@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Virtual Public Art Project"
 artist: "Christopher Manzione"

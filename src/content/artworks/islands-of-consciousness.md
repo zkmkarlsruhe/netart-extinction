@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Islands Of Consciousness"
 artist: "Mario Klingemann"

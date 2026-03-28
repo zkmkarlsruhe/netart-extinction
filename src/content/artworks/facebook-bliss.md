@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Facebook Bliss"
 artist: "Anthony Antonellis"

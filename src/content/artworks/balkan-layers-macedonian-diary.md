@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Java Applet"
 ai_generated: true
 title: "Balkan Layers: Macedonian Diary"
 artist: "Linda Lauro-Lazin"

@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
+  - "Macromedia Director"
 ai_generated: true
 title: "Prosthetic Component Interface Series"
 artist: "andrew bucksbarg"

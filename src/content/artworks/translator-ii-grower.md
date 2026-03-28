@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Translator II: Grower"
 artist: "Sabrina Raaf"

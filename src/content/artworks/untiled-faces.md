@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Untiled Faces"
 artist: "Nathan Selikoff"

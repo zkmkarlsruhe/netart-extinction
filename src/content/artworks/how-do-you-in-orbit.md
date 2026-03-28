@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "How do you in orbit?"
 artist: "Fred Murie"

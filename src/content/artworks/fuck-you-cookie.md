@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "FUCK YOU Cookie"
 artist: "Kim Asendorf"

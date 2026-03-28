@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Marathon 55 . Cache Memory"
 artist: "Grégory Chatonsky"

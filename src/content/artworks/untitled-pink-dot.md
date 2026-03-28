@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Untitled (Pink Dot)"
 artist: "Takeshi Murata"

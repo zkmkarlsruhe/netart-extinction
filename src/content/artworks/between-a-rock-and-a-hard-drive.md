@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Between a Rock and a Hard Drive"
 artist: "Kristin Lucas"

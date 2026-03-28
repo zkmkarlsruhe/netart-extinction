@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Folk Songs for the Five Points"
 artist: "The Folk Songs Project"

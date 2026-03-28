@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Alpha Beta Disco: Godard Remix"
 artist: "DropBox"

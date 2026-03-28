@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "World's Largest Webpage"
 artist: "Peter Stanick"

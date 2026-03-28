@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Music For Deaf People"
 artist: "Enrico Glerean"

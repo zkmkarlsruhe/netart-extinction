@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Mass Manipulation"
 artist: "Jane Crayton"

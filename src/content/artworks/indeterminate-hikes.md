@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Indeterminate Hikes +"
 artist: "leila christine nadir"

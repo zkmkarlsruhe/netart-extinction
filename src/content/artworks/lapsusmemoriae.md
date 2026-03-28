@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "lapsusmemoriae"
 artist: "urtica(Violeta Vojvodic + Eduard Balaz)"

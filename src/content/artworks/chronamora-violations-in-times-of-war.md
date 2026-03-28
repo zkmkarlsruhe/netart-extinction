@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "chronaMora - violations in times of war"
 artist: "deb king"

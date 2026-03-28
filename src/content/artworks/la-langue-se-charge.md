@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "La langue se charge"
 artist: "Michael Sellam"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Culture is Consumer Goods"
 artist: "Szilvia Seres"

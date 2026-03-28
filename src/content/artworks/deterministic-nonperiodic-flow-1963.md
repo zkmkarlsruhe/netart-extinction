@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Deterministic Nonperiodic Flow (1963)"
 artist: "Eva Schindling"

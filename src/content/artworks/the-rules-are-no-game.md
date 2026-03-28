@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Linux"
 ai_generated: true
 title: "The Rules Are No Game"
 artist: "Markus Huemer"

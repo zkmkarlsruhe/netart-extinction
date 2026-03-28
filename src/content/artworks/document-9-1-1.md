@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Java Applet"
+  - "RealPlayer"
+  - "Shockwave"
 ai_generated: true
 title: "Document 9-1-1"
 artist: "tobias c. van Veen"

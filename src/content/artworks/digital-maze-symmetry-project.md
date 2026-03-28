@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Digital Maze Symmetry Project"
 artist: "DEBRA SWACK"

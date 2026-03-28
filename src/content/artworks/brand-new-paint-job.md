@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Brand New Paint Job"
 artist: "Jon Rafman"

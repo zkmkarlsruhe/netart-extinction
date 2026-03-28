@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Real 3D friend"
 artist: "Teo Spiller"

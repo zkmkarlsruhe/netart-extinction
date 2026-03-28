@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "a book with explanatory notes : L"
 artist: "sung-yoon jung"

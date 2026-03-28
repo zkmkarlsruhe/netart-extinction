@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Stand ByYour Guns"
 artist: "Jillian Mcdonald"

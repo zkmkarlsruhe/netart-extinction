@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "dreamtime::"
 artist: "Wilfried Agricola de Cologne"

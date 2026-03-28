@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Hippie Brain Explosion"
 artist: "Lowell Robinson"

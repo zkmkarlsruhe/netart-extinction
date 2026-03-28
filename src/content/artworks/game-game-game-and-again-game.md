@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "game, game, game and again game"
 artist: "Jason Nelson"

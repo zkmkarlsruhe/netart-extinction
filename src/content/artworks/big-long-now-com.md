@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "big long now .com"
 artist: "Rafaël Rozendaal"

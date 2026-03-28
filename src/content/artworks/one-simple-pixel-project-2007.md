@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "one simple pixel project 2007"
 artist: "Joshua L. Davis"

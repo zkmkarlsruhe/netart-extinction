@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Cherry_blossom mapping project"
 artist: "Hidenori Watanave"

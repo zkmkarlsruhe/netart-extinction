@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Home Page"
 artist: "Márk Fridvalszki"

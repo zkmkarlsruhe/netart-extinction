@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Unique Art with your Initials"
 artist: "Martin Koncilja"

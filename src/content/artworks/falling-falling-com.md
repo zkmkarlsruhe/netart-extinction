@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "falling falling .com"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Robotica II. What Robots Get up to after Dark."
 artist: "Stanza"

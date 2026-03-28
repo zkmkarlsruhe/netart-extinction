@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "An Anchor for Witnessing"
 artist: "Electronic Disturbance Theater"

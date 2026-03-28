@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Shockwave"
 ai_generated: true
 title: "Vocabulary"
 artist: "X Baczewska"

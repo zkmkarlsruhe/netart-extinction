@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "STATION BALNÉAIRE /// VARIATION I (2011)"
 artist: "Sabrina Ratté"

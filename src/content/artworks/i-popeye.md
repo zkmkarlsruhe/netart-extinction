@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "I, Popeye"
 artist: "Takeshi Murata"

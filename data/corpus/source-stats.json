@@ -2,17 +2,44 @@
   "ada": {
     "records": 0
   },
+  "archive-org": {
+    "records": 348
+  },
   "ars-electronica": {
-    "records": 188
+    "records": 1001
   },
   "artbase": {
     "records": 2329
   },
+  "c3": {
+    "records": 108
+  },
+  "computerfinearts": {
+    "records": 152
+  },
+  "dia": {
+    "records": 40
+  },
+  "gallery404": {
+    "records": 37
+  },
   "goldsen": {
     "records": 13
   },
+  "lima": {
+    "records": 3008
+  },
+  "mattes": {
+    "records": 76
+  },
   "media-art-net": {
     "records": 0
+  },
+  "monoskop": {
+    "records": 128
+  },
+  "mtaa": {
+    "records": 59
   },
   "net-art-org": {
     "records": 6
@@ -20,19 +47,82 @@
   "netart-latino": {
     "records": 337
   },
+  "ntt-icc": {
+    "records": 1825
+  },
+  "rhizome-anthology": {
+    "records": 39
+  },
+  "runme": {
+    "records": 150
+  },
   "siggraph": {
     "records": 11
+  },
+  "turbulence": {
+    "records": 497
   },
   "whitney": {
     "records": 110
   },
+  "wikipedia": {
+    "records": 73
+  },
   "_summary": {
-    "merged_corpus_records": 2980,
-    "high_priority_queue_records": 2980,
+    "merged_corpus_records": 7200,
+    "high_priority_queue_records": 7200,
     "top_hosts": [
       [
+        "ntticc.or.jp",
+        1825
+      ],
+      [
+        "computerfinearts.com",
+        152
+      ],
+      [
         "whitney.org",
-        110
+        111
+      ],
+      [
+        "c3.hu",
+        109
+      ],
+      [
+        "0100101110101101.org",
+        75
+      ],
+      [
+        "web.archive.org",
+        75
+      ],
+      [
+        "turbulence.org",
+        55
+      ],
+      [
+        "diaart.org",
+        40
+      ],
+      [
+        "sites.rhizome.org",
+        39
+      ],
+      [
+        "mteww.com",
+        35
+      ],
+      [
+        "mtaa.net",
+        15
+      ],
+      [
+        "artport.whitney.org",
+        13
+      ],
+      [
+        "vimeo.com",
+        13
       ],
       [
         "subculture.com",
@@ -43,16 +133,28 @@
         11
       ],
       [
+        "art.runme.org",
+        8
+      ],
+      [
         "geocities.com",
         8
+      ],
+      [
+        "youtube.com",
+        8
+      ],
+      [
+        "net-art.org",
+        7
       ],
       [
         "lucialeao.pro.br",
         6
       ],
       [
-        "net-art.org",
-        6
+        "influenza.etc.br",
+        5
       ],
       [
         "mayhem.net",
@@ -63,7 +165,31 @@
         4
       ],
       [
+        "desvirtual.com",
+        4
+      ],
+      [
         "hostalia01.hostalia.com",
+        4
+      ],
+      [
+        "khm.de",
+        4
+      ],
+      [
+        "motorhueso.net",
+        4
+      ],
+      [
+        "onlineart.kiasma.fi",
+        4
+      ],
+      [
+        "portablepalace.com",
+        4
+      ],
+      [
+        "runme.org",
         4
       ],
       [
@@ -75,11 +201,19 @@
         3
       ],
       [
-        "desvirtual.com",
+        "dialdata.com.br",
         3
       ],
       [
-        "dialdata.com.br",
+        "digital-art-collection.net",
+        3
+      ],
+      [
+        "facebook.com",
+        3
+      ],
+      [
+        "ffur.de",
         3
       ],
       [
@@ -91,15 +225,7 @@
         3
       ],
       [
-        "influenza.etc.br",
-        3
-      ],
-      [
         "internet.com.uy",
-        3
-      ],
-      [
-        "khm.de",
         3
       ],
       [
@@ -111,7 +237,19 @@
         3
       ],
       [
+        "tinjail.com",
+        3
+      ],
+      [
+        "turbulence-org.eliterature.org",
+        3
+      ],
+      [
         "unosunosyunosceros.com",
+        3
+      ],
+      [
+        "x-arn.org",
         3
       ],
       [
@@ -119,115 +257,19 @@
         3
       ],
       [
+        "en.wikipedia.org",
+        3
+      ],
+      [
+        "130.208.220.190",
+        2
+      ],
+      [
+        "adamwbrown.net",
+        2
+      ],
+      [
         "alcayata.com",
-        2
-      ],
-      [
-        "ar.groups.yahoo.com",
-        2
-      ],
-      [
-        "artecno.ucs.br",
-        2
-      ],
-      [
-        "arteuna.com",
-        2
-      ],
-      [
-        "db-db.com",
-        2
-      ],
-      [
-        "distopia.com",
-        2
-      ],
-      [
-        "dunadigital.com",
-        2
-      ],
-      [
-        "enter-net.com.br",
-        2
-      ],
-      [
-        "error404.cl",
-        2
-      ],
-      [
-        "escaner.cl",
-        2
-      ],
-      [
-        "exonemo.com",
-        2
-      ],
-      [
-        "hipercubo.uniandes.edu.co",
-        2
-      ],
-      [
-        "laferrer.tabira.org",
-        2
-      ],
-      [
-        "liminar.com.ar",
-        2
-      ],
-      [
-        "low-fi.org.uk",
-        2
-      ],
-      [
-        "manipulatto.com",
-        2
-      ],
-      [
-        "marumushi.com",
-        2
-      ],
-      [
-        "mecad.org",
-        2
-      ],
-      [
-        "mediatiqa.com.ar",
-        2
-      ],
-      [
-        "moebio.com",
-        2
-      ],
-      [
-        "mundo.mentesx.cl",
-        2
-      ],
-      [
-        "navasse.net",
-        2
-      ],
-      [
-        "oculasm.org",
-        2
-      ],
-      [
-        "palaciodurazno.com",
-        2
-      ],
-      [
-        "paulacordova.com",
-        2
-      ],
-      [
-        "perso.enst.fr",
-        2
-      ],
-      [
-        "pucsp.br",
-        2
-      ],
-      [
-        "reconnoitre.net",
         2
       ]
     ]

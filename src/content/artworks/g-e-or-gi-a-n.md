@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "g:e:or::gi:a:n"
 artist: "ui uuii"

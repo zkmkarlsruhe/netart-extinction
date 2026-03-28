@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "VRML"
 ai_generated: true
 title: "VIRTUAL URBAN"
 artist: "Aisling O'Beirn"

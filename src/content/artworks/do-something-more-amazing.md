@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Do Something More Amazing"
 artist: "xtine burrough"

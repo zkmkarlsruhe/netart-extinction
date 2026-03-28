@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "American Views: Stories of the Landscape"
 artist: "Russet Lederman"

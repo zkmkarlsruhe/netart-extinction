@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "THE METAPLASTIC CONSTRUCTOR"
 artist: "gianluca mura"

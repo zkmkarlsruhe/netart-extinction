@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Four Flashes of Life"
 artist: "Lars Wikstr"

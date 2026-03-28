@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Video-matic.nl"
 artist: ": O l g a : : M i n k :"

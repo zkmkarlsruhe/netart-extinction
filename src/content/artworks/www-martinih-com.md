@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "www.martinih.com"
 artist: "Ulysses Alvarez"

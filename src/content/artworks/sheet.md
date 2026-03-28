@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "sheet"
 artist: "Susana Mendes Silva"

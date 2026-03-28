@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Lost Lyrics"
 artist: "Jerry King Musser"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Shockwave"
 ai_generated: true
 title: "Happycentro+Sintetik"
 artist: "Happycentro+Sintetik"

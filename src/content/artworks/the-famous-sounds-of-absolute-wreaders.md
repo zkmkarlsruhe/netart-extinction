@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Famous Sounds of Absolute Wreaders"
 artist: "Johannes Auer"

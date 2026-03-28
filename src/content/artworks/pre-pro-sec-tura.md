@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "PRE*PRO*SEC*TURA"
 artist: "Péter Forgács"

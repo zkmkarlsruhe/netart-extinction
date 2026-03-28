@@ -184,19 +184,6 @@
   {
     "source": "turbulence",
     "source_url": "https://turbulence.org/archives/00.html",
-    "title": "CultureMap",
-    "artist": "",
-    "year": 2000,
-    "medium": "Net art",
-    "url": "/web/20150317070029/http://turbulence.org/Works/cultmap/index.html",
-    "technologies": [],
-    "preservation": {
-      "status": "unknown"
-    }
-  },
-  {
-    "source": "turbulence",
-    "source_url": "https://turbulence.org/archives/00.html",
     "title": "Genetic Response System 3.0",
     "artist": "",
     "year": 2000,
@@ -241,32 +228,6 @@
     "year": 2001,
     "medium": "Net art",
     "url": "/web/20150317053626/http://turbulence.org/Works/rootings",
-    "technologies": [],
-    "preservation": {
-      "status": "unknown"
-    }
-  },
-  {
-    "source": "turbulence",
-    "source_url": "https://turbulence.org/archives/01.html",
-    "title": "ISS",
-    "artist": "",
-    "year": 2001,
-    "medium": "Net art",
-    "url": "/web/20150317053626/http://turbulence.org/Works/iss/index.html",
-    "technologies": [],
-    "preservation": {
-      "status": "unknown"
-    }
-  },
-  {
-    "source": "turbulence",
-    "source_url": "https://turbulence.org/archives/01.html",
-    "title": "interaXis",
-    "artist": "",
-    "year": 2001,
-    "medium": "Net art",
-    "url": "/web/20150317053626/http://turbulence.org/Works/interaxis/index.html",
     "technologies": [],
     "preservation": {
       "status": "unknown"
@@ -327,7 +288,7 @@
   {
     "source": "turbulence",
     "source_url": "https://turbulence.org/archives/01.html",
-    "title": "&gt;&gt;",
+    "title": ">>",
     "artist": "",
     "year": 2001,
     "medium": "Net art",
@@ -521,12 +482,5979 @@
   },
   {
     "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/96.html",
+    "title": "Not Walls",
+    "artist": "",
+    "year": 1996,
+    "url": "/web/20130116212139/http://www.turbulence.org/walls.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/96.html",
+    "title": "MRT: New Explorations in Science Action",
+    "artist": "",
+    "year": 1996,
+    "url": "/web/20130116212139/http://www.turbulence.org/Works/mrt/mrtindex.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/96.html",
+    "title": "North Country: Part 1",
+    "artist": "",
+    "year": 1996,
+    "url": "/web/20130116212139/http://www.turbulence.org/Works/Thorington/nc/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/97.html",
+    "title": "The Sad Hungarian",
+    "artist": "",
+    "year": 1997,
+    "url": "/web/20130116212401/http://www.turbulence.org/Works/sadhungarian/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/97.html",
+    "title": "FT2K",
+    "artist": "",
+    "year": 1997,
+    "url": "/web/20130116212401/http://www.turbulence.org/Works/FT2K/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/97.html",
+    "title": "The Hootenanny Manifestation",
+    "artist": "",
+    "year": 1997,
+    "url": "/web/20130116212401/http://www.turbulence.org/Works/hoot/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/97.html",
+    "title": "Radio Stare",
+    "artist": "",
+    "year": 1997,
+    "url": "/web/20130116212401/http://www.turbulence.org/radio.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/97.html",
+    "title": "North Country: Part 2",
+    "artist": "",
+    "year": 1997,
+    "url": "/web/20130116212401/http://www.turbulence.org/Works/Thorington/nc2/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/97.html",
+    "title": "Help Write The Story of X or Fly's Birthday",
+    "artist": "",
+    "year": 1997,
+    "url": "/web/20130116212401/http://www.turbulence.org/Works/_X/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "Loose Ends/Connections",
+    "artist": "",
+    "year": 1998,
+    "url": "/web/20130116212014/http://www.turbulence.org/Works/loose/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "Adrift",
+    "artist": "",
+    "year": 1998,
+    "url": "/web/20130116212014/http://www.turbulence.org/Adrift/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "Pulse.Time",
+    "artist": "",
+    "year": 1998,
+    "url": "/web/20130116212014/http://www.turbulence.org/Works/neil/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "Pedestrian: Walking as Meditation and the Lure of Everyday Objects",
+    "artist": "",
+    "year": 1998,
+    "url": "/web/20130116212014/http://www.turbulence.org/Works/pedestrian/intro.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "Predestiny",
+    "artist": "",
+    "year": 1998,
+    "url": "/web/20130116212014/http://www.turbulence.org/Works/predestiny/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "Four Stories",
+    "artist": "",
+    "year": 1998,
+    "url": "/web/20130116212014/http://www.turbulence.org/Works/fourstories/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
     "source_url": "https://turbulence.org/archives/02.html",
-    "title": "&gt;&gt;",
+    "title": "The Exchange Program",
     "artist": "",
     "year": 2002,
+    "url": "https://web.archive.org/web/20130116212052/http://exchangeprogram.org/",
     "medium": "Net art",
-    "url": "/web/20150317060845/http://turbulence.org/Works/Nio/interview.htm",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "New Media | New Narrative",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/curators/media/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "Webartist Profiles",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/curators/media2/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "crawford2",
+    "artist": "",
+    "year": 2002,
+    "url": "#crawford2",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "Irreconcilable and Lipservice",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/spotlight/jhave/jhave_spotlight.swf",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "I Am Not an Animal",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/studios/crawford/animal/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "Dance to the Radio",
+    "artist": "",
+    "year": 2002,
+    "url": "https://web.archive.org/web/20130116212052/http://stopmotionstudies.net/radio",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "Arteroids 2.02 (8/02)",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/spotlight/arteroids/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Data Diaries",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/arcangel/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Lost Guides",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/lost/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Ekpurosis",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/hollow/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "N.A.G.",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/freeman",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Au bord du fleuve/On the Riverside",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/lefevre/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Inter-face",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/johnston/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Stop Motion Studies – Tokyo, Series 8, 9 & 10",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/sms/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Peter Horvath",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/studios/horvath/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "co~dec",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/Works/lost/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Jody Zellen",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/studios/zellen/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "+ requiem +",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Lewis LaCook",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/studios/lacook/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Left To My Own Devices",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/studios/thomas/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Gregory Chatonsky",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/studios/chatonsky/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Reynald Drouhin",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/studios/drouhin/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Paris Connection",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/curators/Paris/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "subRational eRuptions",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/curators/griffis/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Duchamp's Ideal Children's Children: Net.Art's Brat Pack",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/curators/salvaggio/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "de cologne",
+    "artist": "",
+    "year": 2003,
+    "url": "#decologne",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "brucker-cohen",
+    "artist": "",
+    "year": 2003,
+    "url": "#cohen",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Selections from \"Muscle and Blood Piano\"",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/lattanzi/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Agricola de Cologne",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/agricola/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Desktop Subversibles",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/brucker_cohen/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Paper Rad",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/paperrad/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "rent-a-negro.com",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/ayo/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "THE BIGEAR",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/bigear/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Alphanumeric Labs",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/highland/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Life Support",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/weintraub/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "Confrontation",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/spotlight/abrahams/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "wardrip-fruin1",
+    "artist": "",
+    "year": 2004,
+    "url": "#war",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "wardrip-fruin2",
+    "artist": "",
+    "year": 2004,
+    "url": "#noah2",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Stop Motion Studies – Tokyo, Series 11 & 12",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/sms/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "The SWIPE Toolkit",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/swipe/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "/reimaginings",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/reimaginings/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "<event>",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/magruder/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Infecter",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/kennedy/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Prototype #44, Net Pirate Number Station",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/sodeoka",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "The9th-Allegro",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/golan/9allegro/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "45 Seconds",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/Skibell/45seconds/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Intervals",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/horvath/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "tone row poetry",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/lacook/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Tap Evol: The Setup",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/liu/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Memoryflesh 2.0: A Micro Media Record",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/ludin/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Two Textual Instruments, Part 1: Regime Change",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/twotxt/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "1 year performance video (aka samHsiehUpdate)",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/1year",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Two Textual Instruments, Part 2: News Reader",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/twotxt/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Collective Geology of the Erased Space",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/erased/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Heat and the Heartbeat of the City",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/heat/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "How Do You See The Disappeared? A Warm Database",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/Works/seethedisappeared/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "magruder2",
+    "artist": "",
+    "year": 2004,
+    "url": "#magruder2",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "{matrix}",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Views from the Ground Floor",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/studios/loseby/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Stop Motion Studies - Series 13",
+    "artist": "",
+    "year": 2004,
+    "url": "https://web.archive.org/web/20130116212330/http://www.stopmotionstudies.net/sms13/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Out-of-Sync",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/studios/rumor/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "[ FALLUJAH . IRAQ . 31/03/2004 ]",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "low-fi",
+    "artist": "",
+    "year": 2004,
+    "url": "#low",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Catchy Name: An Idiosyncratic Concept",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/curators/deck/catchyName/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "influences.org",
+    "artist": "",
+    "year": 2004,
+    "url": "#dacosta",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "ascii bush",
+    "artist": "",
+    "year": 2004,
+    "url": "#sodeoka2",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Re_Cycled_Views",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/spotlight/navas/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "[a net.film]",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/spotlight/loseby/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Pages of Madness",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/spotlight/ajaykumar/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Thinking Machine 4",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/spotlight/thinking/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "On Lionel Kearns",
+    "artist": "",
+    "year": 2004,
+    "url": "/web/20130116212330/http://www.turbulence.org/spotlight/kearns/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "Floating Points: Net Art Now",
+    "artist": "",
+    "year": 2004,
+    "url": "https://web.archive.org/web/20130116212330/http://institute.emerson.edu/floatingpoints/index2004.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "zuñiga",
+    "artist": "",
+    "year": 2005,
+    "url": "#zuniga",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "getawayexperiment.net",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/Works/getawayexperiment/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Grafik Dynamo",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/Works/dynamo/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "IN Network",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/Works/innetwork",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Mystery House Taken Over",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://turbulence.org/works/mystery/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Itinerant",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://turbulence.org/works/itinerant/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Imprimatur",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/Works/imprimatur/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Fallout Part 1: An Open Repository",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/Works/fallout/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Le Nouveau Western",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/Works/nouveau",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Exegesis",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/Works/exegesis",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Flash Polaroids",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/studios/stefans/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Stop Motion Studies",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://stopmotionstudies.net/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Tenderly Yours",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/studios/horvath/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Encoded Presence",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "kanarinka projects",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/studios/kanarinka/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Re_Collection",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Pop Up",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/curators/popup/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Why rock?",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/curators/rock/rock.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Beacon",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/thomsoncraighead/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Invigilate",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/forowicz/invigilate/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Voice Mosaic",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/voicemosaic/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Eliza Redux",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/eliza/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Online Portuguese NetArt 97 | 04",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/online_portuguese_netart/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "1001 nights cast",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/1001nights/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Floating Points 2: Networked Art in Public Space",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://institute.emerson.edu/floatingpoints/05/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Re:Writing: Writers, Computers and Networks",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/elo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "bar-shai/lieberman/miller",
+    "artist": "",
+    "year": 2006,
+    "url": "#nurit",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Peripheral n°2: KEYBOARD",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/keyboard",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Knitoscope Testimonies",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/microRevolt",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Oil Standard",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/oilstandard/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Ten-sided",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/ten-sided",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "HRRAAGHP-TING!",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/utter/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "The Saddest Thing I Own",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/saddest/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Monolith[s]",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/monoliths/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "My Beating Blog",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/beatingheart/blog",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "SWM05: Distributed Bodies of Musical-Visual Form",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/SWM05/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Machine Fragments",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/machinefragments/machine.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "THE ESSENCE OF A NATION: CHINESE VIRTUAL PERSONS ON THE NET",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/XiaoQian/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Graph Theory",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/graphtheory",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Self-Portrait",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/self-portrait",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Nothing Happens: a performance in three acts",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/nothingHappens",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "[meme.garden]",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/garden",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Cell Tagging",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/Works/cell_tagging",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Turbulence New England Initiative II",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/upgrade/archives/12_14NEII.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Variations VII: FishNet",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/FishNet",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Out of the Window",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/studios/forowicz/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "{ transcription }",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Headlines",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "De Volkskrant",
+    "artist": "",
+    "year": 2006,
+    "url": "https://web.archive.org/web/20130116212237/http://www.volkskrant.nl/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "La Conchita mon amour",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/studios/mcphee/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "upgrade! new york/turbulence/rhizome",
+    "artist": "",
+    "year": 2006,
+    "url": "#upgrade",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "D.I.Y. or DIE: An Upgrade! New York, Turbulence.org and Rhizome.org Net Art Exhibition",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/diyordie/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "IAO Gallery",
+    "artist": "",
+    "year": 2006,
+    "url": "https://web.archive.org/web/20130116212237/http://www.iaogallery.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "honesty is our policy",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/curators/arsvirtua/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "laurentiz + gabriel",
+    "artist": "",
+    "year": 2006,
+    "url": "#gabriel",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "No Animals Were Hurt",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/spotlight/brinson/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Community of Words",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/spotlight/cm/community-of-words.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Set Up",
+    "artist": "",
+    "year": 2006,
+    "url": "https://web.archive.org/web/20130116212237/http://www.e-gallery.com.br/cp/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Logozoa",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/spotlight/kendall/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "On Everything",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/spotlight/thayer/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "carrizoprime-net",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/spotlight/mcphee/turbulencecarrizo.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Tabula Visum: Tabular Vision & HTML Cinema",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/spotlight/lichty/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Floating Points 3: Ubiquitous Computing",
+    "artist": "",
+    "year": 2006,
+    "url": "https://web.archive.org/web/20130116212237/http://institute.emerson.edu/floatingpoints/06/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "3 X 3",
+    "artist": "",
+    "year": 2007,
+    "url": "#three",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "avair 1",
+    "artist": "",
+    "year": 2007,
+    "url": "#avair1",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "symbiotic media group",
+    "artist": "",
+    "year": 2007,
+    "url": "#pulse",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "osorio-goenaga",
+    "artist": "",
+    "year": 2007,
+    "url": "#osorio",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "html_butoh",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/works/html_butoh",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "3 X 3: New Media Fix(es) on Turbulence",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/texts/nmf/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "New Media Fix",
+    "artist": "",
+    "year": 2007,
+    "url": "(http://newmediafix.net",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Gothamberg",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/works/gothamberg",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "DISCO-NNECT: An Experimental Video Podcast",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/Works/disco-nnect/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Urban Attractors and Private Distractors",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/uapd",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Dérives",
+    "artist": "",
+    "year": 2007,
+    "url": "https://web.archive.org/web/20130116212203/http://en.wikipedia.org/wiki/D%E9rive",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Ars Virtua Artist-in-Residence (AVAIR)",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/AVAIR",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "The Simultaneous Translator",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/Works/simtrans/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Handheld Histories as Hyper-Monuments",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/works/HyperMonument/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Pulse Pool",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/Works/PulsePool",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Superfund365, A Site-A-Day",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/Works/superfund/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Bonding Energy",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/works/BondingEnergy/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "SETI@home",
+    "artist": "",
+    "year": 2007,
+    "url": "https://web.archive.org/web/20130116212203/http://setiathome.berkeley.edu/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "The ShiftSpace Commissions Program",
+    "artist": "",
+    "year": 2007,
+    "url": "https://web.archive.org/web/20130116212206/http://turbulence.org/works/shiftspace",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "BliK",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/works/BliK",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "More >>",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/networked_music_review/2007/12/12/blik-by-roberto-osorio-goenaga/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "My Space Sound",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/works/MySpaceSound",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Continuum...",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Boulevard",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/horvath/boulevard/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Algorithmic Montage 2: A Walk With David Bohm",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/spotlight/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Zeno Boundary",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/spotlight/Zeno",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Disappearing Places and Time Indefinite",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/spotlight/belanger/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "OurFloatingPoints 4: Participatory Media",
+    "artist": "",
+    "year": 2007,
+    "url": "https://web.archive.org/web/20130116212203/http://institute.emerson.edu/floatingpoints/2007/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Programmable Media I: Open Platforms for Creativity and Collaboration",
+    "artist": "",
+    "year": 2007,
+    "url": "https://web.archive.org/web/20130116212203/http://csis.pace.edu/digitalgallery/ProgrammableMedia/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "jason freeman",
+    "artist": "",
+    "year": 2008,
+    "url": "#freeman",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "avair2",
+    "artist": "",
+    "year": 2008,
+    "url": "#avair",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "van veen",
+    "artist": "",
+    "year": 2008,
+    "url": "#van",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "More of the Same",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/Works/moreofthesame/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "You're Not My Father",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/Works/notmyfather/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Flou",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/Works/flou/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Remote",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/Works/remote",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Imaging Beijing",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/ImagingBeijing",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Imaging Place",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://institute.emerson.edu/vma/faculty/john_craig_freeman/imaging_place/imaging_place.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "NO MATTER",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/nomatter",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "The Vitruvian World",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/vitruvianworld",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "CATERWAUL",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/caterwaul",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Air Detritus",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/Works/detritus/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Invisible Influenced",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/invis/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "AVAIR 2: Feed Lack Loop",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/AVAIR",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Lighthouse",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://www.lighthouse.org.uk/whatson/digiville.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Voices from the Paradise Network",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/paradise",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "iPak - 10,000 songs, 10,000 images, 10,000 abuses",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/Works/iPak",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "I Can't Go On, I'll Go On",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/Works/cant_will/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "No Time Machine",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/notime",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Network Sonification",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/net_sonification/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "['til death do us a part]",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/earos/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Rust Belt/Bayou",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/rustbelt_bayou",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "The Telephone Game: Oil/Water/Ether",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/plork",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Trace Aureity",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/adamnash",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Storm King",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/sonicwire",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Lumens",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/newadams/lumens/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Networked Realities: (Re)Connecting the Adamses",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/networkedrealities",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Department of Public Works",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://dpw.newadams.es/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Wikireuse",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/wikireuse",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Big Box Reuse",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://mitpress.mit.edu/catalog/item/default.asp?ttype=2&amp;tid=11533",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Cutups",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://www.shiftspace.org/spaces/cutups/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Touching Gravity 2/Tilt",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/touching_gravity",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Networked: a (networked_book) about (networked_art)",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212250/ttp://networkedbook.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Bronx Rhymes",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/bronx_rhymes/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Tumbarumba",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/tumbarumba/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Recollecting Adams",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/recollecting/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Domain of Mount Greylock–Video Portal",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/domainofmountgreylock/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Plazaville",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/plazaville/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Reflection (hope and reconciliation)",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "wa-kow! collective",
+    "artist": "",
+    "year": 2008,
+    "url": "#wakow",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Tulsita",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/spotlight/tulsita/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "matthew belanger",
+    "artist": "",
+    "year": 2008,
+    "url": "#belanger",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "kate armstrong",
+    "artist": "",
+    "year": 2008,
+    "url": "#carpenter",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Turbulent Works",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://greylockarts.net/turbulent-works",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Tributaries & Text-Fed Streams: A Feed-Reading of The Capilano Review by J.R. Carpenter",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/curators/armstrong/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Floating Points 5: Mixed Realities",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://institute.emerson.edu/floatingpoints/2008/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Mixed Realities: An International Networked Art Exhibition",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/mixed_realities/turbulence.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Programmable Media II: Networked Music",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://csis.pace.edu/digitalgallery/ProgrammableMedia/2008.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Networked Music Review",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://turbulence.org/networked_music_review",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Without A Trace",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/works/without_a_trace",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Sunlight Foundation Apps for America",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://sunlightlabs.com/blog/2009/04/20/and-winners-are/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Eclipse",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/works/eclipse",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Hard Data",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/works/harddata",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "School of Perpetual Training",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/works/perpetualtraining/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "The Immediated Now: Network Culture and the Poetics of Reality",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://varnelis.networkedbook.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Lifetracing: The Traces of a Networked Life",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://helmond.networkedbook.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Storage in Collaborative Networked Art",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://freeman.networkedbook.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Data Undermining: The Work of Networked Art in an Age of Imperceptibility",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://munster.networkedbook.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Art in the Age of DataFlow: Narrative, Authorship, and Indeterminacy",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://lichty.networkedbook.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "I'm Not Stalking You; I'm Socializing: Status Grabber",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/Works/stalkingsocial/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Data_Sea",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Thinktank: Birmingham Science Museum",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://www.thinktank.ac/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "scarlet electric",
+    "artist": "",
+    "year": 2009,
+    "url": "#jo",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "30 Days of New Life",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/spotlight/30DaysofNewLife/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "MrsCoryArcangel.com",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/spotlight/mrscoryarcangel/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Piano Etudes",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/spotlight/pianoetudes/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Sensitive Rose",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/spotlight/sensitive_rose/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "(sans femme et sans aviateur)",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/spotlight/ebner/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "One Text, Many Stories",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/spotlight/onetext/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Floating Points 6: Games of Culture | Art of Games",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://institute.emerson.edu/floatingpoints/2009/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "bar-shai",
+    "artist": "",
+    "year": 2010,
+    "url": "#nurit",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "FUJI spaces and other places",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/works/FUJI/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "I'm Not Stalking You; I'm Socializing: Black&White",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/Works/stalkingsocial/blacknwhite",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "I'm Not Stalking You; I'm Socializing: Facetbook",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/Works/stalkingsocial/facetbook/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "WWW-Enabled Noise Toy",
+    "artist": "",
+    "year": 2010,
+    "url": "..works/noisetoy",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "Moments of Inertia",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/works/inertia",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "The Occupants",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/Works/occupants/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "I am unable to tell you",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/works/unable/UnableToTellYou.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "Journal of Journal Performance Studies",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/works/JJPS",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "Playing Duchamp",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/works/playing_duchamp",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "Google Variations",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/works/google",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "Corrupt™ - data corruption software",
+    "artist": "",
+    "year": 2010,
+    "url": "/web/20130116212157/http://www.turbulence.org/spotlight/ben/corrupt/corrupt.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "BFFA3AE",
+    "artist": "",
+    "year": 2011,
+    "url": "#nurit",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "les liens invisibles",
+    "artist": "",
+    "year": 2011,
+    "url": "#lesliens",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "paul, et al",
+    "artist": "",
+    "year": 2011,
+    "url": "#paul",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "This and that thought.",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/BFFA3AE",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "van der Corput sequence",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://en.wikipedia.org/wiki/Van_der_Corput_sequence",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Tweet 4 Action",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/tweet4action",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Quartet With Pyramid Scheme",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/quartet",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Les Belles Infidèles",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/belles",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Spectral Quartet",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/spectres",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Channel TWo: NYC",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/ChannelTWo/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Social Relay Mail",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/social/index.php",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "You Don't Know Me",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/youdontknowme",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "look art",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/lookart",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "ulti- U ser D ungeon",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://en.wikipedia.org/wiki/MUD",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "PuréeData",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/PureeData",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Endgame: A Cold War Love Story",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/works/endgame",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Andreas Maria Jacobs",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/studios/jacobs/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Insurance.AES256",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/studios/takeo/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "All that Fits: The Aesthetics of Journalism",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://www.derbyquad.co.uk/whats-on/exhibitions/aesthetic-journalism",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Six Sided Strange",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/spotlight/jasonnelson/wocu1.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Aleph Null",
+    "artist": "",
+    "year": 2011,
+    "url": "/web/20130116212059/http://www.turbulence.org/spotlight/alephnull/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "o'brien",
+    "artist": "",
+    "year": 2012,
+    "url": "#obrien",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "We Ping Good Things To Life: An Interactive Networked Installation in 5 Acts",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/weping",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Space Video",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/spacevideo",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Searching for Michelle/SFM",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/searching",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "L-Carrier",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/l-carrier",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Memorial Project for Jobbers' Canyon Built with ConAgra Products",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/jobberscanyon",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Public Works",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/publicworks",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Awkward_NYC",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/awkwardnyc",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Word Market",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/word-market",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Crow Sourcing",
+    "artist": "",
+    "year": 2012,
+    "url": "works/crow_sourcing",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "Panemoticon",
+    "artist": "",
+    "year": 2012,
+    "url": "/web/20130116212056/http://www.turbulence.org/works/panemoticon",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "mann|bavarsky",
+    "artist": "",
+    "year": 2013,
+    "url": "#mann",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "Submersible",
+    "artist": "",
+    "year": 2013,
+    "url": "/web/20130704143330/http://www.turbulence.org/works/submersible",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "MARK-IT",
+    "artist": "",
+    "year": 2013,
+    "url": "/web/20130704143330/http://www.turbulence.org/works/MARK_IT",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "Nothing You Have Done Deserves Such Praise",
+    "artist": "",
+    "year": 2013,
+    "url": "/web/20130704143330/http://www.turbulence.org/works/nothing",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "Enlisting Participation Online: Andy Deck and Zannah Marsh",
+    "artist": "",
+    "year": 2013,
+    "url": "https://web.archive.org/web/20130704143330/http://www.harvestworks.org/apr-14-turbulence-org-enlisting-participation-online/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "Awkward_NYC/ Awkward_Everywhere",
+    "artist": "",
+    "year": 2013,
+    "url": "works/awkwardnyc",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "gresham-lancaster/perkis",
+    "artist": "",
+    "year": 2014,
+    "url": "#perkis",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "lily&honglei",
+    "artist": "",
+    "year": 2014,
+    "url": "#honglei",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "Psychographics: Consumer Survey",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/psychographics",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "From the Valley of the Deer",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/fromthevalleyofthedeer",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "[openspace ] wilderness",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/openspace",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "A More Subtle Perplex",
+    "artist": "",
+    "year": 2014,
+    "url": "https://web.archive.org/web/20150130043519/https://drive.google.com/folderview?id=0B6j8YZcIj7zNQ3hEYk9Md3o4bW8&amp;usp=sharing",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "iLib Shakespeare (a perturbed sonnet project)",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/iLib",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "Grow Old",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/GrowOld",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "Shadow Play: Tales of Urbanization of China",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/shadowplay",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "Empire State",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/empirestate",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "Condition:Used",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/condition",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "Global Direct",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/globaldirect",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/2303/",
+    "title": "2303",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/2303/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/a-travel-guide/",
+    "title": "A Travel Guide",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/a-travel-guide/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/alernative-approaches-to-film/",
+    "title": "Alernative Approaches To Film",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/alernative-approaches-to-film/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/arteroids-2-02/",
+    "title": "Arteroids 2 02",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/arteroids-2-02/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/artifact/",
+    "title": "Artifact",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/artifact/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/brian-kin-stefans/",
+    "title": "Brian Kin Stefans",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/brian-kin-stefans/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/catchy-name-an-idiosyncratic-concept-2/",
+    "title": "Catchy Name An Idiosyncratic Concept 2",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/catchy-name-an-idiosyncratic-concept-2/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/christina-mcphee/",
+    "title": "Christina Mcphee",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/christina-mcphee/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/constellation-over-playas/",
+    "title": "Constellation Over Playas",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/constellation-over-playas/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/d-i-y-or-die/",
+    "title": "D I Y Or Die",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/d-i-y-or-die/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/dervish-flowers-and-moon-tribe/",
+    "title": "Dervish Flowers And Moon Tribe",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/dervish-flowers-and-moon-tribe/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/digitalrecycling/",
+    "title": "Digitalrecycling",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/digitalrecycling/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/disco-nnect/",
+    "title": "Disco Nnect",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/disco-nnect/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/duchamps-ideal-childrens-children/",
+    "title": "Duchamps Ideal Childrens Children",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/duchamps-ideal-childrens-children/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/fallout-an-open-repository/",
+    "title": "Fallout An Open Repository",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/fallout-an-open-repository/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/feed-lack-loop-2/",
+    "title": "Feed Lack Loop 2",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/feed-lack-loop-2/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/feedback/",
+    "title": "Feedback",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/feedback/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/floating-points-1-net-art-now/",
+    "title": "Floating Points 1 Net Art Now",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/floating-points-1-net-art-now/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/floating-points-2-networked-art-in-publlic-space/",
+    "title": "Floating Points 2 Networked Art In Publlic Space",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/floating-points-2-networked-art-in-publlic-space/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/galza-stone-age-multimedia-team/",
+    "title": "Galza Stone Age Multimedia Team",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/galza-stone-age-multimedia-team/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/handheld-histories-as-hyper-monuments-2/",
+    "title": "Handheld Histories As Hyper Monuments 2",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/handheld-histories-as-hyper-monuments-2/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/help-write-the-story-of-x-or-the-flys-birthday/",
+    "title": "Help Write The Story Of X Or The Flys Birthday",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/help-write-the-story-of-x-or-the-flys-birthday/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/how-to-look-at-artist-networks/",
+    "title": "How To Look At Artist Networks",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/how-to-look-at-artist-networks/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/im-not-stalking/",
+    "title": "Im Not Stalking",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/im-not-stalking/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/in-production-a-narrative-inquiry-on-interactive-art/",
+    "title": "In Production A Narrative Inquiry On Interactive Art",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/in-production-a-narrative-inquiry-on-interactive-art/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/internet-art-as-process-i/",
+    "title": "Internet Art As Process I",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/internet-art-as-process-i/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/internet-art-as-process-ii/",
+    "title": "Internet Art As Process Ii",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/internet-art-as-process-ii/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/internet-art-as-process-iii/",
+    "title": "Internet Art As Process Iii",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/internet-art-as-process-iii/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/jess-loseby/",
+    "title": "Jess Loseby",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/jess-loseby/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/krewe-funk/",
+    "title": "Krewe Funk",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/krewe-funk/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/l-carrier-2/",
+    "title": "L Carrier 2",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/l-carrier-2/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/les-belles-infideles/",
+    "title": "Les Belles Infideles",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/les-belles-infideles/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/liken/",
+    "title": "Liken",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/liken/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/96.html",
+    "title": "Wide Crawl Started January 2013",
+    "artist": "",
+    "year": 1996,
+    "url": "https://archive.org/details/wide00007",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/96.html",
+    "title": "petit/neilson",
+    "artist": "",
+    "year": 1996,
+    "url": "#petit",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/96.html",
+    "title": "skibell/horowitz",
+    "artist": "",
+    "year": 1996,
+    "url": "#skibell",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/96.html",
+    "title": "thorington/schefter",
+    "artist": "",
+    "year": 1996,
+    "url": "#thorington",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/97.html",
+    "title": "didkovsky/marsan",
+    "artist": "",
+    "year": 1997,
+    "url": "#didkovsky",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "thorington/petit/neilson",
+    "artist": "",
+    "year": 1998,
+    "url": "#thorington",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "allin/gilbert/sobell",
+    "artist": "",
+    "year": 1998,
+    "url": "#allin",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/98.html",
+    "title": "gilbert/thorington/walczak",
+    "artist": "",
+    "year": 1998,
+    "url": "#gilbert",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/99.html",
+    "title": "gilbert/rosenberg",
+    "artist": "",
+    "year": 1999,
+    "url": "#gilbert",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/99.html",
+    "title": "deck/dellinger",
+    "artist": "",
+    "year": 1999,
+    "url": "#deck",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/00.html",
+    "title": "CultureMap",
+    "artist": "",
+    "year": 2000,
+    "url": "/web/20130116212420/http://www.turbulence.org/Works/cultmap/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/00.html",
+    "title": "channelUntitled",
+    "artist": "",
+    "year": 2000,
+    "url": "/web/20130116212420/http://www.turbulence.org/channel.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/01.html",
+    "title": "murphy/sigal",
+    "artist": "",
+    "year": 2001,
+    "url": "#murphy",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/01.html",
+    "title": "walczak/wattenberg",
+    "artist": "",
+    "year": 2001,
+    "url": "#walczak",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/01.html",
+    "title": "belgum/loss",
+    "artist": "",
+    "year": 2001,
+    "url": "#belgum",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/01.html",
+    "title": "ISS",
+    "artist": "",
+    "year": 2001,
+    "url": "/web/20130116212228/http://www.turbulence.org/Works/iss/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/01.html",
+    "title": "interaXis",
+    "artist": "",
+    "year": 2001,
+    "url": "/web/20130116212228/http://www.turbulence.org/Works/interaxis/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "David Crawford",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/studios/crawford/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "Jessica Loseby",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/studios/loseby/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "Nicolas Clauss",
+    "artist": "",
+    "year": 2002,
+    "url": "/web/20130116212052/http://www.turbulence.org/spotlight/nicolas/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "NomadLingo",
+    "artist": "",
+    "year": 2002,
+    "url": "https://web.archive.org/web/20130116212052/http://www.year01.com/nomadlingo/door.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/02.html",
+    "title": "www.year01.com",
+    "artist": "",
+    "year": 2002,
+    "url": "https://web.archive.org/web/20130116212052/http://www.year01.com/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "lefevre/koutnouyan",
+    "artist": "",
+    "year": 2003,
+    "url": "#lefevre",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "ActiveText",
+    "artist": "",
+    "year": 2003,
+    "url": "https://web.archive.org/web/20130116212306/http://www.activetext.net/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "ICONography",
+    "artist": "",
+    "year": 2003,
+    "url": "/web/20130116212306/http://www.turbulence.org/curators/icon/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/03.html",
+    "title": "abrahams/charmet",
+    "artist": "",
+    "year": 2003,
+    "url": "#abrahams",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/04.html",
+    "title": "miranda/neumark",
+    "artist": "",
+    "year": 2004,
+    "url": "#miranda",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "stern+neustetter",
+    "artist": "",
+    "year": 2005,
+    "url": "#stern",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "armstrong+tippett",
+    "artist": "",
+    "year": 2005,
+    "url": "#arm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "mandiberg+steinmetz",
+    "artist": "",
+    "year": 2005,
+    "url": "#man",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "monfort+shiovitz+short",
+    "artist": "",
+    "year": 2005,
+    "url": "#nick",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "mimoSa",
+    "artist": "",
+    "year": 2005,
+    "url": "#mimosa",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Flickr",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://flickr.com/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Technical Requirements",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://turbulence.org/Works/exegesis/about.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "VLC Media Player",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://www.videolan.org/vlc/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "Luziano Testi Paul",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/studios/paul/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "abrahams+charmet",
+    "artist": "",
+    "year": 2005,
+    "url": "#abrahams",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "thomson+craighead",
+    "artist": "",
+    "year": 2005,
+    "url": "#thom",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "lemaitre+rosenzveig",
+    "artist": "",
+    "year": 2005,
+    "url": "#willy",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "microRevolt",
+    "artist": "",
+    "year": 2005,
+    "url": "#micro",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "playListNetWork",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/playlist/index.htm",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "knitPro",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/microRevolt/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "VTMZ",
+    "artist": "",
+    "year": 2005,
+    "url": "/web/20130116212154/http://www.turbulence.org/spotlight/liu/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/05.html",
+    "title": "SIGNALGLYPH",
+    "artist": "",
+    "year": 2005,
+    "url": "https://web.archive.org/web/20130116212154/http://www.signalglyph.com/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "hsu/karwas/lam",
+    "artist": "",
+    "year": 2006,
+    "url": "#hsu",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "belanger/mikesell/petit",
+    "artist": "",
+    "year": 2006,
+    "url": "#petit",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "innocent/olsen/SWM/lee",
+    "artist": "",
+    "year": 2006,
+    "url": "#innocent",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "flanagan/howe/egert/mei/chang",
+    "artist": "",
+    "year": 2006,
+    "url": "#flanagan",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "WhoWhatWhenAir",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/works/WWWA",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "OOG",
+    "artist": "",
+    "year": 2006,
+    "url": "https://web.archive.org/web/20130116212237/http://volkskrant.nl/oog/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "Alan Bigelow",
+    "artist": "",
+    "year": 2006,
+    "url": "/web/20130116212237/http://www.turbulence.org/studios/bigelow/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/06.html",
+    "title": "ars virtua",
+    "artist": "",
+    "year": 2006,
+    "url": "#ars",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "wattenberg/walczak",
+    "artist": "",
+    "year": 2007,
+    "url": "#watt",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "roach/whip",
+    "artist": "",
+    "year": 2007,
+    "url": "#roach",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "karasic/van gelder/coshow",
+    "artist": "",
+    "year": 2007,
+    "url": "#karasic",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "repetto/lovid",
+    "artist": "",
+    "year": 2007,
+    "url": "#bonding",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "phiffer/zer-aviv",
+    "artist": "",
+    "year": 2007,
+    "url": "#phiffer",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "Ars Virtua's",
+    "artist": "",
+    "year": 2007,
+    "url": "https://web.archive.org/web/20130116212203/http://arsvirtua.com/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/07.html",
+    "title": "ItSpace",
+    "artist": "",
+    "year": 2007,
+    "url": "/web/20130116212203/http://www.turbulence.org/Works/itspace",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "donaldson/haque/hasegawa/tremmel",
+    "artist": "",
+    "year": 2008,
+    "url": "#haque",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "kildall/scott",
+    "artist": "",
+    "year": 2008,
+    "url": "#kildall",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "magruder/baker/steele",
+    "artist": "",
+    "year": 2008,
+    "url": "#magruder",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "pappenheimer/jansen",
+    "artist": "",
+    "year": 2008,
+    "url": "#pappenheimer",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "howe/karpinska",
+    "artist": "",
+    "year": 2008,
+    "url": "#howe",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "belanger/riley/voisey",
+    "artist": "",
+    "year": 2008,
+    "url": "#lumens",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "bernett/ioveva",
+    "artist": "",
+    "year": 2008,
+    "url": "#bernett",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "ham/rosenbaum",
+    "artist": "",
+    "year": 2008,
+    "url": "#ham",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "MYPOCKET",
+    "artist": "",
+    "year": 2008,
+    "url": "/web/20130116212206/http://www.turbulence.org/works/mypocket",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "EnvironmentXML",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://www.haque.co.uk/environmentxml/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "Teleport",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://slurl.com/secondlife/Seventh%20Eye/108/60/50",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "YouTube",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://www.youtube.com/watch?v=oK0ddG0ovhU",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "www.newadams.es",
+    "artist": "",
+    "year": 2008,
+    "url": "https://web.archive.org/web/20130116212206/http://www.newadams.es/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/08.html",
+    "title": "michael takeo magruder",
+    "artist": "",
+    "year": 2008,
+    "url": "#takeo",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "crouse/lambert/mahon",
+    "artist": "",
+    "year": 2009,
+    "url": "#crouse",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "ABSML",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/works/absml/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "www.airnow.gov",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://www.airnow.gov/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "MAICgregator",
+    "artist": "",
+    "year": 2009,
+    "url": "/web/20130116212250/http://www.turbulence.org/spotlight/knouf/index.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "css Zen Garden",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://www.csszengarden.com/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/09.html",
+    "title": "Turbulence@PaceDigitalGallery",
+    "artist": "",
+    "year": 2009,
+    "url": "https://web.archive.org/web/20130116212250/http://www.pace.edu/digitalgallery/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "Spotlights",
+    "artist": "",
+    "year": 2010,
+    "url": "#spot",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/10.html",
+    "title": "Pace Digitial Gallery",
+    "artist": "",
+    "year": 2010,
+    "url": "https://web.archive.org/web/20130116212157/http://csis.pace.edu/digitalgallery/Crawford/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "trowbridge/westbrook",
+    "artist": "",
+    "year": 2011,
+    "url": "#trowbridge",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Turbulence @Pace Digital Gallery 2",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://csis.pace.edu/digitalgallery/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "http://facebook.com",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://facebook.com/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "MUSH",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://en.wikipedia.org/wiki/MUSH",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "software download",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://turbulence.org/Works/lookart/connect.html",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "WikiLeaks",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://wikileaks.org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/11.html",
+    "title": "Turbulence@PaceDigitalGallery2",
+    "artist": "",
+    "year": 2011,
+    "url": "https://web.archive.org/web/20130116212059/http://csis.pace.edu/digitalgallery/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "armstong/tippett",
+    "artist": "",
+    "year": 2012,
+    "url": "#armstrong",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "miharbi/priestley",
+    "artist": "",
+    "year": 2012,
+    "url": "#pan",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/12.html",
+    "title": "WoodEar",
+    "artist": "",
+    "year": 2012,
+    "url": "https://web.archive.org/web/20130704143330/http://csis.pace.edu/digitalgallery/woodear/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "http://eliterature.org",
+    "artist": "",
+    "year": 2013,
+    "url": "http://eliterature.org",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "IIST",
+    "artist": "",
+    "year": 2013,
+    "url": "#iist",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/13.html",
+    "title": "iSkyTV",
+    "artist": "",
+    "year": 2013,
+    "url": "/web/20130704143330/http://www.turbulence.org/works/iSkyTV",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/archives/14.html",
+    "title": "INTERP",
+    "artist": "",
+    "year": 2014,
+    "url": "/web/20150130043519/http://www.turbulence.org/works/INTERP",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/algorithmic-montage-2-a-walk-with-david-bohm/",
+    "title": "Algorithmic Montage 2 A Walk With David Bohm",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/algorithmic-montage-2-a-walk-with-david-bohm/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/au-bord-du-fleuveon-the-riverside/",
+    "title": "Au Bord Du Fleuveon The Riverside",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/au-bord-du-fleuveon-the-riverside/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/awkward_nycawkward_everywhere/",
+    "title": "Awkward Nycawkward Everywhere",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/awkward_nycawkward_everywhere/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/besides/",
+    "title": "Besides",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/besides/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/bionetrecombinant/",
+    "title": "Bionetrecombinant",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/bionetrecombinant/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/byproxy/",
+    "title": "Byproxy",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/byproxy/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/carrizoprime-net/",
+    "title": "Carrizoprime Net",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/carrizoprime-net/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/channel-two-nyc/",
+    "title": "Channel Two Nyc",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/channel-two-nyc/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/endgame-a-cold-war-love-story/",
+    "title": "Endgame A Cold War Love Story",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/endgame-a-cold-war-love-story/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/floating-points-3-ubiquitous-computing/",
+    "title": "Floating Points 3 Ubiquitous Computing",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/floating-points-3-ubiquitous-computing/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/genetic-response-system-3-0/",
+    "title": "Genetic Response System 3 0",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/genetic-response-system-3-0/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/getawayexperiment-net/",
+    "title": "Getawayexperiment Net",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/getawayexperiment-net/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/how-do-you-see-the-disappeared-a-warm-database/",
+    "title": "How Do You See The Disappeared A Warm Database",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/how-do-you-see-the-disappeared-a-warm-database/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/hrraaghp-ting/",
+    "title": "Hrraaghp Ting",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/hrraaghp-ting/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/html_butoh/",
+    "title": "Html Butoh",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/html_butoh/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/i-cant-go-on-ill-go-on/",
+    "title": "I Cant Go On Ill Go On",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/i-cant-go-on-ill-go-on/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/i-section/",
+    "title": "I Section",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/i-section/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/influences-org/",
+    "title": "Influences Org",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/influences-org/",
+    "medium": "Net art",
+    "technologies": [],
+    "preservation": {
+      "status": "unknown"
+    }
+  },
+  {
+    "source": "turbulence",
+    "source_url": "https://turbulence.org/project/inter-face/",
+    "title": "Inter Face",
+    "artist": "",
+    "year": null,
+    "url": "https://turbulence.org/project/inter-face/",
+    "medium": "Net art",
     "technologies": [],
     "preservation": {
       "status": "unknown"

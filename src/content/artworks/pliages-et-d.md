@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "Pliages et dépilages d'une pensée à étages"
 artist: "armand behar"

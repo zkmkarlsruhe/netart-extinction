@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Micro Modernist Google Gadget"
 artist: "don relyea"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Demedusator"
 artist: "Zoltán Szegedy-Maszák"

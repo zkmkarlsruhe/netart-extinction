@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "all i can do is .com"
 artist: "Rafaël Rozendaal"

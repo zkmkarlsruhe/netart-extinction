@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "nekro misantrop .com"
 artist: "Rafaël Rozendaal"

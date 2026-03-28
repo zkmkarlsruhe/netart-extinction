@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Collapse of PAL"
 artist: "Rosa Menkman"

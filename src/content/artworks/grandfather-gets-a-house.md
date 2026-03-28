@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Grandfather Gets a House"
 artist: "elizabeth fischer"

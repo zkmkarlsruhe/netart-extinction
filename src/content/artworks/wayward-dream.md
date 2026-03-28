@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Wayward Dream"
 artist: "Chun-chi Wang"

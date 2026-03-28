@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Jello Time .com"
 artist: "Rafaël Rozendaal"

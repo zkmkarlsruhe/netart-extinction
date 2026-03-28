@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "to spin art history"
 artist: "Eva Schindling"

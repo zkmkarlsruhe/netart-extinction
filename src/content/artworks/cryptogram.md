@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Cryptogram"
 artist: "Zoltán Szegedy-Maszák"

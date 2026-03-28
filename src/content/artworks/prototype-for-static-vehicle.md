@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "Prototype for Static Vehicle"
 artist: "Scott Paterson"

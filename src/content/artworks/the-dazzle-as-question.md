@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Dazzle as Question"
 artist: "Claire Dinsmore"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "When a woman uses a gun, that is..."
 artist: "Susana Mendes Silva"

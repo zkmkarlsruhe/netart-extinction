@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "RealSurReal...aClone, 2001"
 artist: "Reginald Brooks"

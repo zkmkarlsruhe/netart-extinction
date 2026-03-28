@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Les dormeurs, the sleepers"
 artist: "nicolas clauss"

@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "Shockwave"
 ai_generated: true
 title: "smallnomad"
 artist: "moises mañas"

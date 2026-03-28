@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Mother's 45s Revisited"
 artist: "Tom Chambers"

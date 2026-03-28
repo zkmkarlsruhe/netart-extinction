@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "Shockwave"
 ai_generated: true
 title: "Babel"
 artist: "Simon Biggs"

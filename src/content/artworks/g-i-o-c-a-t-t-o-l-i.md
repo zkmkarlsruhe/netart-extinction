@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "g_i_o_c_a_t_t_o_l_i"
 artist: "Salvatore Iaconesi"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
 ai_generated: true
 title: "CRASH RUN"
 artist: "Kiran Subbaiah"

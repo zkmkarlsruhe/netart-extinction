@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "60X1.COM"
 artist: "Kenneth Hung"

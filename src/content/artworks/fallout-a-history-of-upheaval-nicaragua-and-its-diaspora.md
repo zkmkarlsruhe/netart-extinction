@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Fallout: A History of Upheaval, Nicaragua and Its Diaspora"
 artist: "Ricardo Miranda Zúñiga"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Drifters (The Strolling Stoned)"
 artist: "Glebe Drifters"

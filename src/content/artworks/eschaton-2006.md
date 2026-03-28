@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Eschaton, 2006"
 artist: "Colin Goldberg"

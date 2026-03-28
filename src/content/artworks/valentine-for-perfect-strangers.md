@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Valentine for Perfect Strangers"
 artist: "Ben Coonley"

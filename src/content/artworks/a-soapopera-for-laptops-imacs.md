@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "A SoaPOPera for Laptops / iMacs"
 artist: "G.H. Hovagimyan"

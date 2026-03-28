@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "I love You_ I Miss You"
 artist: "Lara Bank"

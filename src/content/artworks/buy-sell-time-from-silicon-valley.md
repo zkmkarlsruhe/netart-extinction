@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Buy & Sell Time (from Silicon Valley)"
 artist: "Gustavo Romano"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "44422435 to nowhere"
 artist: "Raul Berrueco"

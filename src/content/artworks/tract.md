@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "tract"
 artist: "Arzu Ozkal Telhan"

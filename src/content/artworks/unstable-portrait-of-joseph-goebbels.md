@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Unstable portrait of Joseph Goebbels"
 artist: "Aleksandar Maćašev"

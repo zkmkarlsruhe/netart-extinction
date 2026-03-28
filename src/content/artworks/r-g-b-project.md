@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "R.g.b-project"
 artist: "jacky Sawatzky"

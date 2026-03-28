@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Hilbert Kaleidoscope 1"
 artist: "Sam Sanford"

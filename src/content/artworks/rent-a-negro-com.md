@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "rent-a-negro.com"
 artist: "damali ayo"

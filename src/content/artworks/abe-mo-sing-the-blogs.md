@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Abe & Mo Sing the Blogs"
 artist: "Marisa Olson"

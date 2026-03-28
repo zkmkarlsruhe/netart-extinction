@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Murmuring Insects"
 artist: "Ingrid Ankerson"

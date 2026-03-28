@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "informational distance between cities"
 artist: "santiago ortiz"

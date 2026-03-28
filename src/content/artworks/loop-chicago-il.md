@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "LOOP (Chicago, IL)"
 artist: "Christian Marc Schmidt"

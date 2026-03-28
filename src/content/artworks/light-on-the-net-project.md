@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "49 20w lightbulbs. IBM-PC/AT compatible, Pentium 90MHz, and Windows 95 sending commands to MicroChip Controller via a RS-422 line, capturing video images, and processing requests."
+  - "HTML"
 ai_generated: true
 title: "Light on the Net Project"
 artist: "Masaki Fujihata"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Field of Vision: New York"
 artist: "Stephan Hausmeister"

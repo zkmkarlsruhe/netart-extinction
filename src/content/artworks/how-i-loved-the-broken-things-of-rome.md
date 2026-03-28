@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "How I Loved the Broken Things of Rome"
 artist: "J. R. Carpenter"

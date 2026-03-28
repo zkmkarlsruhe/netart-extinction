@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "[ excerpts from current English ]"
 artist: "laurie halsey brown"

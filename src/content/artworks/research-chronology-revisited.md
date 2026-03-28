@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Research Chronology Revisited"
 artist: "Aaron Siegel"

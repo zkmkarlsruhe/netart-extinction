@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Zaira, City of Memories"
 artist: "Gokcen Erguven"

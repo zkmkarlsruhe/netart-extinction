@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "the new box || 20 things."
 artist: "Tiana Chuang"

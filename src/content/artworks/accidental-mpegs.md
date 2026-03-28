@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Accidental Mpegs"
 artist: "Joe McKay"

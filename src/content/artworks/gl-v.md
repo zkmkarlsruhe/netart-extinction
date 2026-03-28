@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "RealPlayer"
 ai_generated: true
 title: "Gl=v"
 artist: "David Golumbia"

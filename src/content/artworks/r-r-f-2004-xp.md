@@ -1,6 +1,8 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
-title: "[R][R][F] 2004--->XP"
+title: "[R][R][F] 2004 --->XP"
 artist: "Wilfried Agricola de Cologne"
 year: 2004
 medium: "Net art"

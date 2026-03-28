@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "les huit quartiers du sommeil"
 artist: "J. R. Carpenter"

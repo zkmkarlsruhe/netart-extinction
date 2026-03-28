@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Silicon Fen"
 artist: "Keith Whittle"

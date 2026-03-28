@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "CGI"
+  - "Flash"
+  - "MySQL"
+  - "Python"
 ai_generated: true
 title: "minds of concern (New York version)"
 artist: "knowbotic research"

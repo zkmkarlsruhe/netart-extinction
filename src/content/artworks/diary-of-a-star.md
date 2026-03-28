@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Diary  of a Star"
 artist: "Eduardo Navas"

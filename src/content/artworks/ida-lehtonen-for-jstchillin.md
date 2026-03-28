@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Ida Lehtonen for JstChillin"
 artist: "Jst Chillin"

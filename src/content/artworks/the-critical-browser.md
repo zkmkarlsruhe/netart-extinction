@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Critical Browser"
 artist: "De Geuzen: a foundation for multi-visual research"

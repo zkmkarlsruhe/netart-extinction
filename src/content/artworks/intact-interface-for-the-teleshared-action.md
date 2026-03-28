@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "INTACT [Interface for the Teleshared Action]"
 artist: "Sara Malinarich"

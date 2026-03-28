@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Tuesday Afternoon"
 artist: "Trebor Scholz"

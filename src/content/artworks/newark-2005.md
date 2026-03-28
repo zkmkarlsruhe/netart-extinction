@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Newark - 2005"
 artist: "Gaia Persico"

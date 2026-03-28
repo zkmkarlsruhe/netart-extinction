@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Virta-Flaneurazine"
 artist: "John Craig Freeman"

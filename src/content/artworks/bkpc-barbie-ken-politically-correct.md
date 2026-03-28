@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "BKPC (Barbie & Ken Politically Correct)"
 artist: "G.H. Hovagimyan"

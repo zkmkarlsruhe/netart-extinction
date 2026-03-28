@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Linux"
 ai_generated: true
 title: "Linux"
 artist: "Linus Thorvalds"

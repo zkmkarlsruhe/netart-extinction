@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "[phage] (downloadable app for the PC)"
 artist: "mary flanagan"

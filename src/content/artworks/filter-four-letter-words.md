@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "CSS"
+  - "HTML"
+  - "Windows"
 ai_generated: true
 title: "filter: four letter words"
 artist: "Monica Studer, Christoph van den Berg"

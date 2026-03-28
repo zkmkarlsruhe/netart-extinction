@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "STORM [Concept-Gathering Machine]"
 artist: "Ron Goldin"

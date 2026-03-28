@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Weblandscape0"
 artist: "Marcus Vinicius Fainer Bastos"

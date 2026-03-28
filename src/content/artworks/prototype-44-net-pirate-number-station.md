@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Prototype #44, Net Pirate Number Station"
 artist: "Yoshi Sodeoka"

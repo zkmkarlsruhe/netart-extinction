@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Windows"
 ai_generated: true
 title: "filter: mille miglia"
 artist: "Monica Studer, Christoph van den Berg"

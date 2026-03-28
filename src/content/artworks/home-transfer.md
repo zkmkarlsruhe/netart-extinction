@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "RealPlayer"
 ai_generated: true
 title: "Home Transfer"
 artist: "Pat Badani"

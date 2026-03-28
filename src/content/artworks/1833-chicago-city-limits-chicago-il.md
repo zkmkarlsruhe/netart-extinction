@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "1833 Chicago City Limits (Chicago, IL)"
 artist: "Christian Marc Schmidt"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "google 3d warehouse"
 artist: "Jst Chillin"

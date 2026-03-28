@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "we will attack .com"
 artist: "Rafaël Rozendaal"

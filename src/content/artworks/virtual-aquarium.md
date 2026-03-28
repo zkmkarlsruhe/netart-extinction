@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Virtual Aquarium"
 artist: "András Négyessy"

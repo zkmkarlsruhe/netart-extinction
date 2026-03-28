@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "I Sky You"
 artist: "Maria del Carmen Montoya"

@@ -16,6 +16,7 @@ const artworks = defineCollection({
     url: z.string().url().optional(),
     medium: z.string().optional(),
     description: z.string().optional(),
+    technologies: z.array(z.string()).optional(),
     ai_generated: z.boolean().optional(),
   }),
 });

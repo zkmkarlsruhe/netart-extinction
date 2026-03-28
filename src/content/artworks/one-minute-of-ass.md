@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "One Minute of Ass"
 artist: "fernando sanchez"

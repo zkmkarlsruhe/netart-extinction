@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Tower Trilogy"
 artist: "Barbara Agreste"

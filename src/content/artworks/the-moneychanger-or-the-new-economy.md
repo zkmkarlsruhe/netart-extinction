@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The moneychanger or the new economy"
 artist: "tete alvarez"

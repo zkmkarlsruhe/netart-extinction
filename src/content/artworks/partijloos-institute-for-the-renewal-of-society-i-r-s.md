@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Partijloos - institute for the renewal of society (I-R-S)"
 artist: "Paul Steenberghe"

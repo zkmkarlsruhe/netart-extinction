@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Your life, our movie"
 artist: "Fernando Velázquez"

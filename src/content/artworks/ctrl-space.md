@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Ctrl-Space"
 artist: "JoDi(Joan Hemskerk + Dirk Paesmans)"

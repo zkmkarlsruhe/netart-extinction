@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "gray market e.p."
 artist: "Rick Silva"

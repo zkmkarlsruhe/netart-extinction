@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "US Department of Art & Technology"
 artist: "Randall Packer"

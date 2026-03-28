@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "sense-data"
 artist: "Gábor Farkas"

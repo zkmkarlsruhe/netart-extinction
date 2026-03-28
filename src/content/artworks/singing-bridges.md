@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "RealPlayer"
 ai_generated: true
 title: "Singing Bridges"
 artist: "Jodi Rose"

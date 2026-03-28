@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Urban Fragments"
 artist: "Juliana Sato Yamashita"

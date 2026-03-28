@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "PHP"
 ai_generated: true
 title: "DJ I Robot"
 artist: "Chris Csikszentmihályi"

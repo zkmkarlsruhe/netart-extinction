@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "My diamonds are forever yours"
 artist: "Ana Carvalho"

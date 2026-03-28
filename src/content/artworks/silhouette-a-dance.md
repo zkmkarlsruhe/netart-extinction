@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Silhouette: A Dance"
 artist: "Alison Clifford"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Hyperstills Ambient [Web] 1.0"
 artist: "John Vega"

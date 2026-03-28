@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Unlooping Film | Cinema sem Volta"
 artist: "Giselle Beiguelman"

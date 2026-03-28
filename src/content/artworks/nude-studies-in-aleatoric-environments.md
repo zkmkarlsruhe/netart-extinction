@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Nude Studies in Aleatoric Environments"
 artist: "Pall Thayer"

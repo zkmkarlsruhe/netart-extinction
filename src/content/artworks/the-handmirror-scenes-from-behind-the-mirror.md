@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "The Handmirror, scenes from behind the mirror"
 artist: "michiel Knaven"

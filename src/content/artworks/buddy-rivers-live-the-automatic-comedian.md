@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Buddy Rivers Live (the automatic comedian)"
 artist: "Dave Miller"

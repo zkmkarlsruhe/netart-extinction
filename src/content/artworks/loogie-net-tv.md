@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Loogie.net TV"
 artist: "Marc Lee"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Time-Lapse Homepage"
 artist: "Paul Slocum"

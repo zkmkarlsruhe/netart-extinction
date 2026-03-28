@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "The influence of conceptual art in hungary"
 artist: "Unknown"

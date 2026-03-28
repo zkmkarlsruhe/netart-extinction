@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Urban.early sunday morning_raw"
 artist: "Wilfried Agricola de Cologne"

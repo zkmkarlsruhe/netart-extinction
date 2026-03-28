@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "E.L.I. Nomad"
 artist: "Christian Croft"

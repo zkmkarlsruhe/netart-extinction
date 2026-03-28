@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "4 short interactive pieces about vegetables and sound"
 artist: "Krister Olsson"

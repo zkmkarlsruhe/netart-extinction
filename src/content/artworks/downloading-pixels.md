@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Downloading Pixels"
 artist: "Scott Blake"

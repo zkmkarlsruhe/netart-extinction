@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MIDI"
 ai_generated: true
 title: "Intimate Transactions"
 artist: "Transmute Collective"

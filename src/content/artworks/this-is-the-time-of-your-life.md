@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "This is the Time of Your Life"
 artist: "Juliet Ann Martin"

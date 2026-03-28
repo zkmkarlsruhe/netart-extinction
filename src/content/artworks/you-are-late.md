@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "You Are Late"
 artist: "Barbara Lattanzi"

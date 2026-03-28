@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "sentences on conceptual art in gridfont7"
 artist: "a bill miller"

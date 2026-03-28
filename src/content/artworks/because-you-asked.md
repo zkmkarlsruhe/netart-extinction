@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "\"Because You Asked\""
 artist: "Alan Bigelow"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Whispers of Electronic You"
 artist: "Ian Wojtowicz"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "heartbeat drawing"
 artist: "sinae kim"

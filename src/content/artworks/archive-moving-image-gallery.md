@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "archive: moving image gallery"
 artist: "<computerfinearts collection>"

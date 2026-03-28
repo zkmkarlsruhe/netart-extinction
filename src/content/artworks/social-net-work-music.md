@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "social [net.work music]"
 artist: "jason. sloan"

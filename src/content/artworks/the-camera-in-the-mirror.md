@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "the camera in the mirror"
 artist: "Mario Santamaría"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "The Book after the Book"
 artist: "giselle beiguelman"

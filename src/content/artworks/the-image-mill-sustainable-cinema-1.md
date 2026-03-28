@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Image Mill:  Sustainable Cinema #1"
 artist: "Scott Hessels"

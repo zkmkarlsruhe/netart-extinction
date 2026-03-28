@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Infinite Column"
 artist: "Michiel Bijnens"

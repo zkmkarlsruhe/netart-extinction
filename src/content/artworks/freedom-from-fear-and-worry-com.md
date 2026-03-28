@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "freedom from fear and worry .com"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Second Life"
 ai_generated: true
 title: "Short social commentary on dancing in Second Life"
 artist: "visakh menon"

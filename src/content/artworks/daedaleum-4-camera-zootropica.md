@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "daedaleum 4 --- camera zootropica"
 artist: "Julien Demeuzois"

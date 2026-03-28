@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Deleted Cities"
 artist: "Richard Vijgen"

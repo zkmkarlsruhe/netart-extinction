@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Simultaneous Portraits or Danger Music for Dick"
 artist: "David Colagiovanni"

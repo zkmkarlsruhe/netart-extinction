@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Best Is Yet To Come"
 artist: "Silvio Lorusso"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "greek new media shit"
 artist: "Sterling Crispin"

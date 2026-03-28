@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "everything you see is in the past .com"
 artist: "Rafaël Rozendaal"

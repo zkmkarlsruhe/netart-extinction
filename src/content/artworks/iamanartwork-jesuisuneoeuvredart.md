@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "iamanartwork/jesuisuneoeuvredart'"
 artist: "Annie Abrahams"

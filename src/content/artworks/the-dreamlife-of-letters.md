@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "the dreamlife of letters"
 artist: "Brian Kim Stefans"

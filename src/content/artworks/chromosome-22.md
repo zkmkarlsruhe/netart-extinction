@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Chromosome 22"
 artist: "Tal Halpern"

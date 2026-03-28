@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Mikon Hall of Worlds"
 artist: "Daniel Green"

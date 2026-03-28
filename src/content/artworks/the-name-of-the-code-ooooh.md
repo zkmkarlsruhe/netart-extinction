@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "The Name of the Code: OOOOh"
 artist: "Tamás Komoróczky"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Wirescapes 1.0"
 artist: "John Vega"

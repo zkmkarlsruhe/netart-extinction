@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "_][s][hut][ters][ of d.funct meat_//"
 artist: "mez breeze"

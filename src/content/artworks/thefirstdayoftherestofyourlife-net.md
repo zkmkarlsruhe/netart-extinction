@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "thefirstdayoftherestofyourlife.net"
 artist: "Michael Manning"

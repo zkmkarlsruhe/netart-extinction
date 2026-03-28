@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "p r o x i m a t e . o r g"
 artist: "Patrick Herron"

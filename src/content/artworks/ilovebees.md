@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Shockwave"
 ai_generated: true
 title: "ilovebees: The Reality of Alternate Reality"
 artist: "CAPitALLism"

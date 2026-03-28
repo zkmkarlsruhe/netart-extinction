@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "sunclock (movements of the sun)"
 artist: "Jimpalt"

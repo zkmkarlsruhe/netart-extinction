@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Inability of Being Nude"
 artist: "Wilfried Agricola de Cologne"

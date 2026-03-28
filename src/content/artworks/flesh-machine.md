@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "Flesh Machine"
 artist: "Critical Art Ensemble"

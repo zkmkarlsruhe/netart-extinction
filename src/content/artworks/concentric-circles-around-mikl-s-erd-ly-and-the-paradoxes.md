@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Concentric circles around Miklós Erdély and the paradoxes"
 artist: "Péter Kõhalmi"

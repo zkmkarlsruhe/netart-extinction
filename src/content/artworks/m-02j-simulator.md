@@ -1,0 +1,10 @@
+---
+ai_generated: true
+title: "M-02J Simulator"
+artist: "HACHIYA Kazuhiko"
+year: 2006
+url: "https://www.ntticc.or.jp/en/archive/works/m-02j-simulator/"
+medium: "Media art"
+---
+
+Sourced from ntt-icc.

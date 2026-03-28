@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Copy&Waste"
 artist: "Aleksandar Maćašev"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Crowds and Power"
 artist: "Jody Zellen"

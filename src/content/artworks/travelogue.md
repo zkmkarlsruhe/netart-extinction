@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
+  - "MP4"
 ai_generated: true
 title: "travelogue"
 artist: "Monica Studer, Christoph van den Berg"
