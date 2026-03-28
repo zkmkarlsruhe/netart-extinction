@@ -1,0 +1,632 @@
+[
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Light on the Net Project",
+    "artist": "Masaki Fujihata",
+    "year": 1996,
+    "url": "http://light.softopia.pref.gifu.jp/",
+    "medium": "Net art",
+    "description": "<blockquote>By foregrounding telecommunication, both real-time and asynchronous, as a fundamental cultural activity, IT culture asks us to reconsider the very paradigm of what an aesthetic object is. ",
+    "technologies": [
+      "49 20w lightbulbs. IBM-PC/AT compatible, Pentium 90MHz, and Windows 95 sending commands to MicroChip Controller via a RS-422 line, capturing video images, and processing requests."
+    ],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "https://web.archive.org/web/20000301125959/http://www.flab.mag.keio.ac.jp/light/album.html",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "1 + 1",
+    "artist": "Sawad Brooks and Beth Stryker",
+    "year": 2001,
+    "url": "http://www.thing.net/%7Esawad/1+1/",
+    "medium": "Net art",
+    "description": "1 + 1 is an artwork for the internet. It is created as a growing exposition of reflections on the Tower of Babel, an allegory about the architectural origin of telecommunication technology.",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Digital Landfill",
+    "artist": "Mark Napier",
+    "year": 1998,
+    "url": "http://www.potatoland.org/landfill/",
+    "medium": "Net art",
+    "description": "\u00abDigital Landfill\u00bb, one of Napier\u2019s most well-known works of Net art, is a sort if virtual compost heap. The artist has developed an interface that allows a user to copy data from his or her own compu",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Tweetopia",
+    "artist": "J\u00fcrgen Trautwein",
+    "year": 2016,
+    "url": "http://www.jtwine.com/015tweetopia.htm",
+    "medium": "Net art",
+    "description": "Tweetopia are data-scrolls, documenting the passing of time, through minute changes in a fixed structure, using data from the evolving DiGi-FLiP project @jtwinedotcom on the micro-blogging site Twitte",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "UltraHyperDrone",
+    "artist": "J\u00fcrgen Trautwein\u00a0",
+    "year": 2015,
+    "url": "http://www.jtwine.com/014ultrahyperdrone.htm",
+    "medium": "Net art",
+    "description": "UHD is an overdosing project, a critical reflection on the severely irritating advertisement bombardments of commercial pseudo-informative super flashy waste of time- and commercial social-networking ",
+    "technologies": [
+      "flash"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Where are you from?_Stories",
+    "artist": "Pat Badani",
+    "year": 2002,
+    "url": "http://www.hometransfer.org/where/stories.html",
+    "medium": "Net art",
+    "description": "Where are you from?_Stories, 2002-2009, is a net-art piece supported by a one-year research grant from the Canada Council for the Arts. The videos for the net-art piece were selected from approximatel",
+    "technologies": [
+      "flash"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Snuff",
+    "artist": "Harris Skibell and Damon Horowitz",
+    "year": 1996,
+    "url": "http://turbulence.org/Works/Skibell/snuffgate.html",
+    "medium": "Net art",
+    "description": "Snuff is a web-based media-destruction agent. Its purpose is to sniff out, retrieve and collate \u201ccompeting\u201d media on the Web, and visibly and perceptibly filter text, graphic and audio content, leavin",
+    "technologies": [
+      "Java applet"
+    ],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "http://turbulence.org/project/snuff-a-media-destruction-agent/",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Vocabulary",
+    "artist": "X Baczewska",
+    "year": 1996,
+    "url": "http://turbulence-org.eliterature.org/Works/Xtine/interact.html",
+    "medium": "Net art",
+    "description": "An original vocal composition that be accessed on three levels \u2014 musical, graphic, interactive. The musical component will be an audio version of a short piece performed vocally by the artist; the gra",
+    "technologies": [
+      "Shockwave"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "NewHive",
+    "artist": "Artist Platform",
+    "year": 2014,
+    "url": "https://newhive.com/",
+    "medium": "Net art",
+    "description": "Today NewHive\u2019s homepage teases the imminent return of an archive of all previously created work. It\u2019s a promise that\u2019s been unfulfilled for over a year. On the web, nothing is ever certain to remain.",
+    "technologies": [
+      "Python, MongoDB, JavaScript, AWS"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Improved Tele-vision",
+    "artist": "Cornelia Sollfrank",
+    "year": 2001,
+    "url": "http://artwarez.org/projects/improvedTV/",
+    "medium": "Net art",
+    "description": "A web-based conceptual music project &ldquo;In &lsquo;Improved Tele-vision&rsquo; [Cornelia Sollfrank] immodestly inscribed herself in the genealogy of avant-garde artists such as Arnold Sch\u00f6nberg, Na",
+    "technologies": [
+      "flash"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Toy War",
+    "artist": "etoy",
+    "year": 1999,
+    "url": "http://toywar.com/",
+    "medium": "Net art",
+    "description": "The TOYWAR.com resistance game was launched to protect etoy from aggressive take-over attempts and to win the historic domain name battle between the etoy.CORPORATION (legendary internet art giant inc",
+    "technologies": [],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "https://web.archive.org/web/20000510102028/http://toywar.com/",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "This and that thought.",
+    "artist": "BFFA3AE",
+    "year": 2011,
+    "url": "http://turbulence-org.eliterature.org/Works/BFFA3AE/",
+    "medium": "Net art",
+    "description": "One of their really striking pieces is This and that thought, a minimalist, interactive website which employs the soft-spoken speech recognition cyborg lady from the good old days of floppy discs and ",
+    "technologies": [
+      "flash"
+    ],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "http://turbulence.org/project/this-and-that-thought/",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Walker Arts Center: Gallery 9",
+    "artist": "Steve Dietz (director)",
+    "year": 1997,
+    "url": "https://walkerart.org/gallery9",
+    "medium": "Net art",
+    "description": "Gallery 9 presented the work of more than 100 artists and became one of the most recognized online venues for the exhibition and contextualization of Internet-based art.  The original Gallery 9 is ava",
+    "technologies": [],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "http://gallery9.walkerart.org/",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Nasty Nets",
+    "artist": "John Michael Boling, Joel Holmberg, Guthrie Lonergan, Marisa Olson, et al",
+    "year": 2006,
+    "url": "http://nastynets.com/",
+    "medium": "Net art",
+    "description": "Nasty Nets was a 'Surf Club' founded in August of 2006. 'Surf Club' is a term that has been used to describe collaborative artist-run blogs. Surf Clubs specifically served as an outlet for the cultura",
+    "technologies": [],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "http://archive.rhizome.org/artbase/53981/nastynets.com/",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "The Story of X",
+    "artist": "X, et al.",
+    "year": null,
+    "url": "http://turbulence-org.eliterature.org/Works/_X/",
+    "medium": "Net art",
+    "description": "Again, I feel the limpness of my body as I feel myself slipping into a semi-conscious state. No! I can\u2019t sleep! I remember one thing, that everytime I sleep I wake up in a different place, looking dow",
+    "technologies": [],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "http://turbulence.org/project/help-write-the-story-of-x-or-the-flys-birthday",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Transborder Immigrant Tool",
+    "artist": "Electronic Disturbance Theater 2.0/b.a.n.g. lab",
+    "year": 2007,
+    "url": "http://pactac.net/?ddownload=1761",
+    "medium": "Net art",
+    "description": "The Transborder Immigrant Tool was a mobile phone application intended to guide individuals who were making their way to the United States through the deserts of the U.S./Mexico borderlands to water. ",
+    "technologies": [],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "https://web.archive.org/web/20180412033102if_/http://pactac.net:80/?ddownload=1761",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Who is Flora?",
+    "artist": "Travis Alber",
+    "year": 1999,
+    "url": "http://www.whoisflora.net/",
+    "medium": "Net art",
+    "description": "Inspired by an abandoned pile of postcards Who Is Flora is an interactive narrative that follows a woman traveling across America in the 1940s.",
+    "technologies": [],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "https://conifer.rhizome.org/schmudde/who-is-flora",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Telequitter",
+    "artist": "Travis Alber, Aaron Miller, Jimmy Carter, Karen Ahn",
+    "year": 2005,
+    "url": "http://www.telequitter.com/",
+    "medium": "Net art",
+    "description": "TeleQuitter: the next generation of telecommuting.",
+    "technologies": [],
+    "preservation": {
+      "status": "restored",
+      "archive_url": "https://web.archive.org/web/20120110020835/http://www.telequitter.com/",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "asciiimage",
+    "artist": "Pedro Veneroso",
+    "year": 2015,
+    "url": "http://lab.sumbioun.com/asciiimage",
+    "medium": "Net art",
+    "description": "ASCIIImage aims at creating an online tool to generate ASCII art from jpg images uploaded by its visitors. This net-art work discusses the intersections of words and images by implementing an algorith",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Crack it",
+    "artist": "Knowbotic Research\u00a0",
+    "year": 2000,
+    "url": "http://www.krcf.org/krcfhome/cfa/",
+    "medium": "Net art",
+    "description": "crack it!' was the information and encouragement the computer magazine PC Online offered to readers in issue 10/2000, followed by precise instructions on how to take part in the boldly announced schem",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "The Telegarden",
+    "artist": "Ken Goldberg\u00a0",
+    "year": 1995,
+    "url": "http://queue.ieor.berkeley.edu/~goldberg/garden/Ars/",
+    "medium": "Net art",
+    "description": "The TeleGarden is an art installation that allows web users to view and interact with a remote garden filled with living plants. Members can plant, water, and monitor the progress of seedlings via the",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Unlooping Film | Cinema sem Volta",
+    "artist": "Giselle Beiguelman",
+    "year": null,
+    "url": "http://www.desvirtual.com/multitude/view/interact.php?language=en",
+    "medium": "Net art",
+    "description": "Cinema sem Volta aborda as ambival\u00eancias da rede como espa\u00e7o onde confluem todas as multid\u00f5es e as turbas, revelando os discursos mais extremos no espectro pol\u00edtico contempor\u00e2neo.",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Wordotcomnodot",
+    "artist": "Giselle Beiguelman",
+    "year": 2000,
+    "url": "https://www.sescsp.org.br/sesc/hotsites/palavrapontocom/",
+    "medium": "Net art",
+    "description": "Wordotcomnodot is an essay on the condition of the word in the digital context.\u00a0It presents an anthology of literature created for the Internet, a commented guide of websites on the creation and devel",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Circler",
+    "artist": "Kevin McCoy\u00a0",
+    "year": 2002,
+    "url": "https://artport.whitney.org/commissions/codedoc/McCoy/code_woc.html",
+    "medium": "Net art",
+    "description": "\"Kevin's program is a clear reminder about how mathematics is an essential foundation for computational design. It's an astonishing fact that drafting something as simple as a circle -- a favorite pas",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Axis Applet",
+    "artist": "Golan Levin",
+    "year": null,
+    "url": "https://artport.whitney.org/commissions/codedoc/Levin/index.html",
+    "medium": "Net art",
+    "description": "Indeed, as Martin said, VERY competent programming, runs like a charm and is a pleasure to look at. I notice that Golan uses the \"official\" United Nations map projection, rather than a strict lat/lon ",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Code Profiles",
+    "artist": "Bradford W. Paley",
+    "year": 2002,
+    "url": "https://artport.whitney.org/commissions/codedoc/Paley/code.html",
+    "medium": "Net art",
+    "description": "I love how the code \"eats itself.\" The writing style is not as smooth as Golan's, for example -- in code, if not in drawing, I definitely favor the \"easy on the eyes,\" but in the case of this work, it",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Global City",
+    "artist": "Sawad Brooks",
+    "year": 2002,
+    "url": "https://artport.whitney.org/commissions/codedoc/Brooks/globalcity.html",
+    "medium": "Net art",
+    "description": "The orderliness of Sawad's tapestry was a real surprise for me. I'd seen other collages of shredded news -- I'm thinking of Burroughs' mid-century experiments, and Napier's well-known piece -- and had",
+    "technologies": [
+      "perl"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "How does the Inconsistent work, practically?",
+    "artist": "Marcello Mercado",
+    "year": 2005,
+    "url": "http://www1.khm.de/~marcello/html/Net-Art/m3.htm",
+    "medium": "Net art",
+    "description": "\"How does the Inconsistent work, practically?\"  6497641 acaatgttta atgcactttt aaagccacat gcgttgtttt",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Home Transfer",
+    "artist": "Pat Badani",
+    "year": 1999,
+    "url": "http://www.hometransfer.org/",
+    "medium": "Net art",
+    "description": "HOME TRANSFER looks at the relationship between home, architecture and new technologies. The interactive and participatory \u2018net-art\u2019 work unfolds via a menu composed of three 'chapters': Guest, Host, ",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "The World\u2019s First Collaborative Sentence",
+    "artist": "Douglas Davis",
+    "year": 1994,
+    "url": "https://artport.whitney.org/collection/DouglasDavis/live/Sentence/process_input.php",
+    "medium": "Net art",
+    "description": "Launched 1994, Restored 2013. Allowing users to contribute to a never-ending sentence, it anticipated today\u2019s blog environments and ongoing posts. In early 2012 the Whitney Museum undertook a preserva",
+    "technologies": [
+      "cgi"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "IO_dencies Series [Tokyo/Sao Paulo/Ruhrgebiet/Venice]",
+    "artist": "Knowbotic Research\u00a0",
+    "year": 1997,
+    "url": "http://www.krcf.org/krcfhome/IODENS_SAOPAULO/1IOdencies.htm",
+    "medium": "Net art",
+    "description": "In the search for new forms of urbanity the influence of media technologies on the perception of and on the engagement with social constructed spaces becomes evident.\u00a0",
+    "technologies": [],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Tripolar",
+    "artist": "Scott Sona Snibbe",
+    "year": 2002,
+    "url": "https://artport.whitney.org/commissions/codedoc/Snibbe/Tripolar_java_wc.html",
+    "medium": "Net art",
+    "description": "\"I really love the hard edges and jarring animation of Scott's piece. It's also just plain funny, and weird, in a purely visual sense. I very much like how Scott's personality comes across in this wor",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "The Meaning of Life as Expressed in Seven Lines of Code",
+    "artist": "Maciej Wisniewski",
+    "year": 2002,
+    "url": "https://artport.whitney.org/commissions/codedoc/Wisniewski/Couplet.html",
+    "medium": "Net art",
+    "description": "I was hoping someone would do ASCII art with the code and sure enough, Maciej did. His \"main\" is indeed only seven lines but in his \"library,\" where all the work gets done, the code becomes a form of ",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "SpringyDots",
+    "artist": "Mark Napier",
+    "year": 2002,
+    "url": "http://artport.whitney.org/commissions/codedoc/Napier/code.html",
+    "medium": "Net art",
+    "description": "Mark merges the inherent chaos of a Double Pendulum with the noisy personality of an Euler integrator, to great effect. There are some nice patterns to be found in the code: iteration, simulation, a d",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Recentevents",
+    "artist": "Ed Burton",
+    "year": 2003,
+    "url": "https://www.digitalartarchive.at/fileadmin/exhibition_html/recentevents.htm",
+    "medium": "Net art",
+    "description": "\"recentevents\" consists of a flowing stream of letter tokens. As the tokens intermingle, they extend sticky tendrils to one another that form clots of letters, or words. Letters and clots that find ma",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Re-reading the News",
+    "artist": "Myron Turner",
+    "year": 2002,
+    "url": "http://www.room535.org/news/reading.html",
+    "medium": "Net art",
+    "description": "Re-reading the News (2002) downloads the front page of newspapers as essentially raw data, enabling users to reformat it to their own specifications. The raw data appears in one browser window, reform",
+    "technologies": [
+      "javascript"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  },
+  {
+    "source": "gallery404",
+    "source_url": "https://www.netart.today/",
+    "title": "Pedigree",
+    "artist": "Mandl/ Krautgasser",
+    "year": 2003,
+    "url": "https://www.digitalartarchive.at/fileadmin/exhibition_html/krautgasser_code.html",
+    "medium": "Net art",
+    "description": "View the generative process of an incestuous family-structure - depending on the Triangular structure between father, mother and child.",
+    "technologies": [
+      "applet"
+    ],
+    "preservation": {
+      "status": "dead",
+      "archive_url": "",
+      "archive_type": ""
+    }
+  }
+]
