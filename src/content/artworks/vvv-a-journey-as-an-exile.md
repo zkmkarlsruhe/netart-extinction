@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "VVV - A Journey as an Exile"
 artist: "Manuel Schilcher"

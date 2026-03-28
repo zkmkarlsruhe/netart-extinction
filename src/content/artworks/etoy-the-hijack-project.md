@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "etoy - The Hijack Project"
 artist: "etoy"

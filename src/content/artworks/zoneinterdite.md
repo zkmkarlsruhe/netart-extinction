@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Zone*Interdite"
 artist: "Christoph Wachter, Mathias Jud"

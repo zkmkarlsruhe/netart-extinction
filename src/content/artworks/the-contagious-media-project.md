@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Contagious Media Project"
 artist: "Jonah Peretti, Chelsea Peretti, Michael Frumin"

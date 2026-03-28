@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Tank-FX"
 artist: "Sandro Catallo, Markus Cremers"

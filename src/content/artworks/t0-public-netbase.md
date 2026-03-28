@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "t0 Public Netbase"
 artist: "Konrad Becker"

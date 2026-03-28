@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Intruder Beta Version 1.1"
 artist: "Natalie Bookchin"

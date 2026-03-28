@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Streamfishing"
 artist: "Rene Bauer, AND-OR, Beat Suter"

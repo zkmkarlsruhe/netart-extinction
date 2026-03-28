@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "www.walkerart.org"
 artist: "Walker Art Center, New Media Initiatives"

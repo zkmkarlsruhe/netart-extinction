@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Tsunami Harddisk Detector"
 artist: "Michael Stadler"

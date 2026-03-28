@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "1 Megabyte Line"
 artist: "Eva and Franco Mattes"

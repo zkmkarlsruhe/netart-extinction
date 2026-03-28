@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Simple Sex Site Cyborg Link Harvester"
 artist: "Sintron"

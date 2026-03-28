@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Post Pet"
 artist: "Kazuhiko Hachiya"

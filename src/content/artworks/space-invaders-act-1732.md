@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Space Invaders Act 1732"
 artist: "Andrew Deck"

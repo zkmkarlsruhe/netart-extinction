@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "DMG:I.O* vs R3:DEV*"
 artist: "Bradley Grosh"

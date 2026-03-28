@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "African Digital Art Network"
 artist: "http://africandigitalart.com"

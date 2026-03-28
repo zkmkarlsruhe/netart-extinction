@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Donnie Darko"
 artist: "Florian Schmitt, Alexandra Jugovic, Hi-Res!"

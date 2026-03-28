@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "AI"
 ai_generated: true
 title: "dramatic screensaver"
 artist: "Teo Spiller"

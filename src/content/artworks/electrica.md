@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Electrica"
 artist: "Gundula Markeffsky, Leonard Schaumann, Peter Mühlfriedel"

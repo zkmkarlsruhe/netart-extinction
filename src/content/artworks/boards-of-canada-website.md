@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "\"Boards of Canada\" Website"
 artist: "James Tindall"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Map of the Market"
 artist: "Martin Wattenberg, Joon Yu"

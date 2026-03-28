@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Nerve Garden & other Cyberbiological Worlds of Biota.org"
 artist: "Bruce Damer"

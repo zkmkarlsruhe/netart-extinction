@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "db-db OUR.DESIGN.PLAYGROUND"
 artist: "Francis Lam"

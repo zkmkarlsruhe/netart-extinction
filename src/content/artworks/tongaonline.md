@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Tonga.Online"
 artist: "Sabine Bitter, Helmut Weber, Thomas Schneider, Peter Kuthan"

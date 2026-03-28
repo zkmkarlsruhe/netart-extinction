@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Station Rose Homepage"
 artist: "Station Rose"

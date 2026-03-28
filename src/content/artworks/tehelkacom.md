@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Tehelka.com"
 artist: "Tarun Tejpal"

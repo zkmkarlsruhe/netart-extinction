@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Global Clock Project"
 artist: "Masaki Fujihata"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "A Few Quick Notes on Opportunities and Pitfalls of the Application of Computers in Art and Music"
 artist: "James McCartney"

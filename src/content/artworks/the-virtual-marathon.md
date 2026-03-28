@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Virtual Marathon"
 artist: "Woon Tien Wei, The Virtual Marathon Team"

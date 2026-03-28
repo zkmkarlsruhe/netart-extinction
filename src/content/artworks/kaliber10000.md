@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Kaliber10000"
 artist: "Toke Nygaard, Michael Schmidt, Per Jørgen Jørgensen"

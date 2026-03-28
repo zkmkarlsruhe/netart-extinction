@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "403 Forbidden"
 artist: "Eva and Franco Mattes"

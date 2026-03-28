@@ -33,7 +33,7 @@
     "records": 76
   },
   "media-art-net": {
-    "records": 0
+    "records": 1437
   },
   "monoskop": {
     "records": 128
@@ -69,12 +69,16 @@
     "records": 73
   },
   "_summary": {
-    "merged_corpus_records": 7497,
-    "high_priority_queue_records": 7497,
+    "merged_corpus_records": 8934,
+    "high_priority_queue_records": 8934,
     "top_hosts": [
       [
         "ntticc.or.jp",
         1825
+      ],
+      [
+        "medienkunstnetz.de",
+        1438
       ],
       [
         "computerfinearts.com",
@@ -266,10 +270,6 @@
       ],
       [
         "internet.com.uy",
-        3
-      ],
-      [
-        "ipnic.org",
         3
       ]
     ]

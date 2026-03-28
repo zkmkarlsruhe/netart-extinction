@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Micromusic"
 artist: "Paco Manzanares, Michael Burckhardt, Gino Esposto"

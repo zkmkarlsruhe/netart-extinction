@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "MMF / Make Money Fast"
 artist: "Rolf Schmidt"

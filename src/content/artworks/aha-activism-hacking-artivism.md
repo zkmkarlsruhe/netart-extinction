@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "ASP"
 ai_generated: true
 title: "AHA: Activism - Hacking - Artivism"
 artist: "www.ecn.org/aha"

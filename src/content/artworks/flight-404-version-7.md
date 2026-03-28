@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Flight 404: version 7"
 artist: "Robert Hodgin"

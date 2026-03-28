@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Noderunner"
 artist: "Yuri Gitman, Carlos J. Gómez de Llarena"

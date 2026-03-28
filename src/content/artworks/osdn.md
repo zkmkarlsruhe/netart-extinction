@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "OSDN"
 artist: "www.sourceforge.net"

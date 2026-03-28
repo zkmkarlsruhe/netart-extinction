@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Zeitgenossen / Binary Art Site"
 artist: "Zeitgenossen, Ursula Hentschläger, Zelko Wiener"

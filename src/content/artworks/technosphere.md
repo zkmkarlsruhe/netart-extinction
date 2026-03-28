@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "TechnoSphere"
 artist: "Gordon Selley, Rycharde Hawkes, Jane Prophet"

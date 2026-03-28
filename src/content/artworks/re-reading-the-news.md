@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Re-reading the News"
 artist: "Myron Turner"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Phantasy Star Online"
 artist: "Yuji Naka, Sega, Sonic Team"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Church of Scientology vs. The Net"
 artist: "Ron Newman"

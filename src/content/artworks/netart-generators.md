@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "AI"
 ai_generated: true
 title: "net.art generators"
 artist: "Cornelia Sollfrank (with Ryan Johnston, Luka Frelih, Barbara Thoens, Ralf Prehn)"

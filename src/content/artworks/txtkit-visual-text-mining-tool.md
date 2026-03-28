@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "txtkit - Visual Text Mining Tool"
 artist: "Marcus Hauer, Anne Pascual, Schoenerwissen / OfCD"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Dun.AV - Danube Panorama Project"
 artist: "Michael Aschauer"

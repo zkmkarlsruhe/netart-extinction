@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Newsmap"
 artist: "Marcos Weskamp, Dan Albritton"

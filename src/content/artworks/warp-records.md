@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Warp Records"
 artist: "Dorain Moore, Chris McGrail, Dan Sayers, Kleber"
