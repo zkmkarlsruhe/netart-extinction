@@ -9,6 +9,7 @@ Skips artworks that already have .md files (by slug).
 import json
 import re
 import os
+import unicodedata
 from pathlib import Path
 
 PROJECT_ROOT = Path(__file__).parent.parent
@@ -16,7 +17,10 @@ ARTWORKS_DIR = PROJECT_ROOT / "src" / "content" / "artworks"
 
 
 def slugify(title: str) -> str:
-    s = title.lower().strip()
+    # Transliterate unicode to ASCII (é -> e, ü -> u, etc.)
+    s = unicodedata.normalize("NFKD", title)
+    s = "".join(c for c in s if not unicodedata.combining(c))
+    s = s.lower().strip()
     s = re.sub(r"[^a-z0-9\s-]", "", s)
     s = re.sub(r"[\s]+", "-", s)
     s = re.sub(r"-+", "-", s)
