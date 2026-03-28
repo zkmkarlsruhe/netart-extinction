@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Radio Internationale Stadt"
 artist: "Thomax Kaulmann"

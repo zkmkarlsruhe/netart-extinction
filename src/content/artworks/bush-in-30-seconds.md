@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Bush in 30 Seconds"
 artist: "MoveOn"

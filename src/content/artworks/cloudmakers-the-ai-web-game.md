@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Cloudmakers - the 'AI' Web Game"
 artist: "Elan Lee, Microsoft"

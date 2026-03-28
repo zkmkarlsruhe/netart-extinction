@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "60X1.com"
 artist: "Kenneth Tin-Kin Hung"

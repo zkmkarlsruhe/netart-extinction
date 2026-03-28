@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "BumpList - An Email Community for the Determined"
 artist: "Mike Bennett, Jonah Brucker-Cohen"

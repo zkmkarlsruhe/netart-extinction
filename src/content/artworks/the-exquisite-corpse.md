@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Exquisite Corpse"
 artist: "Sharon Denning, Ken Ficara"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "AI"
 ai_generated: true
 title: "AARON"
 artist: "Harold Cohen"

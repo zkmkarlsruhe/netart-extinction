@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Digital Art Endeavors and Other Artistic Experiences"
 artist: "Bonnie Mitchell"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "AI"
 ai_generated: true
 title: "Blog Bitch"
 artist: "Joe Petrow"

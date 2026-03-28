@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "AI-Assisted Circuits"
 artist: "Eva and Franco Mattes"

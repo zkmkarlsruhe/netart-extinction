@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Nude Messenger"
 artist: "Francis Lam"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "GWEI - Google Will Eat Itself"
 artist: "Hans Bernhard, Alessandro Ludovico"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "360degrees"
 artist: "Sue Johnson, Alison Cornyn"

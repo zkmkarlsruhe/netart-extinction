@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Xchange"
 artist: "E-LAB, Raitis Smits, Rasa Smite, Jānis Garančs"

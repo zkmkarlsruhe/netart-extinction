@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Stop Motion Studies"
 artist: "David Crawford"

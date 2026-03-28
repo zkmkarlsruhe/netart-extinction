@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Last.Fm - The Last Online Music Station"
 artist: "Last.Team"

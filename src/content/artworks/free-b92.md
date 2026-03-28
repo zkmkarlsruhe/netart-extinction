@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Free B92"
 artist: "Help B92 Coalition"

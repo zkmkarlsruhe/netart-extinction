@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "InsertSilence"
 artist: "Amit Pitaru, James Paterson"

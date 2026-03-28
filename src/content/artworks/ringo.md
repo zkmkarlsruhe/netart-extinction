@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Ringo++"
 artist: "Max Metral, Pattie Maes"

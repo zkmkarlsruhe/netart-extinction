@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Color of Email"
 artist: "Andreas Trottmann"

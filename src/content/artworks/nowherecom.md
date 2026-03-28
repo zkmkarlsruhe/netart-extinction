@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Nowhere.com"
 artist: "Nick Philip"

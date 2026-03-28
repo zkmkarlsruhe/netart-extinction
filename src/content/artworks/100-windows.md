@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "100 windows"
 artist: "Peter Luining"

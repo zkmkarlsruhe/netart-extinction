@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Web Stalker"
 artist: "I/O/D"

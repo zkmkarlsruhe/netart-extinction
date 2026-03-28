@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Verbarium"
 artist: "Laurent Mignoneau, Christa Sommerer & Laurent Mignonneau"

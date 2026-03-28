@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Bytes for All"
 artist: "Frederick Noronha, Partha Pratim Sarkar"

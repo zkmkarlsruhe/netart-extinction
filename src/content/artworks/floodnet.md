@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "FloodNet"
 artist: "Electronic Disturbance Theater"

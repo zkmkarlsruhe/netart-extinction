@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Third Place"
 artist: "Florian Schmitt, Hi-Res!, Alexandra Jugovic"

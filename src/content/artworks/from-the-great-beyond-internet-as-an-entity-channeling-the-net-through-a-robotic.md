@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "From the Great Beyond: Internet as an Entity? Channeling the Net Through a Robotic Typewriter"
 artist: "Fang-Yu Lin"

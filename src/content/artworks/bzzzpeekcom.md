@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Bzzzpeek.com"
 artist: "Tomi Vollauschek, Agathe Jacquillat, FL33"

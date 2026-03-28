@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Message in a Bottle from Ramsgate to The Chatham Islands"
 artist: "Layla Curtis"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "ADMechelon-Lagger"
 artist: "The ADM Crew"

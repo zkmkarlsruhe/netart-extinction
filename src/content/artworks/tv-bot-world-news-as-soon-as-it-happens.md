@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "TV-BOT - World News as soon as it happens!"
 artist: "Marc Lee"

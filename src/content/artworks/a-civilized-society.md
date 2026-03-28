@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "A Civilized Society"
 artist: "Eva and Franco Mattes"

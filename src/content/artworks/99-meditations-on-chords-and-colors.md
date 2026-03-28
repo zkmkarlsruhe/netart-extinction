@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "99 Meditations on Chords and Colors"
 artist: "Andreja Andric"

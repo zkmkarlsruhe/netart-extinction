@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "AI"
 ai_generated: true
 title: "Pixel Computer"
 artist: "Paul Camacho"

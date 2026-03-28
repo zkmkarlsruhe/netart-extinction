@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "The Public Broadcast Cart"
 artist: "Ricardo Miranda Zuñiga"

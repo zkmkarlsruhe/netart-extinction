@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "ASP"
+  - "Flash"
+  - "PHP"
 ai_generated: true
 title: "Absolut Quartet"
 artist: "Jeff Lieberman, Dan Paluska"

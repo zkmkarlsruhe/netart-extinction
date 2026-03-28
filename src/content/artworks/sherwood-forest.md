@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Sherwood Forest"
 artist: "Bruce Damer"

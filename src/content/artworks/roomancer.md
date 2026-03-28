@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Roomancer"
 artist: "Lothar Bongartz, Burak Kozan, moove"

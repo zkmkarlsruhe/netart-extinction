@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Ginga"
 artist: "Fumio Matsumoto, Shohei Matsukawa"

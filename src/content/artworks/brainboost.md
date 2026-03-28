@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "AI"
 ai_generated: true
 title: "Brainboost"
 artist: "brainboost.com"

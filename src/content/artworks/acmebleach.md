@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Acme::Bleach"
 artist: "Damian Conway"

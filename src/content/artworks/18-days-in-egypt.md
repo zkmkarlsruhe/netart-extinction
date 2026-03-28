@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "18 Days in Egypt"
 artist: "www.18daysinegypt.com"

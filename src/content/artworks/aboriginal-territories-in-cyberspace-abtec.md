@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Aboriginal Territories in Cyberspace (AbTeC)"
 artist: "http://abtec.org"

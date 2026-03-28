@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Afrikanet.info"
 artist: "http://www.afrikanet.info/"

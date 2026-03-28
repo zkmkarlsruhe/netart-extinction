@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Energized Gaming Culture"
 artist: "Mark von Rahden"

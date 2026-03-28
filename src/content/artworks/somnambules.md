@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Somnambules"
 artist: "Didier Silhol, Jean-Jacques Birgé, Nicolas Clauss"

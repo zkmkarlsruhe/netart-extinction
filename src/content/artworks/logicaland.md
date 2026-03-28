@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "./logicaland"
 artist: "Maia Gusberti, Nik Thoenen, Josef Deinhofer, Michael Aschauer"

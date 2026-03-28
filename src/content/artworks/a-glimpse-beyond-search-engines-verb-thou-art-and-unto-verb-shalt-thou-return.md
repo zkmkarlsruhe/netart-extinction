@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "A Glimpse Beyond Search Engines. 'Verb thou art, and unto verb shalt thou return'"
 artist: "Cristophe Bruno"

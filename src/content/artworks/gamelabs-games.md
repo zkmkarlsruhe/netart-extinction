@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Gamelab's games"
 artist: "Ranjit Bhatnagar, Frank Lantz, Eric Zimmerman, gameLab, Peter Lee"

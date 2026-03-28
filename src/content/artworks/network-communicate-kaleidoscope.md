@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Network Communicate Kaleidoscope"
 artist: "Kazushi Mukaiyama"

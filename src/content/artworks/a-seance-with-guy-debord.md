@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "A Seance with Guy Debord"
 artist: "Geuzen"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Coded Messages: CHAINS"
 artist: "Andruid Kerne"

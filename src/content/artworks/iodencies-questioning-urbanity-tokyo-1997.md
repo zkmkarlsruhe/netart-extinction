@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "IO_dencies, questioning urbanity, Tokyo 1997"
 artist: "Knowbotic Research kr+cf"

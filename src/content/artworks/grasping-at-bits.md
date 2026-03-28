@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Grasping At Bits"
 artist: "Patrick Lichty"

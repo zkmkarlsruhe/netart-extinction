@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Web"
 ai_generated: true
 title: "Sinnzeug"
 artist: "Stefan Huber, Birte Steffan, Ralph Ammer"

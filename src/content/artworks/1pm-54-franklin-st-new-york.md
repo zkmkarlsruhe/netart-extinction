@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "1PM 54 Franklin St New York"
 artist: "Eva and Franco Mattes"

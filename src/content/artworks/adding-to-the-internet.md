@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Adding to the Internet"
 artist: "justin kemp"
