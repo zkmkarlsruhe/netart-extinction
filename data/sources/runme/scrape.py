@@ -161,7 +161,7 @@ def parse_project_page(html, slug):
         r'href="../../categories/\+([^"]+)/index\.html"', html
     )
     categories = [
-        urllib.parse.unquote(c).replace("_", " ").replace("+", " ").strip()
+        unescape(urllib.parse.unquote(c)).replace("_", " ").replace("+", " ").strip()
         for c in cat_m
     ]
     category = " / ".join(categories) if categories else "Software art"
