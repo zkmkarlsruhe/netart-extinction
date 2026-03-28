@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Marksmanship Training"
 artist: "chris reilly"

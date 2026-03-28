@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "birth and decay"
 artist: "julian konczak"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Raising the Dead"
 artist: "Paul Levine"

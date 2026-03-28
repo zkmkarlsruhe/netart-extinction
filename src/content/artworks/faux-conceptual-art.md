@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Faux Conceptual Art"
 artist: "G.H. Hovagimyan"

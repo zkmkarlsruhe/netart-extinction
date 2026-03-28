@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Get Your Ass To Mars"
 artist: "Takeshi Murata"

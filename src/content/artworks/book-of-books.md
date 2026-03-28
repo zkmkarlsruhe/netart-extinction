@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "Book of Books"
 artist: "Simon Biggs"

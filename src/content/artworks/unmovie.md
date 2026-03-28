@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Python"
 ai_generated: true
 title: "Unmovie"
 artist: "Axel Heide, Philip Pocock, Gregor Stehle, onesandzeros"

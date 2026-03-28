@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Aerial Auto-Surveillance"
 artist: "Daniel Goodwin"

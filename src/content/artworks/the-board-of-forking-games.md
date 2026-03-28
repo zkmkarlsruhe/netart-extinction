@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Board of Forking Games"
 artist: "Andrei Thomaz"

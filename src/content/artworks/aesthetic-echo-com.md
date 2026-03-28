@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "aesthetic echo .com"
 artist: "Rafaël Rozendaal"

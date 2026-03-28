@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Cold spaghetti"
 artist: "Luca D'Angelo"

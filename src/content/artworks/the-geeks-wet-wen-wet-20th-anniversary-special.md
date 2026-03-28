@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "The Geeks - Wet Wen Wet - 20th Anniversary Special"
 artist: "Ben Coonley"

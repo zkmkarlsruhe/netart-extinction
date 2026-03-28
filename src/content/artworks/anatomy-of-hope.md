@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Anatomy of Hope"
 artist: "Eryk Salvaggio"

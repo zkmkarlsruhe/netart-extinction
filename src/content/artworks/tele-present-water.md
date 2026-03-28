@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Max/MSP"
 ai_generated: true
 title: "tele-present water"
 artist: "David Bowen"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "kazimir malevich .org"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "Walker Arts Center: Gallery 9"
 artist: "Steve Dietz (director)"

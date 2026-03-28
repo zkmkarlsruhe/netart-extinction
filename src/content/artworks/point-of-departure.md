@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "Point of Departure"
 artist: "Darrin Martin"

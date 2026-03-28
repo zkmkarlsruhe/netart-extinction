@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Re:Positioning Fear, Relational Architecture 3"
 artist: "Rafael Lozano-Hemmer"

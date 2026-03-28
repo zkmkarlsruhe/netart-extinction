@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "applet"
 ai_generated: true
 title: "Recentevents"
 artist: "Ed Burton"

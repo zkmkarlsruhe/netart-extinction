@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "to the water .com"
 artist: "Rafaël Rozendaal"

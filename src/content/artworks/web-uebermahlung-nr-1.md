@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Web Uebermahlung Nr. 1"
 artist: "A. Andreas"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Dreamers of the world unite and take over!"
 artist: "Jimpalt"

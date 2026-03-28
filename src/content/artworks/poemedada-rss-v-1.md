@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "PoemeDada RSS v.1"
 artist: "Robin Stein"

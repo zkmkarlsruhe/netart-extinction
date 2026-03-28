@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Face of Tomorrow - the Human Face of Globalization"
 artist: "Mike Mike"

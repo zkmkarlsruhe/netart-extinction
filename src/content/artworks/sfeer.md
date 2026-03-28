@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "SFEER"
 artist: "Tóth Szilvia,  Benedek Gáspár,  Keez Duyves"

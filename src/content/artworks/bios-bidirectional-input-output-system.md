@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "BIOS - Bidirectional Input/Output System"
 artist: "Jaanis Garancs"

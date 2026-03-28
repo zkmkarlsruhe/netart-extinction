@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Music Box"
 artist: "Jin-Yo Mok"

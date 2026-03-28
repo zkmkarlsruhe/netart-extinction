@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Waiting (Flussgeist 1)"
 artist: "Grégory Chatonsky"

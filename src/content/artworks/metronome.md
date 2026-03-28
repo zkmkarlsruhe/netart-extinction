@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "RealPlayer"
+  - "Shockwave"
 ai_generated: true
 title: "METRONOME"
 artist: "Sebastian Seifert"

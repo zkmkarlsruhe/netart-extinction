@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Web Wide Wit"
 artist: "Tuulia Kasonen"

@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "QuickTime"
+  - "VRML"
 ai_generated: true
 title: "Revenances"
 artist: "Grégory Chatonsky"

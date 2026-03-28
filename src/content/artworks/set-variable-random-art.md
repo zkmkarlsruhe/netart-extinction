@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Set Variable=Random(ART)"
 artist: "Brian Mackern"

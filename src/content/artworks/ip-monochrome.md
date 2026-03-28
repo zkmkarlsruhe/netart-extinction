@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "IP Monochrome"
 artist: "Reynald Drouhin"

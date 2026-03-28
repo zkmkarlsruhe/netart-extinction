@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "OMNI SERIES Art and Genetics in a Digital Age"
 artist: "Chris Twomey"

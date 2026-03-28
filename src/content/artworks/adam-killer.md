@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "Adam Killer"
 artist: "brody condon"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Diane The American Swimmer"
 artist: "Diane Dwyer"

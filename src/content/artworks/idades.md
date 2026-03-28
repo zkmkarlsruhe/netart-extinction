@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "idades"
 artist: "Daniel Desiderio Paez Castillo"

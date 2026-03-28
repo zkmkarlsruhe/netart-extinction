@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Future is Fake"
 artist: "Angelo Plessas"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Disembodied Voices installation"
 artist: "Jody Zellen"

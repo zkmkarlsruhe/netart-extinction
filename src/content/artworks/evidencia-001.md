@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Evidência #001"
 artist: "John Paul Bichard"

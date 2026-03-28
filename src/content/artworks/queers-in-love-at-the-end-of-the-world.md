@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "queers in love at the end of the world"
 artist: "Anna Anthropy"

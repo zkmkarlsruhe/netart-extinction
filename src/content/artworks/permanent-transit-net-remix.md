@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Permanent Transit: net.remix"
 artist: "Mariam Ghani"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Site-Traffic.net"
 artist: "Jonah Brucker-Cohen"

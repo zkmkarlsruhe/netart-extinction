@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "FkN JPGs on Tumblr"
 artist: "Christopher Clary"

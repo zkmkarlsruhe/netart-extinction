@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Creation of Value / Wertsch"
 artist: "Frieder Rusmann"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Android"
+  - "Flash"
 ai_generated: true
 title: "<android mantra>"
 artist: "Brian Mackern"

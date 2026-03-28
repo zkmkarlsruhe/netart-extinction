@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Shockwave"
 ai_generated: true
 title: "Telematic Surveillance"
 artist: "nungu"

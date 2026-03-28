@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "VRML"
 ai_generated: true
 title: "Position"
 artist: "Grégory Chatonsky"

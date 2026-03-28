@@ -1,4 +1,10 @@
 ---
+technologies:
+  - "CSS"
+  - "HTML"
+  - "Java Applet"
+  - "MySQL"
+  - "PHP"
 ai_generated: true
 title: "LOGICALAND V0.1"
 artist: "Maia Gusberti, Michael Aschauer, Nik Thoenen, Sepp Deinhofer"

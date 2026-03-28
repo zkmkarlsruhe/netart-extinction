@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Community Topographies"
 artist: "Christian Marc Schmidt"

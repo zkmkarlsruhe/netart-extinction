@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Byte to Mass Conversion Calculator"
 artist: "Jst Chillin"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "love game set .com"
 artist: "Rafaël Rozendaal"

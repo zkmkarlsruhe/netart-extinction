@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Concepts & Images - Web Screensaver Project"
 artist: "Tahir Ün"

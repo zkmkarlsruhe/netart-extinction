@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "SMIL"
 ai_generated: true
 title: "Latitudes"
 artist: "Molissa Fenley"

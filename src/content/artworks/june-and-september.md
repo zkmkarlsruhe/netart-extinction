@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "june and september"
 artist: "Luce Sibilla Balzarini"

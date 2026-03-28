@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "COMPUTERIZED HAIKU"
 artist: "wayne clements"

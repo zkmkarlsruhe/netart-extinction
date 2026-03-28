@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "My Google Search History"
 artist: "catherine ramus"

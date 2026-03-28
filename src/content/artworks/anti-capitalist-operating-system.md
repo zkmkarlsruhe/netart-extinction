@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "RealPlayer"
 ai_generated: true
 title: "Anti-Capitalist Operating System"
 artist: "Andy Cox"

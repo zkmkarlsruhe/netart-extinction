@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "New Work #30"
 artist: "Jordan Tate"

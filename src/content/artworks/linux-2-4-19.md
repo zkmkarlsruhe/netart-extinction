@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Linux"
 ai_generated: true
 title: "Linux-2.4.19"
 artist: "Eva and Franco Mattes"

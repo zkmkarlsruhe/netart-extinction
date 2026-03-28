@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Perpetual E.motion Project"
 artist: "Norie Neumark"

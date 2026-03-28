@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "towards and beyond .com"
 artist: "Rafaël Rozendaal"

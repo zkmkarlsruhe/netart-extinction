@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "[7sons]"
 artist: "Florian Thalhofer"

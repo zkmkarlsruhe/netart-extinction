@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "MP3"
 ai_generated: true
 title: "mp3(abode)"
 artist: "paul loftus murnaghan"

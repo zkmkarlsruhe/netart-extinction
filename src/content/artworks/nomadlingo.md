@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "NomadLingo"
 artist: "d johnston"

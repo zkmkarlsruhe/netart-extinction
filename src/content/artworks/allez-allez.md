@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Allez Allez"
 artist: "Carola Unterberger-Probst"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Me and Billy Bob"
 artist: "Jillian Mcdonald"

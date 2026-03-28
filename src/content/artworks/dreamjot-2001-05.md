@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "dreamjot 2001 05"
 artist: "Neil Sorenson"

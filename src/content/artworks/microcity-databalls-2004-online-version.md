@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Microcity Databalls. 2004 - online version"
 artist: "Stanza"

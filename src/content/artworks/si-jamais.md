@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Si / Jamais"
 artist: "Isabelle Hayeur"

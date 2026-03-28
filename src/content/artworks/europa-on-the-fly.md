@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "EUROPA - ON THE FLY"
 artist: "Wolf Kahlen"

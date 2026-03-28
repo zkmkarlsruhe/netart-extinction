@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "fear / rage: rhizome splash page"
 artist: "curt cloninger"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Monochrome Landscapes"
 artist: "Thomas Petersen"

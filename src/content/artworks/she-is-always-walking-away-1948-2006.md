@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "She is always walking away....... 1948 - 2006...."
 artist: "Ross Barber"

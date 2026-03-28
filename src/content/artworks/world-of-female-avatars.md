@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "World of Female Avatars"
 artist: "Evelin Stermitz"

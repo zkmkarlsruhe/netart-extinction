@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Ceux qui nous regardent"
 artist: "Grégory Chatonsky"

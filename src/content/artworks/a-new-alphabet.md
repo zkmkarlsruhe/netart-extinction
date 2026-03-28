@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A New Alphabet"
 artist: "Jeanie Dean"

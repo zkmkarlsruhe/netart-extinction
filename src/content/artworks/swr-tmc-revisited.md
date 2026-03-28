@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "SWR:TMC Revisited"
 artist: "Tom Chambers"

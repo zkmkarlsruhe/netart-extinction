@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "[N]+semble RTP #27"
 artist: "Talan Memmott"

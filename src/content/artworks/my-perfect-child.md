@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "My Perfect Child"
 artist: "DEBRA SWACK"

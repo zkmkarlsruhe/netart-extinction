@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "Aquarelle 2000 (web version)"
 artist: "Tamás Waliczky"

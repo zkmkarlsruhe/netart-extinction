@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Yard Sale in the Sky"
 artist: "Kristin Lucas"

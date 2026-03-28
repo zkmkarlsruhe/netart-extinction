@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "Web Performer"
 artist: "Ursula Endlicher"

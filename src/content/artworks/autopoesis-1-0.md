@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Autopoesis 1.0"
 artist: "Balázs Beöthy"

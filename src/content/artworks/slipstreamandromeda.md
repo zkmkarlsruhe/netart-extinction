@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "slipstreamandromeda"
 artist: "Christina McPhee"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "welkom 2 r'dam"
 artist: "laurie halsey brown"

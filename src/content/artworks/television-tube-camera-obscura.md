@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Television tube camera obscura"
 artist: "Gábor Bakos"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "This happened at the parking lot"
 artist: "Róbert Langh"

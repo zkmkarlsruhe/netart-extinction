@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "ALL THE NEWS THATS FIT TO PRINT"
 artist: "Jody Zellen"

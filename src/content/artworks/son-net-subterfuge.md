@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "son(net) subterfuge"
 artist: "Josephine Dorado"

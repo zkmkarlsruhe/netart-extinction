@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Sentaniz Nimerik"
 artist: "BIC Tizon Dife"

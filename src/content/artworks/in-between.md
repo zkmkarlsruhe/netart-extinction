@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "In Between"
 artist: "Soo Yeun Ahn"

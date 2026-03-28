@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Experimental Life Project version 1.0"
 artist: "domiziana giordano"

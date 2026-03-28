@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "PALE MALE: A Pilgrimage"
 artist: "Roz Dimon"

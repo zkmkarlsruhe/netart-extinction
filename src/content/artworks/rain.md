@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "MP3"
 ai_generated: true
 title: "Rain"
 artist: "Abinadi Meza"

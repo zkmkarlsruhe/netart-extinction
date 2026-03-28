@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Counter of Babel"
 artist: "Steve Shaddick"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "RhythmEngine"
 artist: "Hidenori Watanave"

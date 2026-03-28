@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Ghost of Vannevar Bush Hacked My Server"
 artist: "Michael Demers"

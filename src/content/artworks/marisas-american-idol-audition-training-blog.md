@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Marisa's American Idol Audition Training Blog"
 artist: "Marisa Olson"

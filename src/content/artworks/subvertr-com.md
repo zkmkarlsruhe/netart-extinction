@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "subvertr.com"
 artist: "Les Liens Invisibles"

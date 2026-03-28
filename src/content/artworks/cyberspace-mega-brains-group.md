@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Cyberspace Mega Brains Group"
 artist: "Jordons Francisco"

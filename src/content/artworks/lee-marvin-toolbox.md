@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Lee Marvin Toolbox"
 artist: "Jorn Ebner"

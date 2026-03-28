@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "socialspeech"
 artist: "Carlos J. Gomez de Llarena"

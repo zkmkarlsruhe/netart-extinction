@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Let them sing it for you"
 artist: "Erik Bünger"

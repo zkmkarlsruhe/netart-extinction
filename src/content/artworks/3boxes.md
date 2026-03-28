@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Shockwave"
 ai_generated: true
 title: "3boxes"
 artist: "Maria Lavman"

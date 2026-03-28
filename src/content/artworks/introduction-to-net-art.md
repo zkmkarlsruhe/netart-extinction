@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Java Applet"
 ai_generated: true
 title: "Introduction to net.art"
 artist: "Alexei Shulgin"

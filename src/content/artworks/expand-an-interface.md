@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Expand, an interface"
 artist: "Shu Lea Cheang"

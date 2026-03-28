@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "The Truth:The Truth"
 artist: "Simon Fildes"

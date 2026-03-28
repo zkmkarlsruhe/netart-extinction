@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "helix"
 artist: "Shane Carroll"

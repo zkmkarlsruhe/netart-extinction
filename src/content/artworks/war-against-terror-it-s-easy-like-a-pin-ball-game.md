@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "WAR AGAINST TERROR it`s EASY LIKE A PIN BALL GAME"
 artist: "Per Pegelow | Interactive Arts"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "The Central City (Net Art ) edition"
 artist: "Stanza"

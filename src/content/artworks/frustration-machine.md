@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "RealPlayer"
+  - "Shockwave"
 ai_generated: true
 title: "Frustration Machine"
 artist: "Rodrigo Volpe"

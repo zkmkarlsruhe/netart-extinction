@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "can-d.org"
 artist: "Markus Kleine-Vehn"

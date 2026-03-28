@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A Raider's Barge Song"
 artist: "Frank Zadlo"

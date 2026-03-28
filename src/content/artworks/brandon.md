@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Brandon"
 artist: "Shu Lea Cheang"

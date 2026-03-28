@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Computational Expressionism"
 artist: "Joanna Berzowska"

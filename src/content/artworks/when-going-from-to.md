@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "When going from ___ to ___"
 artist: "Luis Cantillo"

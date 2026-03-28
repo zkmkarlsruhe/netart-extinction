@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "breathe, crack & peel"
 artist: "trip Dixon"

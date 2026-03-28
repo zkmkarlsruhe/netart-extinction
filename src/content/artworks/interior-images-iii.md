@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Interior Images III."
 artist: "Gábor Gyõrfi"

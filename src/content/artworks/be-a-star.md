@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "be a star"
 artist: "elisabeth smolarz"

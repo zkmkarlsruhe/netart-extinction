@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "edgeless 55-57 (temporary)"
 artist: "Ruth Hawkins"

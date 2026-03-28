@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "being human"
 artist: "Annie Abrahams"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "applet"
 ai_generated: true
 title: "The Meaning of Life as Expressed in Seven Lines of Code"
 artist: "Maciej Wisniewski"

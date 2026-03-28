@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
 ai_generated: true
 title: "seme"
 artist: "Rasmus Olli"

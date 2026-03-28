@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "CremasterFanatic.com"
 artist: "Eric Doeringer"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "4eva Connected"
 artist: "Jst Chillin"

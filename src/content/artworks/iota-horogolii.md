@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
 ai_generated: true
 title: "Iota Horogolii"
 artist: "Wendy Murray"

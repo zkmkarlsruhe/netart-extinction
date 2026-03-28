@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "dot-store"
 artist: "Thomson & Craighead"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "ZUR FARBENLEHRE (THEORY OF COLOURS)"
 artist: "Steven Jones"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "I Want You (But I Can't)"
 artist: "Joelle Bitton"

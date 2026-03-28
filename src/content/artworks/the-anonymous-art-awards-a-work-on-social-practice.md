@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "The Anonymous Art Awards - a work on social practice"
 artist: "Miklos Legrady"

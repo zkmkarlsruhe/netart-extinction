@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "when laughter trips at the threshold of the divine"
 artist: "Kim Beck"

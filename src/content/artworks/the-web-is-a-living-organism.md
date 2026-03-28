@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Web is a Living Organism"
 artist: "Mushon Zer-Aviv"

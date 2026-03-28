@@ -1,4 +1,10 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "QuickTime"
+  - "RealPlayer"
+  - "Shockwave"
 ai_generated: true
 title: "photomontage"
 artist: "shirin Kouladjie"

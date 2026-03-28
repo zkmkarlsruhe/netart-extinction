@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Islanders (Flußgeist 3)"
 artist: "Grégory Chatonsky"

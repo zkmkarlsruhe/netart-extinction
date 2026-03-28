@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "Home Like No Place"
 artist: "Jillian Mcdonald"

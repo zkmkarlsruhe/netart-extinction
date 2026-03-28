@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Taboo: Module_Suck"
 artist: "Carmen Olmo"

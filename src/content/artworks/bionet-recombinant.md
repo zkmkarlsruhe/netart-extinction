@@ -1,7 +1,6 @@
 ---
 ai_generated: true
-title: "Bionet 
-: : Recombinant"
+title: "Bionet  : : Recombinant"
 artist: "Unknown"
 year: 2000
 medium: "Net art"

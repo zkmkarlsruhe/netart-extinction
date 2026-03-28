@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "fcp_in_fcp"
 artist: "Frank Zadlo"

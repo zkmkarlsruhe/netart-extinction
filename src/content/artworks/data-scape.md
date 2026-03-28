@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Data_Scape"
 artist: "Andrew Buckland"

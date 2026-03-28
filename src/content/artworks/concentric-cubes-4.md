@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "concentric cubes 4"
 artist: "Leonard Clagett"

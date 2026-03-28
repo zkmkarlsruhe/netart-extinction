@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Dot Star Generator"
 artist: "Les Liens Invisibles"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Perpetual Patchwork Quilt"
 artist: "Tom Greenbaum"

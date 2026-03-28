@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "on and off .org"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "M:A:P:A:M:P - Radiophonic installation prototype"
 artist: "Tamás Szakál"

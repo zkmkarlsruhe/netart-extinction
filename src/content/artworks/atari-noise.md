@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "atari-noise"
 artist: "arcangel constantini"

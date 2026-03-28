@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Everything is going to be OK"
 artist: "Nathalie Lawhead"

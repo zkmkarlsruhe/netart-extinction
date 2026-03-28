@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Wanderer by Jae Hoon Lee"
 artist: "Luke Munn"

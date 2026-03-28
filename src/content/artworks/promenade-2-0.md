@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Promenade 2.0"
 artist: "Szegedy-Maszák Zoltán,  Fernezelyi Márton"

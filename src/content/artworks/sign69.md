@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Shockwave"
 ai_generated: true
 title: "sign69"
 artist: "philip wood"

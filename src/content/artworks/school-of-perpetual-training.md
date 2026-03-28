@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "School of Perpetual Training"
 artist: "stephanie rothenberg"

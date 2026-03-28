@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "GRAF+ZYX : POOR CAT : WEBCLIP"
 artist: "GRAF+ZYX"

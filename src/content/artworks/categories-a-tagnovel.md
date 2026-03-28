@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "[CATEGORIES], a tagnovel"
 artist: "Sergio Tavares"

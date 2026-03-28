@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "from my house/to yours: the journeyweb"
 artist: "Gandha Key"

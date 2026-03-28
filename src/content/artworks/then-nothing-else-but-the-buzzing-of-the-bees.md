@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "then nothing else but the buzzing of the bees"
 artist: "Tamás Komoróczky"

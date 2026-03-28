@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "cyber*babes"
 artist: "Lisa Hutton"

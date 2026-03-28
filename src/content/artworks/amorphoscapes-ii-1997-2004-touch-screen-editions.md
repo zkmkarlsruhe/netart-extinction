@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "amorphoscapes II.  1997 - 2004. Touch Screen Editions"
 artist: "Stanza"

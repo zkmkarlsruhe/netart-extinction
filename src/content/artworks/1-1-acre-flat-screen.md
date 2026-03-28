@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "1.1 Acre Flat Screen"
 artist: "eteam"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "TIME IS NEVER WAS NEVER IS TIME"
 artist: "Johnny Rogers"

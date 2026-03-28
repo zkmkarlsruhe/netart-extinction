@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "CIRCUIT I (SYSCAPES)"
 artist: "Eric Schockmel"

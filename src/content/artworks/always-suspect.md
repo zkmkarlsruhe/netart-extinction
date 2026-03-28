@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Always Suspect"
 artist: "Haik Hoisington"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Media Portrait of the Liberties"
 artist: "valentina nisi"

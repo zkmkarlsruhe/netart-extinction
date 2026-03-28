@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Never wake up"
 artist: "Wilfried Agricola de Cologne"

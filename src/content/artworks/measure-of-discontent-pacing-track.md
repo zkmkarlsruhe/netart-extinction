@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Measure of Discontent: Pacing Track"
 artist: "Michael Kontopoulos"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Flash Poetry Generator 3.0"
 artist: "Lewis LaCook"

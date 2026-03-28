@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "From the Square into the Circle"
 artist: "András Ravasz"

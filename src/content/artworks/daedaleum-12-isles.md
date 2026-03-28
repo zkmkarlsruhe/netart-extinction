@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "daedaleum --- 12 isles"
 artist: "Julien Demeuzois"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "DJ RABBI"
 artist: "Marcus Vinicius Fainer Bastos"

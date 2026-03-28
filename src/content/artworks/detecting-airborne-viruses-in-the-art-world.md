@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Detecting airborne viruses in the art world"
 artist: "Lars Cuzner"

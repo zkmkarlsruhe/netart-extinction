@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "cumbernauld town for tomorrow"
 artist: "gair dunlop"

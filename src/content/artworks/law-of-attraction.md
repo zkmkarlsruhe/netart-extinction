@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Law of Attraction"
 artist: "Ramie Blatt"

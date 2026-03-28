@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Tiger with Open MOuth"
 artist: "thomas charveriat"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Antediluvian Fragments of Memories"
 artist: "sonya nielsen"

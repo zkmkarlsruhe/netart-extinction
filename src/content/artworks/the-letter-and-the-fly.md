@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "The Letter and the Fly"
 artist: "Barbara Lattanzi"

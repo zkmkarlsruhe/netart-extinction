@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "ringing telephone .com"
 artist: "Rafaël Rozendaal"

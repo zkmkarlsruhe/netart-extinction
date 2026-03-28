@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Danube Exodus"
 artist: "Péter Forgács"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Emperor of The Moon"
 artist: "Lisa Stansbie"

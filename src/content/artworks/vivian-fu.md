@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "vivian fu"
 artist: "Vivian Fu"

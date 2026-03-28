@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "simple mouse position predictor with centipede parts"
 artist: "lucas kuzma"

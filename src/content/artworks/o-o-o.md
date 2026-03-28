@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "O.O.O."
 artist: "Robert V. Wodzinski"

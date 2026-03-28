@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "You are my enemy I."
 artist: "Andrea Schneemeier"

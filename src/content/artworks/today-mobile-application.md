@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "TODAY, Mobile Application"
 artist: "Sofia Oliveira"

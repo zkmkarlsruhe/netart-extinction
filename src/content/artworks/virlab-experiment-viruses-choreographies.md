@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "virlab - experiment viruses choreographies"
 artist: "grégoire zabé"

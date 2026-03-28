@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Words Of War"
 artist: "Ronnie Shahmoon"

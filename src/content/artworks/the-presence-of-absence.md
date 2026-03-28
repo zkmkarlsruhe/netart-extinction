@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Presence of Absence"
 artist: "Peter Horvath"

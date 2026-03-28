@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "UNTITLED (CHILLER AND B-FLAT BLAZING THE VALLEY'S HOTTEST HITS/JAMS)"
 artist: "Jesse Malmed"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Cycles for Wandering"
 artist: "Matt Roberts"

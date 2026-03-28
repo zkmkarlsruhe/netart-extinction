@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "The Lair of the Marrow Monkey"
 artist: "Erik Loyer"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Sleeping pillows! Wanted!"
 artist: "xavier cahen"

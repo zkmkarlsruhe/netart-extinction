@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Eurostar: Fast Easy Secure"
 artist: "Vikram Alexei Kansara"

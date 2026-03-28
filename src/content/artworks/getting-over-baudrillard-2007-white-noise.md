@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Getting over Baudrillard 2007 white noise"
 artist: "Ross Barber"

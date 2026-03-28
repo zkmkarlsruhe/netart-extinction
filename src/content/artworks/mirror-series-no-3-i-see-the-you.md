@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Mirror series no. 3: I See (the) You"
 artist: "Ramie Blatt"

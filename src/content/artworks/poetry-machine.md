@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Linux"
 ai_generated: true
 title: "Poetry Machine"
 artist: "David Link"

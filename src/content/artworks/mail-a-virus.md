@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Mail A Virus!"
 artist: "xtine burrough"

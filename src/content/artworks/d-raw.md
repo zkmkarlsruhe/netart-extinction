@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "d_raw"
 artist: "Mario Hergueta"

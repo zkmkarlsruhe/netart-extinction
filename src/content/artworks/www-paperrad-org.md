@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "www.paperrad.org"
 artist: "Paper Rad"

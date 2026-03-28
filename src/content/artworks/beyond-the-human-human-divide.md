@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Beyond the Human-Human Divide"
 artist: "Sterling Crispin"

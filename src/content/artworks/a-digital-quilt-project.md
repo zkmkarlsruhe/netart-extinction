@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "a digital quilt project"
 artist: "curt cloninger"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "one day on the air"
 artist: "nicolas clauss"

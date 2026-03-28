@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "One Night in Greenwich Village"
 artist: "Jeannette Lambert"

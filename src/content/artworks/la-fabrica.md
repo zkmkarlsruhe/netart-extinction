@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "La Fabrica"
 artist: "Marisa Gonzalez"

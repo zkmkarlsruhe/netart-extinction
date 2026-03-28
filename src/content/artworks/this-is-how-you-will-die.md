@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "This is How You Will Die"
 artist: "Jason Nelson"

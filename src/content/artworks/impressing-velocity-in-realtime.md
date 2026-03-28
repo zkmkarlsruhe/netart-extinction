@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Impressing Velocity in Realtime"
 artist: "Fujihata Masaki"

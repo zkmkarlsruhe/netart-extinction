@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "The Sour Thunder"
 artist: "Mendi+Keith Obadike"

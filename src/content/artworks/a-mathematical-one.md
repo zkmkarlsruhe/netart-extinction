@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "a Mathematical ONE"
 artist: "Lalo Hernandez Diez"

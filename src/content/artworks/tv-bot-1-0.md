@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
+  - "MP4"
 ai_generated: true
 title: "TV Bot 1.0"
 artist: "Marc Lee"

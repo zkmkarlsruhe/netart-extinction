@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "MSN history visualization 2.0"
 artist: "Natalia Rojas"

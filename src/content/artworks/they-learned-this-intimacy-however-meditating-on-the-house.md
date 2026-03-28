@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "they learned this intimacy, however, meditating on the house"
 artist: "Igor Štromajer"

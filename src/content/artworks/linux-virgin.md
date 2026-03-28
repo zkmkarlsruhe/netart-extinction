@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Linux"
 ai_generated: true
 title: "linux virgin"
 artist: "trish maud"

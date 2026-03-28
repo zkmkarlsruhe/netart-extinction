@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "will work for food"
 artist: "Karl Heinz Jeron"

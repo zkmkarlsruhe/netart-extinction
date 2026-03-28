@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "State of the Union"
 artist: "Brad Borevitz"

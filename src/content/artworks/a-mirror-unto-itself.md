@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A Mirror Unto Itself"
 artist: "Krystal South"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "wormholes to oli und ten"
 artist: "Oliver Kauselmann"

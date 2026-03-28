@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Anemophilous Formula for Computer Art"
 artist: "Owen Mundy"

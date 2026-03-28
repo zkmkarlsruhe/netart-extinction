@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "CGI"
+  - "HTML"
 ai_generated: true
 title: "The World's First Collaborative Sentence"
 artist: "Douglas Davis"

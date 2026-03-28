@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "Java Applet"
 ai_generated: true
 title: "\"Brick\" Drawings"
 artist: "Jim Johnson"

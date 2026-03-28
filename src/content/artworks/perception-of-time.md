@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "Perception of Time"
 artist: "Jason Bader"

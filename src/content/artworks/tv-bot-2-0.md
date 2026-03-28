@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "TV Bot 2.0"
 artist: "Marc Lee"

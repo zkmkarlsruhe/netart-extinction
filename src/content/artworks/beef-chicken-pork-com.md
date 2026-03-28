@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "beef chicken pork .com"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "33 things to do before you're 10"
 artist: "James R Ford"

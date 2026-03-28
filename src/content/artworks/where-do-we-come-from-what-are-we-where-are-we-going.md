@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Where Do We Come From? What Are We? Where Are We Going?"
 artist: "akiko ichikawa"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Shoplifting 2"
 artist: "Carme Romero"

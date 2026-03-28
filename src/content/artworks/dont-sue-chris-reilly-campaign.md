@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Don't Sue Chris Reilly Campaign"
 artist: "chris reilly"

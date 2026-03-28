@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Google Image Search: The First Amendment"
 artist: "Alexis Lloyd"

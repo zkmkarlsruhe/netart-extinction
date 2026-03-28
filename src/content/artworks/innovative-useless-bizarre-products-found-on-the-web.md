@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "innovative, useless, bizarre products found on the web"
 artist: "Alex Saladin"

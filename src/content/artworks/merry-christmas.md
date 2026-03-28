@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Merry Christmas"
 artist: "Olia Lialina"

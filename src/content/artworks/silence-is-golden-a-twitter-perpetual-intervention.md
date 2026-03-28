@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Silence is golden - A twitter perpetual intervention"
 artist: "Les Liens Invisibles"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "All Catalogs (A-Z)"
 artist: "Penelope Umbrico"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "ber.loose.coin - electoral drum machine"
 artist: "ruben coen cagli"

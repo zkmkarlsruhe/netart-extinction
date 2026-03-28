@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Often, You Don't Listen"
 artist: "amanda beecher hickman"

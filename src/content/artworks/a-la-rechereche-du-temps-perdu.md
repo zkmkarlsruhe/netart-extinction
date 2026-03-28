@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "a la rechereche du temps perdu"
 artist: "Karl Heinz Jeron"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "Processing"
 ai_generated: true
 title: "Processing"
 artist: "Casey Reas"

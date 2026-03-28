@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Project for Urban Intimacy"
 artist: "Krista Connerly"

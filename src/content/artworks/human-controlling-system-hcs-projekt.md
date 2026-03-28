@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Human Controlling System (HCS) Projekt"
 artist: "Szauder Dávid,  Schneemeier Andrea"

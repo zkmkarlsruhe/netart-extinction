@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Maya"
+  - "PHP"
 ai_generated: true
 title: "Maya"
 artist: "Szabolcs KissPál"

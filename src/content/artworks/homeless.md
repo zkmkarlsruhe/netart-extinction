@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Homeless"
 artist: "Dominic Hislop,  Erhardt Miklós"

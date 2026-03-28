@@ -1,7 +1,6 @@
 ---
 ai_generated: true
-title: "Sampling 
-Broadway"
+title: "Sampling  Broadway"
 artist: "Unknown"
 year: 1999
 medium: "Net art"

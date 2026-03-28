@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "2(Roads)"
 artist: "Steve Shaddick"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "le duchamp .com"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "all is full of noise"
 artist: "Georg Duemlein"

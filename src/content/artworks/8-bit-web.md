@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "8 BIT WEB"
 artist: "Gonzalo Fernández"

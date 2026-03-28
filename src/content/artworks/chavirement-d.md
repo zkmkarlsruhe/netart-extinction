@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Chavirement d'âme précipité par le passage d'un vertige (à écho mécanique)"
 artist: "armand behar"

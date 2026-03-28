@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "infinity"
 artist: "Mai Yamashita =+ Naoto Kobayashi"

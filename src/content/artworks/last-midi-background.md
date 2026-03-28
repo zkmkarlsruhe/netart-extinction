@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MIDI"
 ai_generated: true
 title: "Last Midi Background"
 artist: "Sebastian Schmieg"

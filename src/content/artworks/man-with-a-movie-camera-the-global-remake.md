@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Man With A Movie Camera: the Global Remake"
 artist: "Perry Bard"

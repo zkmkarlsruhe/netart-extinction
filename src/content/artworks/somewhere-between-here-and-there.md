@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Somewhere between here and there, narrativas contadas narrativas vividas"
 artist: "Alicia Felberbaum"

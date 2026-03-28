@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "un|still"
 artist: "Laurent Ziegler"

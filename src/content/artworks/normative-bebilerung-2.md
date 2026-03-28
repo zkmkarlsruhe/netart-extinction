@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "normative bebilerung 2"
 artist: "mongo flattner"

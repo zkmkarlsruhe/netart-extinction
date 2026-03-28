@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "the cloudy escape"
 artist: "Julien Demeuzois"

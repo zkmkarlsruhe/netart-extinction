@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Common name"
 artist: "Veress Zsolt,  Kõhalmi Péter"

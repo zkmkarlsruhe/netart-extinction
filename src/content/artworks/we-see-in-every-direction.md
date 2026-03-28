@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "We See In Every Direction"
 artist: "Jonas Lund"

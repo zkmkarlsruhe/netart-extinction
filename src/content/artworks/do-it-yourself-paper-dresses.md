@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Do It Yourself Paper Dresses"
 artist: "De Geuzen: a foundation for multi-visual research"

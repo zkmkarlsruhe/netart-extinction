@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Rhizome's 2009 Commissions"
 artist: "Jimpunk"

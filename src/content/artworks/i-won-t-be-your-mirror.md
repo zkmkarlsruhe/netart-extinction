@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "I won't be your mirror!"
 artist: "Roland Farkas"

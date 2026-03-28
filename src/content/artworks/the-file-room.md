@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "The File Room"
 artist: "Antoni Muntadas"

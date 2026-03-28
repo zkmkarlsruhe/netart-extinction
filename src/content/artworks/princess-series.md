@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Princess Series"
 artist: "Roxanne Wolanczyk"

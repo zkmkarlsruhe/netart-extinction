@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Chinese Character Studies"
 artist: "Tom Chambers"

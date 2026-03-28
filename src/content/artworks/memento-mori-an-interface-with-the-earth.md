@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Memento Mori: an Interface With the Earth"
 artist: "Ken Goldberg"

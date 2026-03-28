@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "RealPlayer"
+  - "Shockwave"
 ai_generated: true
 title: "Violence"
 artist: "Wilfried Agricola de Cologne"

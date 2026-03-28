@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Not so frequently asked/answered questions"
 artist: "sandra antunes"

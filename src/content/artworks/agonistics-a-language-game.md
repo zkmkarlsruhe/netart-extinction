@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Agonistics: A Language Game"
 artist: "Warren Sack"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "every wall drawing #146"
 artist: "Ben Bruneau"

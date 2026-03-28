@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "the path of a butterfly sometimes deviates"
 artist: "davey whitcraft"

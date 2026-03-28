@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Photographic Diary"
 artist: "Jimmy Owenns"

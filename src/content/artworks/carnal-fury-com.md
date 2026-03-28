@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "carnal fury .com"
 artist: "Rafaël Rozendaal"

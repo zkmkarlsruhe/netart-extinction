@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "To Be Listened To…"
 artist: "MTAA"

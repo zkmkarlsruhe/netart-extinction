@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "Love Letters from a World of Awe (1995)"
 artist: "Yael Kanarek"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "~ 1n-0ut [meditation] ~"
 artist: "Jimpunk"

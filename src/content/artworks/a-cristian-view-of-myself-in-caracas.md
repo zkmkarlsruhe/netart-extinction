@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A Cristian view of myself in Caracas"
 artist: "Lalo Hernandez Diez"

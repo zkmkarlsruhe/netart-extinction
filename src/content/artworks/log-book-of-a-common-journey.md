@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Log-Book of a Common Journey"
 artist: "Johannes Auer"

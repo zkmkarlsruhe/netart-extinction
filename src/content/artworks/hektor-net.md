@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "hektor.net"
 artist: "nathaniel stern"

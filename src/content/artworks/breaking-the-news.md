@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Windows"
 ai_generated: true
 title: "Breaking the News"
 artist: "Marc Lee"

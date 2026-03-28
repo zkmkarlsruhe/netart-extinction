@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "New Long Calendar.com"
 artist: "Duncan Malashock"

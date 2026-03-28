@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "re-code.com"
 artist: "Tyler Jacobsen"

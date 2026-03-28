@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "Symbols that say what you want them to say"
 artist: "Richard Bamattre"

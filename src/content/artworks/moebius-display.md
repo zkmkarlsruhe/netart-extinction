@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "moebius display"
 artist: "Martin Bonadeo"

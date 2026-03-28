@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Slanderous dot org"
 artist: "Eric Dymond"

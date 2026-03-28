@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "out in the wind .com"
 artist: "Rafaël Rozendaal"

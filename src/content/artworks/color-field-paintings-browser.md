@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Color Field Paintings (Browser)"
 artist: "Michael Demers"

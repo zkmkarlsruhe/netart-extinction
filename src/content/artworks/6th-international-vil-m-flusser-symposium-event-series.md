@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "6th international Vilém Flusser symposium & event series"
 artist: "Unknown"

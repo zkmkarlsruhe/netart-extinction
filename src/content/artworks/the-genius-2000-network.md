@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "The Genius 2000 Network"
 artist: "Max Herman"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "RealPlayer"
 ai_generated: true
 title: "polar inertia"
 artist: "ted kane"

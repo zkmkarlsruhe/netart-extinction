@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "RealPlayer"
 ai_generated: true
 title: "multiple_dwelling"
 artist: "Jeff Gompertz"

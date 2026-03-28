@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
 ai_generated: true
 title: "Fractal Consciousness"
 artist: "zarinmedia"

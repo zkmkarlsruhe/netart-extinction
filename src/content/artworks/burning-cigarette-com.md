@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "burning cigarette .com"
 artist: "Rafaël Rozendaal"

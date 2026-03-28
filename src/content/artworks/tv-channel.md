@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "TV CHANNEL"
 artist: "Omer Krieger"

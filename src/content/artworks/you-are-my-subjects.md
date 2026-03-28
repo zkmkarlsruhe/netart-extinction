@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "YOU ARE MY SUBJECTS. 2004 By Stanza"
 artist: "Stanza"

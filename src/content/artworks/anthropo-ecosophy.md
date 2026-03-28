@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Anthropo-ecosophy"
 artist: "STEVE DANZIG"

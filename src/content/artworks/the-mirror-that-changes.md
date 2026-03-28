@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "The Mirror That Changes"
 artist: "Annette Weintraub"

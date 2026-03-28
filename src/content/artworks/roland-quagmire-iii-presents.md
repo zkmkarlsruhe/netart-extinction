@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Roland Quagmire III Presents"
 artist: "Jeremy Turner"

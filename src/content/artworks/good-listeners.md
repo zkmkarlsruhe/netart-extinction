@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Good Listeners"
 artist: "Mushon Zer-Aviv"

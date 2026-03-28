@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "a disposition - netznetz 2004-2006"
 artist: "alexandra reill"

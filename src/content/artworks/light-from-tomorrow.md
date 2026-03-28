@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Light from Tomorrow"
 artist: "Thomson & Craighead"

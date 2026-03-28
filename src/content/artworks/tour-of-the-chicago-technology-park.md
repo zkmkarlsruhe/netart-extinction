@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Tour of the Chicago Technology Park"
 artist: "ryan griffis"

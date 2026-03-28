@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Troy's (Non)Mixtape of Love"
 artist: "Marisa Olson"

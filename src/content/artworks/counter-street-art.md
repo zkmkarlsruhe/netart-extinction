@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "counter street art"
 artist: "maximiliano paccagnella"

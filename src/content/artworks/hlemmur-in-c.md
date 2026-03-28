@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MIDI"
 ai_generated: true
 title: "Hlemmur in C"
 artist: "Pall Thayer"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "amorphoscapes I. Online Generative artworks 1997"
 artist: "Stanza"

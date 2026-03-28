@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Shadows of computers"
 artist: "Julien Demeuzois"

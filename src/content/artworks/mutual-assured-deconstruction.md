@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Mutual Assured Deconstruction"
 artist: "Michael Arnold Mages"

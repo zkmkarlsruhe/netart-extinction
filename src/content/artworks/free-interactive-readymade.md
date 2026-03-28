@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "free interactive readymade"
 artist: "carlos katastrofsky"

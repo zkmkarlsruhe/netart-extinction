@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "\"Your sFace or Mine?\""
 artist: "Reginald Brooks"

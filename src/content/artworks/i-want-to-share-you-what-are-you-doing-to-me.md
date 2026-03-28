@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Java Applet"
+  - "RealPlayer"
 ai_generated: true
 title: "[ i want to share you - what are you doing to me? ]"
 artist: "Igor Štromajer"

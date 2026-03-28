@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Homestead Grays"
 artist: "Takeshi Murata"

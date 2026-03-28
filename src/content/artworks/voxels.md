@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "Voxels"
 artist: "mike salmond"

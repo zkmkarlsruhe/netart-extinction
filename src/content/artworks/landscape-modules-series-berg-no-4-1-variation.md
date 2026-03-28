@@ -1,0 +1,10 @@
+---
+ai_generated: true
+title: "Landscape Modules Series: Berg No.4(1.Variation)"
+artist: "Florian CLAAR"
+year: 2000
+url: "https://www.ntticc.or.jp/en/archive/works/landscape-modules-series-berg-no-4-1-variation/"
+medium: "Media art"
+---
+
+Sourced from ntt-icc.

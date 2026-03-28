@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Looking for the new universal harmony"
 artist: "Pall Thayer"

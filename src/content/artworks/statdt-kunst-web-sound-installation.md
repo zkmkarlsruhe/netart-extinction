@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "staTdT_kunst_web_sound_installation"
 artist: "hannes raffaseder"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Atlantic Yards"
 artist: "Christian Marc Schmidt"

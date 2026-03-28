@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "space.color.motion"
 artist: "Manfred Mohr"

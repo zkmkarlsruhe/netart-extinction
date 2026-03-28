@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Image Engine"
 artist: "Róza El-Hassan"

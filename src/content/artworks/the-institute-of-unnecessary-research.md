@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Institute of Unnecessary Research"
 artist: "Anna Dumitriu"

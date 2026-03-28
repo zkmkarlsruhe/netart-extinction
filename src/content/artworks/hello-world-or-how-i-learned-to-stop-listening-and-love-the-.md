@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Hello World! or: How I Learned to Stop Listening and Love the Noise"
 artist: "Christopher Baker"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "left to my own devices"
 artist: "geoffrey thomas"

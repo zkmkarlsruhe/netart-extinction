@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Distorted Conversations: On and Offline Explorations of Genomic Art"
 artist: "Holly Longstaff"

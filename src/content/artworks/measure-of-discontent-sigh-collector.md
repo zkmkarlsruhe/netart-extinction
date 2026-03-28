@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Measure of Discontent: Sigh Collector"
 artist: "Michael Kontopoulos"

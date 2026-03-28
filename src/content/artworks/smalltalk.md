@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Smalltalk"
 artist: "Szegedy-Maszák Zoltán,  Fernezelyi Márton,  Langh Róbert"

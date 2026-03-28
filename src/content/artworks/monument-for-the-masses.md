@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Monument for the Masses"
 artist: "Trial and Error"

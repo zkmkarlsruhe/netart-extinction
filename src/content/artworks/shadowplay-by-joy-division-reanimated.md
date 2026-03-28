@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "\"Shadowplay\" by Joy Division, Reanimated"
 artist: "Yoshi Sodeoka"

@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "VRML"
 ai_generated: true
 title: "Plural maps: lost in S"
 artist: "Lucia Leao"

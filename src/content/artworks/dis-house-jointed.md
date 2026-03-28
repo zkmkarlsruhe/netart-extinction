@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "dis-house-jointed"
 artist: "Marcy Palmer"

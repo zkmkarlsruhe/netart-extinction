@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "sharedscapes - points of view on landscapes"
 artist: "grégoire zabé"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "PANSE - Public Access Network Sound Engine"
 artist: "Pall Thayer"

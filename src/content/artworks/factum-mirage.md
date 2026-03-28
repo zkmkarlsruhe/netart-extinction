@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "factum/mirage"
 artist: "Jennifer Chan"

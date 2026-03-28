@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
 ai_generated: true
 title: "MOMUS- Around The World In 80 Days"
 artist: "Nicolas Jenkins"

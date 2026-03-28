@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "blackaeonium (a keeping-place)"
 artist: "lisa cianci"

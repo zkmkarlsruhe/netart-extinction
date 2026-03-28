@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "QuickTime"
 ai_generated: true
 title: "Digital Nature: The Case Collection"
 artist: "Tal Halpern"

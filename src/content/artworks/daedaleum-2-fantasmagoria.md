@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "daedaleum 2 --- fantasmagoria"
 artist: "Julien Demeuzois"

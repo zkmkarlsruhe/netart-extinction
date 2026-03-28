@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Mediated Spaces"
 artist: "Ádám Somlai-Fischer"

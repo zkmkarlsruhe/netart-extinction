@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Caligraft"
 artist: "Ricard Marxer Piñón"

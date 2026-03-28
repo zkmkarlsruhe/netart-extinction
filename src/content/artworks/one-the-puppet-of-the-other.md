@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "One the puppet of the other"
 artist: "Nicolas Frespech"

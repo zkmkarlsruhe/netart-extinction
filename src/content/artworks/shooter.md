@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Shooter"
 artist: "G.H. Hovagimyan"

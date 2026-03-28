@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "EMS (Edition Message Samplers)"
 artist: "Jacob Masters"

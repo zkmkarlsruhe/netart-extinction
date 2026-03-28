@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "MPEG"
 ai_generated: true
 title: "Download Finished"
 artist: "!Mediengruppe Bitnik"

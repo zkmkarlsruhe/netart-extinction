@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Camp La Jolla Military Park"
 artist: "Owen Mundy"

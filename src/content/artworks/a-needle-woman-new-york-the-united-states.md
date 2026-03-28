@@ -1,0 +1,10 @@
+---
+ai_generated: true
+title: "A Needle Woman” New York, the United States"
+artist: "Kimsooja"
+year: 2000
+url: "https://www.ntticc.or.jp/en/archive/works/a-needle-woman-new-york-united-states/"
+medium: "Media art"
+---
+
+Sourced from ntt-icc.

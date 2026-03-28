@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "One Free Minute"
 artist: "Daniel Jolliffe"

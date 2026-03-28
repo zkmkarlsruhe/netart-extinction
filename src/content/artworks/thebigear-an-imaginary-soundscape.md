@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "RealPlayer"
 ai_generated: true
 title: "THEBIGEAR - An Imaginary Soundscape"
 artist: "francesco michi"

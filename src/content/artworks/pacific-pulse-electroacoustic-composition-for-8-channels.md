@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "MIDI"
 ai_generated: true
 title: "Pacific Pulse, electroacoustic composition for 8-channels"
 artist: "Bob Sturm"

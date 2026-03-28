@@ -1,7 +1,6 @@
 ---
 ai_generated: true
-title: "Finding 
-Time"
+title: "Finding  Time"
 artist: "Unknown"
 year: 1999
 medium: "Net art"

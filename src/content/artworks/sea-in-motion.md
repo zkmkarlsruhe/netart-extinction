@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "Sea In Motion"
 artist: "Ole B Nielsen"

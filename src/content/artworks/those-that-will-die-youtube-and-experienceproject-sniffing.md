@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Those that will die (Youtube and experienceproject sniffing)"
 artist: "Grégory Chatonsky"

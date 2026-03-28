@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Audiovisual Environment Suite"
 artist: "Golan Levin"

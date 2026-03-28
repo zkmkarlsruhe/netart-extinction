@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "THE STRUGGLE CONTINUES"
 artist: "Young-Hae Chang Heavy Industries"

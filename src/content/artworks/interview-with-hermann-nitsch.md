@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "interview with Hermann Nitsch"
 artist: "Unknown"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Tickets To The Sunset"
 artist: "Rose Marshack"

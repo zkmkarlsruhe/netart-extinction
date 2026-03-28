@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "Rechnender Raum (Calculating Space)"
 artist: "Ralf Baecker"

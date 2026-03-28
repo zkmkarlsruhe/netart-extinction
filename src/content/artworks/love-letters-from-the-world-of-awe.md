@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Love Letters from the World of Awe"
 artist: "Yael Kanarek"

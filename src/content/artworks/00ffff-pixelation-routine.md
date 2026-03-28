@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "00FFFF - Pixelation Routine"
 artist: "Morgan Jones"

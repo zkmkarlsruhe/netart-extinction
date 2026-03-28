@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Disperse. Exclamatory Phase"
 artist: "Les Liens Invisibles"

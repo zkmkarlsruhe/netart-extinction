@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "Attributed Text"
 artist: "Thomson & Craighead"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "vai avanti .com"
 artist: "Rafaël Rozendaal"

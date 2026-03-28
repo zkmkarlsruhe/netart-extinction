@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Museum of Rumour"
 artist: "Norie Neumark"

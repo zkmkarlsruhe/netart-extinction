@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "Container City"
 artist: "Markus Schulthess"

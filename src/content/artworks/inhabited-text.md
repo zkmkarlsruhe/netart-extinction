@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Inhabited Text"
 artist: "Susan Collins"

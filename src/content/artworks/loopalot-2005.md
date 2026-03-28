@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Loopalot, 2005"
 artist: "Colin Goldberg"

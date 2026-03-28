@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "My Temporary Visiting Position From The Sunset Terrace Bar"
 artist: "Carlo Zanni"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "All day and All night"
 artist: "Kit Hughes"

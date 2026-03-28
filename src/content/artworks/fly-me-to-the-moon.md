@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Fly Me to the Moon"
 artist: "alun ward"

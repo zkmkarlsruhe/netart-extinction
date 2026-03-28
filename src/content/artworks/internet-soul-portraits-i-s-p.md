@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Internet Soul Portraits (I.S.P)"
 artist: "Mark Callahan"

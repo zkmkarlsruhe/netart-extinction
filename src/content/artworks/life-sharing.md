@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "Life Sharing"
 artist: "0100101110101101"

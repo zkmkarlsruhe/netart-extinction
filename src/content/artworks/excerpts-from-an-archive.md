@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Excerpts from An Archive"
 artist: "Deanne Achong"

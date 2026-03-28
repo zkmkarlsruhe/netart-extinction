@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "closed shut.com"
 artist: "Rafaël Rozendaal"

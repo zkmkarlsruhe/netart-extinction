@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "ScanOps"
 artist: "Andrew Norman Wilson"

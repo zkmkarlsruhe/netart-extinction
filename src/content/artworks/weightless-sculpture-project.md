@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "QuickTime"
+  - "Shockwave"
+  - "VRML"
 ai_generated: true
 title: "Weightless Sculpture Project"
 artist: "Martin Sjardijn"

@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "RealPlayer"
 ai_generated: true
 title: "n3xt"
 artist: "shirin Kouladjie"

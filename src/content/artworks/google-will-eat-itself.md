@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Google Will Eat Itself"
 artist: "UBERMORGEN"

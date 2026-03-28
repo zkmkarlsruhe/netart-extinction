@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "World of Awe 1.0"
 artist: "Yael Kanarek"

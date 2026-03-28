@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "VANITAS"
 artist: "k-u-n-s-t-k-a-m-m-e-r"

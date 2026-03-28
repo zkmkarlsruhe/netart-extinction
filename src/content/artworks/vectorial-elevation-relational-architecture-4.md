@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Java Applet"
+  - "QuickTime"
+  - "VRML"
 ai_generated: true
 title: "Vectorial Elevation, Relational Architecture 4"
 artist: "Rafael Lozano-Hemmer"

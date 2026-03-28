@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Journal of the Collective Me"
 artist: "Brian Piana"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Negative Motivation Project"
 artist: "Sylvère Armange"

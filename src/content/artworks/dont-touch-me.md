@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "don't touch me"
 artist: "Annie Abrahams"

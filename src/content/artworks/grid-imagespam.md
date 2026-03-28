@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "grid-imagespam"
 artist: "a bill miller"

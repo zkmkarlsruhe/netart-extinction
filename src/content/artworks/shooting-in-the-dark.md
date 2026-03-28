@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Shooting in the Dark"
 artist: "geoffrey shea"

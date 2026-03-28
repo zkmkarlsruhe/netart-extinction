@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A Parallel Image"
 artist: "Gebhard Sengmüller"

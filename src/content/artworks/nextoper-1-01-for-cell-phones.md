@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: ">neXtOper@1.01 for cell.phones"
 artist: "Sergio Maltagliati"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Internet arte sitio web (net.art????)"
 artist: "Isabel Aranda"

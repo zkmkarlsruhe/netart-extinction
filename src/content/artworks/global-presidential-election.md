@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "GLOBAL PRESIDENTIAL ELECTION"
 artist: "Kenneth Hung"

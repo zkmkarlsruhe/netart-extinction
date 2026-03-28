@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "My Blue Period"
 artist: "Tom Forkin"

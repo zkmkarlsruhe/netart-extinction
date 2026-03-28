@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Aural Masturbation"
 artist: "Marientina Gotsis"

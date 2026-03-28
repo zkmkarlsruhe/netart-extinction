@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "HTML"
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "3 Proposals for Bottle Imps"
 artist: "William Poundstone"

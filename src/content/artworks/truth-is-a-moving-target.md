@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Truth is a Moving Target"
 artist: "Erwin Redl"

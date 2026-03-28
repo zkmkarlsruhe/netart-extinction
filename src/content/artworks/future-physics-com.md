@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "future physics .com"
 artist: "Rafaël Rozendaal"

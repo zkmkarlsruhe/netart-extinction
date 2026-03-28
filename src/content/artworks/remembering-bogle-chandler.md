@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Remembering Bogle Chandler"
 artist: "Rebecca Young"

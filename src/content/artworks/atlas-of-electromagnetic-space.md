@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Atlas of Electromagnetic Space"
 artist: "santiago ortiz"

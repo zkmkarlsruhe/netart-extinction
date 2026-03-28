@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "RealPlayer"
 ai_generated: true
 title: "Jessambola"
 artist: "Carrie Mandel"

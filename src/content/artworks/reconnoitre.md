@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "Reconnoitre"
 artist: "Tom Corby"

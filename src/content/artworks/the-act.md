@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "QuickTime"
+  - "RealPlayer"
 ai_generated: true
 title: "The Act"
 artist: "Chris Helson"

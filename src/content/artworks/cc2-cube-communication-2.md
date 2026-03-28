@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "CC2: Cube Communication 2"
 artist: "ulei"

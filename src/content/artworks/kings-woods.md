@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "King's Woods"
 artist: "Lewis LaCook"

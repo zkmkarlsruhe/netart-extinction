@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "JiffyLux Girls pinup project"
 artist: "Laura Floyd"

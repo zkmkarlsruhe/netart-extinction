@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Irish_Eyes"
 artist: "Ryan McGuinness"

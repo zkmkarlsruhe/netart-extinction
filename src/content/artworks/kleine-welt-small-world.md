@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "[kleine welt] / [small world]"
 artist: "Florian Thalhofer"

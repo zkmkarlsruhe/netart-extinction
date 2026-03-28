@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Final Solution (proposal), 2000"
 artist: "Martin John Callanan"

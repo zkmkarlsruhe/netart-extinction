@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "The Slow Arrow of Beauty"
 artist: "Victor Liu"

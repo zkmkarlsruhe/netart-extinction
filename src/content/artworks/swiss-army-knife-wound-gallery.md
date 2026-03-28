@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "swiss army knife wound gallery"
 artist: "charles truett"

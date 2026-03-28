@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Fort Paladin: America's Army"
 artist: "Eddo Stern"

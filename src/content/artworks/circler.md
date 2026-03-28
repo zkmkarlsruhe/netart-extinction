@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "HTML"
+  - "applet"
 ai_generated: true
 title: "Circler"
 artist: "Kevin McCoy "

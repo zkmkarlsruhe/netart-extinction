@@ -1,4 +1,9 @@
 ---
+technologies:
+  - "Java Applet"
+  - "QuickTime"
+  - "Shockwave"
+  - "VRML"
 ai_generated: true
 title: "carrier"
 artist: "Melinda Rackham"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "liquid_eden"
 artist: "Stephanie Owens"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Open News Network (O-N-N)"
 artist: "Marc Lee"

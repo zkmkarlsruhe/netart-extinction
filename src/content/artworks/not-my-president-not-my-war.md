@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "not my PRESiDENT not my WAR"
 artist: "Shawn Rider"

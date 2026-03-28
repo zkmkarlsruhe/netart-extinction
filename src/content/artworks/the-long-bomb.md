@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "The Long Bomb"
 artist: "Haik Hoisington"

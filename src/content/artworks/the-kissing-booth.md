@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "The Kissing Booth"
 artist: "Kimberly Simpson"

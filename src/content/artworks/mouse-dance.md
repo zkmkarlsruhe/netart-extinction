@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "Mouse.Dance"
 artist: "Neil Zusman"

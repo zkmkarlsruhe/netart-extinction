@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Eisenstein's Monster"
 artist: "Chris Joseph"

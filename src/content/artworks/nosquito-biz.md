@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "nosquito .biz"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "postcard from Eutopia"
 artist: "ryan griffis"

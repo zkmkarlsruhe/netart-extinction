@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Macromedia Director"
+  - "Shockwave"
 ai_generated: true
 title: "History of Chilean Mining Mural"
 artist: "Alexander Sutulov"

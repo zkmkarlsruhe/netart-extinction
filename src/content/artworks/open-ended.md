@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "open.ended"
 artist: "Daniel C Howe"

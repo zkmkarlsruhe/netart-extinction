@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "Origo Fragmenti"
 artist: "Eszter Zámori"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Sur Terre"
 artist: "Grégory Chatonsky"

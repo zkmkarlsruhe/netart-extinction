@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "JIP - JavaMuseum Interview Project"
 artist: "Wilfried Agricola de Cologne"

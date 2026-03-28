@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Joseph Goebbels (tm)"
 artist: "Aleksandar Maćašev"

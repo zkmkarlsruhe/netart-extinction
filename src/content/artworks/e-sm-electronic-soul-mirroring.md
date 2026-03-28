@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "e-sm: electronic soul mirroring"
 artist: "Carlo Zanni"

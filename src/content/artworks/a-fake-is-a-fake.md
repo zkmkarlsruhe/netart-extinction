@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "A fake is a fake"
 artist: "Les Liens Invisibles"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "on my level .com"
 artist: "Rafaël Rozendaal"

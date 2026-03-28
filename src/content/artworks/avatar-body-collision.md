@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Avatar Body Collision"
 artist: "Helen Varley Jamieson"

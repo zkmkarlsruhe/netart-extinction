@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Tales fom the Desktop"
 artist: "Sandra Crisp"

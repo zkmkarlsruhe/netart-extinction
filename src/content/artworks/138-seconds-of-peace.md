@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "138 seconds of peace?"
 artist: "Wilfried Agricola de Cologne"

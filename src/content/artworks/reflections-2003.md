@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Reflections 2003"
 artist: "Vladimir Todorovic"

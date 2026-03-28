@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "This and that thought."
 artist: "BFFA3AE"

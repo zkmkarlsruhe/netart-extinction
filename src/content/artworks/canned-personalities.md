@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Canned Personalities"
 artist: "Andrew Y. Ames"

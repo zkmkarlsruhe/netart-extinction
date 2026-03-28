@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "FOUR & SIX"
 artist: "Art Crap"

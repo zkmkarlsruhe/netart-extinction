@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Scanart: A Digital Artifact Recontextualization"
 artist: "SuAnne Hall"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "s.EXE interactives -- visual sequencer"
 artist: "Christina Goestl / c++"

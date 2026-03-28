@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "the Ecstasy of Communication"
 artist: "lucas kuzma"

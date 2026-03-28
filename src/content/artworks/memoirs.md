@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
 ai_generated: true
 title: "Memoirs"
 artist: "Cynthia Beth Rubin"

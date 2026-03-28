@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "more darkness .com"
 artist: "Rafaël Rozendaal"

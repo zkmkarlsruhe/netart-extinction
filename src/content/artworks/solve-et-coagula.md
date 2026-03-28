@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "solve et coagula"
 artist: "Knut Mork,  Stahl Stenslie"

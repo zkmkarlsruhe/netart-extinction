@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Java Applet"
 ai_generated: true
 title: "The Demon Devil Girls"
 artist: "Bret Nicely"

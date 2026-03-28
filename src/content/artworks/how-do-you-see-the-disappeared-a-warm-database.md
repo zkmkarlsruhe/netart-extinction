@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "How Do You See the Disappeared? A Warm Database"
 artist: "Mariam Ghani"

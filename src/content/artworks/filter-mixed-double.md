@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "CSS"
+  - "HTML"
+  - "Windows"
 ai_generated: true
 title: "filter: mixed double"
 artist: "Monica Studer, Christoph van den Berg"

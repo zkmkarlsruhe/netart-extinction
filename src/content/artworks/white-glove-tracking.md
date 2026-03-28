@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "White Glove Tracking"
 artist: "Evan Roth"

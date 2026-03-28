@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "QuickTime"
 ai_generated: true
 title: "Louisiana Walk #14"
 artist: "Janet Cardiff"

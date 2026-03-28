@@ -1,4 +1,8 @@
 ---
+technologies:
+  - "Flash"
+  - "QuickTime"
+  - "Shockwave"
 ai_generated: true
 title: "alt+delete"
 artist: "Brad Todd"

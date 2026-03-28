@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "theBot (one infesting the horse)"
 artist: "Amy Alexander"

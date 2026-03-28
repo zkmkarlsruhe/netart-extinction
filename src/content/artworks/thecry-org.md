@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "thecry.org"
 artist: "Indira Montoya"

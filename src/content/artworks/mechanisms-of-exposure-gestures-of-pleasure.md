@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Mechanisms of Exposure~Gestures of Pleasure"
 artist: "TJADER-KNIGHT inc. KNIGHT"

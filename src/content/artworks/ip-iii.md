@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Shockwave"
 ai_generated: true
 title: "IP-III"
 artist: "Annja Krautgasser"

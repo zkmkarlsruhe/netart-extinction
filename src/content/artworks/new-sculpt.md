@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "new sculpt"
 artist: "LaTurbo Avedon"

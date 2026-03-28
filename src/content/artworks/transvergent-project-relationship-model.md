@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Transvergent Project Relationship Model"
 artist: "Aaron Siegel"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Correctional Institute Inmate Personals"
 artist: "Jessica Gomula"

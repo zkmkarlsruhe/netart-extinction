@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "95 Chimes"
 artist: "DEBRA SWACK"

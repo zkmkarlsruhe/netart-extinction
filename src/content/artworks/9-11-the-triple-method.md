@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "9/11 - The Triple Method"
 artist: "Wilfried Agricola de Cologne"

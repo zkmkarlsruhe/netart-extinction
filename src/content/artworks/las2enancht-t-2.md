@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "las2enancht:t:2"
 artist: "ui uuii"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "I am not, served by"
 artist: "Annie Abrahams"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Java Applet"
 ai_generated: true
 title: "The 12hr ISBN-JPEG project"
 artist: "Brad Brace"

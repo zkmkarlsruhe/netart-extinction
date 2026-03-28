@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "much better than this .com"
 artist: "Rafaël Rozendaal"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "PHP"
 ai_generated: true
 title: "VOA (Scene behind Doors)"
 artist: "László László Révész"

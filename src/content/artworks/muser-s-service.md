@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Linux"
 ai_generated: true
 title: "Muser's Service"
 artist: "Daniela Alina Plewe"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Topology of a translation"
 artist: "Grégory Chatonsky"

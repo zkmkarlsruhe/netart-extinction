@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Macromedia Director"
 ai_generated: true
 title: "Revelations of Secret Surveillance"
 artist: "Judy Malloy"

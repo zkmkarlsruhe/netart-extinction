@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Bcc (Blank Carbon Copy)"
 artist: "Motomichi Nakamura"

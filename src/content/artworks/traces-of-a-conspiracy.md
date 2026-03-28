@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Traces of a conspiracy"
 artist: "Grégory Chatonsky"

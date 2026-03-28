@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "HTML"
 ai_generated: true
 title: "ascii bush"
 artist: "Yoshi Sodeoka"

@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "VRML"
 ai_generated: true
 title: "Lincoln 3D Scans"
 artist: "Oliver Laric"

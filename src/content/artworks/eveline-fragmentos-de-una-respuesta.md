@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Eveline, fragmentos de una respuesta"
 artist: "Marina Zerbarini"

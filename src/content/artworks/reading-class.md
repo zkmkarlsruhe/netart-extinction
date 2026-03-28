@@ -1,4 +1,7 @@
 ---
+technologies:
+  - "Flash"
+  - "Macromedia Director"
 ai_generated: true
 title: "Reading Class: the Online Game+Blog that Explores Class in America"
 artist: "Richard Rinehart"

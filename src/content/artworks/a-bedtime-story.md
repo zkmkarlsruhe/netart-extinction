@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "a bedtime story"
 artist: "Susana Mendes Silva"

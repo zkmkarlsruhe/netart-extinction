@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Inscription of the Girly Man"
 artist: "Brad Borevitz"

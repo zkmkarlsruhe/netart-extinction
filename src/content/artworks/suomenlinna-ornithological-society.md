@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Suomenlinna Ornithological Society"
 artist: "Blake Carrington"

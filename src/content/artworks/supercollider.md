@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "SuperCollider"
 ai_generated: true
 title: "Supercollider"
 artist: "Trevor Blackwell"

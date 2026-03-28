@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "LIVE!NUDE!SPACE!"
 artist: "laurie halsey brown"

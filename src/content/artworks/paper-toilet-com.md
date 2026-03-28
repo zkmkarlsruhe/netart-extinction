@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "paper toilet .com"
 artist: "Rafaël Rozendaal"

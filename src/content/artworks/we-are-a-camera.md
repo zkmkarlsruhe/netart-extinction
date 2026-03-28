@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "WE ARE A CAMERA"
 artist: "ben Wheatley"

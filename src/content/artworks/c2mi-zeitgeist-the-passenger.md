@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "C2Mi Zeitgeist - The Passenger"
 artist: "Juan Manuel Patiño"

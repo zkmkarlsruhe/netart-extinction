@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Flash"
 ai_generated: true
 title: "Smoky Hill River Outpost"
 artist: "Tactical Magic"

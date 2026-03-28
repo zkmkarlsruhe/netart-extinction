@@ -1,4 +1,6 @@
 ---
+technologies:
+  - "Maya"
 ai_generated: true
 title: "A Realistic Day In My Life Living In New York City"
 artist: "Maya Man"
