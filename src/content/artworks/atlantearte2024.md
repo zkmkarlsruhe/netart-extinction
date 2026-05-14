@@ -1,10 +1,12 @@
 ---
-ai_generated: true
-title: "atlante_arte_2024"
-artist: "Giunti Editore"
+title: "atlante_arte_2024 — Maltagliati entry"
+artist: "Sergio Maltagliati"
 year: 2024
-medium: "Net art"
-description: "Documentazione del lavoro di Sergio Maltagliati nell’Atlante dell’Arte Contemporanea 2024 Documentation of Sergio Maltagliati’s work in the Atlante dell’Arte"
+url: "https://archive.org/details/atlante_arte_2024"
+medium: "Catalogue documentation"
+description: "Documentation of Sergio Maltagliati's work in Giunti Editore's Atlante dell'Arte Contemporanea 2024 catalogue, preserved as a scanned PDF on Internet Archive."
 ---
 
-Sourced from [Archive.org](https://archive.org/details/atlante_arte_2024).
+Entry documenting Sergio Maltagliati's work in the published catalogue *Atlante dell'Arte Contemporanea 2024* (Giunti Editore). Preserved as a scanned PDF on Internet Archive.
+
+Source: [Internet Archive](https://archive.org/details/atlante_arte_2024).

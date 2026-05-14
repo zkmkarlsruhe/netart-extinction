@@ -4,6 +4,7 @@ import SeverityBadge from '@components/ui/SeverityBadge.astro';
 import StatusBadge from '@components/ui/StatusBadge.astro';
 import EventTypeLabel from '@components/ui/EventTypeLabel.astro';
 import AiBadge from '@components/ui/AiBadge.astro';
+import ContributorAttribution from '@components/ui/ContributorAttribution.astro';
 import { getCollection, getEntry, render } from 'astro:content';
 import { parseFlexibleDate, formatDate } from '@lib/dates';
 
@@ -96,6 +97,8 @@ const fixLabels: Record<string, string> = {
     <section class="body-content">
       <Content />
     </section>
+
+    <ContributorAttribution entryId={event.id} kind="event" />
 
     {event.data.links && event.data.links.length > 0 && (
       <section class="links">

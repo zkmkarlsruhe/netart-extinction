@@ -4,6 +4,7 @@ import SeverityBadge from '@components/ui/SeverityBadge.astro';
 import StatusBadge from '@components/ui/StatusBadge.astro';
 import EventTypeLabel from '@components/ui/EventTypeLabel.astro';
 import AiBadge from '@components/ui/AiBadge.astro';
+import ContributorAttribution from '@components/ui/ContributorAttribution.astro';
 import { getCollection, render } from 'astro:content';
 import { parseFlexibleDate, formatDate } from '@lib/dates';
 
@@ -59,6 +60,8 @@ const relatedEvents = allEvents
     <section class="body-content">
       <Content />
     </section>
+
+    <ContributorAttribution entryId={artwork.id} kind="artwork" />
 
     {relatedEvents.length > 0 && (
       <section class="related-events">

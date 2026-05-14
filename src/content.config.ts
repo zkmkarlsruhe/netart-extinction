@@ -75,4 +75,16 @@ const events = defineCollection({
   }),
 });
 
-export const collections = { artworks, events };
+const contributions = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: 'src/content/contributions' }),
+  schema: z.object({
+    name: z.string(),
+    date: flexDate,
+    affiliation: z.string().optional(),
+    summary: z.string(),
+    events: z.array(reference('events')).optional(),
+    artworks: z.array(reference('artworks')).optional(),
+  }),
+});
+
+export const collections = { artworks, events, contributions };

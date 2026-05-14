@@ -1,0 +1,66 @@
+---
+import { getCollection } from 'astro:content';
+import { parseFlexibleDate, formatDate } from '@lib/dates';
+
+interface Props {
+  entryId: string;
+  kind: 'event' | 'artwork';
+}
+
+const { entryId, kind } = Astro.props;
+const field = kind === 'event' ? 'events' : 'artworks';
+
+const allContribs = await getCollection('contributions');
+const contributors = allContribs
+  .filter((c: any) =>
+    c.data[field]?.some((ref: any) => {
+      const id = typeof ref === 'string' ? ref : ref.id;
+      return id === entryId;
+    })
+  )
+  .sort((a: any, b: any) => b.data.date.localeCompare(a.data.date));
+---
+
+{contributors.length > 0 && (
+  <aside class="attribution">
+    <span class="label">Contributed by</span>
+    {contributors.map((c: any, i: number) => (
+      <Fragment>
+        {i > 0 && (i === contributors.length - 1 ? ' and ' : ', ')}
+        <a href={`/about/#contributor-${c.id}`}>{c.data.name}</a>
+      </Fragment>
+    ))}
+    <span class="sep"> · </span>
+    <time datetime={contributors[0].data.date}>
+      {formatDate(parseFlexibleDate(contributors[0].data.date))}
+    </time>
+  </aside>
+)}
+
+<style>
+  .attribution {
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+    margin-top: var(--space-lg);
+    padding: var(--space-sm) var(--space-md);
+    border-left: 3px solid var(--accent);
+    background: var(--surface);
+  }
+
+  .attribution .label {
+    font-weight: 600;
+  }
+
+  .attribution a {
+    color: var(--text);
+    text-decoration: underline;
+  }
+
+  .attribution a:hover {
+    color: var(--accent);
+  }
+
+  .attribution time {
+    font-family: var(--font-mono);
+  }
+</style>

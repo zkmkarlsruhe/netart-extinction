@@ -1,5 +1,28 @@
 ---
 import BaseLayout from '@layouts/BaseLayout.astro';
+import { getCollection, getEntry } from 'astro:content';
+import { parseFlexibleDate, formatDate } from '@lib/dates';
+
+const rawContribs = (await getCollection('contributions')).sort(
+  (a, b) => b.data.date.localeCompare(a.data.date)
+);
+
+const contributions = await Promise.all(
+  rawContribs.map(async (c) => {
+    const events = c.data.events
+      ? (await Promise.all(c.data.events.map((ref) => getEntry(ref)))).filter(Boolean)
+      : [];
+    const artworks = c.data.artworks
+      ? (await Promise.all(c.data.artworks.map((ref) => getEntry(ref)))).filter(Boolean)
+      : [];
+    return {
+      ...c,
+      displayDate: formatDate(parseFlexibleDate(c.data.date)),
+      events,
+      artworks,
+    };
+  })
+);
 ---
 
 <BaseLayout title="About" description="About the Net Art Extinction Timeline project and how to contribute.">
@@ -18,6 +41,33 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     <p>
       This project is maintained by <a href="https://marc-schuetze.de" target="_blank" rel="noopener">Marc Schütze</a> at <a href="https://zkm.de" target="_blank" rel="noopener">ZKM | Center for Art and Media Karlsruhe</a>.
     </p>
+
+    <h2>Contributors</h2>
+    <p>
+      The archive grows through first-person contributions from artists, researchers, and witnesses to digital obsolescence.
+    </p>
+    <ul class="contributors">
+      {contributions.map((c) => (
+        <li id={`contributor-${c.id}`}>
+          <div class="contrib-head">
+            <strong>{c.data.name}</strong>
+            {c.data.affiliation && <span class="affiliation">— {c.data.affiliation}</span>}
+            <time datetime={c.data.date}> · {c.displayDate}</time>
+          </div>
+          <p class="contrib-summary">{c.data.summary}</p>
+          {(c.events.length + c.artworks.length) > 0 && (
+            <ul class="contrib-items">
+              {c.events.map((e: any) => (
+                <li>Event: <a href={`/events/${e.id}`}>{e.data.title}</a></li>
+              ))}
+              {c.artworks.map((a: any) => (
+                <li>Artwork: <a href={`/artworks/${a.id}`}>{a.data.title}</a></li>
+              ))}
+            </ul>
+          )}
+        </li>
+      ))}
+    </ul>
 
     <h2>Submit an event or artwork</h2>
     <p>
@@ -48,3 +98,58 @@ import BaseLayout from '@layouts/BaseLayout.astro';
     </p>
   </div>
 </BaseLayout>
+
+<style>
+  .contributors {
+    list-style: none;
+    padding: 0;
+    display: grid;
+    gap: var(--space-md);
+  }
+
+  .contributors > li {
+    padding: var(--space-md);
+    border: 1px solid var(--border);
+    border-radius: 6px;
+    background: var(--surface);
+  }
+
+  .contrib-head {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: var(--space-xs);
+  }
+
+  .contrib-head .affiliation {
+    color: var(--text-muted);
+    font-size: 0.9375rem;
+  }
+
+  .contrib-head time {
+    font-family: var(--font-mono);
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+    margin-left: auto;
+  }
+
+  .contrib-summary {
+    margin: var(--space-sm) 0 0;
+  }
+
+  .contrib-items {
+    margin: var(--space-sm) 0 0;
+    padding-left: var(--space-lg);
+    font-size: 0.9375rem;
+  }
+
+  .contrib-links {
+    margin: var(--space-sm) 0 0;
+    font-size: 0.8125rem;
+    color: var(--text-muted);
+  }
+
+  .contrib-links a {
+    color: var(--text-muted);
+  }
+</style>
