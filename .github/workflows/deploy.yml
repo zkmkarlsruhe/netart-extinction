@@ -11,6 +11,10 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Compute CalVer tag
+        id: calver
+        run: echo "tag=$(date -u +%Y.%m.%d).${{ github.run_number }}" >> "$GITHUB_OUTPUT"
+
       - name: Set up Docker Buildx
         uses: docker/setup-buildx-action@v3
 
@@ -27,7 +31,16 @@ jobs:
           context: .
           push: true
           tags: |
-            ${{ vars.HARBOR_REGISTRY }}/${{ vars.HARBOR_IMAGE }}:latest
+            ${{ vars.HARBOR_REGISTRY }}/${{ vars.HARBOR_IMAGE }}:${{ steps.calver.outputs.tag }}
             ${{ vars.HARBOR_REGISTRY }}/${{ vars.HARBOR_IMAGE }}:${{ github.sha }}
+            ${{ vars.HARBOR_REGISTRY }}/${{ vars.HARBOR_IMAGE }}:latest
           cache-from: type=gha
           cache-to: type=gha,mode=max
+
+      - name: Trigger Renovate
+        run: |
+          curl -sk -X POST "https://git.zkm.de/api/v4/projects/885/trigger/pipeline" \
+            -F "token=${{ secrets.RENOVATE_TRIGGER_TOKEN }}" \
+            -F "ref=main" \
+            -F "variables[RENOVATE_REPOSITORIES]=MuTech/gitops/service.docker/extinction.zkm.de" \
+            -F "variables[RENOVATE_AUTODISCOVER]=false"
