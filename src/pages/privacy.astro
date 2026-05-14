@@ -1,0 +1,59 @@
+---
+import BaseLayout from '@layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Privacy" description="Privacy policy and analytics disclosure for the Net Art Extinction Timeline.">
+  <div class="container prose">
+    <h1>Privacy</h1>
+
+    <p>
+      This site uses <strong>Matomo</strong> (<a href="https://matomo.org">matomo.org</a>), a
+      free and open-source analytics platform, for aggregate visitor statistics. Matomo is
+      <strong>self-hosted on infrastructure in Germany</strong> (Karlsruhe). No data is shared
+      with third parties or transferred to third countries.
+    </p>
+
+    <h2>What is collected</h2>
+    <ul>
+      <li><strong>Truncated IP address</strong> — the final two octets are dropped before
+        storage, so the recorded address cannot be traced back to an individual visitor.</li>
+      <li>The page visited, time on page, and navigation path during the session.</li>
+      <li>Referring URL (the page you came from).</li>
+      <li>Browser type and version, operating system, screen resolution.</li>
+      <li>Date and time of access.</li>
+    </ul>
+
+    <h2>No cookies, no cross-session tracking</h2>
+    <p>
+      The tracker runs in <strong>cookieless mode</strong>. Returning visits are not linked across
+      sessions; only a short-lived, non-persistent hash is used within a single visit.
+    </p>
+
+    <h2>Do Not Track</h2>
+    <p>
+      The Matomo instance honours the <strong>Do Not Track</strong> browser signal. If your
+      browser sends DNT, no data about your visit is recorded at all.
+    </p>
+
+    <h2>Legal basis and retention</h2>
+    <p>
+      Processing is based on legitimate interest in low-impact, anonymised reach measurement to
+      improve the site (Art. 6 (1) (f) GDPR). Raw visitor logs are automatically deleted after
+      <strong>180 days</strong>.
+    </p>
+
+    <h2>Opt out</h2>
+    <p>
+      You can opt out at any time. Use the
+      <a href="https://matomo.schuetze.io/index.php?module=CoreAdminHome&action=optOut&language=en">opt-out
+      page</a> on the Matomo server, or enable Do Not Track in your browser.
+    </p>
+
+    <h2>Controller</h2>
+    <p>
+      The site is operated by Marc Schütze (ZKM | Center for Art and Media Karlsruhe,
+      Museums- und Ausstellungstechnik). Repository:
+      <a href="https://github.com/zkmkarlsruhe/netart-extinction">github.com/zkmkarlsruhe/netart-extinction</a>.
+    </p>
+  </div>
+</BaseLayout>
