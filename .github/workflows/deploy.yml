@@ -43,10 +43,22 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
-      - name: Trigger downstream gitops update
+      - name: Bump image tag in gitops repo
+        env:
+          GITOPS_TOKEN: ${{ secrets.GITOPS_DEPLOY_TOKEN }}
+          GITOPS_REPO: ${{ vars.RENOVATE_GITOPS_REPO }}
+          NEW_TAG: ${{ steps.calver.outputs.tag }}
+          IMAGE: ${{ vars.HARBOR_REGISTRY }}/${{ vars.HARBOR_IMAGE }}
         run: |
-          curl -sk -X POST "${{ vars.RENOVATE_TRIGGER_URL }}" \
-            -F "token=${{ secrets.RENOVATE_TRIGGER_TOKEN }}" \
-            -F "ref=main" \
-            -F "variables[RENOVATE_REPOSITORIES]=${{ vars.RENOVATE_GITOPS_REPO }}" \
-            -F "variables[RENOVATE_AUTODISCOVER]=false"
+          set -euo pipefail
+          git clone --depth 1 "https://oauth2:${GITOPS_TOKEN}@git.zkm.de/${GITOPS_REPO}.git" gitops
+          cd gitops
+          sed -i -E "s|(${IMAGE}):[^\"' ]+|\1:${NEW_TAG}|" docker-compose.yml
+          if git diff --quiet; then
+            echo "image tag already at ${NEW_TAG}; nothing to commit"
+            exit 0
+          fi
+          git config user.email "deploy-bot@extinction.zkm.de"
+          git config user.name "extinction-timeline deploy-bot"
+          git commit -am "Pin image to CalVer ${NEW_TAG}"
+          git push
