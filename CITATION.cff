@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "Net Art Extinction"
+version: 2.0.0
+date-released: "2026-03-28"
+doi: "10.5281/zenodo.19254682"
+license: MIT
+repository-code: "https://github.com/zkmkarlsruhe/netart-extinction"
+url: "https://github.com/zkmkarlsruhe/netart-extinction"
+abstract: >-
+  Documenting how dependency changes — API shutdowns, plugin end-of-lifes,
+  browser removals — break digital artworks, and what it takes to keep them
+  exhibitable.
+authors:
+  - family-names: "Schütze"
+    given-names: "Marc"
+    affiliation: "ZKM | Center for Art and Media Karlsruhe"
+    orcid: "https://orcid.org/0009-0007-0718-4251"
+keywords:
+  - net-art
+  - digital-preservation
+  - digital-art
+  - conservation
+  - web-archive
