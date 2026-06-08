@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://extinction.zkm.de/sitemap-index.xml
