@@ -2,6 +2,16 @@ name: Report an affected artwork
 description: Document a digital artwork affected by a dependency change
 labels: ["artwork-submission"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Before you submit
+
+        This timeline documents digital artworks affected by dependency changes, for preservation
+        and research. Entries are curatorial and **neutral, third-person**. This is not a
+        promotional venue — please don't use a submission to advertise your own work or link to
+        your shop, mint/listing page, or socials. Primarily-promotional submissions are closed.
+
   - type: input
     id: title
     attributes:
@@ -31,7 +41,7 @@ body:
     id: url
     attributes:
       label: URL
-      description: Original or current URL of the artwork
+      description: "Original, canonical, or archived URL of the artwork. Not a shop, mint, or social link."
       placeholder: "http://twistori.com"
 
   - type: input
@@ -45,7 +55,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: Describe the artwork and what technologies it depends on
+      description: "Describe the artwork and the technologies it depends on. Neutral and factual, third person."
       placeholder: A brief description of what this artwork is and how it works.
     validations:
       required: true

@@ -1,6 +1,21 @@
 # Contributing
 
-We welcome contributions documenting extinction events and affected artworks. There are two ways to contribute.
+We welcome contributions documenting extinction events and affected artworks. This project lives
+from contributions — please share it with fellow artists and anyone who has watched a digital work
+break. There are two ways to contribute.
+
+## Scope and voice
+
+This project is a curated preservation **timeline** — not a linkfarm, a portfolio, or an essay platform.
+
+- Entries are **neutral, third-person, and factual.** Not first-person artist statements.
+- Document the **event and its impact on artworks** — what broke, when, and why it matters for preservation.
+- **No self-promotion.** Don't submit primarily to feature your own work, or to link to your own
+  website, shop, mint/listing page, or social accounts. An affected artwork's own canonical or
+  archived URL is welcome as documentation; a portfolio or shop link is not.
+- **No product or technology advocacy.** Preservation notes should describe options neutrally
+  (re-pinning, emulation, archiving) — not promote a particular paid service, platform, or token.
+- Submissions that are primarily self-promotion, link-building, or personal essays will be closed.
 
 ## 1. GitHub Issue Form (easiest)
 
@@ -75,6 +90,10 @@ Additional context.
 **`status`** (per artwork): `dead`, `degraded`, `restored`, `unknown`.
 
 **`fix type`**: `migration`, `emulation`, `archive`, `workaround`, `rebuild`, `none`.
+
+**`links`**: URLs to announcements, coverage, or documentation *of the event* — not links to your own site, shop, or socials.
+
+**`fixes`**: Preservation efforts and archival status (re-pinning, emulation, Wayback). Describe options neutrally; don't promote a specific paid product, service, or token.
 
 ### File naming
 

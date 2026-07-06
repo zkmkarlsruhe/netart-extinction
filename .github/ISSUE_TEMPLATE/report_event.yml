@@ -2,6 +2,20 @@ name: Report an extinction event
 description: Document a dependency change that broke digital artworks
 labels: ["event-submission"]
 body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Before you submit
+
+        This timeline documents **extinction events** — dependency changes that broke digital
+        artworks — for preservation and research. Entries are curatorial and written in a
+        **neutral, third-person** voice.
+
+        This is **not** a promotional venue. Please don't use a submission to feature your own
+        work, or to link to your website, shop, mint/listing page, or social accounts.
+        Submissions that are primarily self-promotion, link-building, or personal essays will be
+        closed. Describe the **event and its impact on artworks**, not yourself.
+
   - type: input
     id: title
     attributes:
@@ -56,7 +70,7 @@ body:
     id: description
     attributes:
       label: Description
-      description: What changed and why does it matter?
+      description: "What changed and why does it matter? Neutral and factual, third person — describe the event and its impact on digital artworks, not a personal or artist statement."
       placeholder: Describe what happened, what broke, and the impact on digital artworks.
     validations:
       required: true
@@ -65,7 +79,7 @@ body:
     id: artworks
     attributes:
       label: Affected artworks
-      description: "List artworks affected by this event (title, artist, URL if known)"
+      description: "Works impacted by this event (title, artist, year, and a canonical or archived URL if known). This is documentation — not a place to promote your own catalogue."
       placeholder: |
         - Twistori by Amy Hoy & Thomas Fuchs (http://twistori.com)
         - ...
@@ -74,7 +88,7 @@ body:
     id: links
     attributes:
       label: Links
-      description: URLs to announcements, articles, or documentation
+      description: "URLs to announcements, news coverage, or documentation of the event. Not links to your own portfolio, shop, or social profiles."
       placeholder: |
         - https://example.com/announcement
 
@@ -82,5 +96,5 @@ body:
     id: fixes
     attributes:
       label: Fixes
-      description: Known workarounds, migrations, or preservation efforts
+      description: "Known preservation efforts, migrations, or archival status (e.g. re-pinning, emulation, Wayback captures). Describe options neutrally — please don't promote a specific paid product, service, or token."
       placeholder: Describe any known fixes or mitigations.
