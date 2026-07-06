@@ -31,22 +31,81 @@ jobs:
 
             const collection = isEvent ? 'events' : 'artworks';
 
-            // Parse issue form fields (## header followed by content)
+            // --- Schema-aligned enums (keep in sync with src/content.config.ts) ---
+            const FIX_TYPES = ['migration', 'emulation', 'archive', 'workaround', 'rebuild', 'none'];
+            const URL_RE = /(https?:\/\/[^\s<>()\[\]]+)/;
+
+            // Parse issue form fields (### header followed by content)
             function parseField(name) {
               const re = new RegExp(`### ${name}\\s*\\n+([\\s\\S]*?)(?=\\n### |$)`, 'i');
               const match = body.match(re);
               return match ? match[1].trim() : '';
             }
 
-            // Generate slug from title
-            const title = parseField('Title') || issue.title;
-            const slug = title
-              .toLowerCase()
-              .replace(/[^a-z0-9]+/g, '-')
-              .replace(/^-|-$/g, '')
-              .slice(0, 60);
+            // Double-quoted YAML scalar: escaped, collapsed to a single line.
+            function yamlStr(s) {
+              return '"' + String(s)
+                .replace(/\\/g, '\\\\')
+                .replace(/"/g, '\\"')
+                .replace(/\s*\n\s*/g, ' ')
+                .trim() + '"';
+            }
 
-            let frontmatter, content;
+            // Split a markdown-ish field into clean items (strips -, *, • bullets).
+            function listLines(field) {
+              return field.split('\n')
+                .map(l => l.replace(/^\s*[-*•]\s*/, '').trim())
+                .filter(Boolean);
+            }
+
+            // Links field -> [{url, label}]
+            function parseLinks(field) {
+              const out = [];
+              for (const line of listLines(field)) {
+                const m = line.match(URL_RE);
+                if (!m) continue;
+                const url = m[1].replace(/[.,;]+$/, '');
+                let lbl = line.replace(m[1], ' ').replace(/[()\[\]:–—]/g, ' ')
+                  .replace(/\s+/g, ' ').replace(/^[-\s]+|[-\s]+$/g, '').trim();
+                if (!lbl) { try { lbl = new URL(url).hostname.replace(/^www\./, ''); } catch (e) { lbl = url; } }
+                out.push({ url, label: lbl });
+              }
+              return out;
+            }
+
+            // Fixes field -> [{type, description, url?}]. Detects "(type: X)" markers
+            // and a short leading "Label: " prefix; defaults to type:none.
+            function parseFixes(field) {
+              const out = [];
+              for (let line of listLines(field)) {
+                let type = 'none';
+                const tm = line.match(/\(?\s*type\s*[:=]\s*([a-z-]+)\s*\)?/i);
+                if (tm) {
+                  if (FIX_TYPES.includes(tm[1].toLowerCase())) type = tm[1].toLowerCase();
+                  line = line.replace(tm[0], ' ');
+                }
+                line = line.replace(/^\s*[A-Za-z][\w ]{0,40}?:\s+/, '').replace(/\s{2,}/g, ' ').trim();
+                let url;
+                const um = line.match(URL_RE);
+                if (um) { url = um[1].replace(/[.,;]+$/, ''); line = line.replace(um[1], ' ').replace(/\s{2,}/g, ' ').trim(); }
+                if (line) out.push(url ? { type, description: line, url } : { type, description: line });
+              }
+              if (!out.length && field.trim()) out.push({ type: 'none', description: field.split('\n')[0].trim() });
+              return out;
+            }
+
+            // Overall event severity if stated anywhere (usually in the artworks blob).
+            function detectSeverity(text) {
+              const m = text.match(/\bseverity\s*[:=]\s*(total|major|minor)\b/i);
+              return m ? m[1].toLowerCase() : '';
+            }
+
+            // Slug: kebab-case, trimmed on a word boundary (no mid-word cut).
+            const title = parseField('Title') || issue.title;
+            let slug = title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
+            if (slug.length > 50) slug = slug.slice(0, 50).replace(/-[^-]*$/, '');
+
+            let content, prNotes = '';
 
             if (isEvent) {
               const date = parseField('Date');
@@ -54,21 +113,49 @@ jobs:
               const eventType = parseField('Event type');
               const description = parseField('Description');
               const artworks = parseField('Affected artworks');
-              const links = parseField('Links');
-              const fixes = parseField('Fixes');
+              const links = parseLinks(parseField('Links'));
+              const fixes = parseFixes(parseField('Fixes'));
+              const severity = detectSeverity(artworks) || detectSeverity(body);
+              const summary = (description.split('\n').map(s => s.trim()).filter(Boolean)[0]) || '';
 
-              frontmatter = `---
-            title: "${title.replace(/"/g, '\\"')}"
-            date: "${date}"
-            dependency: "${dependency.replace(/"/g, '\\"')}"
-            event_type: "${eventType}"
-            summary: "${description.split('\n')[0].replace(/"/g, '\\"')}"
-            ---`;
+              // Build frontmatter line-by-line (no template-literal indent traps).
+              const fm = ['---'];
+              fm.push(`title: ${yamlStr(title)}`);
+              fm.push(`date: ${yamlStr(date)}`);
+              fm.push(`dependency: ${yamlStr(dependency)}`);
+              fm.push(`event_type: "${eventType}"`);
+              if (severity) fm.push(`severity: "${severity}"`);
+              fm.push(`summary: ${yamlStr(summary)}`);
+              if (links.length) {
+                fm.push('links:');
+                for (const l of links) { fm.push(`  - url: ${yamlStr(l.url)}`); fm.push(`    label: ${yamlStr(l.label)}`); }
+              }
+              if (fixes.length) {
+                fm.push('fixes:');
+                for (const f of fixes) {
+                  fm.push(`  - type: ${f.type}`);
+                  fm.push(`    description: ${yamlStr(f.description)}`);
+                  if (f.url) fm.push(`    url: ${yamlStr(f.url)}`);
+                }
+              }
+              fm.push('---');
 
-              content = description;
-              if (artworks) content += `\n\n## Affected artworks\n\n${artworks}`;
-              if (links) content += `\n\n## Links\n\n${links}`;
-              if (fixes) content += `\n\n## Fixes\n\n${fixes}`;
+              // Body: narrative + affected-artworks prose (references are a human step).
+              const parts = [fm.join('\n'), '', description.trim()];
+              if (artworks) parts.push('', '## Affected artworks', '', artworks.trim());
+              content = parts.join('\n');
+
+              prNotes = [
+                'Auto-generated from #' + issue.number + '. Frontmatter is now schema-shaped',
+                '(structured `links` / `fixes`' + (severity ? ', detected `severity`' : '') + '). Before merging, please:',
+                '',
+                '- [ ] Review voice against [CONTRIBUTING scope-and-voice](../blob/main/CONTRIBUTING.md#scope-and-voice).',
+                '- [ ] Wire `affected_artworks:` — create canonical `src/content/artworks/*.md` entries for the works named above and reference them by slug (with per-work `severity` + `status`).',
+                '- [ ] Sanity-check the auto-extracted link labels and fix types/descriptions.',
+                '- [ ] Confirm the slug `' + slug + '` reads well.',
+                '',
+                'File: `src/content/' + collection + '/' + slug + '.md`. `npm run build` validates the frontmatter.',
+              ].join('\n');
             } else {
               const artist = parseField('Artist');
               const year = parseField('Year');
@@ -76,16 +163,20 @@ jobs:
               const medium = parseField('Medium');
               const description = parseField('Description');
 
-              frontmatter = `---
-            title: "${title.replace(/"/g, '\\"')}"
-            artist: "${artist.replace(/"/g, '\\"')}"${year ? `\nyear: ${year}` : ''}${url ? `\nurl: "${url}"` : ''}${medium ? `\nmedium: "${medium.replace(/"/g, '\\"')}"` : ''}${description ? `\ndescription: "${description.split('\n')[0].replace(/"/g, '\\"')}"` : ''}
-            ---`;
+              const fm = ['---'];
+              fm.push(`title: ${yamlStr(title)}`);
+              fm.push(`artist: ${yamlStr(artist)}`);
+              if (year && /^\d{3,4}$/.test(year.trim())) fm.push(`year: ${year.trim()}`);
+              if (url) { const um = url.match(URL_RE); if (um) fm.push(`url: ${yamlStr(um[1].replace(/[.,;]+$/, ''))}`); }
+              if (medium) fm.push(`medium: ${yamlStr(medium)}`);
+              if (description) fm.push(`description: ${yamlStr(description.split('\n')[0])}`);
+              fm.push('---');
 
-              content = description || '';
+              content = [fm.join('\n'), '', (description || '').trim()].join('\n');
+              prNotes = 'Auto-generated from #' + issue.number + '.\n\nPlease review `src/content/' + collection + '/' + slug + '.md`. `npm run build` validates the frontmatter.';
             }
 
-            // Clean up frontmatter indentation
-            const fileContent = frontmatter.replace(/^            /gm, '') + '\n\n' + content.trim() + '\n';
+            const fileContent = content.trim() + '\n';
             const filePath = `src/content/${collection}/${slug}.md`;
             const branchName = `submission/${collection}/${slug}`;
 
@@ -113,7 +204,7 @@ jobs:
             const pr = await github.rest.pulls.create({
               ...context.repo,
               title: `Add ${collection.slice(0, -1)}: ${title}`,
-              body: `Auto-generated from #${issue.number}.\n\nPlease review the generated file at \`${filePath}\` and adjust frontmatter as needed.`,
+              body: prNotes,
               head: branchName,
               base: 'main',
             });
