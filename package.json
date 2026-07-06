@@ -31,5 +31,8 @@
     "@fontsource/inter": "^5.2.8",
     "@fontsource/jetbrains-mono": "^5.2.8",
     "@fontsource/source-serif-4": "^5.2.9"
+  },
+  "overrides": {
+    "esbuild": "^0.28.1"
   }
 }
