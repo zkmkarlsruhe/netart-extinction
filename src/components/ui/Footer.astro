@@ -3,21 +3,37 @@
 
 <footer>
   <div class="container">
-    <div class="footer-top">
+    <!-- tier 1: legal links (left) + project/social links (right) — zkm.de legal row -->
+    <div class="footer-legal">
       <nav class="footer-links">
         <a href="/impressum">Impressum</a>
         <a href="/privacy">Datenschutz</a>
-        <a href="https://github.com/zkmkarlsruhe/netart-extinction" target="_blank" rel="noopener">GitHub</a>
       </nav>
-      <a class="zkm-pill" href="https://github.com/zkmkarlsruhe/netart-extinction/issues/new/choose">Submit an event</a>
+      <nav class="footer-links">
+        <a href="https://github.com/zkmkarlsruhe/netart-extinction" target="_blank" rel="noopener">GitHub</a>
+        <a href="https://github.com/zkmkarlsruhe/netart-extinction/issues/new/choose">Beitrag einreichen</a>
+      </nav>
     </div>
 
-    <div class="footer-bottom">
-      <a class="zkm-cobrand" href="https://zkm.de" target="_blank" rel="noopener" title="An official project of ZKM | Zentrum für Kunst und Medien Karlsruhe">
-        <img src="/zkm-logo.svg" alt="ZKM | Zentrum für Kunst und Medien Karlsruhe" width="49" height="41" />
+    <!-- tier 2: ZKM logo + 3-column contact block — zkm.de contact row -->
+    <div class="footer-contact">
+      <a class="footer-zkm" href="https://zkm.de" target="_blank" rel="noopener" title="ZKM | Zentrum für Kunst und Medien Karlsruhe">
+        <img src="/zkm-logo.svg" alt="ZKM | Zentrum für Kunst und Medien Karlsruhe" width="98" height="82" />
       </a>
-      <p>&copy; 2026 <a href="https://zkm.de" target="_blank" rel="noopener">ZKM&nbsp;|&nbsp;Zentrum für Kunst und Medien Karlsruhe</a>. An official ZKM open-source project, developed by Marc Schütze. Content <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC&nbsp;BY&nbsp;4.0</a>, code <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT</a>.</p>
+      <address class="footer-addr">
+        <span>ZKM&nbsp;|&nbsp;Zentrum für<br />Kunst und Medien Karlsruhe</span>
+        <span>Lorenzstraße 19<br />76135 Karlsruhe</span>
+        <span>+49&nbsp;(0)&nbsp;721&nbsp;&ndash;&nbsp;8100&nbsp;&ndash;&nbsp;1200<br /><a href="mailto:info@zkm.de">info@zkm.de</a></span>
+      </address>
     </div>
+
+    <!-- tier 3: project attribution -->
+    <p class="footer-copy">
+      &copy; 2026 <a href="https://zkm.de" target="_blank" rel="noopener">ZKM&nbsp;|&nbsp;Zentrum für Kunst und Medien Karlsruhe</a>.
+      An official ZKM open-source project, developed by Marc Schütze.
+      Content <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC&nbsp;BY&nbsp;4.0</a>,
+      code <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT</a>.
+    </p>
   </div>
 </footer>
 
@@ -29,13 +45,12 @@
     color: var(--text-muted);
   }
 
-  .footer-top {
+  .footer-legal {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
-    align-items: center;
     gap: var(--space-md);
-    padding: var(--space-lg) 0;
+    padding: var(--space-md) 0;
     border-top: 1px solid var(--border);
     border-bottom: 1px solid var(--border);
   }
@@ -56,30 +71,60 @@
     text-underline-offset: 0.25em;
   }
 
-  .footer-bottom {
+  .footer-contact {
     display: flex;
-    align-items: center;
-    gap: var(--space-lg);
-    padding-top: var(--space-lg);
+    align-items: flex-start;
+    gap: var(--space-xl);
+    padding: var(--space-lg) 0;
+    border-bottom: 1px solid var(--border);
   }
 
-  .footer-bottom .zkm-cobrand {
+  .footer-zkm {
     flex-shrink: 0;
+    display: block;
   }
 
-  .footer-bottom p {
-    margin: 0;
-    max-width: 56rem;
+  .footer-zkm img {
+    height: 4.5rem;
+    width: auto;
   }
 
-  .footer-bottom a {
+  [data-theme="dark"] .footer-zkm img {
+    filter: invert(1);
+  }
+
+  .footer-addr {
+    font-style: normal;
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: var(--space-lg);
+    color: var(--text);
+    line-height: 1.5;
+    flex: 1;
+  }
+
+  .footer-addr a {
+    color: var(--heading);
+  }
+
+  .footer-copy {
+    margin: var(--space-lg) 0 0;
+    max-width: 60rem;
+  }
+
+  .footer-copy a {
     color: var(--heading);
   }
 
   @media (max-width: 640px) {
-    .footer-bottom {
+    .footer-contact {
       flex-direction: column;
-      align-items: flex-start;
+      gap: var(--space-lg);
+    }
+
+    .footer-addr {
+      grid-template-columns: 1fr;
+      gap: var(--space-md);
     }
   }
 </style>
