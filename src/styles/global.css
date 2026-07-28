@@ -26,13 +26,27 @@ svg {
 
 a {
   color: var(--accent);
-  text-decoration-thickness: 1px;
+  text-decoration-color: var(--hl);
+  text-decoration-thickness: 2px;
   text-underline-offset: 0.15em;
 }
 
 a:hover {
   color: var(--accent2);
+  text-decoration-thickness: 3px;
 }
+
+mark {
+  background: var(--mark);
+  color: #14140f;
+  padding: 0 0.15em;
+}
+
+/* ZKM co-brand (official-project endorsement) */
+.zkm-cobrand { display: inline-flex; align-items: center; }
+.zkm-cobrand img { height: 22px; width: auto; display: block; }
+.zkm-cobrand:hover { text-decoration: none; }
+[data-theme="dark"] .zkm-cobrand img { filter: invert(1); }
 
 /* ===== Typography ===== */
 :root {
@@ -130,12 +144,14 @@ pre {
   --text: #1C1917;
   --heading: #0C0A09;
   --text-muted: #57534E;
-  --accent: #B45309;
-  --accent2: #1E40AF;
+  --accent: #131313;      /* ZKM ink — links + UI accent (was amber) */
+  --accent2: #000000;     /* link hover */
+  --hl: #ffff22;          /* signature ZKM neon yellow — underlines, markers */
+  --mark: #ffe94d;        /* text-highlight yellow (readable behind ink text) */
   --border: #D6D3D1;
   --timeline-track: #A8A29E;
 
-  /* Severity */
+  /* Severity — data-encoding colours, kept independent of the ZKM UI accent */
   --severity-total: #C4301C;
   --severity-major: #B45309;
   --severity-minor: #0072B2;
@@ -154,8 +170,10 @@ pre {
   --text: #E7E5E4;
   --heading: #FAFAF9;
   --text-muted: #A8A29E;
-  --accent: #F59E0B;
-  --accent2: #60A5FA;
+  --accent: #ededea;      /* ZKM ink inverted for dark */
+  --accent2: #ffffff;
+  --hl: #ffee4d;          /* neon yellow — underlines, markers */
+  --mark: #e6d24a;        /* highlight yellow (readable behind ink text) */
   --border: #44403C;
   --timeline-track: #57534E;
 

@@ -55,4 +55,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for how to add events and artworks.
 
 Content: [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Code: [MIT](https://opensource.org/licenses/MIT).
 
-Maintained by Marc Schütze at [ZKM | Center for Art and Media Karlsruhe](https://zkm.de).
+An official open-source project of [ZKM | Zentrum für Kunst und Medien Karlsruhe](https://zkm.de),
+developed and maintained by Marc Schütze. Companion project: [vmctl](https://vmctl.org) — reviving
+born-digital art on faithful period virtual machines.
