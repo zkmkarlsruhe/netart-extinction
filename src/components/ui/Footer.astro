@@ -2,47 +2,84 @@
 ---
 
 <footer>
-  <div class="container footer-inner">
-    <a class="zkm-cobrand" href="https://zkm.de" target="_blank" rel="noopener" title="An official project of ZKM | Zentrum für Kunst und Medien Karlsruhe">
-      <img src="/zkm-logo.svg" alt="ZKM | Zentrum für Kunst und Medien Karlsruhe" width="41" height="34" />
-    </a>
-    <p>&copy; 2026 <a href="https://zkm.de" target="_blank" rel="noopener">ZKM&nbsp;|&nbsp;Zentrum für Kunst und Medien Karlsruhe</a>. An official ZKM open-source project, developed by Marc Schütze. Content <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC&nbsp;BY&nbsp;4.0</a>, code <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT</a>.</p>
-    <div class="footer-links">
-      <a href="/impressum">Impressum</a>
-      <a href="/privacy">Datenschutz</a>
-      <a href="https://github.com/zkmkarlsruhe/netart-extinction" target="_blank" rel="noopener">GitHub</a>
-      <a href="https://github.com/zkmkarlsruhe/netart-extinction/issues/new/choose">Submit an event</a>
+  <div class="container">
+    <div class="footer-top">
+      <nav class="footer-links">
+        <a href="/impressum">Impressum</a>
+        <a href="/privacy">Datenschutz</a>
+        <a href="https://github.com/zkmkarlsruhe/netart-extinction" target="_blank" rel="noopener">GitHub</a>
+      </nav>
+      <a class="zkm-pill" href="https://github.com/zkmkarlsruhe/netart-extinction/issues/new/choose">Submit an event</a>
+    </div>
+
+    <div class="footer-bottom">
+      <a class="zkm-cobrand" href="https://zkm.de" target="_blank" rel="noopener" title="An official project of ZKM | Zentrum für Kunst und Medien Karlsruhe">
+        <img src="/zkm-logo.svg" alt="ZKM | Zentrum für Kunst und Medien Karlsruhe" width="49" height="41" />
+      </a>
+      <p>&copy; 2026 <a href="https://zkm.de" target="_blank" rel="noopener">ZKM&nbsp;|&nbsp;Zentrum für Kunst und Medien Karlsruhe</a>. An official ZKM open-source project, developed by Marc Schütze. Content <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noopener">CC&nbsp;BY&nbsp;4.0</a>, code <a href="https://opensource.org/licenses/MIT" target="_blank" rel="noopener">MIT</a>.</p>
     </div>
   </div>
 </footer>
 
 <style>
   footer {
-    border-top: 1px solid var(--border);
-    padding-top: var(--space-lg);
-    padding-bottom: var(--space-lg);
-    font-size: 0.8125rem;
+    margin-top: var(--space-xl);
+    padding-bottom: var(--space-xl);
+    font-size: 0.9375rem;
     color: var(--text-muted);
   }
 
-  .footer-inner {
+  .footer-top {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
     gap: var(--space-md);
+    padding: var(--space-lg) 0;
+    border-top: 1px solid var(--border);
+    border-bottom: 1px solid var(--border);
   }
 
   .footer-links {
     display: flex;
-    gap: var(--space-md);
+    flex-wrap: wrap;
+    gap: var(--space-lg);
   }
 
   .footer-links a {
-    color: var(--text-muted);
+    color: var(--heading);
+    text-decoration: none;
   }
 
   .footer-links a:hover {
-    color: var(--accent);
+    text-decoration: underline;
+    text-underline-offset: 0.25em;
+  }
+
+  .footer-bottom {
+    display: flex;
+    align-items: center;
+    gap: var(--space-lg);
+    padding-top: var(--space-lg);
+  }
+
+  .footer-bottom .zkm-cobrand {
+    flex-shrink: 0;
+  }
+
+  .footer-bottom p {
+    margin: 0;
+    max-width: 56rem;
+  }
+
+  .footer-bottom a {
+    color: var(--heading);
+  }
+
+  @media (max-width: 640px) {
+    .footer-bottom {
+      flex-direction: column;
+      align-items: flex-start;
+    }
   }
 </style>

@@ -1,3 +1,25 @@
+/* ===== ZKM house font (ZKMSerendipity), referenced from the ZKM theme ===== */
+@font-face {
+  font-family: 'ZKMSerendipity';
+  src: url('https://zkm.de/themes/custom/zkm/typeface/WiP_ZKMSerendipity/ZKMSerendipity-Regular.woff') format('woff');
+  font-weight: 400; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'ZKMSerendipity';
+  src: url('https://zkm.de/themes/custom/zkm/typeface/WiP_ZKMSerendipity/ZKMSerendipity-RegularItalic.woff') format('woff');
+  font-weight: 400; font-style: italic; font-display: swap;
+}
+@font-face {
+  font-family: 'ZKMSerendipity';
+  src: url('https://zkm.de/themes/custom/zkm/typeface/WiP_ZKMSerendipity/ZKMSerendipity-Medium.woff') format('woff');
+  font-weight: 500 700; font-style: normal; font-display: swap;
+}
+@font-face {
+  font-family: 'ZKMSerendipity';
+  src: url('https://zkm.de/themes/custom/zkm/typeface/WiP_ZKMSerendipity/ZKMSerendipity-MediumItalic.woff') format('woff');
+  font-weight: 500 700; font-style: italic; font-display: swap;
+}
+
 /* ===== Reset ===== */
 *,
 *::before,
@@ -25,22 +47,22 @@ svg {
 }
 
 a {
-  color: var(--accent);
-  text-decoration-color: var(--hl);
-  text-decoration-thickness: 2px;
+  color: var(--text);
+  text-decoration-color: currentColor;
+  text-decoration-thickness: 1px;
   text-underline-offset: 0.15em;
 }
 
 a:hover {
-  color: var(--accent2);
-  text-decoration-thickness: 3px;
+  text-decoration-thickness: 2px;
 }
 
 mark {
-  background: var(--mark);
-  color: #14140f;
+  background: rgba(0, 0, 0, 0.06);
+  color: inherit;
   padding: 0 0.15em;
 }
+[data-theme="dark"] mark { background: rgba(255, 255, 255, 0.12); }
 
 /* ZKM co-brand (official-project endorsement) */
 .zkm-cobrand { display: inline-flex; align-items: center; }
@@ -48,11 +70,43 @@ mark {
 .zkm-cobrand:hover { text-decoration: none; }
 [data-theme="dark"] .zkm-cobrand img { filter: invert(1); }
 
+/* ===== ZKM component kit — card, arrow-pill button, black-pill label ===== */
+.zkm-card {
+  background: var(--surface);
+  border-radius: 18px;
+  box-shadow: 0 4.6px 9.2px rgba(0, 0, 0, 0.14);
+  border: none;
+}
+/* arrow-pill CTA: white fully-rounded pill, soft shadow, → in a circle + label */
+.zkm-pill {
+  display: inline-flex; align-items: center; gap: 0.6em;
+  padding: 0.4em 1.1em 0.4em 0.5em;
+  background: var(--surface); color: var(--heading);
+  border-radius: 999px; border: none;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.14);
+  font-weight: 500; text-decoration: none; cursor: pointer;
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+.zkm-pill::before {
+  content: "\2192"; /* → */
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 1.9em; height: 1.9em; border-radius: 50%;
+  background: var(--heading); color: var(--surface); font-weight: 400;
+}
+.zkm-pill:hover { text-decoration: none; box-shadow: 0 5px 16px rgba(0, 0, 0, 0.2); transform: translateY(-1px); }
+/* black-pill label / tag: solid ink pill, light text (section headers) */
+.zkm-tag {
+  display: inline-flex; align-items: center;
+  padding: 0.25em 0.85em; border-radius: 999px;
+  background: var(--heading); color: var(--surface);
+  font-weight: 500; font-size: 0.9rem; text-decoration: none;
+}
+
 /* ===== Typography ===== */
 :root {
-  --font-display: 'Space Grotesk', system-ui, sans-serif;
-  --font-serif: 'Source Serif 4', Georgia, 'Times New Roman', serif;
-  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-display: 'ZKMSerendipity', 'Space Grotesk', system-ui, sans-serif;
+  --font-serif: 'ZKMSerendipity', Georgia, serif;
+  --font-sans: 'ZKMSerendipity', system-ui, -apple-system, sans-serif;
   --font-mono: 'JetBrains Mono', ui-monospace, 'Cascadia Code', monospace;
 }
 
@@ -68,9 +122,9 @@ body {
 
 h1, h2, h3, h4 {
   font-family: var(--font-display);
-  line-height: 1.25;
+  line-height: 1.08;
   font-weight: 600;
-  letter-spacing: -0.02em;
+  letter-spacing: 0;
   color: var(--heading);
   perspective: 200px;
 }
@@ -139,16 +193,14 @@ pre {
 /* ===== Light Mode (default) ===== */
 :root,
 [data-theme="light"] {
-  --bg: #FFFBF5;
-  --surface: #FFF8EE;
-  --text: #1C1917;
-  --heading: #0C0A09;
-  --text-muted: #57534E;
-  --accent: #131313;      /* ZKM ink — links + UI accent (was amber) */
+  --bg: #f6f6f6;          /* ZKM light-grey ground */
+  --surface: #ffffff;     /* white cards on the grey ground */
+  --text: #111111;        /* ZKM ink */
+  --heading: #111111;
+  --text-muted: #5b5b57;
+  --accent: #111111;      /* ZKM ink — links + UI accent (no colour) */
   --accent2: #000000;     /* link hover */
-  --hl: #ffff22;          /* signature ZKM neon yellow — underlines, markers */
-  --mark: #ffe94d;        /* text-highlight yellow (readable behind ink text) */
-  --border: #D6D3D1;
+  --border: #e2e2df;
   --timeline-track: #A8A29E;
 
   /* Severity — data-encoding colours, kept independent of the ZKM UI accent */
@@ -172,8 +224,6 @@ pre {
   --text-muted: #A8A29E;
   --accent: #ededea;      /* ZKM ink inverted for dark */
   --accent2: #ffffff;
-  --hl: #ffee4d;          /* neon yellow — underlines, markers */
-  --mark: #e6d24a;        /* highlight yellow (readable behind ink text) */
   --border: #44403C;
   --timeline-track: #57534E;
 
